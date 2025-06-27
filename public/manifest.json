@@ -1,0 +1,53 @@
+{
+  "short_name": "JuraFit",
+  "name": "JuraFit - Jura & Fitness Tracker",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "description": "Perfekte Kombination von Jura-Fernstudium, Vollzeitjob und Fitness-Training",
+  "categories": ["education", "health", "fitness", "productivity"],
+  "orientation": "portrait",
+  "shortcuts": [
+    {
+      "name": "Studium starten",
+      "short_name": "Studium",
+      "description": "Neue Lerneinheit beginnen",
+      "url": "/study?action=start",
+      "icons": [{ "src": "/logo192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Training starten",
+      "short_name": "Training", 
+      "description": "Workout-Session beginnen",
+      "url": "/training?action=start",
+      "icons": [{ "src": "/logo192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Pomodoro Timer",
+      "short_name": "Pomodoro",
+      "description": "Pomodoro-Timer öffnen",
+      "url": "/pomodoro",
+      "icons": [{ "src": "/logo192.png", "sizes": "192x192" }]
+    }
+  ]
+}
