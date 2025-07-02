@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clear JuraFit Storage</title>
+</head>
+<body>
+    <h1>JuraFit Storage Manager</h1>
+    <button onclick="clearActiveRecall()">Clear Active Recall Storage</button>
+    <button onclick="showStorage()">Show Current Storage</button>
+    <div id="output"></div>
+    
+    <script>
+        function clearActiveRecall() {
+            localStorage.removeItem('active-recall-storage');
+            alert('Active Recall Storage cleared! Please reload the JuraFit app.');
+        }
+        
+        function showStorage() {
+            const storage = localStorage.getItem('active-recall-storage');
+            if (storage) {
+                const data = JSON.parse(storage);
+                document.getElementById('output').innerHTML = '<pre>' + JSON.stringify(data, null, 2) + '</pre>';
+            } else {
+                document.getElementById('output').innerHTML = '<p>No Active Recall data found in storage.</p>';
+            }
+        }
+    </script>
+</body>
+</html>

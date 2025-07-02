@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clear Learning Stores</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        button {
+            background: #7c3aed;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover {
+            background: #6d28d9;
+        }
+        .success {
+            color: green;
+            margin-top: 10px;
+        }
+        .info {
+            background: #f0f0f0;
+            padding: 10px;
+            border-radius: 4px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Clear Learning Stores</h1>
+    
+    <p>Diese Seite löscht die gespeicherten Daten der Lernmethoden, damit die Inhalte aus dem Propädeutikum-Skript neu geladen werden können.</p>
+    
+    <button onclick="clearAllStores()">Alle Lernmethoden-Stores löschen</button>
+    <button onclick="clearSpecificStore('srs-store')">Nur Karteikarten löschen</button>
+    <button onclick="clearSpecificStore('active-recall-store')">Nur Active Recall löschen</button>
+    <button onclick="clearSpecificStore('feynman-store')">Nur Feynman löschen</button>
+    <button onclick="clearSpecificStore('cornell-store')">Nur Cornell Notes löschen</button>
+    <button onclick="clearSpecificStore('gutachten-store')">Nur Gutachten löschen</button>
+    
+    <div id="output"></div>
+    
+    <div class="info">
+        <h3>So funktioniert's:</h3>
+        <ol>
+            <li>Klicke auf "Alle Lernmethoden-Stores löschen"</li>
+            <li>Gehe zurück zur JuraFit App</li>
+            <li>Wähle ein Modul und dann ein Thema aus</li>
+            <li>Die Lernmethoden laden automatisch die Inhalte aus dem Skript</li>
+        </ol>
+    </div>
+
+    <script>
+        function clearSpecificStore(storeName) {
+            localStorage.removeItem(storeName);
+            document.getElementById('output').innerHTML = `<div class="success">✓ ${storeName} wurde gelöscht!</div>`;
+        }
+
+        function clearAllStores() {
+            const stores = [
+                'srs-store',
+                'active-recall-store', 
+                'feynman-store',
+                'cornell-store',
+                'gutachten-store'
+            ];
+
+            stores.forEach(store => {
+                localStorage.removeItem(store);
+            });
+
+            // Auch die Study Store Sessions löschen
+            const studyStore = localStorage.getItem('study-store');
+            if (studyStore) {
+                try {
+                    const parsed = JSON.parse(studyStore);
+                    if (parsed.state) {
+                        parsed.state.sessions = [];
+                        localStorage.setItem('study-store', JSON.stringify(parsed));
+                    }
+                } catch (e) {
+                    console.error('Error clearing sessions:', e);
+                }
+            }
+
+            document.getElementById('output').innerHTML = `
+                <div class="success">
+                    ✓ Alle Lernmethoden-Stores wurden gelöscht!<br>
+                    ✓ ${stores.length} Stores entfernt<br>
+                    <br>
+                    Jetzt kannst du zur App zurückkehren und die Inhalte werden neu geladen.
+                </div>
+            `;
+        }
+
+        // Zeige aktuelle Stores
+        window.onload = function() {
+            const stores = [
+                'srs-store',
+                'active-recall-store',
+                'feynman-store', 
+                'cornell-store',
+                'gutachten-store'
+            ];
+
+            let info = '<h3>Aktuelle Stores:</h3><ul>';
+            stores.forEach(store => {
+                const data = localStorage.getItem(store);
+                if (data) {
+                    try {
+                        const parsed = JSON.parse(data);
+                        const itemCount = parsed.state?.cards?.length || 
+                                        parsed.state?.questions?.length || 
+                                        parsed.state?.concepts?.length || 
+                                        parsed.state?.notes?.length || 
+                                        parsed.state?.cases?.length || 0;
+                        info += `<li>${store}: ${itemCount} Einträge</li>`;
+                    } catch (e) {
+                        info += `<li>${store}: vorhanden (ungültig)</li>`;
+                    }
+                } else {
+                    info += `<li>${store}: leer</li>`;
+                }
+            });
+            info += '</ul>';
+            
+            document.getElementById('output').innerHTML += info;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,2670 @@
+Studium Rechtswissenschaft
+Prof. Dr. Sebastian Kubis
+Prof. Dr. Ulrich Eisenhardt
+
+
+Unter Mitarbeit von Abdussamed Nazik
+und Pia Höhne
+
+
+
+Kurs 55101
+Allgemeiner Teil des BGB -
+Das Rechtsgeschäft und die Instrumente des Privatrechts
+
+
+Kurseinheit 6
+
+
+
+
+     Rechts­
+     wissenschaftliche
+     Fakultät
+Das Werk ist urheberrechtlich geschützt. Die dadurch begründeten Rechte, insbesondere das Recht der Vervielfältigung und Verbrei-
+tung sowie der Übersetzung und des Nachdrucks, bleiben, auch bei nur auszugsweiser Verwertung, vorbehalten. Kein Teil des Werkes
+darf in irgendeiner Form (Druck, Fotokopie, Mikrofilm oder ein anderes Verfahren) ohne schriftliche Genehmigung der FernUniversität
+reproduziert oder unter Verwendung elektronischer Systeme verarbeitet, vervielfältigt oder verbreitet werden. Wir weisen darauf hin,
+dass die vorgenannten Verwertungsalternativen je nach Ausgestaltung der Nutzungsbedingungen bereits durch Einstellen in Cloud-
+Systeme verwirklicht sein können. Die FernUniversität bedient sich im Falle der Kenntnis von Urheberrechtsverletzungen sowohl zivil-
+als auch strafrechtlicher Instrumente, um ihre Rechte geltend zu machen.
+
+
+
+Der Inhalt dieses Studienbriefs wird gedruckt auf Recyclingpapier (80 g/m2, weiß), hergestellt aus 100 % Altpapier.
+Inhaltsverzeichnis                                                                                                                3
+
+
+
+              Inhaltsverzeichnis
+  Inhaltsverzeichnis ............................................................................................... 3
+  § 14               Die Anfechtbarkeit von Willenserklärungen .......................................... 6
+         I.          Überblick ............................................................................................ 6
+         II.         Die Anfechtung wegen Irrtums: die unbewusste Nichtübereinstimmung
+                     von Wille und Erklärung ...................................................................... 7
+
+                1.        Einleitung ........................................................................................ 7
+                2.        Die Anfechtung wegen Inhalts-, Erklärungs- und Übermittlungsirrtums
+                          (§§ 119 Abs.1, 120) ......................................................................... 8
+                     a)      Überblick...................................................................................... 8
+                     b)      Der Erklärungsirrtum..................................................................... 9
+                     c)      Der Übermittlungsirrtum ............................................................. 10
+                     d)      Der Inhaltsirrtum ........................................................................ 10
+                                (a) Überblick ......................................................................... 10
+                                (b) Der Identitätsirrtum ......................................................... 10
+                                (c) Der Rechtsfolgenirrtum .................................................... 11
+                                (d) Der Kalkulationsirrtum ..................................................... 12
+
+                                (e) Weitere Voraussetzungen ................................................ 14
+                3.        Die Anfechtung wegen Irrtums über verkehrswesentliche
+                          Eigenschaften einer Person oder Sache ........................................... 14
+                     a)      Überblick.................................................................................... 14
+                     b)      Der Irrtum über verkehrswesentliche Eigenschaften einer Person .. 15
+                     c)      Der Irrtum über verkehrswesentliche Eigenschaften einer Sache ... 16
+         III.        Die Anfechtung wegen Willensbeeinflussung durch arglistige Täuschung
+                     und widerrechtliche Drohung ............................................................ 18
+                1.        Überblick ....................................................................................... 18
+                2.        Die Anfechtung wegen arglistiger Täuschung ................................. 19
+                     a)      Überblick.................................................................................... 19
+                     b)      Die Täuschung............................................................................ 19
+                     c)      Die Kausalität ............................................................................. 20
+
+                     d)      Widerrechtlichkeit ...................................................................... 20
+                     e)      Die Arglist .................................................................................. 21
+                     f)      Die Täuschung durch Dritte (§ 123 Abs. 2) .................................. 21
+4                                                                                                         Inhaltsverzeichnis
+
+
+
+                3.        Die Anfechtung wegen widerrechtlicher Drohung ........................... 23
+                     a)      Die Drohung .............................................................................. 23
+                     b)      Die Widerrechtlichkeit ................................................................ 23
+
+                     c)      Die subjektiven Voraussetzungen ................................................ 24
+           IV.       Die weiteren Voraussetzungen für den Eintritt der Anfechtungsfolgen 25
+           V.        Rechtsfolgen der Anfechtung ............................................................ 26
+
+                1.        Nichtigkeit des angefochtenen Rechtsgeschäfts .............................. 26
+                2.        Die Schadensersatzpflicht des Anfechtenden gemäß § 122 ............. 26
+                3.        Konkurrenzen ................................................................................ 27
+           VI.       Die Teilanfechtung ............................................................................ 28
+           VII. Der gemeinsame Motivirrtum – die Störung der Geschäftsgrundlage .. 28
+                1.        Überblick ....................................................................................... 28
+                2.        Die Geschäftsgrundlage ................................................................. 29
+                3.        Die Rechtsfolgen ............................................................................ 32
+                     a)      Die Anpassung des Vertrages...................................................... 32
+                     b)      Die Auflösung des Vertrages ....................................................... 33
+                     c)      Die Herbeiführung der Rechtsfolgen ........................................... 33
+                4.        Das Beispiel Äquivalenzstörungen................................................... 34
+                5.        Verhältnis zu §§ 119 ff. und §§ 434 ff............................................ 36
+                     a)      Anfechtung................................................................................ 36
+                     b)      Sachmängelgewährleistung ........................................................ 36
+    § 15             Teilnichtigkeit und Umdeutung von Rechtsgeschäften........................ 38
+           I.        Die Teilnichtigkeit ............................................................................. 38
+                1.        Überblick ....................................................................................... 38
+                2.        Die Teilbarkeit des Rechtsgeschäfts................................................. 39
+                3.        Parteiwille und Auslegung .............................................................. 39
+                4.        Die Möglichkeit, mehrere Rechtsgeschäfte aufgrund des Parteiwillens
+                          zu einer Einheit zusammenzufassen ................................................ 40
+                5.        Die Zusammenfassung von Verpflichtungs– und Verfügungsgeschäft
+                          zu einer Einheit kraft Parteiwillens .................................................. 41
+                6.        Das Problem der Fehleridentität ...................................................... 42
+
+                7.        Die Sonderregelung in § 306 für Allgemeine Geschäftsbedingungen46
+Inhaltsverzeichnis                                                                                                           5
+
+
+
+        II.         Die Umdeutung (§ 140)..................................................................... 48
+               1.     Überblick ....................................................................................... 48
+               2.     Die Nichtigkeit des Rechtsgeschäfts ................................................ 49
+
+               3.     Die weiteren Voraussetzungen ....................................................... 49
+        III.        Die Bestätigung (§ 141) ..................................................................... 50
+6                                                    Die Anfechtbarkeit von Willenserklärungen
+
+
+
+        § 14 Die Anfechtbarkeit von Willenserklärungen
+    Schrifttum: ARNOLD, Die arglistige Täuschung im BGB. JuS 2013, 865; HEINBUCH,
+    Kunsthandel und Kundenschutz, NJW 1984, 15 ff.; JOHN, Auslegung, Anfechtung,
+    Verschulden beim Vertragsschluss und Geschäftsgrundlage beim sog. Kalkulationsirr-
+    tum, JuS 1983, 176 ff.; KÖHLER, Grundprobleme der Lehre von der Geschäftsgrund-
+    lage, JA 1979, 498 ff.; LEßMANN, Irrtumsanfechtung nach § 119 BGB, JuS 1969,
+    478 ff.; LINDACHER, Rechte des vorleistungspflichtigen Verkäufers bei anfänglicher
+    Kreditunwürdigkeit des Käufers, MDR 1977, 797 ff.; J. PRÜTTING/FISCHER, Vertragsnahe
+    gesetzliche Schuldverhältnisse: § 122 BGB, JURA 2016, 511; RENNIG, Ausgewählte
+    Sonderprobleme der Anfechtung von Willenserklärungen" JURA 2021, 619 ff.; WAAS,
+    Der Kalkulationsirrtum zwischen Anfechtung und unzulässiger Rechtsausübung –
+    BGHZ 139, 177, JuS 2001, 14 ff.; WIELING, Entwicklung und Dogmatik der Lehre von
+    der Geschäftsgrundlage, Jura 1985, 505 ff.; WIESER, Der Kalkulationsirrtum, NJW
+    1972, 708 ff.
+
+
+        I.     Überblick
+    Auch wenn ein Rechtsgeschäft wirksam zustande gekommen ist, besteht im Einzelfall
+    die Möglichkeit,
+    –    es durch Vertrag wieder aufzuheben oder
+    –    seine Nichtigkeit herbeizuführen.
+    Eine Möglichkeit, ein wirksam zustande gekommenes Rechtsgeschäft nachträglich
+    einseitig zu vernichten, gewährt die Anfechtung.
+    Unter den im Gesetz genannten Voraussetzungen kann derjenige, der eine Willens-
+    erklärung abgegeben hat, diese Erklärung mit der Folge anfechten, dass das gesamte
+    Rechtsgeschäft – rückwirkend (lat.: ex tunc) – vernichtet wird (§ 142). Dass das
+    Rechtsgeschäft "als von Anfang an nichtig anzusehen" ist, wie es in § 142 heißt,
+    bedeutet: Die Anfechtung beseitigt das angefochtene Rechtsgeschäft rückwirkend;
+    es wird so behandelt, als sei es von Anfang an nicht wirksam gewesen. Lediglich Dau-
+    erschuldverhältnisse wie Miet-, Dienst- oder Arbeitsverträge werden ex nunc, also
+    ab dem Zeitpunkt der Anfechtung, nichtig, um so etwaige Rückabwicklungsschwie-
+    rigkeiten zu vermeiden.
+
+
+
+
+        Willenserklärung (Grundfall)                     Anfechtung ex tunc
+
+
+
+        Willenserklärung     (Dauer-                  Anfechtung ex nunc
+        schuldverhältnis)
+
+
+
+    Die Anfechtung ist ein Gestaltungsrecht, durch dessen Ausübung unmittelbar auf
+    ein bestehendes Recht eingewirkt wird. Bei der Anfechtung geschieht dies regelmä-
+    ßig, indem ein bestehendes Rechtsverhältnis beendet wird.
+Die Anfechtbarkeit von Willenserklärungen                                                 7
+
+
+
+Nicht schon die im Gesetz eingeräumte Anfechtungsmöglichkeit als solche bewirkt
+die Nichtigkeit des Rechtsgeschäfts; vielmehr muss derjenige, der einen Anfechtungs-
+grund hat, seine auf den Vertragsschluss gerichtete Willenserklärung durch eine ein-
+seitige empfangsbedürftige Willenserklärung anfechten. Erst durch diese Erklä-
+rung wird die Unwirksamkeit des Rechtsgeschäfts herbeigeführt. Der
+Anfechtungsberechtigte kann also frei wählen, ob er das anfechtbare Rechtsgeschäft
+bestehen lassen oder ob er es durch seine Erklärung vernichten will.
+Die Anfechtungserklärung ist selbst eine Willenserklärung, nämlich eine Erklärung, in
+der der Wille kundgemacht wird, eine Rechtsfolge – hier die rückwirkende Vernich-
+tung der anfechtbaren Erklärung – herbeizuführen. Sie ist empfangsbedürftig, d.h. sie
+wird erst wirksam, wenn sie dem nicht anwesenden Anfechtungsgegner – in der Re-
+gel ist das die andere an einem Rechtsgeschäft beteiligte Person – zugeht (vgl. § 130).
+Aufgrund der Natur der Anfechtung als Gestaltungsrecht ist die Anfechtungserklä-
+rung unwiderruflich und bedingungsfeindlich. Zu beachten ist jedoch, dass die
+Anfechtung oftmals hilfsweise erklärt wird, sofern beispielsweise der Haupteinwand
+des Anfechtenden (z.B. die Nacherfüllung) keinen Erfolg hat. Handelt es sich also um
+eine sogenannte Rechtsbedingung, auf die der Anfechtende keinen Einfluss hat, ist
+diese bedingte Anfechtung zulässig.
+
+
+    II.      Die Anfechtung wegen Irrtums: die unbewusste Nichtüber-
+             einstimmung von Wille und Erklärung
+
+    1.         Einleitung
+Nach dem Prinzip der Privatautonomie soll der Wille des einzelnen der entscheidende
+Grund für seine Bindung durch Rechtsgeschäfte sein. Beruht der Wille einer Person
+auf einem Irrtum, so muss die Rechtsordnung entscheiden, ob sie diesem Irrtum recht-
+liche Bedeutung verschafft.
+
+
+ Def.: Irrtum ist das unbewusste Auseinanderfallen von (subjektivem) Willen und
+ (objektiver) Erklärung
+
+
+
+Bei der Anfechtung besteht diese Bedeutung darin, dass der Irrende die Möglichkeit
+hat, seine durch Willenserklärungen eingegangenen rechtlichen Verpflichtungen zu
+vernichten. Das Gesetz hat hierbei einen schwierigen Interessenkonflikt zu lösen:
+
+ Bindung an Rechtsgeschäfte,                           Realität: Unsicherheit, ent-
+ die auf den wirklichen, irr-                          täuschte Erwartungen und
+ tumsfreien Willen beruhen                             Irrtümer der handelnden Per-
+                                                       sonen
+
+Würde die Rechtsordnung jeden Irrtum für beachtlich erklären, wäre eine bedenkliche
+Rechtsunsicherheit die Folge, weil nahezu jede Willenserklärung auf Erwartungen be-
+ruht, die sich nicht voll erfüllen. Jeder könnte sich dann von Rechtsgeschäften, die
+seine Erwartungen enttäuschen, durch Anfechtung lösen und das Risiko der Wirk-
+samkeit des Rechtsgeschäfts auf seinen Vertragspartner abwälzen. Dadurch wäre das
+Prinzip der Verbindlichkeit geschlossener Verträge ("pacta sunt servanda") aufgeho-
+ben. Das könnte das arbeitsteilige Wirtschaftssystem gefährden, das auf vertragli-
+chen, verlässlichen Leistungsaustausch angewiesen ist.
+8                                                                 Die Anfechtbarkeit von Willenserklärungen
+
+
+
+           Beispiel: Einzelhändler E bestellt bei Fabrikantin F 10.000 schwarz–rot–goldene
+           Gipseier in der Erwartung, diese mit Gewinn weiterverkaufen zu können. Kurz
+           nach der Lieferung der Eier durch F stellt E fest, dass er sich geirrt hat. Die Eier
+           sind unverkäuflich. E möchte seine zum Vertrag führende Willenserklärung an-
+           fechten. Würde die Rechtsordnung in diesem Fall eine Anfechtung zulassen, dann
+           wäre es den vertragsschließenden Parteien nicht mehr möglich, sich auf die Ver-
+           bindlichkeit eines einmal abgeschlossenen Vertrages zu verlassen. Der auf bin-
+           dende Verträge angewiesene Leistungsaustausch der privaten Personen und da-
+           mit eine effiziente Arbeitsteilung wären nahezu unmöglich. Eine Anfechtung der
+           zum Vertrag führenden Willenserklärung durch E muss daher ausgeschlossen sein.
+
+    Das BGB hat das Problem so gelöst, dass es nur die in den §§ 119, 120 und 123
+    Abs. 1 definierten Irrtümer als Anfechtungsgründe zulässt. Außerdem verpflichtet
+    das Gesetz denjenigen, der sich zu einer Anfechtung nach den §§ 119 und 120 ent-
+    schließt, zur Schadensersatzleistung gegenüber demjenigen verpflichtet, der auf
+    die Irrtumsfreiheit und die Gültigkeit der angefochtenen Willenserklärung ohne Ver-
+    schulden vertraute (§ 122 Abs. 1). Nur derjenige, der aufgrund einer arglistigen Täu-
+    schung oder einer widerrechtlichen Drohung eine Willenserklärung abgegeben
+    hat, kann, ohne mit einer Schadensersatzpflicht belastet zu werden, seine Willens-
+    erklärung vernichten.
+
+           2.           Die Anfechtung wegen Inhalts-, Erklärungs- und Übermittlungs-
+                        irrtums (§§ 119 Abs.1, 120)
+
+           a)             Überblick
+    Derjenige, der sich bei der Abgabe einer Willenserklärung geirrt hat, hat unter be-
+    stimmten Voraussetzungen die Möglichkeit, diese bereits abgegebene Willenserklä-
+    rung wieder aus der Welt zu schaffen. Bei Abweichungen zwischen dem Erklärten
+    und dem Willen soll der Erklärende nicht gegen seinen wirklichen Rechtsfolgewillen
+    (Geschäftswillen) an die aus seiner Sicht "falsche" Erklärung gebunden sein und des-
+    halb bei Vorliegen bestimmter Voraussetzungen die Möglichkeit haben, seine Willens-
+    erklärung anzufechten. Ob Wille und Erklärung i.S. des § 119 voneinander abweichen
+    und deshalb eine Anfechtungsmöglichkeit besteht, ist durch Auslegung zu ermitteln.
+    Es gilt deshalb der Grundsatz: Auslegung geht vor Anfechtung!. 1
+    § 119 Abs. 1 enthält zwei Irrtumstatbestände:
+
+
+                         Erklärungsirrtum                                    Inhaltsirrtum
+
+
+
+           § 119 I Var. 2                                                             § 119 II Irrtum über
+                                             § 120           § 119 I Var. 1 Irrtum
+         Versprechen oder                                                             verkehrswesentliche
+                                       Übermittlungsirrtum     über Bedeutung
+           Verschreiben                                                                  Eigenschaften
+
+
+
+
+    _________________________________________________
+    1
+        BROX/WALKER, § 18 Rn. 1.; RÜTHERS/STADLER, § 25 Rn. 12.
+Die Anfechtbarkeit von Willenserklärungen                                                     9
+
+
+
+a)      den Tatbestand des Erklärungsirrtums ("eine Erklärung dieses Inhalts über-
+        haupt nicht abgeben wollte") und
+b) den Tatbestand des Inhaltsirrtums ("bei der Abgabe einer Willenserklärung
+   über deren Inhalt im Irrtum war").
+Die Unterscheidung zwischen Erklärungsirrtum und Inhaltsirrtum wird gelegentlich als
+misslungen kritisiert, weil sich eine Unterscheidung zwischen beiden Tatbeständen
+nicht eindeutig vornehmen lasse. 2 Da die Rechtsfolgen für beide Tatbestände die glei-
+chen sind, bedarf es der Unterscheidung zwar nicht; 3 gleichwohl ist sie bei der Prüfung
+konkreter Fälle hilfreich und in eine juristischem Gutachten vorzunehmen. Da § 119
+Abs. 1 nur eingreift, wenn einer seiner beiden Fälle gegeben ist, müssen Inhalts- und
+Erklärungsirrtum jedenfalls von anderen Irrtumstatbeständen abgegrenzt werden.
+
+       b)             Der Erklärungsirrtum
+Der Erklärende will eine Willenserklärung abgeben, er gibt sie aber in einer Art und
+Weise ab, in der er sie nicht abgeben wollte. Der äußere Tatbestand der Willenserklä-
+rung weicht von dem ab, was der Erklärende von sich geben wollte. Ein Erklärungs-
+irrtum liegt in der Regel vor, wenn sich jemand verspricht oder verschreibt.
+Neben dem Irrtum im Erklärungsakt ist weitere Voraussetzung für das Entstehen des
+Anfechtungsrechts, dass davon auszugehen ist, dass der Erklärende die Willenserklä-
+rung bei Kenntnis der Sachlage und ihrer verständigen Würdigung nicht abgegeben
+haben würde (§ 119 Abs. 1 Alt. 2).
+       Beispiel: Der Winzerin B macht dem Weinhändler Z schriftlich ein Angebot zum
+       Abschluss eines Kaufvertrages. Sie will die Flasche zu € 11,-- anbieten, verschreibt
+       sich aber und schreibt € 10,--. Z nimmt das Angebot an. Kann B ihr Angebot an-
+       fechten?
+       B hat hier ein Interesse daran, ihre Willenserklärung (das Angebot zum Abschluss
+       eines Vertrages) mit einer Anfechtung zu vernichten. Denn wenn das Angebot
+       rückwirkend vernichtet wird, ist kein Kaufvertrag zustande gekommen, weil dann
+       nur eine Annahmeerklärung, nicht aber ein Angebot vorhanden ist. Hier hat B
+       dem Z ein wirksames Angebot zum Abschluss eines Kaufvertrages gemacht. Dass
+       B sich verschrieben und statt € 11,-- € 10,–– geschrieben hat, ist auf die Wirksam-
+       keit seines Angebots ohne Einfluss. Da Z das Angebot auch angenommen hat, ist
+       ein Kaufvertrag zustande gekommen. Weil B sich aber verschrieben hat, er also
+       "eine Erklärung dieses Inhaltes überhaupt nicht abgeben wollte" und diese Erklä-
+       rung auch bei Kenntnis der Sachlage und bei verständiger Würdigung des Falles
+       nicht abgegeben hätte, kann sie ihre Willenserklärung gemäß § 119 Abs. 1 Alt. 2
+       anfechten. Anfechtungsgrund ist also ein Erklärungsirrtum. Wenn B die Anfech-
+       tung auch fristgemäß (§ 121 Abs. 1) gegenüber Z erklärt, hat das zur Folge, dass
+       ihr Angebot – und damit, wie oben bereits dargestellt, der gesamte Vertrag –
+       gemäß § 142 Abs. 1 rückwirkend vernichtet wird. Mit der wirksamen Anfechtung
+       kann B demnach den mit Z bereits wirksam abgeschlossenen Kaufvertrag beseiti-
+       gen.
+
+
+
+
+_________________________________________________
+2
+    RÜTHERS/STADLER, § 25 Rn. 23.
+3
+    Vgl. MEDICUS, AT Rn. 746.
+10                                                       Die Anfechtbarkeit von Willenserklärungen
+
+
+
+            c)             Der Übermittlungsirrtum
+     Der Irrtum bei der Übermittlung (§ 120) ist ein Unterfall des Erklärungsirrtums. Auch
+     hier wird etwas Anderes erklärt, als erklärt werden soll. Allerdings erklärt nicht der
+     Erklärende selbst irrtümlich etwas Falsches, sondern die Person (Bote!) oder An-
+     stalt, derer sich der Erklärende zur Übermittlung bedient. Falls eine Erklärung
+     falsch wiedergegeben wird, besteht wie beim Erklärungsirrtum eine Nichtübereinstim-
+     mung zwischen dem Willen des Erklärenden und dem Erklärungstatbestand, der dem
+     Empfänger bekannt geworden ist.
+            Beispiel: F beauftragt ihren Freund E für sie im nahegelegenen Sportgeschäft das
+            Surfboard „Big wave pro“ zu einem Preis von 500 € zu kaufen. E hingegen ist so
+            in Gedanken versunken, dass er im Geschäft das Riverboard „Eisfluss“ für 450 €
+            kauft. Mangels eigenem Entscheidungsspielraum war E nur der Bote für die F.
+            Dieser hat die vorgefertigte Willenserklärung der F falsch übermittelt, indem er
+            hinsichtlich des Surfboards ein anderes Modell gekauft hat. Die Willenserklärung
+            der F wurde durch den Boten (als menschlicher Repeater) falsch übermittelt und
+            daher nach § 120 anfechtbar.
+
+            d)             Der Inhaltsirrtum
+
+            (a)    Überblick
+     Ein Inhaltsirrtum (§ 119 Abs. 1 Alt.1, "Wer bei der Abgabe einer Willenserklärung
+     über deren Inhalt im Irrtume war ...") liegt vor, wenn der äußere Tatbestand der Er-
+     klärung zwar dem Willen des Erklärenden entspricht, die Willenserklärung aber in-
+     haltlich eine andere Bedeutung hat, als der Erklärende ihr beimessen wollte.
+
+         Vorstellung des Erklärenden                          Objektiver Inhalt der Erklä-
+         von dem Inhalt (subjektiv)                           rung
+
+
+     Im Gegensatz zum Erklärungsirrtum ist beim Inhaltsirrtum der Erklärungsakt selbst
+     vom Erklärenden gewollt; dieser wollte jedoch mit dem Erklärungsakt etwas ande-
+     res zum Ausdruck bringen, als er es in Wirklichkeit getan hat. 4
+            Beispiel: Der aus Berlin stammende A bestellt in einer Kölner Gaststätte nach der
+            ihm vorgelegten Karte einen "halven Hahn". A weiß nicht, dass in Köln unter
+            einem "halven Hahn" eine mit Käse belegte Brötchenhälfte verstanden wird. A
+            hatte ein halbes Hähnchen erwartet. Da er mit dem Inhalt, den seine Erklärung
+            objektiv hat – wobei der "Kölner Empfängerhorizont" zugrundezulegen ist –, eine
+            andere Vorstellung verbindet, kann A wegen Inhaltsirrtums gemäß § 119 Abs. 1
+            Abs. 1 anfechten.
+
+
+            (b) Der Identitätsirrtum
+     Um einen Inhaltsirrtum kann es sich auch handeln, wenn der Erklärende sich über die
+     Identität seines Geschäftspartners geirrt hat (sogenannter Identitätsirrtum). Die
+     Grenze zum Irrtum über die Eigenschaft einer Person (§ 119 Abs. 2) ist wie folgt zu
+     ziehen: Beim Eigenschaftsirrtum ist die Person zutreffend identifiziert; es werden ihr
+
+
+     _________________________________________________
+     4
+         STAUDINGER/SINGER, § 119 Rn. 38.
+Die Anfechtbarkeit von Willenserklärungen                                                    11
+
+
+
+jedoch irrtümlich Eigenschaften zugeschrieben, die sie nicht hat. Beim Identitätsirrtum
+ist hingegen schon die körperliche Identifizierung fehlgeschlagen. 5
+Ein Inhaltsirrtum in Gestalt eines Identitätsirrtums kann vorliegen, wenn der Erklä-
+rende meint, eine andere Person bezeichnet zu haben, als er in Wirklichkeit in seiner
+Erklärung genannt hat (error in persona). 6
+       Beispiel: V in Köln ist in Geldnot und möchte, ohne großes Aufsehen zu erregen,
+       ein wertvolles Gemälde zum Preise von € 12.500,-- veräußern. Ein Bekannter
+       empfiehlt dem V, das Bild an den ihm bekannten Josef Schmitz – ein im Rheinland
+       weit verbreiteter Name – zu verkaufen; dieser werde sich in den nächsten Tagen
+       bei ihm melden. Tags darauf erscheint ein Interessent, der sich als Josef Schmitz
+       vorstellt und ebenfalls von der Verkaufsabsicht des V gehört hat. Es handelt sich
+       aber nicht um die empfohlene Person. V meint allerdings, es sei der ihm von dem
+       Bekannten empfohlene Josef Schmitz und schließt mit diesem einen Kaufvertrag
+       ab. V wollte mit dem ihm empfohlenen Josef Schmitz einen Kaufvertrag abschlie-
+       ßen. Da er über die Identität seines Geschäftspartners im Irrtum war (= die Vor-
+       stellung, die V mit dem Inhalt seiner Erklärung verband, stimmt nicht mit dem
+       Inhalt überein, den die Erklärung objektiv hat), kann er wegen Inhaltsirrtums
+       (§ 119 Abs. 1) anfechten.
+
+Von einem Identitätsirrtum kann auch dann gesprochen werden, wenn sich die ab-
+gegebene Erklärung auf einen anderen Gegenstand bezieht, als der Erklärende das
+wollte (error in objecto). 7
+
+
+       (c)    Der Rechtsfolgenirrtum
+Auch Rechtsirrtümer können Inhaltsirrtümer sein und zwar dann, wenn die auf-
+grund der Erklärung eingetretene Rechtsfolge zum Inhalt der Erklärung gehört, die
+Rechtsfolge also "kraft des auf sie gerichteten Willens der Erklärenden eingetreten
+ist" 8 und eine von der gewollten wesentlich verschiedene Rechtswirkung herbeige-
+führt wird. Nach Ansicht des Reichsgerichts 9 kann "auch ein Irrtum über den mit
+einer Willenserklärung zu erzielenden rechtlichen Erfolg ein Irrtum über den Inhalt
+sein. Die wesentliche Bedeutung einer rechtsgeschäftlichen Willenserklärung besteht
+gerade darin, dass durch sie die Begründung, Veränderung oder Aufhebung von
+Rechten, also ein rechtlicher Erfolg erstrebt wird. Bildet dieser Erfolg einen Bestandteil
+des erklärten rechtsgeschäftlichen Tatbestandes, so gehört er zum Inhalt der Erklä-
+rung".
+       Beispiel: Bei der Bestellung einer Hypothek ist der Eigentümer der Meinung, das
+       Grundstück sei schon mit einer ersten Hypothek belastet. Die von ihm abgegebe-
+       nen Erklärungen beziehen sich deshalb auf die Bestellung einer zweiten Hypothek,
+
+
+
+
+_________________________________________________
+5
+    JAUERNIG/MANSEL, § 119 Rn. 9.
+6
+    Vgl. SOERGEL/HEFERMEHL, § 119 Rn. 23.
+7
+    STADLER, BGB AT, Rn. 30.
+8
+    RÜTHERS/STADLER, § 25 Rn. 37; BROX/WALKER § 18 Rn. 18.
+9
+    RGZ 89, 29, 33.
+12                                                                Die Anfechtbarkeit von Willenserklärungen
+
+
+
+            die aber, weil das Grundstück bisher unbelastet war, an erster Stelle im Grund-
+            buch eingetragen wird. Es handelt sich um einen Inhaltsirrtum, der gemäß § 119
+            Abs. 1 anfechtbar ist. 10
+
+     Ein Inhaltsirrtum liegt hingegen nicht vor, wenn bei einem vorgenommenen Rechts-
+     geschäft außer den angestrebten noch weitere, weder erkannte noch gewollte Ne-
+     benfolgen als Rechtsfolgen eintreten; 11 diese Rechtsfolgen, auf die sich der Irrtum be-
+     zieht, sind nicht Inhalt der rechtsgeschäftlichen Erklärung, sie treten vielmehr kraft
+     Gesetzes ein.
+            Beispiel: K erwirbt von V ein an M vermietetes Einfamilienhaus in der Absicht,
+            dort selbst einzuziehen. Dabei erkennt er nicht, dass er als Erwerber gemäß § 566
+            Abs. 1 automatisch in den Mietvertrag zwischen V und M eintritt und deshalb nur
+            nach vorheriger ordnungsgemäßer und fristgerechter Kündigung das Haus bezie-
+            hen kann. Die Rechtsfolge des § 566 tritt kraft Gesetzes ein. Sie ist nicht Inhalt
+            der beim Abschluss des Kaufvertrages von K abgegebenen Erklärung. Es liegt kein
+            Inhaltsirrtum vor, der zur Anfechtung gemäß § 119 Abs. 1 berechtigen würde.
+
+
+            (d)     Der Kalkulationsirrtum
+     Schwierigkeiten bereitet die Beantwortung der Frage, ob ein Kalkulationsirrtum ein
+     Inhaltsirrtum i.S. des § 119 Abs. 1 ist oder als Solcher zu behandeln ist.
+
+          Def.: Fälle, in denen der Erklärende sich bei der Berechnung der Summe irrt oder
+          irrtümlich einen falschen Berechnungsfaktor zugrunde legt.
+
+
+
+     Hat der Erklärende die Grundlage seiner Berechnung dem anderen Teil nicht kundge-
+     tan, spricht man von einem internen (verdeckten) Kalkulationsirrtum. Beispiels-
+     weise errechnet der V einen falschen Gesamtpreis und teilt nur diesen dem K mit. Das
+     Risiko einer Fehlkalkulation hat der Irrende aber selbst zu tragen, weil und soweit der
+     Irrtum im Bereich der Bildung des rechtsgeschäftlichen Willens aufgetreten ist. Es han-
+     delt sich insoweit lediglich um einen grundsätzlich unbeachtlichen Irrtum im Beweg-
+     grund, einen Motivirrtum, der kein Anfechtungsrecht begründet. Das gilt auch,
+     wenn der Erklärungsempfänger den Kalkulationsirrtum des Erklärenden hätte erken-
+     nen können 12. Die Rechtsprechung erkennt den Einwand der unzulässigen Rechtsaus-
+     übung aus § 242 an, wenn der Annehmende den Kalkulationsirrtum erkannt hatte. 13
+     Zugleich kann der Irrende wegen der Verletzung einer Aufklärungspflicht über den
+     Schadensersatzanspruch aus cic §§ 280 I, 241 II, 311 II, 249 II die Rückabwicklung des
+     Rechtsgeschäfts verlangen. 14
+
+
+
+
+     _________________________________________________
+     10
+          Ebenda.
+     11
+          RGZ 134, 195, 197 f.
+     12
+          JAUERNIG/MANSEL, BGB § 119 Rn. 10; BeckOK/WENDTLAND, BGB § 119 Rn. 33; MünchKomm/ARMBRÜSTER,
+             BGB § 119 Rn. 91.
+     13
+          BGH NJW 2015, 1513, 1514; NJW 1998, 3192; BROX/WALKER, § 18 Rn. 21.
+     14
+          RENNIG, JURA 2021, 619 ff; BeckOGK/REHBERG, BGB § 119 Rn. 182 ff., 197 ff.
+Die Anfechtbarkeit von Willenserklärungen                                                            13
+
+
+
+Umstritten ist dagegen die Behandlung des sog. externen (offenen) Kalkulati-
+onsirrtums, bei dem die (fehlerhafte) Kalkulation zum Gegenstand der Vertragsver-
+handlungen gemacht worden ist. Beim offenen Kalkulationsirrtum wird dem Erklä-
+rungsgegner die Berechnung oder ihre Grundlage mitgeteilt oder sie sind ihm
+bekannt.
+
+
+       •    Die Lösung der Fälle des offenen Kalkulationsirrtums sind zunächst mittels
+            Auslegung zu ermitteln. Beispiel: V und K sind von festen Stückpreisen der
+            Einzelgüter ausgegangen. Die falsche Endsumme beruht nur auf einem er-
+            kennbaren Rechenfehler bei der Addition, V und K haben sich aber auf die
+            richtige Rechenmethode (Addition) geeinigt. Durch Auslegung, §§ 133, 157
+            kann die richtige Gesamtsumme ermittelt werden („falsa demonstratio non
+            nocet“).
+
+       •    Sofern die Parteien der Berechnungsgrundlage und dem bestimmten Ender-
+            gebnis die gleiche Bedeutung beigemessen haben, beide aber vollkommen
+            widersprüchlich sind, ist die Erklärung wegen Perplexität nichtig, vgl. § 155
+            (versteckter Dissens); eine Anfechtung kommt nicht in Betracht. Beispiel: „Ich
+            schneidere für dich zehn Richterroben zum Stückpreis von 400 € pro Stück,
+            also insgesamt 5.350 €.
+
+
+       •    Haben sich die Vertragsparteien nur über die Endsumme geeinigt, ist aber die
+            Kalkulation dennoch bekannt oder mitgeteilt worden, liegt ein gemeinsamer
+            Irrtum der Parteien vor. Beispiel: Gärtner W soll dem P seinen Garten zu einem
+            Preis von bis zu 5.000 € neu herrichten. Dem P kommt es dabei nur auf die
+            Gesamtsumme an, die einzelnen Rechnungspositionen hinsichtlich des Kaufes
+            von Blumen etc. ist im gleichgültig. W stellt einen Betrag von 4.500 € in Rech-
+            nung, die einzelnen Rechnungspositionen ergeben aber einen Gesamtwert
+            von 5.000 €. Hier kommt es W und P nur auf den Gesamtbetrag an, also der
+            fertige Garten bis zu einem Preis von 5.000 €. In Betracht kommt bei dem
+            beiderseitigen Motivirrtum deshalb keine Auslegung gem. §§ 133, 157. Je-
+            doch kommt eine Anpassung des Vertrages nach den Grundsätzen über den
+            die Störung der Geschäftsgrundlage (§ 313) in Betracht. 15
+
+
+       •    Das Reichsgericht hatte noch in einer Reihe von Fällen, in denen ein Kalku-
+            lationsirrtum vorlag, die Anfechtbarkeit wegen eines erweiterten Inhaltsirr-
+            tums bejaht, so z.B. wenn ein Kaufpreis nach einem falsch angegebenen Bör-
+            senkurs berechnet worden war 16 und wenn ein Rechenfehler im Hinblick auf
+            einen Kaufpreis unterlaufen war, der in Gegenwart des Vertragspartners aus-
+            gerechnet worden war. 17
+
+
+Die Rechtsprechung des RG ist mit Recht auf erhebliche Kritik gestoßen, die sich wie
+folgt zusammenfassen lässt: Zum Zeitpunkt der Abgabe der Erklärung stimmen Wille
+
+_________________________________________________
+15
+     BGH NJW 1986, 1349 (Vertragsanpassung), jetzt § 313 II, III. Näheres hierzu unten 6 § 14 VII.
+16
+     Rubelfall, RGZ 101, 51 und 116, 15, 17.
+17
+     Silberfall, RGZ 101, 107, 108.
+14                                                               Die Anfechtbarkeit von Willenserklärungen
+
+
+
+     und Erklärung überein; es fehlt also gerade an dem für den Inhaltsirrtum grundlegen-
+     den Auseinanderfallen zwischen der gemeinten und der wirklichen Bedeutung der
+     Erklärung. 18 Außerdem ist zu beachten, dass die einseitige Kalkulation einer Partei
+     nicht schon deshalb zum Erklärungsinhalt gehört, weil sie dem Erklärungsempfänger
+     mitgeteilt wird, was ebenso für jedes andere Motiv gilt. 19 Der offene Kalkulationsirr-
+     tum begründet daher als unbeachtlicher Motivirrtum kein Anfechtungsrecht
+     Auch der BGH 20 hat inzwischen die Anfechtung wegen eines erweiterten Inhaltsirr-
+     tums analog § 119 Abs. 1 ausdrücklich abgelehnt. Danach berechtigt ein Kalkulati-
+     onsirrtum selbst dann nicht zur Anfechtung, wenn der Erklärungsempfänger ihn er-
+     kannt oder die Kenntnisnahme treuwidrig vereitelt hat. Allerdings kann der
+     Erklärungsempfänger unter dem Gesichtspunkt des Verschuldens bei Vertragsver-
+     handlungen oder der unzulässigen Rechtsausübung (§ 242) verpflichtet sein, den Er-
+     klärenden auf seine Kalkulationsfehler hinzuweisen. 21
+
+
+
+          Merke: Der Kalkulationsirrtum berechtigt nie zur Anfechtung. Der verdeckte Kal-
+          kulationsirrtum ist als bloßer Motivirrtum völlig unbeachtlich. Beim offenen Kal-
+          kulationsirrtum sind folgende Prüfungsschritte ratsam: Auslegung, bei innerer Wi-
+          dersprüchlichkeit (Perplexität) ist die Erklärung nichtig, § 155. Die unzutreffende
+          Kalkulation kann zur Geschäftsgrundlage gehören, so dass dann eine Anpassung
+          nach den Regeln über die Störung der Geschäftsgrundlage (§ 313) erfolgt.
+
+
+
+
+            (e)    Weitere Voraussetzungen
+     Auch wegen Inhaltsirrtums kann nur angefochten werden, wenn davon auszugehen
+     ist, dass der Erklärende die Willenserklärung "bei Kenntnis der Sachlage und bei ver-
+     ständiger Würdigung des Falles nicht abgegeben haben würde" (§ 119 Abs. 1). Das
+     bedeutet: Die subjektive und objektive Erheblichkeit des Irrtums ist eine Anfechtungs-
+     voraussetzung.
+
+            3.           Die Anfechtung wegen Irrtums über verkehrswesentliche Eigen-
+                         schaften einer Person oder Sache
+
+            a)             Überblick
+     Durch § 119 Abs. 2 wird demjenigen ein Anfechtungsrecht eingeräumt, der sich bei
+     der Abgabe seiner Willenserklärung über eine bei diesem Rechtsgeschäft wesentliche
+     Eigenschaft seines Vertragspartners oder der Sache, die Leistungsgegenstand ist, ge-
+     irrt hat.
+
+
+
+
+     _________________________________________________
+     18
+          So STAUDINGER/SINGER, § 119 Rn. 51; HÜBNER, Rn. 783.
+     19
+          Vgl. MEDICUS, AT, Rn. 758.
+     20
+          BGHZ 139, 177, 182 ff.
+     21
+          .Vgl. dazu auch GRÜNEBERG/ELLENBERGER, § 119 Rn. 18; MünchKomm/ARMBRÜSTER, BGB § 119 Rn. 129.
+Die Anfechtbarkeit von Willenserklärungen                                                      15
+
+
+
+     Def.: Als Eigenschaften kommen nur tatsächliche oder rechtliche Verhältnisse in
+     Betracht, die in dem Rechtsgeschäft als wesentlich zum Ausdruck gebracht wor-
+     den sind. Darunter sind alle diejenigen Merkmale und Verhältnisse einer Person
+     oder Sache zu verstehen, die infolge ihrer Beschaffenheit und Dauer auf die
+     Brauchbarkeit und den Wert von Einfluss sind.
+
+
+
+Ebenso wie bei Erklärungs– und Inhaltsirrtum kann der Erklärende seine Willenserklä-
+rung nur anfechten, "wenn anzunehmen ist, dass er sie bei Kenntnis der Sachlage
+und bei verständiger Würdigung des Falles nicht abgegeben haben würde". Der Irr-
+tum muss also gerade auch kausal für die Abgabe der fehlerhaften Willenserklärung
+gewesen sein.
+Bei dem Irrtum über Eigenschaften handelt es sich um einen Irrtum, der den Entschluss
+zur Abgabe der Erklärung beeinflusst und nicht um einen Irrtum, der den Erklärungs-
+vorgang selbst betrifft. Es handelt sich deshalb um einen Motivirrtum, d.h. um einen
+Irrtum im Beweggrund. 22 Motivirrtümer sind grundsätzlich unbeachtlich; sie berechti-
+gen nicht zur Anfechtung, vgl. das zum § 119 I Geschriebene. Das BGB enthält ledig-
+lich im Hinblick auf solche Irrtümer eine Ausnahme, die sich auf Eigenschaften der
+Person oder Sache beziehen, die im Verkehr als wesentlich angesehen werden. § 119
+Abs. 2 stellt diese im Wege einer Fiktion einem Inhaltsirrtum gleich und damit einen
+der wenigen beachtlichen Motivirrtümer dar. 23
+
+       b)             Der Irrtum über verkehrswesentliche Eigenschaften einer Per-
+                      son
+Zu den verkehrswesentlichen Eigenschaften einer Person zählen "sowohl die natürli-
+chen Persönlichkeitsmerkmale als auch solche tatsächlichen und rechtlichen Verhält-
+nisse, die infolge ihrer Beschaffenheit und vorausgesetzten Dauer nach den Anschau-
+ungen des Verkehrs Einfluss auf die Wertschätzung der Person in allen oder doch in
+gewissen Rechtsverhältnissen auszuüben pflegen". 24 Solche Eigenschaften können
+sein:
+       •    der Gesundheitszustand eines Menschen, sofern er von Dauer ist (z.B. Grad
+            der Behinderung) insbesondere bei Dienstverträgen. 25 Nicht hingegen die
+            Schwangerschaft, weil sie eine lediglich vorübergehende Eigenschaft ist;
+       •    die berufsrechtliche Qualifikation, wie sie z.B. für die Eintragung in die Hand-
+            werksrolle erforderlich ist 26;
+       •    die Vertrauenswürdigkeit bei Vertragstypen mit engen persönlichen Beziehun-
+            gen. 27 In Betracht kommen in erster Linie Dauerschuldverhältnisse, wie Dienst–
+            oder Arbeitsverträge, die ein besonderes Vertrauensverhältnis voraussetzen.;
+
+
+_________________________________________________
+22
+     GRÜNEBERG, § 119 Rn. 1.
+23
+     BGHZ 88, 240, 245.
+24
+     BGHZ 88, 240, 245 mit weiteren Nachw.
+25
+     STAUDINGER/SINGER, § 119 Rn. 89.
+26
+     BGHZ 88, 240, 246.
+27
+     AG Hamburg BeckRS 2020, 52426 Rn. 40 mwN.
+16                                                              Die Anfechtbarkeit von Willenserklärungen
+
+
+
+            •    die Zahlungs– und Kreditwürdigkeit jedenfalls bei Kreditgeschäften. Dabei ist
+                 der Irrtum des Kreditgebers über die Zahlungsfähigkeit des Bürgen relevant,
+                 während die Anfechtung für den Bürgen, der sich über die Vermögensverhält-
+                 nisse des Hauptschuldners geirrt hat, ausgeschlossen ist. 28
+     Verkehrswesentliche Eigenschaften einer Person sind nur solche, die vom Erklärenden
+     in irgendeiner Weise erkennbar dem Vertrage zugrunde gelegt worden sind, ohne
+     dass er sie geradezu zum Inhalt seiner Erklärung gemacht haben muss. 29
+
+            c)             Der Irrtum über verkehrswesentliche Eigenschaften einer Sache
+     aa) Als Eigenschaften einer Sache i.S. des § 119 Abs. 2 werden alle tatsächlichen und
+         rechtlichen Verhältnisse der Sache angesehen, die wegen ihrer Beschaffenheit
+         und vorausgesetzten Dauer nach den Verkehrsanschauungen einen Einfluss auf
+         die Wertschätzung und ihre Brauchbarkeit auszuüben pflegen. 30 Als solche sind
+         u.a. angesehen worden:
+
+            •    die Bebaubarkeit oder gewerbliche Nutzungsmöglichkeit eines Grundstücks, 31
+            •    die Echtheit eines Kunstwerkes, 32
+            •    das Alter eines gebrauchten Kraftfahrzeuges. 33
+
+            •    Keine Eigenschaft einer Sache sind:
+                       –      das Eigentum an einer Sache, weil es keinen Einfluss auf die Brauch-
+                              barkeit und den Wert der Sache hat, 34
+                      –      der Preis (Wert) einer Sache (im Gegensatz zu den wertbildenden Fak-
+                             toren. 35 Der Preis enthält lediglich ein Werturteil, das auf Eigenschaf-
+                             ten beruht. 36
+            Beachte: § 119 BGB gilt nicht nur für Sachen (§ 90), sondern auch für Rechtsge-
+            schäft über unkörperliche Gegenstände, insbesondere Rechte. 37
+     bb) Um zu weit ausgreifenden Konsequenzen rein subjektiver Vorstellungen entge-
+         genzuwirken, soll nur ein Irrtum über verkehrswesentliche Eigenschaften ei-
+         ner Sache zur Anfechtung berechtigen. Als Solche kommen alle Diejenigen in
+         Betracht, auf die der Verkehr bei Geschäften von der typischen Eigenart des je-
+         weils vorliegenden Geschäftes entscheidenden Wert legt. 38
+
+
+     _________________________________________________
+     28
+          STAUDINGER/SINGER, § 119 Rn. 89; LINDACHER, MünchKommBGB/Habersack, 9. Aufl. 2024, BGB § 765
+             Rn. 39.
+     29
+          BGHZ 88, 240, 246.
+     30
+          BGHZ 16, 54, 57 und 34, 32, 41.
+     31
+          BGH, MDR 1977, 298.
+     32
+          HEINBUCH, NJW 1984, 15, 16 f.
+     33
+          BGHZ 78, 216, 221.
+     34
+          BGHZ 34, 32, 41 f.
+     35
+          BGHZ 16, 54, 57.
+     36
+          Stadler BGB AT, Rn. 49.
+     37
+          BeckOK/WENDTLAND, § 119 Rn. 43..
+     38
+          BROX/WALKER, § 18 Rn. 14.
+Die Anfechtbarkeit von Willenserklärungen                                                              17
+
+
+
+cc) Zweifelhaft ist die Frage nach dem Verhältnis zu den besonderen Gewähr-
+    leistungsvorschriften der §§ 437 ff, §§ 536 ff. oder z.B. §§ 633 ff. Überwie-
+    gend geht man davon aus, dass die Vorschriften über die Gewährleistung bei
+    Sachmängeln als leges speciales die Anfechtung wegen eines Eigenschaftsirrtums
+    beim Kauf, Miete oder Werkvertrag gemäß § 119 Abs. 2 verdrängen.
+    Der Grund für den Ausschluss der Käuferanfechtung nach Gefahrübergang ist
+    darin zu sehen, dass der Käufer sich nicht den Sonderregelungen der Sachmän-
+    gelhaftung entziehen können soll, die insbesondere im Hinblick auf die kürzeren
+    Verjährungsvorschriften des § 438 oder der Mängelanzeige durch den Mieter im
+    § 536e der Sicherheit des Rechtsverkehrs dienen. Insbesondere könnte eine Irr-
+    tumsanfechtung nach § 119 Abs. 2 das Nacherfüllungsrecht des Verkäufers nach
+    §§ 437 Nr. 1, 439 unterlaufen. 39
+        Viele Stimmen sprechen sich dafür aus, dass der Käufer auch vor Gefahrüber-
+        gang von der Anfechtung wegen Eigenschaftsirrtums ausgeschlossen sei. Für
+        diese Phase greifen die §§ 434 ff. nach dem Wortlaut des § 446 nicht ein, sodass
+        eigentlich keine Konkurrenz zum allgemeinen Anfechtungsrecht besteht. Jedoch
+        könnte sich der Käufer auch bei grober Fahrlässigkeit entgegen dem Gedanken
+        des § 442 I 2 vom Kaufvertrag lösen. Er habe aber erst mit Gefahrübergang ein
+        Recht auf Mangelfreiheit. Ein entsprechender Vorrang besteht auch beim UN-
+        Kaufrecht sowie beim Werkvertragsrecht aus den gleichen Gründen 40 .
+       Beispiel: K hat von V ein Bild des niederländischen Malers Rembrandt gekauft.
+       Nach Übergabe des Bildes an K stellt sich heraus, dass das Bild gar nicht von Rem-
+       brandt stammt, sondern eine wertlose Fälschung ist. Da mit der Übergabe des
+       Bildes der Gefahrübergang auf den Käufer erfolgt ist (§ 446), haftet der Verkäufer
+       nunmehr nach Maßgabe der §§ 437 ff. Wären nun zwischen der Übergabe des
+       Bildes und der Entdeckung der Fälschung bereits zwei Jahre vergangen, so wären
+       die Ansprüche aus § 437 Nr. 1–3 gemäß § 438 Abs. 1 Nr. 3 bereits verjährt. Der
+       Käufer wäre auf die Anfechtungsmöglichkeit nach § 119 Abs. 2 angewiesen, weil
+       die Anfechtungsfrist gemäß § 121 Abs. 1 erst mit Kenntniserlangung zu laufen
+       beginnt. Allerdings verdrängen die §§ 437 ff. als leges speciales den § 119 Abs. 2.
+       Die Möglichkeit der Anfechtung besteht somit für K ebenfalls nicht.
+
+Das Problem der Konkurrenz von Gewährleistungsrechten und der Anfechtung stellt
+sich aber nur dann, wenn dem Käufer diese Rechte zustehen. Besteht hingegen ein
+Anfechtungsrecht des Verkäufers, fehlt es an einer entsprechenden Konkurrenz,
+weil dem Verkäufer Gewährleistungsansprüche nie zustehen. Das bedeutet allerdings
+nicht, dass der Verkäufer stets von einem Anfechtungsrecht gemäß § 119 Abs. 2 Ge-
+brauch machen könnte. Gestünde man dem Verkäufer dies zu, so könnte sich dieser,
+wenn er irrigerweise Mangelfreiheit der Sache annimmt, durch Irrtumsanfechtung (al-
+lerdings unter Inkaufnahme der auf das negative Interesse gerichteten Schadenser-
+satzpflicht nach § 122) von der Gewährleistungspflicht dem Käufer gegenüber be-
+freien. Nach dem Gedanken des Rechtsmissbrauchs ist es deshalb dem Verkäufer
+verwehrt, von dem Anfechtungsrecht Gebrauch zu machen, wenn dies zur Folge
+hätte, dass er (der Verkäufer) sich der gesetzlich angeordneten Gewährleistungs-
+pflicht entzöge.
+
+
+_________________________________________________
+39
+     BGHZ 178, 28 f; JAUERNIG/MANSEL, BGB § 119 Rn. 16;
+40
+     MünchKomm/ARMBRÜSTER, BGB § 119 Rn. 32; Begründung zum Gesetzesentwurf, BT-Drucks. 14/6040
+       S. 210; GRÜNEBERG/ELLENBERGER § 119, Rn. 28; BeckOGK/REHBERG, BGB § 119 Rn. 167; KÖSTER, Jura
+       2005, 145 (147).
+18                                                                 Die Anfechtbarkeit von Willenserklärungen
+
+
+
+     Unter gewissen Umständen kann dem Verkäufer also ein Anfechtungsrecht zustehen.
+     Hat sich z.B. der Verkäufer über die Urheberschaft eines Bildes geirrt und deshalb den
+     Preis zu niedrig festgesetzt, ist dem Käufer an einer Nacherfüllung oder einem Rück-
+     tritt nicht gelegen; der Verkäufer kann deshalb nach § 119 Abs. 2 anfechten, weil er
+     sich damit nicht der gesetzlich angeordneten Gewährleistungspflicht entzieht. 41
+
+
+     Prüfungsschema zu § 119 II
+             I. Zulässigkeit der Anfechtung (insb. Vorrang des Gewährleistungsrechtes)
+            II. Anfechtungserklärung § 143 I
+           III. Anfechtungsgrund § 119 II
+                 1. Eigenschaft
+                 2. Verkehrswesentlich
+                 3. Irrtum
+                 4. Kausalität zwischen Irrtum und Abgabe der Willenserklärung
+          IV. Anfechtungsfrist § 121
+
+
+
+
+            III.      Die Anfechtung wegen Willensbeeinflussung durch arglis-
+                      tige Täuschung und widerrechtliche Drohung
+
+            1.           Überblick
+     Wenn eine Person unter dem Einfluss einer arglistigen Täuschung eine Willenserklä-
+     rung abgegeben hat, räumt die Rechtsordnung dem durch bewusst falsche Informa-
+     tionen unlauter Beeinflussten die Möglichkeit ein, die zunächst wirksame Erklärung
+     anzufechten, ohne dass dadurch Schadensersatzverpflichtungen entstehen. Auch die
+     Person, deren freier Wille durch eine widerrechtliche Drohung beeinträchtigt wurde,
+     kann sich von ihrer unter Druck abgegebenen Willenserklärung durch eine Anfech-
+     tung lösen, ohne dass eine Schadensersatzverpflichtung begründet wird. § 123
+     schützt die Freiheit der Willensentschließung. 42
+     Das Gesetz unterscheidet in § 123 Abs. 1 zwei Anfechtungstatbestände:
+
+
+
+                                                         § 123 I
+
+
+                               Alt. 1                                        Alt. 2
+              arglistige (widerrechtliche)Täuschung                 widerrechtliche Drohung
+
+
+
+
+     _________________________________________________
+     41
+          BGH NJW 1988, 2597, 2598.
+     42
+          JAUERNIG/MANSEL, § 123 Rn. 1.
+Die Anfechtbarkeit von Willenserklärungen                                                  19
+
+
+
+       2.           Die Anfechtung wegen arglistiger Täuschung
+
+       a)             Überblick
+Ein Anfechtungsgrund liegt vor,
+       •    wenn derjenige, der die Willenserklärung abgegeben hat, getäuscht worden
+            ist,
+
+       •    dadurch bei ihm ein Irrtum erregt worden ist,
+       •    er aus diesem Irrtum heraus eine Willenserklärung abgegeben hat und
+       •    der Täuschende arglistig, d.h. mit dem Vorsatz, auf den Erklärungswillen des
+            anderen einzuwirken, gehandelt hat.
+
+       b)             Die Täuschung
+
+
+
+     Def.: Die Täuschung ist ein Verhalten, das beim Erklärenden eine irrige Vorstel-
+     lung hervorruft, verstärkt oder erhält. Täuschung ist das bewusste, d.h. vorsätzli-
+     che Erregen oder Aufrechterhalten eines Irrtums durch Vorspiegelung falscher o-
+     der Unterdrücken wahrer Tatsachen (nicht Werturteile), um den Getäuschten
+     vorsätzlich zur Abgabe einer bestimmten Willenserklärung zu veranlassen.
+
+
+Die Täuschungshandlung kann in einem positiven Tun liegen, in dem ausdrücklichen
+oder konkludenten Behaupten von Tatsachen i.S. objektiv nachprüfbarer Umstände
+liegen. Dazu zählen z.B.:
+       •    Angaben über den Kilometerstand eines Gebrauchtwagens und
+       •    die Angabe über einen bestimmten Unfallmangel und damit konkludent, dass
+            keine weiteren Schäden vorliegen.
+Eine Täuschung kann auch derjenige vornehmen, der es unterlässt, jemanden, der
+sich in einem Irrtum befindet, aufzuklären. Ein solches Unterlassen ist aber nur dann
+von Bedeutung, wenn ausnahmsweise (nach Treu und Glauben, § 242, oder auf-
+grund einer ausdrücklichen gesetzlichen Regelung) eine Rechtspflicht zur Aufklä-
+rung besteht. Ob dies der Fall ist, ist oft schwer festzustellen und bedarf einer einge-
+henden Begründung.
+Es gibt keine allgemeine Rechtspflicht, den potentiellen Vertragspartner über alle die-
+jenigen Umstände aufzuklären, die auf seine Entschließung Einfluss haben können.
+Eine Aufklärungspflicht ist immer nur aus besonderen Gründen anhand der Um-
+stände des Einzelfalles zu bejahen. 43 Die Rechtsprechung hat hierzu bestimmte Fall-
+gruppen gebildet, die eine Einordnung zumindest erleichtern:
+       •    Vertragspartner stellt gezielt Fragen, die auch zulässig sind
+       •    Besonderes Vertrauensverhältnis zwischen den Vertragspartnern (langjährige
+            vertrauensvolle Geschäftsverbindung)
+
+
+_________________________________________________
+43
+     Rüthers/STADLER, BGB AT, Rn. 77.
+20                                                                 Die Anfechtbarkeit von Willenserklärungen
+
+
+
+            •    Überlegende Sachkunde einer Partei, sofern der Geschäftsgegner unerfahren
+                 ist und die Umstände für den anderen Teil offensichtlich von wesentlicher Be-
+                 deutung sind (z.B. Verkäufer muss über den korrekten Kilometerstand des
+                 PKW berichten und alle Unfallschäden 44 benennen)
+
+
+     Fallbearbeitung: Immer wenn die Täuschung in einem Unterlassen liegen könnte,
+     sollte wie folgt vorgegangen werden: Obersatz, Definition der Täuschung, Darstellen
+     der Aufklärungspflicht, Verletzung der Aufklärungspflicht durch Unterlassen.
+
+
+            Beispiel: Unternehmerin U, die ihre Fabrikation von Kaufhauseinrichtungsmöbeln
+            rationalisieren möchte, steht bereits seit 2020 mit F wegen des Kaufs einer Fur-
+            niermaschine in Verhandlungen. Zum Abschluss eines Kaufvertrages war es bis-
+            lang nicht gekommen, weil die von F angebotenen Maschinen sich für den Bedarf
+            der U nicht eigneten. Im Frühjahr 2024 verkauft F der U eine Furniermaschine
+            "XG 100". Dabei verschweigt er der U, dass diese Maschine die Holzplatten nur
+            einseitig furniert, obwohl er weiß, dass U überwiegend beidseitig furnierte Span-
+            platten verarbeitet. Durch das Verschweigen einer für U wichtigen Eigenschaft der
+            Maschine täuscht F seine Vertragspartnerin durch Unterlassen. Da F und U mehr
+            als 5 Jahre in Vertragsverhandlungen gestanden haben und sich in dieser Zeit ein
+            Vertrauensverhältnis zwischen den Parteien entwickelt haben dürfte, war F ver-
+            pflichtet, die U über alle wesentlichen Eigenschaften der Furniermaschine aufzu-
+            klären. U kann den Kaufvertrag wegen einer Täuschung durch Unterlassen gemäß
+            § 123 Abs. 1 anfechten.
+
+            c)             Die Kausalität
+     Die Täuschung muss einen Irrtum beim Erklärenden hervorgerufen haben, der für die
+     Abgabe der Willenserklärung kausal war. Ohne die Täuschung dürfte die Erklärung
+     nicht, nicht mit dem Inhalt oder nicht zu der Zeit abgegeben worden sein. Keine Kau-
+     salität liegt vor, wenn der Getäuschte den wahren Sachverhalt kannte und deshalb
+     auch ohne die Täuschung dieselbe Willenserklärung abgegeben hätte.
+
+
+
+            d)             Widerrechtlichkeit
+     Die Täuschung muss widerrechtlich sein. Das ergibt sich – anders als bei der Drohung
+     – nicht aus dem Gesetzeswortlaut. Der Gesetzgeber ging davon aus, dass die Täu-
+     schung stehst widerrechtlich sei. 45 Prüfungsrelevanteste Ausnahme ist das Recht zur
+     Lüge im Arbeitsrecht beispielsweise bei der Frage nach einer Schwangerschaft. 46
+
+
+
+
+     _________________________________________________
+     44
+          BGH, JuS 2006, 1015.
+     45
+          BROX/WALKER § 19 Rn. 6.
+     46
+          STAUDINGER/SINGER/VFINCKENSTEIN, BGB § 123, Rn. 33 ff; Näheres dazu auch im Modul 55105 Arbeitsver-
+             tragsrecht
+Die Anfechtbarkeit von Willenserklärungen                                                  21
+
+
+
+       e)             Die Arglist
+Arglistig handelt, wer den Vorsatz, also den Täuschungswillen hat. Dolus eventualis,
+also bedingter Vorsatz, genügt, 47 nicht hingegen grobe Fahrlässigkeit. Arglistig han-
+delt deshalb nicht, wer gutgläubig unrichtige Angaben macht, auch wenn der gute
+Glaube auf Fahrlässigkeit oder Leichtfertigkeit beruht. 48 Die Grenze wird von der
+Rechtsprechung jedoch bei „Behauptungen ins Blaue hinein“, die auf keiner hinrei-
+chenden Erkenntnisgrundlage beruhen, gezogen. So zum Beispiel, wenn der Auto-
+verkäufer ohne tatsächliche Grundlage falsche Angaben hinsichtlich der Unfallfreiheit
+macht. 49
+Der Täuschende muss allerdings mit dem Bewusstsein handeln, dass der Getäuschte
+zur Abgabe einer Willenserklärung bestimmt wird. 50
+Arglistig handelt nicht nur derjenige, der weiß, dass die angegebenen Tatsachen nicht
+der Wahrheit entsprechen; arglistig ist vielmehr auch der, der einem anderen versi-
+chert, eine bestimmte Kenntnis von Vorgängen oder Umständen zu haben, diese
+Kenntnis in Wirklichkeit aber nicht hat. 51
+
+       f)             Die Täuschung durch Dritte (§ 123 Abs. 2)
+Auch eine dritte Person, die an dem Rechtsgeschäft nicht als Partner beteiligt ist, kann
+die Täuschung verüben, die zur Abgabe einer Willenserklärung führt. In einem sol-
+chen Fall soll der Getäuschte nur eine eingeschränkte Möglichkeit haben, seine Wil-
+lenserklärung anzufechten. Die Erklärung ist nur anfechtbar, wenn der Erklärungs-
+empfänger die Täuschung kannte oder kennen musste.
+Knüpft man an den Wortlaut des § 123 Abs. 2 an, so ist "Dritter" – mit Ausnahme
+der Person, die die Willenserklärung abgegeben hat und der gegenüber sie abgege-
+ben worden ist. Dieser vom Wortsinn abgeleitete Begriff des Dritten ist seit jeher als
+zu weit gefasst angesehen worden. So hat die Rechtsprechung 52 stets Stellvertreter
+– also Personen, die als Erklärende oder Empfänger bei der Abgabe oder Entgegen-
+nahme von Willenserklärungen andere Personen rechtsgeschäftlich oder gesetzlich
+vertreten – nicht als Dritte i.S. des § 123 Abs. 2 angesehen. Als Dritter i.S. des § 123
+Abs. 2 kann nur ein unbeteiligter Dritter in Betracht kommen. Das kann derjenige
+nicht sein, der auf Seiten des Erklärungsgegners (Geschäftspartners) steht und bei
+dem Zustandekommen des Geschäftes eine Rolle gespielt hat, ebenso nicht diejeni-
+gen Personen, deren Verhalten dem des Anfechtungsgegners gleichzusetzen ist. 53
+Dies hat die Rechtsprechung 54 über den Bereich der gesetzlichen oder rechtsgeschäft-
+lichen Vertretung hinaus auch bei einem vom Erklärungsempfänger beauftragten Ver-
+handlungsführer oder –gehilfen bejaht sowie bei einem Beteiligten, dessen Verhalten
+
+
+
+_________________________________________________
+47
+     BGHZ 7, 301, 302.
+48
+     BGH JZ 1980, 522 f.
+49
+     BGH NJW 2006, 2839.
+50
+     STAUDINGER/SINGER, § 123 Rn. 49.
+51
+     BGH NJW 1980, 2460.
+52
+     RGZ 101, 97, 98; BGHZ 20, 36, 39.
+53
+     BGHZ 33, 302, 309 f.; BeckRS 1980, 31074435.; "Lagertheorie".
+54
+     Vgl. BGHZ 47, 224, 230 f.; BGH NJW-RR 1992, 1005.
+22                                                        Die Anfechtbarkeit von Willenserklärungen
+
+
+
+     dem Erklärungsempfänger wegen besonders enger Beziehungen zwischen beiden o-
+     der wegen sonstiger besonderer Umstände billigerweise zugerechnet werden muss.
+     Wer dagegen einen Vertragsschluss lediglich vermittelt, z.B. als Makler, ist "Drit-
+     ter", dessen Täuschungshandlung sich der Erklärungsempfänger nur bei Kenntnis
+     oder Kennen müssen zurechnen lassen muss. Gleiches soll im Grundsatz auch gelten,
+     wenn eine Person aus eigenem Antrieb einen Vertrag anbahnt. Das bedeutet: Eine
+     Vertragspartei muss sich nicht ohne weiteres die arglistige Täuschung zurechnen las-
+     sen, die eine andere Person bei der eigenmächtigen Anbahnung eines Vertragsab-
+     schlusses begangen hat.
+     Eine täuschende Person ist also auch dann nicht Dritter i.S. des § 123 Abs. 2, wenn
+     sie eine Vertrauensperson des Erklärungsempfängers ist, für deren Verschulden der
+     Erklärungsempfänger gemäß § 278 einstehen müsste, weil er sich ihrer zur Erfüllung
+     einer Verbindlichkeit bedient. In solchen Fällen ist eine Anfechtung gemäß § 123
+     Abs. 1 möglich. 55
+            Beispiel (nach BGHZ 47, 224): K kauft von dem Autohändler V einen Neuwagen
+            für € 47.500,––. Da K den Kaufpreis nicht sofort bezahlen kann, legt V dem K ein
+            vorformuliertes Angebot zum Abschluss eines Darlehensvertrages mit der Teilzah-
+            lungsbank T vor, mit der V schon lange zusammenarbeitet und von der er die
+            Formulare zugesandt bekommt. Dabei erklärt V dem K, seine Unterschrift unter
+            das Formular sei reine Formsache; mit der Bank habe er nichts zu tun, sondern
+            nur mit ihm, so dass auch der im Formular enthaltene hohe Zinssatz nicht gelte.
+            Als nach der Unterschrift des K die Bank sein Angebot annimmt, die Darlehens-
+            summe auszahlt und von K die erste Rate verlangt, erklärt dieser die Anfechtung
+            des Darlehensvertrages. Zu Recht?
+            In diesem Fall hat nicht der Vertragspartner des K (die Bank), sondern eine ver-
+            tragsfremde Person (V) die Täuschung verübt. Dennoch ist V nicht Dritter i.S. von
+            § 123 Abs. 2, so dass die Anfechtungserklärung des K auch erfolgreich und somit
+            der Darlehensvertrag gemäß § 142 nichtig ist. V war hier zwar nicht Vertreter der
+            Bank, denn er gab keine Willenserklärung im Namen der Bank ab (vgl. § 164). V
+            war vielmehr Verhandlungsgehilfe, was zur Folge hat, dass sich die Bank ein von
+            V "bei Durchführung dieser Aufgabe begangenes Verschulden nach § 278 als ei-
+            genes Verschulden zurechnen lassen muss". 56 Daher ist V Vertrauensperson der
+            Bank und mithin kein Dritter i.S. von § 123 Abs. 2.
+
+     Selbst wenn der Täuschende nicht Vertreter oder Vertrauensperson des Erklärungs-
+     empfängers ist oder zu sein scheint, muss unter Billigkeitsgesichtspunkten und unter
+     Berücksichtigung der Interessenlage beurteilt werden, ob aufgrund besonderer Um-
+     stände die Eigenschaft als Dritter zu verneinen ist. 57
+
+
+     Merke: § 123 II 1 ist keine eigenständige Anspruchsgrundlage. Vielmehr kommt es
+     darauf an, ob dem Anfechtungsgegner die Täuschung eines Dritten i.S.d. § 123 I
+     Var. 1 zuzurechnen ist. Bei in seinem Lager stehenden Hilfspersonen (Stellvertretern,
+     Organen einer Gesellschaft oder Verrichtungsgehilfen) handelt es sich nicht um einen
+
+
+
+
+     _________________________________________________
+     55
+          BGHZ 47, 224, 230.
+     56
+          BGHZ 47, 224, 230.
+     57
+          BeckRS 1980, 31074435; BeckRS 1983, 31071796.
+Die Anfechtbarkeit von Willenserklärungen                                                    23
+
+
+
+„Dritten“ und die Zurechnung der Täuschung erfolgt bereits nach allgemeinen Nor-
+men (§§ 31, 278, 166). Hiernach muss der Anfechtungsgegner die Täuschung weder
+kennen noch kennen müssen.
+
+Ist der Täuschende hingegen ein „Dritter“, so ist dem Anfechtungsgegner die Täu-
+schung nur zuzurechnen, wenn er von ihr Kenntnis oder grob fahrlässige Unkenntnis
+hatte, § 123 II 1. Der Anfechtungsgegner ist etwas privilegierter, da er gerade auf die
+Unabhängigkeit des Dritten vertrauen darf.
+
+
+       3.           Die Anfechtung wegen widerrechtlicher Drohung
+Da die aufgrund einer widerrechtlichen Drohung abgegebene Willenserklärung nicht
+auf dem freien Willen des Erklärenden beruht, gestattet das Gesetz die Anfechtung
+unter den in § 123 Abs. 1 Var. 2 genannten Voraussetzungen.
+
+       a)             Die Drohung
+
+     Def.: Eine Drohung ist das vom Gegner ernst genommene In-Aussicht-Stellen ei-
+     nes künftigen Übels, auf dessen Eintritt oder Nichteintritt der Drohende einwirken
+     zu können behauptet; es genügt nicht die Ausnutzung eines bestehenden Übels.
+
+
+Die Möglichkeit, wegen Drohung anfechten zu können, beruht darauf, dass der Wille
+des Erklärenden beeinflusst worden ist. Deshalb gehört zum Tatbestand der Drohung
+eine psychische Einwirkung, die darin besteht, dass Furcht vor einem künftigen Übel
+erregt wird. Die Ankündigung einer Strafanzeige kann z.B. eine Drohung sein.
+Ob eine durch eine Drohung hervorgerufene psychische Zwangslage ("vis compul-
+siva" 58) vorliegt oder nicht, ist aus der Sicht des Bedrohten zu beurteilen. Deshalb kann
+auch eine nicht ernstlich gemeinte Drohung zur Anfechtung berechtigen, wenn der
+Empfänger sie als ernstlich auffassen durfte. 59
+
+       b)             Die Widerrechtlichkeit
+Zwischen der Drohung und der Abgabe der Willenserklärung muss ein ursächlicher
+Zusammenhang bestehen; außerdem muss die Drohung widerrechtlich sein.
+Die Widerrechtlichkeit betrifft die unzulässige Art und Weise der Willensbeugung, die
+verwerfliche Benutzung einer Drohung als Druckmittel, um einen anderen in seinem
+Entschluss, eine Willenserklärung abzugeben, zu bestimmen. 60
+Die Rechtswidrigkeit kann sich aus drei Fallgruppen ergeben:
+
+
+
+
+_________________________________________________
+58
+     Vgl. Skript 2, § 2 II 3. a.
+59
+     BGH NJW 1982, 2301 f.
+60
+     BGHZ 25, 217, 220.
+24                                                                      Die Anfechtbarkeit von Willenserklärungen
+
+
+
+
+                                                         Rechtswidrigkeit
+
+
+
+                                                                                 Zweck-Mittel-
+                          angedrohte                      angewandtes
+                                                                                    Relation
+                           Verhalten                         Mittel
+                                                                                  (Verhältnis)
+
+
+
+     Die Drohung ist z.B. auch widerrechtlich, wenn sich der Drohende an sich erlaubter
+     Mittel bedient, auf die Leistung, zu der sich der Erklärende unter der Einwirkung des
+     Druckes verpflichtet, aber kein Recht hat. 61 Andererseits ist aber auch nicht allein da-
+     rauf abzustellen, ob der Drohende einen Rechtsanspruch auf die Erklärung des Be-
+     drohten hat. Vielmehr ist bei erlaubtem Mittel und erlaubtem Ziel darauf abzustellen,
+     ob der Drohende an der Erreichung des von ihm erstrebten Erfolges ein berechtigtes
+     Interesse hat und ob die Drohung nach der Auffassung aller billig und gerecht Den-
+     kenden ein angemessenes Mittel darstellt. 62
+
+            Beispiel: Der Angestellte A hat eine Unterschlagung begangen. B, der Inhaber
+            des Betriebes, fordert A dazu auf, in einem schriftlichen Schuldanerkenntnis
+            (§ 781) zu erklären, dass A dem B die unterschlagene Summe schuldet. Als A sich
+            weigert, droht B mit der Strafanzeige, zu deren Erstattung er allerdings keine Ver-
+            anlassung sehe, wenn A unterzeichne. A unterzeichnet das Schuldanerkenntnis
+            und möchte später gemäß § 123 Abs.1 Alt. 2 anfechten. Kann er das?
+            Die Ankündigung der Strafanzeige ist eine Drohung. Fraglich ist nur, ob sie wider-
+            rechtlich ist. Hier ist weder das angestrebte Ziel (die Wiedergutmachung des Scha-
+            dens durch Bestätigung eines ohnehin vorhandenen Anspruchs) noch das Mittel
+            (die Strafanzeige) für sich allein zu beanstanden. Die Widerrechtlichkeit ergibt sich
+            auch nicht aus dem Verhältnis von Mittel und Zweck, da die Beziehung zwischen
+            der Straftat (Unterschlagung) und dem geltend gemachten Anspruch auch eine
+            solche Drohung nach der Auffassung aller billig und gerecht Denkenden als ein
+            angemessenes Mittel erscheinen lässt. 63 Demnach kann A seine Willenserklärung,
+            die zum Schuldanerkenntnis führte, nicht gemäß § 123 Abs. 1 Alt. 2 wegen wi-
+            derrechtlicher Drohung anfechten
+
+            c)             Die subjektiven Voraussetzungen
+     Der Drohende muss den Vorsatz haben, Furcht zu erregen, um dadurch die Abgabe
+     der Willenserklärung zu erzwingen; dolus eventualis genügt. Ein Bewusstsein der
+     Rechtswidrigkeit muss nicht vorliegen. Es reicht aus, dass der Drohende die Umstände
+     kennt, aus deren Bewertung sich die Widerrechtlichkeit ergibt (Parallelwertung in der
+     Laiensphäre). 64
+
+
+
+
+     _________________________________________________
+     61
+          BGHZ 6, 348, 351.
+     62
+          BGHZ 25, 217, 220.
+     63
+          BGHZ 25, 217, 220.
+     64
+          STAUDINGER/SINGER/FINCKENSTEIN, BGB § 123, Rn. 85 ff.
+Die Anfechtbarkeit von Willenserklärungen                                              25
+
+
+
+Nach Ansicht des BGH 65 soll die Widerrechtlichkeit bei einem unverschuldeten Irrtum
+über die Grundlagen der Wertung ausgeschlossen sein. Dem hält die Literatur 66 mit
+Recht entgegen, bei § 123 Abs. 1 Alt. 2 gehe es nicht darum, dem Drohenden einen
+Vorwurf zu machen, sondern um den Schutz des in seiner Entschließungsfreiheit Be-
+drohten.
+
+
+       IV.        Die weiteren Voraussetzungen für den Eintritt der Anfech-
+                  tungsfolgen
+Das Gesetz räumt dem Anfechtungsberechtigten das Gestaltungsrecht ein, seine
+Willenserklärung durch eine Anfechtungserklärung zu vernichten oder aber seine Wil-
+lenserklärung unverändert so, wie sie abgegeben worden ist, weiter gelten zu lassen.
+Damit alle von einem anfechtbaren Rechtsgeschäft Betroffenen möglichst bald wis-
+sen, ob das vereinbarte, aber anfechtbare Rechtsgeschäft durch eine Anfechtungser-
+klärung vernichtet wird oder ob es bestehen bleiben wird, hat das Gesetz dem An-
+fechtungsberechtigten eine Frist gesetzt, innerhalb derer er die Anfechtung erklären
+muss. Nicht schon die Anfechtungsmöglichkeit als solche, sondern erst die fristge-
+mäße Anfechtungserklärung gegenüber dem Erklärungsgegner führt die Nichtigkeit
+der anfechtbaren Willenserklärung herbei.
+Die Anfechtung erfolgt gemäß § 143 Abs. 1 gegenüber dem Anfechtungsgegner.
+Eine Anfechtungserklärung ist eine einseitige empfangsbedürftige Willenserklä-
+rung, die gegenüber dem Anfechtungsgegner (Erklärungsempfänger) abgegeben
+wird und unzweideutig den Willen des Anfechtenden zum Ausdruck bringt, er wolle
+das Geschäft gerade wegen des Willensmangels nicht bestehen lassen, sondern
+rückwirkend beseitigen. Das Wort "anfechten" muss nicht benutzt werden. Je nach
+den Umständen genügt es durchaus, dass eine nach dem objektiven Erklärungswert
+der Willensäußerung übernommene Verpflichtung bestritten oder nicht anerkannt
+wird oder wenn ihr widersprochen wird (z.B. „annuliere“ oder „null und nichtig“).
+Anfechtungsgegner ist bei einem Vertrag der Vertragspartner (§ 143 Abs. 2). Stehen
+dem Anfechtenden mehrere Vertragspartner gegenüber, so muss er die Anfechtung
+allen gegenüber erklären. 67
+Liegt ein Anfechtungstatbestand der §§ 119, 120 vor, muss unverzüglich, d.h. nach
+der gesetzlichen Definition des § 121 Abs. 1 ohne schuldhaftes Zögern, angefochten
+werden.
+Bei Vorliegen eines Anfechtungstatbestandes des § 123 Abs. 1 muss gemäß § 124
+binnen Jahresfrist die Anfechtung erfolgen. Der Beginn dieser Frist bestimmt sich
+nach § 124 Abs. 2.
+Eine Anfechtung ist ausgeschlossen, wenn der Anfechtungsberechtigte durch eine
+nicht empfangsbedürftige Willenserklärung deutlich macht, dass er ein ihm bekanntes
+Anfechtungsrecht nicht ausüben will (Bestätigung gemäß § 144). Sie setzt Kenntnis
+vom Anfechtungsgrund voraus und bedarf nach § 144 II nicht der für das Rechtsge-
+schäft bestimmten Form.
+
+
+
+_________________________________________________
+65
+     BGHZ 25, 217, 224 f.
+66
+     U.a. BROX/WALKER, § 19 Rn. 28.
+67
+     BGHZ 96, 302, 309 f.
+26                                                       Die Anfechtbarkeit von Willenserklärungen
+
+
+
+         Beispiel: M wird von H bei dem Kauf eines Wagens arglistig getäuscht. Bezahlt
+         M den Kaufpreis, obwohl er weiß, dass er aufgrund der arglistigen Täuschung
+         anfechten kann, so bestätigt er durch dieses Vorgehen im Zweifel konkludent den
+         anfechtbaren Kaufvertrag und verliert dadurch sein Anfechtungsrecht.
+
+
+         V.      Rechtsfolgen der Anfechtung
+
+         1.       Nichtigkeit des angefochtenen Rechtsgeschäfts
+     Nach § 142 Abs. 1 ist das angefochtene Rechtsgeschäft als "von Anfang an nichtig
+     anzusehen". Das Rechtsgeschäft entfaltet also keinerlei Rechtsfolgen mehr: vertrag-
+     lich begründete Ansprüche zwischen den Parteien (z.B. aus einem Kaufvertrag) ent-
+     fallen. Dasselbe gilt für die Wirkungen von Verfügungsgeschäften. Nach Anfechtung
+     einer Übereignung (z. B. weil der Verfügende arglistig getäuscht oder bedroht wurde,
+     § 123) ist der ursprüngliche Veräußerer einer Sache also (wieder) ihr Eigentümer. Zu
+     schwierigen Problemen kann in diesem Zusammenhang das Abstraktionsprinzip füh-
+     ren, wenn z. B. nach dem Verkauf und der Übereignung einer Sache nur das Ver-
+     pflichtungsgeschäft angefochten worden ist (s. unten, § 15).
+     Die Nichtigkeit nach § 142 Abs. 1 hat außerdem zur Folge, dass bereits zwischen den
+     Parteien ausgetauschte Leistungen zurückgewährt werden müssen. Grundlage hier-
+     für sind die Regeln über die "ungerechtfertigte Bereicherung" (§§ 812 ff.).
+
+         Beispiel: K hat von V ein Bild zum Preis von 15.000 Euro gekauft. K hat den
+         Kaufpreis gezahlt, und V hat dem K das Bild übereignet. Wird der Kaufvertrag
+         (z. B. wegen eines Inhaltsirrtums über die Person des Malers, § 119 Abs. 2) von K
+         angefochten, so kann der K von V nach § 812 Abs. 1 S. 1 1. Alt. die Rückzahlung
+         des Kaufpreises verlangen, weil der "Rechtsgrund" für die Übereignung des ge-
+         zahlten Geldes entfallen ist. Umgekehrt hat V gegenüber K (ebenfalls aus § 812
+         Abs. 1 S. 1 1. Alt.) einen Anspruch auf Rückübereignung des Bildes.
+
+
+         2.       Die Schadensersatzpflicht des Anfechtenden gemäß § 122
+     In den Fällen, in denen jemand aus den in § 119 und § 120 genannten Gründen eine
+     Willenserklärung angefochten hat, ist der Anfechtende verpflichtet, dem Empfänger
+     der Erklärung "den Schaden zu ersetzen, den der andere oder ein Dritter dadurch
+     erleidet, dass er auf die Gültigkeit der Erklärung vertraut, jedoch nicht über den Betrag
+     des Interesses hinaus, welches der andere oder der Dritte an der Gültigkeit der Erklä-
+     rung hat" (§ 122 Abs. 1).
+     Dies bedeutet: Die Schadensersatzpflicht dessen, der gemäß § 122 in Anspruch ge-
+     nommen werden kann, erstreckt sich auf den Vertrauensschaden (= negatives In-
+     teresse), d.h der Anfechtungsgegner ist so zu stellen, wie er stehen würde, wenn er
+     von dem angefochtenen Rechtsgeschäft nichts gehört hätte.
+         Beispiel: V verkauft dem K eine Porzellanvase; der Kaufvertrag kann von K gemäß
+         § 119 Abs. 1 angefochten werden. Verpackt V vor der Anfechtung durch K die
+         Vase, so stellen die aufgewandten Verpackungskosten den Vertrauensschaden
+         dar, den K der V gemäß § 122 Abs. 1 zu ersetzen hat. Diese Kosten wären nicht
+         entstanden, wenn es zu keinem Vertragsschluss gekommen wäre.
+     In § 122 ist das negative Interesse durch das Erfüllungsinteresse, das so genannte
+     positive Interesse, begrenzt ("jedoch nicht über den Betrag des Interesses hinaus, wel-
+     ches der andere... an der Gültigkeit der Erklärung hat").
+Die Anfechtbarkeit von Willenserklärungen                                                    27
+
+
+
+Erfüllungsinteresse (= positives Interesse) heißt: Derjenige, der in Anspruch genom-
+men werden kann, hat den Gläubiger so zu stellen, wie dieser stehen würde, wenn
+der Schuldner den Vertrag ordnungsgemäß erfüllt hätte.
+       Beispiel: A fragt schriftlich bei der Musikerin F an, ob diese bereit sei, am 24.9.
+       die Hochzeitsfeierlichkeiten des A musikalisch zu untermalen. Bei der Abfassung
+       des Briefes an F verschreibt sich A und bietet der F statt der gewollten € 1500,––
+       € 2500,––. F nimmt das Angebot des A an und schlägt kurz darauf ein Angebot
+       der B, am 24.9. auf deren Geburtstag für € 3000,–– zu musizieren, aus. Kurz vor
+       dem 24.9. erklärt A wirksam die Anfechtung des Vertrages. Der Vertrauensscha-
+       den der F ist hier mit € 3000,– zu beziffern, da sie das Angebot der B in dieser
+       Höhe ausgeschlagen hat, weil sie von der Gültigkeit des Vertrages mit A ausging.
+       Da F von A aber bei ordnungsgemäßer Durchführung des angefochtenen Vertra-
+       ges lediglich € 2500,–– erhalten hätte, dieser Betrag also das Erfüllungsinteresse
+       (= positives Interesse) des Vertrages zwischen A und F darstellt, wird der Erfül-
+       lungsschaden der F hier auf € 2500,–– begrenzt.
+
+Ein Schadensersatzanspruch ist gemäß § 122 Abs. 2 ausgeschlossen, wenn der Ge-
+schädigte den Anfechtungsgrund kannte oder fahrlässig nicht kannte. Jede Fahrläs-
+sigkeit reicht dabei aus.
+Mit § 122 wird der Zweck verfolgt, denjenigen Partner des Rechtsgeschäfts, der auf
+die Gültigkeit der Willenserklärung vertraut, gegen Nachteile, die ihm aus der Anfech-
+tung erwachsen, zu schützen, soweit dieses Vertrauen schutzwürdig ist. Deshalb ent-
+steht der Anspruch aus § 122 ohne Rücksicht darauf, ob den Anfechtenden ein Ver-
+schulden an seinem Irrtum trifft oder nicht. 68
+
+       3.           Konkurrenzen
+§ 123 Abs. 1 Alt. 1 u. 2 sind neben den Gewährleistungsrechten der §§ 437 ff. an-
+wendbar. Auch bleibt die Anwendung des C.I.C. unberührt. Auch können Ansprüche
+aus § 823 f. begründet sein. 69
+
+
+
+
+_________________________________________________
+68
+     Zu § 122 BGB auch: PRÜTTING/FISCHER, Jura 2016, 511.
+69
+     BeckOK/WENDTLAND, BGB § 123 Rn. 40.
+28                                                     Die Anfechtbarkeit von Willenserklärungen
+
+
+
+
+       § 119/120/118        •Schadensersatz berechtigender Grund
+
+
+
+
+         Ausschluss         •Keine Kenntnis/fahrlässige Unkenntnis des Geschädigten von
+          § 122 II           dem Anfechtungsgrund
+
+
+
+
+                            •Vertrauensschaden/negatives Interesse
+        Schaden: auf        •Idee: was ist nur wegen des Vertrages passiert
+        Gültigkeit der      •Aufwendungen anlässlich des Vertragsschlusses (Porto,
+          Erklärung          Verpackung, Fahrtkosten)
+           vertraut         •entgangener Gewinn, indem kein anderer Vertrag
+                             abgeschlossen werden konnte
+
+
+                            •Erfüllungsinteresse/positives Interesse
+        Interesse: an
+                            •Idee: was wäre passiert wenn nicht angefochten, sondern
+        Gültigkeit der
+                             normal erfüllt worden wäre
+          Erklärung
+                            •Erhaltende Gegenleistung wie Kaufpreis/Werklohn/Miete
+
+
+
+
+         Begrenzung         •Vertrauensschaden
+           § 122 I          •höchstens der Erfüllungsschaden
+
+
+
+
+        VI.      Die Teilanfechtung
+     Die Teilanfechtung ist nicht ausgeschlossen. Sie ist allerdings nur möglich, wenn das
+     Rechtsgeschäft teilbar ist, was voraussetzt, dass ein Restrechtsgeschäft wirksam be-
+     stehen bleiben kann. Ob ein Rechtsgeschäft teilbar ist, ist gemäß § 139 zu entschei-
+     den. Hierzu siehe unten, § 15 I.
+
+
+        VII.     Der gemeinsame Motivirrtum – die Störung der Geschäfts-
+                 grundlage
+
+        1.        Überblick
+     Abgesehen von den in § 119 Abs. 2 geregelten Fällen des Eigenschaftsirrtums und
+     der arglistigen Täuschung gemäß § 123 Abs. 1 bleiben die irrigen Vorstellungen einer
+     Vertragspartei über einen für ihren Entschluss bedeutsamen Umstand oder die irrige
+     Erwartung über die sich in der Zukunft aus der Wirksamkeit der Erklärung ergebenden
+     Entwicklungen ohne Konsequenzen. Das bedeutet: In den zuletzt genannten Fällen
+     können die am Geschäft Beteiligten nicht anfechten.
+Die Anfechtbarkeit von Willenserklärungen                                                  29
+
+
+
+        Beispiel: A wird in einen Autounfall verwickelt. Sein PKW wird schwer beschä-
+        digt. In der Annahme, es handele sich um einen Totalschaden, schließt er mit V
+        einen Kaufvertrag über einen neuen PKW. Danach stellt der Sachverständige fest,
+        dass es sich nicht um einen Totalschaden handelt, der beschädigte PKW vielmehr
+        für einen relativ niedrigen Preis repariert werden könnte. Hätte A dies gewusst,
+        hätte er den neuen Wagen nicht gekauft. Der Neuwagenkauf beruht hier auf
+        einem unbeachtlichen Motivirrtum, der A gegenüber V nicht zur Anfechtung be-
+        rechtigt.
+Ausgeschlossen ist die Anfechtung auch in den Fällen des beiderseitigen Motivirrtums
+(auch Doppelirrtum genannt).
+Bei einem beiderseitigen Motivirrtum irren beide am Geschäft beteiligten Personen
+über wesentliche Umstände des Vertrages. So können sich z.B. beide Vertragsparteien
+über dieselben wesentlichen Eigenschaften des Geschäftsgegenstandes geirrt haben.
+Ist in den meisten Fällen dieser Art die Anfechtung ausgeschlossen, so besteht doch
+das Bedürfnis, in manchen Fällen des beiderseitigen Motivirrtums den Parteien die
+Möglichkeit zu geben, ihre vertraglich geschaffene Position zu verändern.
+Insoweit stellt sich die Frage nach der Abgrenzung zum Wegfall der Geschäftsgrund-
+lage, die in § 313 kodifiziert ist. § 313 Abs. 2 regelt dabei das ursprüngliche Fehlen
+der subjektiven Geschäftsgrundlage. Hierbei geht es um die Fälle des gemeinschaftli-
+chen Irrtums über einen für die Willensbildung wesentlichen Umstand als auch um
+solche Fälle, in denen sich nur eine Partei falsche Vorstellungen macht, die andere
+Partei diesen Irrtum aber ohne eigene Vorstellungen ohne Widerspruch hingenom-
+men hat. Damit wird klargestellt, dass die Fälle des Doppelirrtums einen Anwen-
+dungsfall des Wegfalls der Geschäftsgrundlage darstellen. Voraussetzung ist aber
+immer, dass das Festhalten am unveränderten Vertrag der Partei unter Berücksichti-
+gung aller Umstände, insbesondere der vertraglichen oder gesetzlichen Risikovertei-
+lung, unzumutbar ist. Die Rechte aus § 313 scheiden daher aus, wenn die Störung
+der Motivation ausschließlich in die Risikosphäre einer Partei fällt oder wenn die Ver-
+tragserfüllung trotz des Irrtums zumutbar ist.
+
+       2.           Die Geschäftsgrundlage
+Die von der Literatur und der Rechtsprechung entwickelten Grundsätze zum Fehlen
+und zum Wegfall der Geschäftsgrundlage sind durch das Schuldrechtsmodernisie-
+rungsgesetz zum 1. Januar 2002 in § 313 normiert worden. Gemäß § 313 Abs. 1
+kann bei einer schwerwiegenden Änderung von Umständen, die zur Grundlage des
+Vertrages geworden sind, die Anpassung des Vertrages verlangt werden, soweit ei-
+nem Teil unter Berücksichtigung aller Umstände des Einzelfalls, insbesondere der ver-
+traglichen oder gesetzlichen Risikoverteilung, das Festhalten am unveränderten Ver-
+trag nicht zugemutet werden kann. Darunter fallen die Fälle des Wegfalls der so
+genannten "objektiven" Geschäftsgrundlage, d.h. die der Leistungserschwerungen,
+der Zweck- und Äquivalenzstörungen. 70 § 313 Abs. 2 erfasst dagegen die Fälle der so
+genannten "subjektiven" Geschäftsgrundlage, also den Doppelirrtum (vgl. dazu oben
+VII. 1.).
+
+
+
+
+_________________________________________________
+70
+     BeckOK/LORENZ, BGB § 313 Rn. 1
+30                                                       Die Anfechtbarkeit von Willenserklärungen
+
+
+
+     Unter Geschäftsgrundlage versteht man die nicht zum eigentlichen Vertragsinhalt
+     erhobenen, aber bei Vertragsschluss zutage getretenen gemeinschaftlichen Vorstel-
+     lungen beider Vertragsparteien oder die dem Geschäftsgegner erkennbaren und von
+     ihm nicht beanstandeten Vorstellungen der einen Vertragspartei von dem Vorhan-
+     densein oder dem künftigen Eintritt gewisser Umstände, auf denen sich der Ge-
+     schäftswille der Parteien aufbaut 71.
+     Man kann unterscheiden zwischen:
+            •    der von Anfang an fehlende Geschäftsgrundlage (§ 313 Abs. 2): die bei
+                 Abschluss des Vertrages dem Geschäftswillen der Parteien zugrunde liegen-
+                 den Vorstellungen über die gegenwärtigen Umstände erweisen sich später als
+                 falsch,
+     und
+            •    dem späteren Wegfall der Geschäftsgrundlage (§ 313 Abs. 1): die bei Ab-
+                 schluss des Vertrages dem Geschäftswillen der Parteien zugrunde liegenden,
+                 auf die Zukunft gerichteten Vorstellungen über das weitere Andauern oder
+                 den späteren Eintritt von bestimmten Zuständen gehen nicht in Erfüllung.
+     In den meisten Fällen des Fehlens oder des Wegfalls der Geschäftsgrundlage geht es
+     im Kern um die Frage, wie verfahren werden soll, wenn die Umstände, bei deren
+     Vorliegen, Fortbestand oder Eintritt die betreffende Regelung des Vertrages sinnvoll
+     ist, von vornherein fehlen, später wegfallen oder gar nicht eintreten.
+     Die Frage lautet also: Wer soll das Risiko der unerwarteten Veränderungen der Ver-
+     hältnisse tragen?
+     In den meisten Fällen dürfte sich die Frage nach der Risikoverteilung entweder aus der
+     vertraglichen Vereinbarung oder aus dem Gesetz beantworten lassen. Zum Inhalt fast
+     aller Verträge gehört neben der Festlegung der beiderseitigen Leistungen die Vertei-
+     lung bestimmter Risiken zwischen den Parteien.
+            Beispiel: In einem Pachtvertrag wird vereinbart, dass der Verpächter, der Eigen-
+            tümer der mitverpachteten Grundstücke ist, eine für die Zukunft drohende Erhö-
+            hung der Grundbesitzabgaben auf den Pächter abwälzen kann.
+
+     Ist keine vertragliche Vereinbarung über die Risikoverteilung getroffen, so ergibt sich
+     eine solche vielfach aus dem Gesetz.
+            Beispiel: Beim Kauf unter Eigentumsvorbehalt geht die Preisgefahr gemäß § 446
+            mit der Übergabe und nicht erst mit der Übereignung auf den Käufer über.
+
+     Diese Risikoverteilung kraft vertraglicher oder gesetzlicher Regelung genießt stets Vor-
+     rang. Für die Anwendung der Lehre vom Fehlen und vom Wegfall der Geschäfts-
+     grundlage ist dann kein Raum!
+     Es ist jedoch stets zu berücksichtigen, dass jeder Risikoverteilung, mag sie auf Vertrag
+     oder Gesetz beruhen, Annahmen zugrunde liegen, von deren Richtigkeit es abhängt,
+     ob die getroffene Risikoverteilung für die Parteien tragbar ist.
+
+
+     _________________________________________________
+
+     71
+          NK-BGB/JUNG, BGB § 313 Rn. 54.
+Die Anfechtbarkeit von Willenserklärungen                                                 31
+
+
+
+Fehlen die Umstände, auf denen diese Annahmen beruhen, überhaupt schon bei Ver-
+tragsschluss oder fallen sie später weg, muss dies nicht automatisch einen Wegfall
+der Geschäftsgrundlage zur Folge haben. Zunächst ist sehr sorgfältig zu prüfen, ob
+nicht die benachteiligte Partei nach der sinngemäß weitergedachten, vertraglichen
+oder gesetzlichen Risikoverteilung auch dieses Risiko tragen soll. Dies ist im Wege der
+Auslegung des Vertrages zu ermitteln. Die ergänzende Vertragsauslegung hat we-
+gen der mit ihrer Hilfe unter Umständen ermöglichten Durchführung des Regelungs-
+planes der Vertragsparteien Vorrang vor einer bei Wegfall der Geschäftsgrundlage
+möglicherweise notwendigen Korrektur der vertraglichen Abreden. 72 (vgl. u.a. BGHZ
+90, 69, 74).
+Erst dann, wenn man zu dem Ergebnis gelangt, dass die vertragliche oder gesetzliche
+Risikoverteilung geradezu jeden Sinn verliert oder gleichsam in ihr Gegenteil verkehrt
+wird, so dass die unveränderte Durchführung des Vertrages für eine Partei unzumut-
+bar wird, kann über die Anwendung der Regeln über den Wegfall der Geschäfts-
+grundlage nachgedacht werden.
+Daraus wird deutlich, dass es sich ausnahmslos um Grenzfälle handelt, in denen die
+belastete Partei mit der Berufung auf den Wegfall der Geschäftsgrundlage Erfolg hat.
+Die wichtigsten Fälle des Wegfalls der Geschäftsgrundlage sind:
+       •    die Äquivalenzstörung: das sind diejenigen Fälle, in denen das im Vertrag
+            vorausgesetzte Gleichwertverhältnis zwischen Leistung und Gegenleistung in
+            einem solchen Maße gestört ist, dass verständlicherweise von einer Gegen-
+            leistung überhaupt nicht mehr gesprochen werden kann;
+       Beispiel: Durch einen Währungsverfall erheblichen Ausmaßes kommt es zu einer
+       wesentlichen Entwertung von Geldansprüchen. Nach Ansicht des BGH ist eine
+       Äquivalenzstörung infolge Geldwertschwundes dann nicht mehr hinzunehmen,
+       wenn das im Vertrage vorausgesetzte Gleichgewicht zwischen Leistung und Ge-
+       genleistung in einem so erheblichen Maße gestört wird, dass die hiervon be-
+       troffene Vertragspartei in der Geldzahlungsvereinbarung ihre Interessen nicht
+       mehr annähernd gewahrt sehen kann. 73
+
+       •    die Zweckverfehlung: dazu zählen die Fälle, in denen der objektive (beider-
+            seitige) Vertragszweck nicht nur zeitweilig unerreichbar geworden ist.
+       Beispiel: Die Vermietung von Räumen zur gewerblichen Nutzung, die aufgrund
+       eines allgemeinen behördlichen Verbots nicht mehr möglich ist. 74
+
+Störungen außerhalb des vertraglichen Risikobereichs, d.h. Umstände, die in den Ri-
+sikobereich einer Vertragspartei fallen, berühren grundsätzlich nicht die Geschäfts-
+grundlage des Vertrages. Sie könne deshalb nicht zum Wegfall der Geschäftsgrund-
+lage führen. 75
+
+
+
+
+_________________________________________________
+72
+     MünchKomm/FINKENAUER, BGB § 313 Rn. 187 ff.
+73
+     BGHZ 111, 214 ff.
+74
+     JAUERNIG/STADLER, BGB § 313 Rn. 18 ff.
+75
+     JAUERNIG/STADLER, BGB § 313 Rn. 20.
+32                                                                 Die Anfechtbarkeit von Willenserklärungen
+
+
+
+            Beispiel: Ein Scheitern der Finanzierung, die der Käufer vorgesehen hatte, um
+            den Kaufpreis zahlen zu können, fällt in den Risikobereich des Käufers und kann
+            nicht zum Wegfall der Geschäftsgrundlage führen 76
+
+            3.           Die Rechtsfolgen
+     Sowohl das Fehlen als auch der Wegfall der Geschäftsgrundlage können eine Durch-
+     brechung des Grundsatzes pacta sunt servanda rechtfertigen. 77 Vor der Kodifikation
+     der Lehre von der Geschäftsgrundlage hat der BGH die Ansicht vertreten, dass diese
+     Rechtsfolge nur dann in Betracht komme, "wenn es sich um eine derart einschnei-
+     dende Änderung handelt, dass ein Festhalten an der ursprünglichen Regelung zu ei-
+     nem untragbaren, mit Recht und Gerechtigkeit schlechthin nicht mehr zu vereinba-
+     renden Ergebnis führen würde und das Festhalten an der ursprünglichen vertraglichen
+     Regelung für die betroffene Partei deshalb unzumutbar wäre". 78 So seien diese
+     Grundsätze auch bei Anwendung des § 313 zu berücksichtigen 79.
+
+            a)             Die Anpassung des Vertrages
+     Die regelmäßige Rechtsfolge des Fehlens oder des Wegfalls der Geschäftsgrundlage
+     ist allerdings nicht die Auflösung des Vertrages, sondern die Anpassung seines Inhal-
+     tes an die wirkliche, bei Abschluss des Vertrages nicht erkannte Sachlage unter der
+     Berücksichtigung des Grundsatzes von Treu und Glauben gemäß § 242. 80
+            Beispiel (BGHZ 25, 390 nachgebildet): Im Jahre 1940 wurde G enteignet. Zu Ver-
+            handlungen hinsichtlich der Höhe der Entschädigung kam es erst 1951. Im April
+            1953 schloss G mit der Entschädigungsstelle einen Vertrag, in dem vereinbart
+            wurde, dass G DM 3.000,–– Entschädigung erhalten sollte und damit alle Ansprü-
+            che gegen die Entschädigungsstelle abgegolten sein sollten. Dabei gingen sowohl
+            G als auch die Entschädigungsstelle davon aus, dass G eigentlich DM 30.000,––
+            zu erhalten habe, aber aufgrund des Währungsumstellungsgesetzes, wonach
+            Geldforderungen im Verhältnis 10:1 umzustellen waren, lediglich DM 3.000,––
+            auszuzahlen seien. Als im November 1953 der Bundesgerichtshof in einem Grund-
+            satzurteil entschied, dass Entschädigungsforderungen aufgrund von Enteignun-
+            gen nicht nach dem Umstellungsgesetz umzustellen, sondern voll auszuzahlen
+            seien, verlangt G von der Entschädigungsstelle weitere DM 27.000,––.
+            Hätten sich beide Parteien nicht über die Anwendbarkeit des Umstellungsgesetzes
+            geirrt, hätten sie eine derartige Vereinbarung über die Umstellung der Enteig-
+            nungsentschädigung im Verhältnis 10 : 1 nicht getroffen. Da insoweit die Ge-
+            schäftsgrundlage fehlt, muss – unter Aufrechterhaltung des Vertrages im übri-
+            gen – die Umstellung 10 : 1 durch die Umstellung 1 : 1 ersetzt werden. Der
+            Anspruch des G auf Zahlung weiterer DM 27.000,–– ist somit gerechtfertigt.
+
+
+
+
+     _________________________________________________
+     76
+          JAUERNIG/STADLER, BGB § 313 Rn. 22.
+     77
+          NK-BGB/JUNG, BGB § 313 Rn. 2 .
+     78
+          BGHZ 121, 378, 393.
+     79
+          Münchkomm/FINKENAUER, BGB § 313 Rn. 3 ff.
+     80
+          BGHZ 25, 390, 395; 46, 268, 273; 47, 48, 52; GRÜNEBERG/ELLENBERGER, § 313 Rn. 40 ff.; SOERGEL/HEFER-
+            MEHL, § 119 Rn. 66.
+Die Anfechtbarkeit von Willenserklärungen                                                33
+
+
+
+       Beispiel (in Anlehnung an BGHZ 46, 268): Bei Abschluss eines Vertrages über die
+       Verwaltung eines Vermögens befanden sich beide Parteien in einem Irrtum über
+       die Höhe des für eine Vermögensverwaltung üblichen Honorars. Der BGH hat hier
+       einen "gemeinsamen Irrtum über die Geschäftsgrundlage" angenommen und die
+       Honorarberechnung unter Berücksichtigung der wirklichen Umstände angepasst.
+
+§ 313 ermöglicht es also, einen Vertrag den veränderten Umständen anzupassen,
+wenn es für die Parteien – oder eine Vertragspartei – nicht zumutbar ist, am Vertrage
+in der ursprünglichen Form festzuhalten. Daher ist insbesondere auf die Zumutbar-
+keit abzustellen. 81 Dabei hat die Rechtsprechung immer wieder die Frage in den Vor-
+dergrund gerückt, ob den Vertragschließenden "ein weiteres Festhalten an dem Inhalt
+der früheren Vereinbarungen" noch zuzumuten sei. 82
+Die Regelung über den Wegfall der Geschäftsgrundlage ist auch anwendbar auf den
+beiderseitigen Irrtum über die Geschäftsgrundlage, § 313 Abs. 2. 83
+Im Rahmen der Vertragsanpassung kann es insbesondere dann, wenn es sich um
+Äquivalenzstörungen handelt, auch zur Zubilligung von Ausgleichsansprüchen kom-
+men. 84
+
+       b)             Die Auflösung des Vertrages
+Wenn auch in erster Linie versucht werden muss, den Inhalt des Vertrages den verän-
+derten Umständen anzupassen, so kann der Vertrag doch aufgelöst werden, wenn
+die Vertragsanpassung unmöglich ist oder die Grenze dessen, was einer Partei zuge-
+mutet werden kann, überschritten wird. Die Vertragsauflösung geschieht jedoch nicht
+kraft Gesetzes, sondern bedarf einer rechtsgestaltenden Erklärung „kann zurücktre-
+ten“, 85 d.h. eines Rücktritts bzw. bei Dauerschuldverhältnissen einer Kündigung (vgl.
+§ 313 Abs. 3). Die Rückabwicklung des Vertrages erfolgt grundsätzlich nach den
+§§ 346 ff.
+
+       c)             Die Herbeiführung der Rechtsfolgen
+Hinsichtlich der Rechtsfolgen des Fehlens oder Wegfalls der Geschäftsgrundlage tritt
+die Anpassung des Vertrages – im Gegensatz zum vor dem Jahr 2001 geltenden (Rich-
+ter-) Recht 86 – nicht kraft Gesetzes ein. Liegen die Voraussetzungen des § 313 Abs. 1
+oder 2 vor, kann die Anpassung vielmehr verlangt werden, d.h. dem Berechtigten
+wird ein Anspruch auf Anpassung gegeben. Wie bereits erwähnt, kann, sofern eine
+Anpassung nicht möglich oder einem Teil nicht zumutbar ist, der benachteiligte Teil
+zurücktreten. Gemäß § 313 Abs. 3 S. 2 tritt bei Dauerschuldverhältnissen das Recht
+zur Kündigung an die Stelle des Rücktrittsrechtes.
+
+
+
+
+_________________________________________________
+81
+     GRÜNEBERG/ELLENBERGER, § 313 Rn. 24; MünchKomm/FINKENAUER, BGB § 313 Rn. 76.
+82
+     NJW 1997, 1702, 1704; BGH NZM 2005, 144; NJW 2012, 1718 Rn. 30..
+83
+     MünchKomm/FINKENAUER, BGB § 313 Rn. 10.
+84
+     MünchKomm/FINKENAUER, BGB § 313 Rn. 90.
+85
+     BeckOGK/MARTENS, BGB § 313 Rn. 143.
+86
+     BGH 54, 155; BGH NJW 72, 152; BGH NJW 1990, 314.
+34                                                          Die Anfechtbarkeit von Willenserklärungen
+
+
+
+            4.           Das Beispiel Äquivalenzstörungen
+     Bei den Äquivalenzstörungen geht es darum, dass in Folge unvorhergesehener Ände-
+     rungen der Verhältnisse ein grobes Missverhältnis zwischen den von beiden Seiten zu
+     erbringenden vertraglichen Leistungen entstanden ist.
+     Ein Festhalten an der bisherigen vertraglichen Vereinbarung hält der BGH dann nicht
+     mehr für gerechtfertigt, wenn eine die "Opfergrenze" überschreitende Äquivalenz-
+     störung vorliegt. 87 Das ist dann der Fall,
+            •    wenn das Gleichgewicht zwischen Leistung und Gegenleistung – oder jeden-
+                 falls das ursprünglich zugrunde liegende Verhältnis zwischen Leistung und
+                 Gegenleistung – so stark gestört ist, dass die Grenze des übernommenen Ri-
+                 sikos überschritten wird und die benachteiligte Vertragspartei in der getroffe-
+                 nen Vereinbarung ihr Interesse nicht mehr annähernd gewahrt sehen kann.
+     Ein weiteres Kriterium ist,
+            •    dass ein Festhalten an der ursprünglichen Vertragsregelung zu einem untrag-
+                 baren, mit Recht und Gerechtigkeit schlechthin nicht mehr zu vereinbarenden
+                 Ergebnis führen würde („unzumutbar“, § 313 Abs.1). 88
+     Die Definition der die "Opfergrenze überschreitenden Äquivalenzstörung" hat
+     Formelcharakter und ist abstrakt schwer zu erfassen. Zur Verdeutlichung seien einige
+     praktische (von der Rechtsprechung entschiedene) Fälle geschildert.
+     In der Praxis kommt es immer wieder zu Schwierigkeiten, wenn eine so genannte
+     Festpreisabsprache (manchmal wird auch die Formulierung "Pauschalfestpreis" be-
+     nutzt) getroffen worden ist, die Verhältnisse sich aber nicht so entwickeln, wie die
+     vertragsschließenden Parteien sich das vorstellen.
+     Fall nach BGH, NJW-RR 2023, 514: Geplant war eine Hochzeitsfeier, mit 120 Gästen,
+     die jedoch aufgrund der zwischenzeitlich eingetretenen Corona-Pandemie und der
+     für die Bekämpfung der Pandemie erlassenen Corona-Schutzverordnungen nicht in
+     der abgesprochenen Form durchgeführt werden durfte.
+     Der BGH hat eine Kündigung über den Wegfall der Geschäftsgrundlage abgelehnt.
+     Eine Vertragsanpassung komme nur in Betracht, wenn das „Verwendungsrisiko“ (in
+     dem Fall die Nutzung der gemieteten Räumlichkeiten) nicht nur dem Mieter zuzu-
+     schreiben sei. Im Falle der Pandemie habe weder der Mieter noch der Vermieter das
+     alleinige Verwendungsrisiko zu tragen. Dieser Umstand führe aber nicht dazu, dass
+     per se von einer Vertragsanpassung ausgegangen werden könne, es sondern einer
+     umfassenden Abwägung der Umstände des Einzelfalls bedarf, bei der Interessen bei-
+     der Parteien zu berücksichtigen seien. Im konkreten Fall kam eine Verschiebung der
+     Hochzeitsfeier als milderes Mittel zur Kündigung des Vertrages in Betracht.
+
+          Fall nach BGH WM 1964, 1253: Obwohl ein Festpreis vereinbart worden war,
+          machte die Klägerin in der Auseinandersetzung über die Höhe des Vergütungsan-
+          spruchs geltend, die Löhne seien während der zwei Jahre dauernden Bauzeit in
+          einem unerwarteten Maße, nämlich um 15 % gestiegen; außerdem habe sie an
+
+
+
+     _________________________________________________
+     87
+          BGHZ 90, 227, 230; 111, 214 f.
+     88
+          So schon ZGR 112, 329, 333 u. BGHZ 2, 176, 188.
+Die Anfechtbarkeit von Willenserklärungen                                               35
+
+
+
+ alle Arbeiter der Baustelle Auslösungen in Höhe von 20 % der Lohnkosten zahlen
+ müssen.
+ Der BGH hat die Anpassung des Vertrages nach den Regeln über den Wegfall der
+ Geschäftsgrundlage abgelehnt und dies im Kern wie folgt begründet: Wer, wie die
+ Klägerin zu Einheitsfestpreisen abgeschlossen habe, sei sich bewusst gewesen, ein
+ großes Risiko durch Preis– und Lohnsteigerungen während der ziemlich langen
+ Bauzeit auf sich zu nehmen; wer ein solches Risiko durch die Vereinbarung von
+ Festpreisen eingehe, könne nur ganz ausnahmsweise von den Festpreisen loskom-
+ men. Dies könne jedoch nicht schon deshalb ermöglicht werden, weil die Durch-
+ führung des Vertrages zu den vereinbarten Preisen statt des erhofften Gewinns
+ einen Verlust bringe.
+
+
+
+ Fall nach BGH, BauR 1972, 118: Im konkreten Fall ging es um die Änderung einer
+ Bauausführung in einem Pauschalvertrag mit "Pauschalfestpreisen". Der BGH ging
+ auch hier davon aus, dass der Unternehmer mit dem Abschluss eines solchen Ver-
+ trages ein Risiko bewusst eingehe; allerdings sei das von ihm zu tragende Risiko mit
+ Rücksicht auf Treu und Glauben nicht unbegrenzt. Nach Ansicht des BGH hat die
+ Änderung der Bauausführung nicht grundsätzlich zur Folge, dass eine getroffene
+ Pauschalvereinbarung überhaupt nicht mehr anwendbar wäre; etwas anderes
+ müsse aber dann gelten, wenn der geplante Bau in wesentlichem Umfang anders
+ als ursprünglich vorgesehen errichtet werde und es dadurch zu erheblichen Verän-
+ derungen des Leistungsinhalts nach dem geschlossenen Pauschalvertrag komme.
+
+
+
+ Fall (nach BeckRS 1970, 31122864): 1970 hatte der BGH einen Fall zu entscheiden,
+ in dem die Vertragsparteien ein Ausfallrisiko von 20 % errechnet und ausgehandelt
+ hatten; tatsächlich betrug der Ausfall jedoch 50 % und lag damit völlig außerhalb
+ der von beiden Teilen erwarteten Entwicklung.
+ Der BGH hat in der Erwartung eines Ausfalls in Höhe von 20 % eine Geschäfts-
+ grundlage des Vertrages gesehen und zugleich festgestellt, dass es sich bei der
+ Übernahme des Ausfallrisikos nicht um ein echtes Risikogeschäft handele, das eine
+ Berufung auf den Wegfall der Geschäftsgrundlage verwehre. Der BGH hat dahin-
+ gehend entschieden, dass nach den übereinstimmenden Vorstellungen beider Par-
+ teien bei Vertragsschluss lediglich ein klar umgrenztes, voraussehbares Risiko über-
+ nommen werden sollte; in derartigen Fällen sei die betroffene Vertragspartei nicht
+ gehindert, sich unter Bezugnahme auf Umstände, die außerhalb des vorhersehba-
+ ren Verlaufs der Dinge und damit des bewusst übernommenen Risikos liegen, auf
+ den Wegfall der Geschäftsgrundlage zu berufen.
+
+Diese Beispiele machen deutlich, dass nur ganz ausnahmsweise eine die Opfergrenze
+überschreitende Äquivalenzstörung vorliegt, die zu einer Anpassung des Vertrages
+führen muss.
+36                                                         Die Anfechtbarkeit von Willenserklärungen
+
+
+
+            5.           Verhältnis zu §§ 119 ff. und §§ 434 ff.
+
+            a)             Anfechtung
+     Liegt ein einseitiger Irrtum vor, so haben §§ 119 ff. als speziellere Regelungen Vor-
+     rang. Umstritten ist dies allerdings, wenn ein beidseitiger Irrtum vorliegt, also bei-
+     spielsweise ein Irrtum über eine verkehrswesentliche Eigenschaft, weshalb beide Par-
+     teien ein Interesse daran hätten, an dem Vertrag in der Form nicht mehr festzuhalten.
+     Eine Ansicht sieht auch in dem Fall die Anfechtungsregeln für anwendbar: Derjenige
+     von den Vertragsparteien, der ein Interesse daran hat, den Vertrag „aufzuheben“,
+     solle die Anfechtung erklären. Zwar könne er zu einem Ersatz des Vertrauensschadens
+     aus § 122 verpflichtet werden, dies müsse er für sich abwägen und so die Entschei-
+     dung über die Anfechtung treffen. Dass eine Aufhebung des Vertrags im beiderseiti-
+     gen Interesse ist, aber die Erklärung der Anfechtung vom Zufall abhänge und damit
+     unbillig sei, treffe nicht zu, da diejenige Vertragspartei, die ein besonderes Interesse
+     an der Vertragsaufhebung habe, damit rechnen und es Kauf nehmen müsse, ggf.
+     einen Vertrauensschaden zu ersetzen.
+     Zum Teil wird vertreten, dass § 313 Abs. 2 als lex specialis anzusehen sei und damit
+     Anwendung finde: In dem Falle, dass beide Vertragsparteien die einem Irrtum unter-
+     liegen, sei es nicht zielführend, darauf zu warten, welche der Parteien anfechtet und
+     sich möglicherweise ersatzpflichtig macht, zumal dies zu einem „unendlichen „ War-
+     ten führen kann, wenn beide Parteien sich über das Risiko der Ersatzpflicht bewusst
+     sind. Der Gesetzgeber hat in § 313 Abs. 2 BGB eine Regelung geschaffen, die genau
+     auf diese Situation zutrifft. 89
+
+            b)             Sachmängelgewährleistung
+     Die wichtigste Konkurrenz besteht zwischen § 313 und der Anwendung der
+     §§ 434 ff. Soweit es sich um Fehler oder Eigenschaften des Kaufobjektes handelt, ist
+     eine Anwendung der Grundsätze über den Wegfall der Geschäftsgrundlage ausge-
+     schlossen, weil die §§ 434 ff. eine abgeschlossene Sonderregelung darstellen. Die
+     Sachmängelvorschriften der §§ 434 ff. gewährleisten einen sachgerechten Ausgleich
+     der sich gegenüberstehenden Interessen der am Kaufvertrag Beteiligten; sie bestim-
+     men und begrenzen die Haftung des Verkäufers.
+
+          Fall (nach BGH NJW 1981, 1551 ff.): E, der ein ihm gehörendes Mietshaus verkau-
+          fen wollte, kam aufgrund eines Zeitungsinserats mit dem Kaufinteressenten I in
+          Kontakt. Beide kamen überein, dass der Kaufpreis für das Objekt dem 11–fachen
+          der jährlichen Mieteinnahmen entsprechen sollte. Unter Aushändigung von
+          Mietabrechnungen teilt E dem I mit, die Jahresmiete betrage € 72.000,--. Auf dieser
+          Basis wurde der Kaufpreis mit € 780.000,-- festgesetzt. Nach Abschluss eines ent-
+          sprechenden notariellen Grundstückskaufvertrages stellt E fest, dass die jährlichen
+          Mieteinnahmen € 90.000,-- betragen. E möchte deshalb von I € 990.000,-- als
+          Kaufpreis verlangen.
+
+
+
+
+     _________________________________________________
+     89
+          Siehe in der KE § 14 II Nr. 2 d)
+Die Anfechtbarkeit von Willenserklärungen                                                 37
+
+
+
+Lösung:
+E könnte gegen I einen Anspruch auf Zahlung von € 990.000,-- gemäß § 433 Abs. 2
+haben. Dann müsste zwischen den Parteien ein Kaufvertrag zu diesem Preis zustande
+gekommen sein. Der notarielle Kaufvertrag weist als Kaufpreis lediglich
+€ 780.000,-- aus.
+Bevor die Frage erörtert wird, ob eine Vertragsanpassung unter Erhöhung des Kauf-
+preises von € 780.000,-- auf € 990.000,-- nach § 313 möglich ist, muss durch Ausle-
+gung festgestellt werden, ob nicht bereits ein Vertrag mit einer entsprechenden Kauf-
+preisabrede geschlossen worden ist. Man könnte daran denken, dass die
+Berechnungsgrundlage (11–fache Jahresmiete) selbst Vertragsinhalt geworden ist.
+Dann wäre der korrekte Kaufpreis von € 990.000,-- vereinbart worden, und die An-
+gabe von € 395.000,-- im Vertrag wäre lediglich eine falsche Bezeichnung für das in
+Wahrheit Gewollte ("falsa demonstratio"), die bekanntlich (vgl. Kurseinheit 4 § 9)
+unschädlich ist.
+Allerdings ist zu berücksichtigen, dass der Grundstückskaufvertrag entsprechend
+§ 311 b Abs. 1 S. 1 in notarieller Form abgeschlossen worden ist. Da der Zweck der
+Formvorschrift auch darin besteht, dem Käufer die finanziellen Folgen des Geschäfts
+vor Augen zu halten, verbietet es sich, den Kaufpreis aufgrund nicht beurkundeter
+Umstände zu ermitteln. 90
+Eine nachträgliche Vertragsanpassung wäre jedoch möglich, wenn die Preiskalkula-
+tion zur gemeinsamen Geschäftsgrundlage für den zwischen den Parteien geschlos-
+senen Kaufvertrag erhoben worden wäre. An einer gemeinsamen Geschäftsgrund-
+lage fehlt es jedoch dann, wenn das Risiko einer Fehlvorstellung nach Sinn und Zweck
+der Vereinbarung nur eine Partei treffen soll. Beim Kaufvertrag als reinem Austausch-
+vertrag will der Käufer regelmäßig das Risiko einer fehlerhaften Preiskalkulation nicht
+übernehmen, auch dann nicht, wenn sie ihm seitens des Verkäufers offengelegt
+wurde. Er kauft typischerweise, wenn und soweit ihm der Kaufpreis angemessen er-
+scheint. Deshalb ist beim Kaufvertrag die offen gelegte Preiskalkulation nicht als Ge-
+schäftsgrundlage zu betrachten, sofern nicht weitere besondere Umstände dazu
+zwingen. 91
+Da solche besonderen Umstände nicht ersichtlich sind, ist eine Vertragsanpassung
+ausgeschlossen. E kann von I nur den ursprünglichen Kaufpreis von € 780.000,-- ver-
+langen.
+
+Wichtige Entscheidungen:
+RGZ 89, 29, 33
+BGH NJW 2001, 284, 285
+BGH NJW RR 2022 61
+BGHZ 88, 240, 245 f.
+BGHZ 91, 324, 331 f.
+BGHZ 121, 378, 393 f.
+BGH NJW 2018, 150.
+
+_________________________________________________
+90
+     JOHN, JuS 1983, 176, 177.
+91
+     BGH NJW 1981, 1551,
+38                                               Teilnichtigkeit und Umdeutung von Rechtsgeschäften
+
+
+
+        § 15       Teilnichtigkeit und Umdeutung von Rechtsge-
+                   schäften
+     Schrifttum: EISENHARDT, Die Einheitlichkeit des Rechtsgeschäfts und die Überwindung
+     des Abstraktionsprinzips, JZ 1991, 271 ff.; GÖTZ, Rechtsfolgen des teilweisen Versto-
+     ßes einer Klausel gegen das AGB-Gesetz, NJW 1978, 2223 ff.; HOFFMANN, Die Teilbar-
+     keit von Schuldverträgen, JuS 2017, 1045; JAUERNIG, Trennungsprinzip und Abstrak-
+     tionsprinzip, JuS 1994, 721 ff.; KÖHLER, Einschränkungen der Nichtigkeit von
+     Rechtsgeschäften, JuS 2010, 665; PETER, Grundsätze der Teilanfechtung unter Berück-
+     sichtigung der Besonderheiten im Mehrpersonenverhältnis, JURA 2014, 1; PETERSEN,
+     Die Bestätigung des nichtigen und anfechtbaren Rechtsgeschäfts, JURA 2008, 666;
+     PETERSEN, Die Teilnichtigkeit, JURA 2010, 419; REGENFUS, Die Rechtsfolgen der Bestäti-
+     gung: Herstellung des gebotenen Einklangs durch Gesetzesauslegung oder durch
+     Auslegung des konkludenten Erklärungsverhaltens, JURA 2016, 1089; SCHLÜTER,
+     Durchbrechung des Abstraktionsprinzips über § 139 BGB und Heilung eines form-
+     nichtigen Erbteilskaufs durch Erfüllung, JuS 1969, 10 ff.; SCHMIDT, Teil- oder Total-
+     nichtigkeit angreifbarer AGB-Klauseln?, JA 1980, 401 ff.; SONNENSCHEIN, Inhaltskon-
+     trolle von Formularverträgen nach dem AGB-Gesetz, NJW 1980, 1713 ff.; TIEDTKE,
+     Sicherungsabtretung beim Fehlen des zu sichernden Anspruchs, DB 1982, 1709 ff.
+
+
+
+
+        I.      Die Teilnichtigkeit
+
+        1.        Überblick
+     Die auf einem Verstoß gegen ein gesetzliches Verbot oder die guten Sitten oder die
+     auf einer Anfechtung beruhende Nichtigkeit kann zuweilen nur Teile eines Rechtsge-
+     schäfts betreffen. Dann entsteht die Frage, ob das ganze Rechtsgeschäft oder nur der
+     gegen ein gesetzliches Verbot oder die guten Sitten verstoßende Teil bzw. angefoch-
+     tene Teil nichtig, der Rest des Rechtsgeschäfts aber wirksam ist. Beachte: bei Dauer-
+     schuldverhältnissen, z.B. beim Mietvertrag, ist eine "Teilkündigung" grundsätzlich
+     nicht möglich; der zur Mietwohnung gehörende PKW-Stellplatz kann also in der Regel
+     nicht "isoliert" gekündigt werden.
+     Nach der gesetzlichen Regel in § 139 spricht eine Vermutung für die Gesamtnichtig-
+     keit des Rechtsgeschäfts. Diese gesetzliche Vermutung wird allerdings eingeschränkt
+     durch die Formulierung "wenn nicht anzunehmen ist, dass es auch ohne den nichti-
+     gen Teil vorgenommen sein würde". Somit wird gemäß § 139 darauf abgestellt, ob
+     nach dem Willen der am Vertrag Beteiligten der Rest eines Rechtsgeschäfts als eigenes
+     Geschäft bestehen bleiben soll. Es kommt also vor allem darauf an,
+
+        •    ob das Rechtsgeschäft teilbar ist
+        •    und welchen Willen die Parteien hatten.
+Teilnichtigkeit und Umdeutung von Rechtsgeschäften                                       39
+
+
+
+
+                                   Einheitliches Rechtsgeschäft
+
+
+
+                               Teil eines Rechtsgeschäfts nichtig
+
+
+
+                                            Auslegung, ob anderer Teil gültig bleibt
+
+
+
+
+                                             im Zweifel: § 139 nichtig
+
+
+
+       2.           Die Teilbarkeit des Rechtsgeschäfts
+Eine Teilnichtigkeit kann nur unter der Voraussetzung angenommen werden, dass
+nach Abtrennung des unwirksamen Teils ein Rest bleibt, der als selbständiges Rechts-
+geschäft bestehen kann. Die Teilbarkeit kann eine objektive, quantitative und subjek-
+tive sein.
+Objektive Teilbarkeit bedeutet: das Geschäft sieht mehrere Hauptleistungsgegen-
+stände einer Partei vor und die Gegenleistung ist dieser Mehrheit entsprechend auf-
+teilbar. 92
+Quantitative Teilbarkeit kommt in erster Linie bei Dauerschuldverhältnissen vor,
+wenn deren Leistungsgegenstand auf der zeitlichen Ebene bemessen und als nach
+Zeitabschnitten teilbar angesehen wird, 93 wie das z.B. bei Pachtverträgen von Gast-
+stätten, die an einen Bierlieferungsvertrag gekoppelt sind, der Fall ist.
+Von subjektiver Teilbarkeit spricht man, wenn auf einer Seite mehrere Personen
+beteiligt sind, 94 so dass die Teilung in der Weise erfolgen kann, dass das Rechtsge-
+schäft nur gegenüber einem Beteiligten nichtig ist und gegenüber den anderen Be-
+teiligten wirksam bleibt.
+
+       3.           Parteiwille und Auslegung
+§ 139 stellt bei der Nichtigkeit eines Teiles des Rechtsgeschäftes im Hinblick auf den
+Bestand des Restes auf den hypothetischen Parteiwillen ab. Es muss – bezogen auf
+den Zeitpunkt des Geschäftsabschlusses – ein auf die Geltung des Rechtsgeschäfts
+gerichteter Parteiwille zu bejahen sein. Ob dieser Wille vorhanden war, ist durch Aus-
+legung zu ermitteln. 95
+Enthält ein Vertrag für den Fall der Teilnichtigkeit keine Regelung, so ist eine Lücke
+vorhanden, die im Wege der ergänzenden Vertragsauslegung zu schließen ist. Es ist
+
+
+
+
+_________________________________________________
+92
+     STAUDINGER/ROTH, § 139 Rn. 64.
+93
+     STAUDINGER/ROTH, § 139 Rn. 68.
+94
+     STAUDINGER/ROTH, § 139, Rn. 65.
+95
+     BROX/WALKER, § 15 Rn. 6 ff; STADLER § 27 Rn. 5.
+40                                                       Teilnichtigkeit und Umdeutung von Rechtsgeschäften
+
+
+
+     deshalb zu ermitteln, was die Parteien vernünftigerweise und unter Berücksichtigung
+     von Treu und Glauben sowie des Vertragszwecks gewollt haben würden.
+     Für ein Fortbestehen kann insbesondere sprechen, wenn nur ein geringfügiger Teil
+     des Geschäftes nichtig ist und der für die Beteiligten im Vordergrund stehende über-
+     wiegende Teil nicht betroffen ist. 96
+
+            Beispiel: In einem umfangreichen Pachtvertrag verstößt nur die Vereinbarung
+            über den Pachtzins gegen die guten Sitten (§ 138). Nun muss entschieden wer-
+            den, ob der gesamte Vertrag nichtig ist oder nur die Vereinbarung über den Pacht-
+            zins, der Vertrag im Übrigen aber wirksam ist.
+            Die Vereinbarung über den Pachtzins ist bei einem Pachtvertrag ein wesentlicher
+            Vertragsbestandteil. Da ohne die Pachtzinsabrede ein Pachtvertrag rechtlich nicht
+            möglich ist (vgl. § 581), ist das Rechtsgeschäft nicht teilbar. Bereits aufgrund der
+            mangelnden Teilbarkeit ist der gesamte Vertrag daher nichtig.
+
+            4.           Die Möglichkeit, mehrere Rechtsgeschäfte aufgrund des Partei-
+                         willens zu einer Einheit zusammenzufassen
+     Die Anwendung des § 139 setzt voraus, dass die Teilnichtigkeit ein einheitliches
+     Rechtsgeschäft betrifft. 97
+     In der Praxis kommt es vor, dass Parteien mehrere Verträge abschließen, die in einem
+     Zusammenhang stehen. Ist einer dieser Verträge nichtig (etwa wegen Formmangels
+     oder durch wirksame Anfechtung), so entsteht die Frage, ob die übrigen Verträge
+     ebenfalls nichtig sind oder Bestand haben. Es handelt sich dabei um das Problem der
+     Einheitlichkeit des Rechtsgeschäfts i.S. des § 139.
+     Der BGH hat zwar stets auf die Beachtlichkeit des Willens aller am Vertrage Beteiligten
+     abgestellt, es aber genügen lassen, dass der Einheitlichkeitswille des einen Vertrags-
+     partners dem anderen Partner erkennbar war und von ihm gebilligt oder mindestens
+     hingenommen worden ist. 98
+     Der BGH geht, anknüpfend an die Rechtsprechung des Reichsgerichts, 99 in ständiger
+     Rechtsprechung davon aus, dass ein einheitliches Rechtsgeschäft i.S. des § 139 auch
+     dann vorliegen kann, wenn es sich um eine Mehrheit von äußerlich getrennten, ins-
+     besondere in getrennten Urkunden niedergelegten Rechtsgeschäften handelt, die ver-
+     schiedenen juristischen Geschäftstypen angehören können. Der BGH stellt allerdings
+     stets auf den Einheitlichkeitswillen der Vertragsparteien ab. Von einem solchen kann
+     nach seiner Auffassung dann ausgegangen werden, wenn "der Wille der Vertrags-
+     parteien darauf gerichtet ist, dass die äußerlich getrennten Geschäfte miteinander
+     stehen und fallen sollen". 100 Die Formulierung im Hinblick auf den Willen der Parteien,
+     dass mehrere Rechtsgeschäfte "miteinander stehen und fallen sollen", hat der BGH
+
+
+
+
+     _________________________________________________
+     96
+          BROX/WALKER, § 15 Rn. 8.
+     97
+          STADLER, § 27 Rn. 3.
+     98
+          So BGH LM Nr. 46 zu § 139 BGB; BGHZ 76, 43, 49; 78, 346, 349; BGH NJW 1995, 1668.
+     99
+          BGH LM Nr. 46 zu § 139 BGB; BGHZ 76, 43, 49; 78, 346, 349; BGH NJW 1995, 1668.
+     100
+           So BGH LM Nr. 34 zu § 139 BGB = MDR 1966, 749.
+Teilnichtigkeit und Umdeutung von Rechtsgeschäften                                          41
+
+
+
+ständig wiederholt. 101 Dem ist die Literatur überwiegend gefolgt. 102 Wenn der BGH in
+der Regel auch auf die Beachtlichkeit des Willens aller am Vertrage Beteiligten abge-
+stellt hat, so hat er es doch genügen lassen, dass nur einer der Vertragspartner einen
+solchen Einheitlichkeitswillen hat und der andere Partner ihn anerkennt oder zumin-
+dest hinnimmt. 103
+Die Frage, ob der Annahme eines einheitlichen Rechtsgeschäfts i.S. des § 139 BGB
+entgegensteht, dass an mehreren Rechtsgeschäften nicht durchweg dieselben Perso-
+nen beteiligt sind, wird von einem Teil der Literatur 104 verneint, in der Kommentarlite-
+ratur inzwischen allerdings überwiegend bejaht. 105 Der BGH hat stets deutlich betont,
+dass es für die Zusammenfassung mehrerer Geschäfte zu einem einheitlichen nicht
+hinderlich sei, "wenn an den Rechtsgeschäften nicht durchweg dieselben Personen
+teilgenommen haben" 106 und dabei darauf abgestellt, ob der Wille der an den ver-
+traglichen Vereinbarungen beteiligten Personen darauf gerichtet war, die Geschäfte
+rechtlich miteinander zu verbinden.
+Im Einzelfall kann es Schwierigkeiten bereiten, festzustellen, ob diejenigen, die die
+Rechtsgeschäfte abgeschlossen haben, einen Einheitlichkeitswillen in dem Sinne
+hatten, dass die einzelnen Rechtsgeschäfte miteinander stehen und fallen sollen. An-
+haltspunkte dafür, dass ein Einheitlichkeitswille in diesem Sinne vorliegt, können sich
+ergeben
+       •    aus den gesamten, durch die Verträge deutlich gewordenen Interessen der
+            Parteien; 107
+       •    daraus, dass im Rahmen der gesamten vertraglichen Vereinbarungen einem
+            Vertrage eine "zentrale Bedeutung zukommt" und die anderen Verträge da-
+            rauf Bezug nehmen; 108
+       •    aus Verknüpfungen der verschiedenen Verträge miteinander durch diesem
+            Zweck dienende rechtsgeschäftliche Bedingungen und andere Bezugnahmen.
+
+
+       5.           Die Zusammenfassung von Verpflichtungs– und Verfügungsge-
+                    schäft zu einer Einheit kraft Parteiwillens
+Die Frage, ob Verpflichtungs– und Verfügungsgeschäfte trotz Trennungs– und Ab-
+straktionsprinzip aufgrund des Willens der Parteien zu einem einheitlichen Geschäft
+i.S. des § 139 verbunden werden können, ist in der Literatur nach wie vor heftig um-
+stritten. 109 In der Rechtsprechung zeichnet sich, wenn auch etwas verdeckt, indes eine
+klare Linie ab.
+
+
+
+_________________________________________________
+101
+      Vgl. u.a. BGHZ 50, 8, 13; 78, 346, 349; BGH NJW 1984, 869, 870.
+102
+      Vgl. SOERGEL/HEFERMEHL, § 139 Rn. 15 ff.; STAUDINGER/ROTH, § 139 Rn. 60 ff.
+103
+      So zuletzt BGHZ 112, 376, 378.
+104
+      Vgl. z.B. FLUME, AT, § 32, 2a.
+105
+      Vgl. u.a. SOERGEL/HEFERMEHL, § 139 Rdrn. 22.
+106
+      BGH LM Nr. 34 zu § 139; BGH NJW 1976, 1931 f.
+107
+      Vgl. BGH NJW 1984, 869, 870.
+108
+      Vgl. BGH BB 1986, 1115, 1116.
+109
+      Zum Streitstand siehe JAUERNIG, JuS 1994, 721 ff. u. EISENHARDT, JZ 1991, 271 ff.
+42                                                        Teilnichtigkeit und Umdeutung von Rechtsgeschäften
+
+
+
+     Eine nicht unbeachtliche Anzahl von Autoren hält es für ausgeschlossen, Verpflich-
+     tungs– und Verfügungsgeschäft durch einen entsprechenden Willen der Parteien zu
+     einer Einheit zu verbinden. Es wird die Ansicht 110 vertreten, dass der Gesetzgeber des
+     BGB sich nun einmal für die Trennung des Erfüllungsgeschäftes vom Grundgeschäft
+     und für den grundsätzlich "abstrakten" Charakter des dinglichen Geschäfts entschie-
+     den habe; es gehe nicht an, diese gesetzgeberische Entscheidung mit Hilfe des § 139,
+     der dafür nicht bestimmt sei, wieder aus den Angeln zu heben.
+     Festzuhalten ist jedenfalls, dass die höchstrichterliche Rechtsprechung, insbesondere
+     der BGH 111, dem Abstraktionsprinzip keinen Vorrang vor der Privatautonomie, dem
+     Parteiwillen, eingeräumt hat und durchgehend die Ansicht vertritt, dass Grund– und
+     Erfüllungsgeschäft durch den Parteiwillen zu einer Einheit zusammengefasst werden
+     können. Dies soll allerdings nicht in Bezug auf das Verhältnis zwischen Grundgeschäft
+     und Auflassung bei Grundstücksgeschäften gelten.
+     Dem Gesetz lässt sich ein Vorrang des Abstraktionsprinzips im Verhältnis zum Partei-
+     willen nicht entnehmen. Unumstritten ist, dass die Parteien Grund– und Erfüllungs-
+     geschäft durch Vereinbarung einer Bedingung zusammenfassen können. Deshalb
+     dürfte dem Parteiwillen grundsätzlich der Vorrang gebühren. Daher sollen die Par-
+     teien sogar die Möglichkeit haben, Verpflichtungs– und Verfügungsgeschäft durch
+     einen entsprechenden Einheitlichkeitswillen zu einer Einheit zusammenzufassen. Bei
+     der Feststellung eines solchen Willens im Einzelfall ist aber Zurückhaltung geboten;
+     denn typischerweise ist den Parteien die gesetzliche Entscheidung für das Abstrakti-
+     onsprinzip durchaus bewusst. Wollen die Parteien gleichwohl das Grund- und das
+     Erfüllungsgeschäft zusammenfassen, so müssen sie dies in ihrer Vereinbarung sehr
+     klar zum Ausdruck bringen. Da die Anforderungen an eine Zusammenfassung sehr
+     hoch sind, ist dieses Problem auch nicht von hoher praktischer Relevanz.
+
+            6.           Das Problem der Fehleridentität
+     Aufgrund des Abstraktionsprinzips ist das Verfügungsgeschäft nicht allein deshalb
+     nichtig, weil das Verpflichtungsgeschäft nichtig ist. Allerdings darf das Abstraktions-
+     prinzip nicht dahingehend missverstanden werden, als wolle es die Wirksamkeit des
+     Verfügungsgeschäftes unter allen Umständen gewährleisten. 112 Daher wirkt sich das
+     Abstraktionsprinzip nicht aus, wenn derselbe Unwirksamkeitsgrund sowohl das Ver-
+     pflichtungs– als auch das Verfügungsgeschäft betrifft. Man spricht in diesen Fällen
+     von Fehleridentität. Gemeint ist damit: derselbe Anfechtungs– oder Nichtigkeits-
+     grund, der das Verpflichtungsgeschäft anfechtbar oder unwirksam macht, haftet
+     auch dem Verfügungsgeschäft an. 113 Deshalb – und nicht wegen einer Durchbrechung
+     des Abstraktionsprinzips – ist auch das Verfügungsgeschäft anfechtbar oder nichtig. 114
+
+
+
+
+     _________________________________________________
+     110
+           U.a. FLUME, § 12 III 4; WOLF/NEUNER, § 41 Rn. 139.
+     111
+           BGH NJW 1979, 1495; NJW 1985, 3006; NJW 1982, 275, 276.
+     112
+           WELLENHOFER, SachenR, § 6. Allgemeine Grundsätze des Verfügungsgeschäfts Rn. 7; , BGB AT, Rn. 57.
+     113
+           BROX/WALKER, § 18 Rn. 41.
+     114
+           MünchKomm/ARMBRÜSTER, BGB § 119 Rn. 159.
+Teilnichtigkeit und Umdeutung von Rechtsgeschäften                                                43
+
+
+
+
+             Kaufvertrag                                        Übereignung
+
+                                             Fehleridentität?
+
+           anfechtbar/nichtig                                   Ebenfalls anfechtbar/nichtig?
+
+
+
+
+Als Unwirksamkeitsgründe, die zu einer Fehleridentität führen können, kommen in
+Betracht: 115
+       •     Fehlende Geschäftsfähigkeit: Sie wirkt sich grundsätzlich auf das Verpflich-
+             tungsgeschäft und das Verfügungsgeschäft aus. Fallen diese zeitlich auseinan-
+             der, muss geprüft werden, ob zum Zeitpunkt der Vornahme des Verfügungs-
+             geschäftes die Geschäftsunfähigkeit noch vorliegt. Beachte aber: die
+             Verfügung zugunsten einer beschränkt geschäftsfähigen Person ist nach
+             § 107 BGB in der Regel wirksam! Die Übereignung an einen Minderjährigen
+             ist deshalb wirksam.
+       •     Verstoß gegen ein Verbotsgesetz § 134: In der Regel ist nur das Verpflich-
+             tungsgeschäft nichtig, außer der Zweck des Verbotsgesetzes liegt gerade da-
+             rin, den dinglichen Rechtsübergang verhindern zu wollen (z.B. Verfügungsge-
+             schäfte beim Drogenhandel § 29 Abs. 1 BtMG).
+       •     Sittenwidrigkeit gemäß § 138 Abs. 1: Wenn das Verpflichtungsgeschäft
+             sittenwidrig und deshalb nichtig ist, muss geprüft werden, ob auch das Ver-
+             fügungsgeschäft als Erfüllungsgeschäft nichtig ist. Diese Frage ist heftig um-
+             stritten. 116 Dass allein die Nichtigkeit des Verpflichtungsgeschäfts zur Nichtig-
+             keit auch des Verfügungsgeschäftes führt, wird einhellig verneint. In der Regel
+             dürften die Verfügungsgeschäfte als "sittlich neutral" anzusehen sein; sie sind
+             deshalb in den meisten Fällen trotz der Unwirksamkeit des Verpflichtungsge-
+             schäftes wirksam. 117 Allerdings hat die Rechtsprechung 118Verfügungsgeschäfte
+             dann als sittenwidrig angesehen, wenn mit dem dinglichen Rechtsvorgang
+             sittenwidrige Zwecke verfolgt werden oder in ihm die Sittenwidrigkeit begrün-
+             det ist.
+In den Irrtumsfällen, die zur Anfechtung berechtigen, muss differenziert werden:
+       •     In den Fällen des Erklärungs– und des Inhaltsirrtums dürfte der Irrtum re-
+             gelmäßig auf das Verpflichtungsgeschäft beschränkt sein, so dass nur dieses
+             und nicht das Verfügungsgeschäft angefochten werden kann.
+       •     Eigenschaftsirrtum
+Irrt sich der Verkäufer beispielsweise über die Identität des Malers eines Bildes und
+damit einen wertbildenden Faktor, so kann er den Kaufvertrag gem. § 119 II an-
+fechten. Betrachtet man allerdings das Verfügungsgeschäft, so ging er davon aus,
+dass er das Bild an den Käufer gem. § 929 S. 1 übereignen wollte. Er irrte sich deshalb
+
+
+
+_________________________________________________
+115
+      Einzelheiten im Modul 55108 Sachenrecht.
+116
+      Vgl. dazu JAUERNIG, JuS 1994, 721, 725 mit Nachw.
+117
+      MEDICUS, AT, Rn. 712.
+118
+      Vgl. RGZ 145, 152, 154; BGH NJW 1985, 3006, 3007.
+44                                                            Teilnichtigkeit und Umdeutung von Rechtsgeschäften
+
+
+
+     nicht darüber, „dass“ er das Bild übereignen wollte, sondern über das „warum“, also
+     zur Erfüllung des (vermeintlichen) schuldrechtlichen Anspruchs aus § 433 I 1.
+
+                Kaufvertrag                                      Übereignung
+                                           Fehleridentität?
+
+             Irrtum über Maler                                 Eigentumsübertragung zur Erfüllung
+             § 119 II                                          des Kaufvertrages
+
+
+
+     Im Rahmen des Abstraktions- und Trennungsprinzips sind beide Verträge gesondert
+     zu prüfen. Der Irrtum– hier über die Identität des Malers – muss kausal einen Irrtum
+     über die Übereignung des Bildes hervorgerufen haben. Dabei können unterschiedli-
+     che Fallgruppen gebildet werden, wobei die genaue Behandlung umstritten ist:
+            •    Übereignungserklärung bei Kenntnis des Irrtums überhaupt nicht abge-
+                 geben: Sofern die Übereignungserklärung mit der Eigenschaft, über die sich
+                 geirrt wurde „steht und fällt“, so ist der Irrtum auch für § 929 S. 1 kausal. 119
+                 Wenn beispielsweise der Verkäufer ein Sammler dieses Malers ist und deshalb
+                 bei Kenntnis des Urhebers das Werk nicht veräußert hätte, liegt eine Fehleri-
+                 dentität vor. Gleiches gilt, wenn sich der Verkäufer über die Identität des Käu-
+                 fers irrt.
+
+            •    Übereignung nur zu anderer Gegenleistung: Hätte der Verkäufer das Bild
+                 bei Kenntnis des wahren Malers nur zu einem wesentlich höheren Kaufpreis
+                 veräußert, so betrifft dies vorrangig den Kaufvertrag. Hinsichtlich der Vorstel-
+                 lung, dass der Verkäufer überhaupt das Bild übereignen wollte, irrte er sich
+                 nicht. Allerdings war auch die Vorstellung vom zu erzielenden Kaufpreis ein
+                 mittelbares Motiv. Nach einer weit verbreiteten Ansicht können solche Irrtü-
+                 mer, die nur mittelbar kausal werden, das Abstraktionsprinzip nicht durchbre-
+                 chen. 120 Danach läge keine Fehleridentität vor und das Verfügungsgeschäft ist
+                 wirksam. Andere lehnen eine Differenzierung wegen der fehlenden Stütze im
+                 Gesetz ab und bejahen auch hier eine Fehleridentität. 121
+
+            •    Zeitliche Perspektive: Nach einer anderen Auffassung wird danach unter-
+                 schieden, inwiefern Verpflichtungs- und Verfügungsgeschäft zeitlich zusam-
+                 menfallen. Liegt dazwischen z.B. ein größerer Zeitraum, so könne nicht mehr
+                 angenommen werden, dass der Irrtum auch für das Verfügungsgeschäft kau-
+                 sal geworden wäre. 122
+
+
+     Die Anfechtung setzt als Gestaltungsrecht eine ordnungsgemäße Anfechtungserklä-
+     rung gem. § 143 I voraus. So könnte man auf die Idee kommen, dass der Anfechtende
+     gerade nur diejenige Erklärung anfechten möchte, die er auch in seiner Erklärung
+     ausdrücklich benennt, meistens den Kaufvertrag. Allerdings ist üblich die Erklärung
+
+
+     _________________________________________________
+     119
+           HAFERKAMP, JURA 1998, 511, 513.
+     120
+           MEIER/JOCHAM, JUS 2021, 494; FAUST, BGB AT § 19 Rn. 16 ff.; STADLER, BGB AT, Rn. 60; GRIGOLEIT, AcP
+             199 (1999), 379 (396 ff.); BORK, BGB AT Rn. 482, 921; WESTERMANN/STAUDINGER, BGB-Sachenrecht,
+             § 1 Einführung, Rn. 13.
+     121
+           MünchKomm/ARMBRÜSTER, BGB § 119 Rn. 159.
+     122
+           RGZ 66, 385, 389 f.; STADLER, BGB AT, Rn. 60.
+Teilnichtigkeit und Umdeutung von Rechtsgeschäften                                           45
+
+
+
+nach dem wirklichen Willen des Anfechtenden gem. §§ 133, 157 auszulegen, sodass
+die Anfechtung des Verfügungsgeschäftes wohl miterklärt wurde.
+
+
+Bedeutung hat die Frage nach der Fehleridentität insbesondere bei der Prüfung von
+Herausgabeansprüchen. Beispiel: Der Verkäufer hat das Bild bereits an den Käufer
+übergeben.
+    •   Fehleridentität wird nicht angenommen, das Verfügungsgeschäft ist wirk-
+        sam. Der Käufer wurde Eigentümer des Bildes. Der Verkäufer hat gegen den
+        Käufer einen Anspruch aus § 812 I 1 Var. 1 auf Herausgabe und Rücküber-
+        eignung (Eigentumsübertragung) des Besitzes, weil es am Rechtsgrund – dem
+        Kaufvertrag - fehlt.
+
+    •   Fehleridentität wird angenommen, das Verfügungsgeschäft ist ebenfalls
+        unwirksam. Der Verkäufer hat sein Eigentum an dem Bild nicht verloren. Der
+        Käufer hat mangels wirksamen Kaufvertrages kein Recht zum Besitz gem.
+        § 986. Er hat deshalb gegen den Käufer einen Anspruch auf Herausgabe nach
+        § 985. Daneben greift ein Anspruch aus § 812 I 1 Var. 1 auf Besitzverschaf-
+        fung am Bild.
+
+
+
+                Fehleridentität                      Keine Fehleridentität
+
+
+
+                  Käufer wird nicht Eigentümer              Käufer wird Eigentümer
+
+
+
+                       § 985 (+) mangels
+                     Eigentumsverlust und                 § 985 (-) weil Verkäufer das
+                Kaufvertrag berechtigt nicht zum               Eigentum verliert
+                          Besitz § 986
+
+
+
+                 § 812 I 1 Var. 1 (+) hinsichtlich       § 812 I 1 Var. 1 (+) hinsichtlich
+                     Eigentum und Besitz                           des Besitzes
+
+
+
+Im Ergebnis erlangt der Verkäufer den Besitz an dem Bild zurück und bleibt/wird wie-
+der Eigentümer. Unterschiede bestehen hinsichtlich der Herausgabeansprüche ledig-
+lich dahingehend, ob der Anspruch nach § 985 besteht.
+
+
+Praktische Bedeutung kann die Abgrenzung aber in unterschiedlichen Fällen erlangen:
+    •   Bleibt der V wegen Anfechtbarkeit der Übereignung Eigentümer und gegen
+        den K wird das Insolvenzverfahren eröffnet, so ist das Bild gem. 3 47 InsO aus
+        der Insolvenzmasse auszusondern.
+    •   Der Anfechtungsgegner (K1) hat das Bild schon an den Dritten (K2) weiterver-
+        äußert.
+46                                                       Teilnichtigkeit und Umdeutung von Rechtsgeschäften
+
+
+
+                      o      Ist nur der Kaufvertrag anfechtbar, so hat K2 vom Berechtigten K1 das
+                             Eigentum erworben. Ein Anspruch des V aus § 812 I 1 Var. 1 gegen
+                             den K1 könnte dieser entgegenhalten, dass er das Eigentum bereits
+                             wieder verloren hat und damit gem. § 818 III entreichert ist, sofern er
+                             sofern er die Anfechtbarkeit des Kaufvertrages nicht kannte. Ansons-
+                             ten verbleibt es dem gem. §§ 819 I, 142 II, 818 IV, 292, 989, 990 bei
+                             Schadensersatzansprüchen.
+                       o     Ist auch die dingliche Übereignung anfechtbar, so kommt es gem.
+                             § 932 auf den guten Glauben des K2 an, ob dieser Eigentum erwer-
+                             ben kann.
+
+     Merke: In der Klausur sind mit ausreichender Argumentation beide Ergebnisse ver-
+     tretbar. In höheren Semestern (insb. im Sachenrecht) sollte die Entscheidung davon
+     abhängen, ob im Sachverhalt angelegte Prüfungspunkte abgeschnitten werden, bei-
+     spielsweise die Schadensersatzansprüche bei Weiterveräußerung des Gegenstandes.
+     Zur Vermeidung eines Hilfsgutachtens sollte dann die Fehleridentität verneint werden.
+
+
+            •    In den Fällen der arglistigen Täuschung und der widerrechtlichen Dro-
+                 hung gem. § 123 I liegt häufig, aber nicht notwendigerweise Fehleridentität
+                 vor. Davon ist jedenfalls auszugehen, wenn der durch Täuschung hervorgeru-
+                 fene Irrtum oder die durch Drohung herbeigeführte Zwangslage bei der Vor-
+                 nahme des Verfügungsgeschäftes noch andauert. 123 Beispielsweise der Ge-
+                 täuschte einen Kaufvertrag über den Kauf eines mangelhaften Autos
+                 abschließt und dieses täuschungsbedingt gegen die Zahlung eines zu hohen
+                 Kaufpreises übereignet bekommt.
+
+
+            7.             Die Sonderregelung in § 306 für Allgemeine Geschäftsbedingun-
+                           gen
+     Für den Anwendungsbereich Allgemeiner Geschäftsbedingungen enthält § 306 eine
+     Sonderregelung.
+     Abweichend von § 139 sieht § 306 die grundsätzliche Wirksamkeit der restlichen Ver-
+     tragsbestandteile vor, obwohl durch den ganzen oder teilweisen Ausfall der Allgemei-
+     nen Geschäftsbedingungen Lücken im Vertragswerk entstehen. Gemäß § 306 Abs. 2
+     sind diese Lücken durch die einschlägigen gesetzlichen Vorschriften zu füllen. Eine
+     Einschränkung macht nur § 306 Abs. 3. Nach dieser Vorschrift ist ausnahmsweise der
+     Gesamtvertrag nichtig, wenn ein Festhalten am Vertrag für eine Partei eine unzumut-
+     bare Härte darstellen würde.
+     Der wesentliche Unterschied zwischen § 139 und § 306 besteht darin, dass, soweit
+     nicht § 306 Abs. 3 eingreift, der Vertrag im Zweifel unabhängig vom Willen der
+     Parteien fortbesteht, wenn Allgemeine Geschäftsbedingungen insgesamt oder teil-
+     weise unwirksam sind.
+
+
+
+
+     _________________________________________________
+     123
+           BeckOGK/BEURSKENs, BGB § 142 Rn. 40.
+Teilnichtigkeit und Umdeutung von Rechtsgeschäften                                                 47
+
+
+
+       Beispiel: Die Allgemeinen Geschäftsbedingungen, die der Verkäufer eines Neu-
+       wagens verwendet, werden bei Abschluss eines Vertrages mit einem Käufer Ver-
+       tragsinhalt. Diese Allgemeinen Geschäftsbedingungen enthalten unter anderem
+       die Bestimmung, dass bei Erhöhung der Stahlpreise um mehr als 2 % bis zur Lie-
+       ferung des Fahrzeuges in drei Monaten der Preis des Wagens sich entsprechend
+       erhöht.
+       Die Klausel ist gemäß § 309 Nr. 1 unwirksam. Der Verkäufer kann sich aber nicht
+       auf den Standpunkt stellen, ohne die Klausel hätte er den Vertrag gar nicht abge-
+       schlossen, so dass der Vertrag insgesamt gemäß § 139 nichtig sei, denn § 139 ist
+       hier durch § 306 ausgeschlossen.
+       Unabhängig von der Erhöhung der Materialpreise muss der Verkäufer dem Käufer
+       das Fahrzeug daher zum ursprünglich vereinbarten Kaufpreis liefern.
+
+Früher gab es in der Literatur Streit über die Frage, ob bei einem teilweisen Verstoß
+einer AGB–Klausel gegen die §§ 307 ff. von der Gesamtnichtigkeit dieser AGB–Klau-
+sel 124 oder lediglich von deren Teilnichtigkeit 125 ausgegangen werden muss. § 306
+hat diese Frage entschieden: hiernach bleibt bei Unwirksamkeit eines Teils der Allge-
+meinen Geschäftsbedingungen der übrige Teil wirksam. Ist eine einzelne AGB–Be-
+stimmung oder Formularklausel nach ihrem Wortlaut aus sich heraus verständlich
+und sinnvoll trennbar in einen inhaltlich zulässigen und in einen unzulässigen Rege-
+lungsteil ("blue-pencil-test"), so ist nach Auffassung des BGH 126die Aufrechterhal-
+tung des zulässigen Teils rechtlich unbedenklich und möglich. Beispielsweise sieht
+eine sog. doppelte oder zweistufige Verfallklausel vor, dass ein Anspruch verfällt,
+wenn er nicht innerhalb einer bestimmten Frist nach Fälligkeit geltend gemacht und
+im Falle einer Ablehnung innerhalb einer weiteren Frist eingeklagt wird. Falls nur die
+zweite Frist (Klagefrist) zu kurz bemessen und deshalb wegen unangemessener Be-
+nachteiligung gem. § 307 I 1 unwirksam ist, bleibt die Klausel hinsichtlich der ersten
+Frist (Geltendmachungsfrist) wirksam. 127 Der unwirksame Teil kann also „Herausge-
+strichen“ werden und die Klausel bleibt an sich verständlich und sinnvoll.
+
+  Beispiel: „Alle Ansprüche, die sich aus dem Arbeitsverhältnis ergeben, sind bin-
+  nen einer Ausschlussfrist von zwei Monaten nach Fälligkeit schriftlich geltend zu
+  machen und im Fall der Ablehnung durch die Gegenpartei binnen einer Aus-
+  schlussfrist von einem Monat einzuklagen.“
+
+Eine solche Aufteilung einer Klausel in einen wirksamen und einen unwirksamen Teil
+hat nichts zu tun mit dem von der Rechtsprechung entwickelten "Verbot der gel-
+tungserhaltenden Reduktion". 128 Dieses Verbot bedeutet: Es ist nicht möglich, eine
+unwirksame Klausel durch richterliche Umgestaltung auf einen noch zulässigen Inhalt
+zurückzuführen. Andernfalls würde dem Zweck des Gesetzes, den Vertragspartner
+des Verwenders vor unbilligen Klauseln zu schützen, zuwidergehandelt; denn der Ver-
+wender könnte bei der Aufstellung der Allgemeinen Geschäftsbedingungen über die
+
+_________________________________________________
+124
+      SONNENSCHEIN, NJW 1980, 1713, 1720.
+125
+      GÖTZ, NJW 1978, 2223, 2225 ff.; differenzierend: SCHMIDT, JA 1980, 401 ff.; noch zum AGBG.
+126
+      BGH NJW 2021, 2193 Rn. 64.
+127
+      BAG ZIP 2008, 1651 (1652).
+128
+      MünchKomm/FORNASIER, BGB § 306 Rn. 22; Grdl. BGH NJW 1982, 2309 (2310); BAG NJW 2019, 456
+       (459).
+48                                                       Teilnichtigkeit und Umdeutung von Rechtsgeschäften
+
+
+
+     Grenzen des Zulässigen hinausgehen, ohne mehr befürchten zu müssen, als dass ein
+     Gericht die Benachteiligung seines Geschäftspartners auf ein gerade noch zulässiges
+     Maß zurückführen wird. 129 Beispielsweise verpflichtet sich der Mieter zu regelmäßigen
+     Schönheitsreparaturen, eine solche Klausel ist aber nur bei eindeutiger Erforderlichkeit
+     der Renovierung oder jahrzehntelanger Nutzung zulässig. Das Verbot der geltungser-
+     haltenden Reduktion verhindert, dass anstelle der unzulässigen Regelung ein gerade
+     noch zulässiger Inhalt angenommen wird. Damit entfällt die gesamte Klausel. 130
+
+       Beispiel: „Der Mieter hat die Wohnung alle 5 Jahre zu renovieren“
+
+     In § 306 ist nicht ausdrücklich geregelt, ob und gegebenenfalls unter welchen Vo-
+     raussetzungen die Lücke, die durch den Wegfall der gegen §§ 307 ff. verstoßenden
+     Klausel entsteht, durch ergänzende Vertragsauslegung geschlossen werden kann.
+     Es ist die Frage zu stellen, ob die §§ 133, 157 zu den „gesetzlichen Vorschriften“
+     i.S.d. § 306 II zählen. Der BGH 131 hat sich in dieser heftig umstrittenen Frage deutlich
+     für eine ergänzende Vertragsauslegung ausgesprochen. Er betont, bei den Vorschrif-
+     ten der §§ 157, 133, in denen die ergänzende Vertragsauslegung ihre Grundlage
+     habe, handele es sich um "gesetzliche Vorschriften" i.S. des § 306 Abs. 2 n.F. (§ 6
+     Abs. 2 AGBG a.F.); der Wortlaut des § 306 Abs. 2 biete keinen Anhaltspunkt dafür,
+     den Begriff der "gesetzlichen Vorschrift" auf Normen mit "sachlichem Regelungsge-
+     halt" zu beschränken und "methodische Vorschriften" auszugrenzen. 132 Die Grenze
+     zur nicht zulässigen geltungserhaltenden Reduktion dürfte kaum noch zu ziehen
+     sein. 133
+
+
+            II.       Die Umdeutung (§ 140)
+
+            1.           Überblick
+     Neben § 139 bietet die Umdeutung (Konversion) eine weitere Möglichkeit, ein nich-
+     tiges Rechtsgeschäft aufrecht zu erhalten.
+     § 140 ermöglicht es, den von den Parteien angestrebten wirtschaftlichen Erfolg ein-
+     treten zu lassen, wenn das von den Parteien gewählte Rechtsgeschäft nichtig ist,
+     gleichzeitig aber den Voraussetzungen eines anderen Rechtsgeschäftes Genüge getan
+     wird.
+     Stets geht die Auslegung der Umdeutung i.S. des § 140 vor. Erst wenn eine Ausle-
+     gung gemäß §§ 133, 157 nicht zu einem Erfolg geführt hat, kann, falls Nichtigkeit
+     vorliegt, der Versuch einer Umdeutung unternommen werden.
+
+
+
+
+     _________________________________________________
+     129
+           BGHZ 115, 324, 326.
+     130
+           MünchKomm/WURMNEST, BGB § 307 Rn. 134 ff.
+     131
+           BGHZ 90, 69, 75 ff; BGHZ 117, 92, 98; zur Unionsrechtskonformität s. auch HERRESTHAL, NJW 2021,
+             589.
+     132
+           BGHZ 96, 18, 26 und 120, 108, 122.
+     133
+           MünchKomm/FORNASIER, BGB § 306 Rn. 32 ff.
+Teilnichtigkeit und Umdeutung von Rechtsgeschäften                                                  49
+
+
+
+       2.           Die Nichtigkeit des Rechtsgeschäfts
+Die Umdeutung setzt voraus, dass das Rechtsgeschäft, um das es geht, nichtig ist. Die
+Nichtigkeit kann von vornherein bestehen; sie kann aber auch später – z.B. durch An-
+fechtung mit der Rechtsfolge aus § 142 – herbeigeführt werden. 134 Ein bislang schwe-
+bend unwirksames Rechtsgeschäft ist jedenfalls dann der Umdeutung fähig, wenn es
+durch Verweigerung der Genehmigung endgültig unwirksam geworden ist. 135
+
+       3.           Die weiteren Voraussetzungen
+Die Umdeutung eines nichtigen Rechtsgeschäfts setzt zunächst einmal die Feststel-
+lung darüber voraus, was die Parteien im Zeitpunkt des Vertragsabschlusses 136 bei
+Kenntnis der Nichtigkeit vereinbart hätten (= Feststellung des mutmaßlichen Partei-
+willens). Dabei ist auf die von den Parteien verfolgten Zwecke unter Berücksichtigung
+ihrer beiderseitigen Interessenlage abzustellen. 137
+Bei der Ermittlung des mutmaßlichen Parteiwillens handelt es sich um die Feststellung
+dessen, was die Parteien gewollt hätten, wenn sie die Nichtigkeit des abgeschlossenen
+Rechtsgeschäfts gekannt hätten. Von einem solchen mutmaßlichen Parteiwillen wird
+in der Regel auszugehen sein, wenn "durch das andere Rechtsgeschäft derselbe wirt-
+schaftliche Erfolg erreicht wird wie durch das nichtige Rechtsgeschäft, da im allge-
+meinen davon ausgegangen werden kann, dass es den Parteien als vernünftig den-
+kenden Menschen beim Vertragsabschluss auf den von ihnen angestrebten
+wirtschaftlichen Erfolg angekommen ist". 138
+Die Umdeutung des nichtigen Geschäfts in ein anderes Geschäft setzt voraus, dass
+alle Bestandteile des anderen Geschäfts vorhanden sind, das nichtige Geschäft also
+die Bestandteile des Geschäfts, in das die Umdeutung erfolgt, "in sich schließt"; denn
+die Umdeutung darf nicht dazu führen, dass an die Stelle des nichtigen Geschäfts ein
+solches gesetzt wird, das über den Erfolg des ursprünglich gewollten hinausgeht. 139
+Nicht jedes nichtige Rechtsgeschäft ist der Umdeutung fähig, wenn ein entsprechen-
+der mutmaßlicher Parteiwille ermittelt worden ist. Problematisch ist vor allem die Um-
+deutung solcher Rechtsgeschäfte, die gemäß § 138 sittenwidrig und damit nichtig
+sind. 140 Hierbei ist darauf abzustellen, dass sich der Vorwurf der Sittenwidrigkeit gegen
+den Gesamtinhalt des betreffenden Rechtsgeschäfts richtet, nicht aber nur gegen die
+Rechtsform, die die Parteien gewählt haben. 141 Soll aber das – "sittlich" zu missbilli-
+gende – wirtschaftliche Ziel mit Hilfe der Umdeutung gemäß § 140 ohne Verände-
+rung des Inhalts lediglich über eine Änderung des rechtlichen Weges erreicht werden,
+so steht dies im Widerspruch zu Sinn und Zweck des § 138. Solange die gegen § 138
+
+
+
+
+_________________________________________________
+134
+      STAUDINGER/ROTH, § 140 Rn. 14 f.
+135
+      BGHZ 40, 218, 222.
+136
+      BROX/WALKER, § 15 Rn. 17.
+137
+      BGH NJW 1980, 2517 f.
+138
+      BGHZ 19, 269, 273.
+139
+      BGHZ 26, 320, 329.
+140
+      für eine Umdeutungsfähigkeit auch sittenwidriger Geschäfte u.a. MünchKomm/BUSCHE, BGB § 140
+         Rn. 13.
+141
+      BGHZ 68, 204, 206.
+50                                                       Teilnichtigkeit und Umdeutung von Rechtsgeschäften
+
+
+
+     verstoßende wirtschaftliche Zielsetzung des Geschäftes nicht geändert wird, entzieht
+     es sich also einer Umdeutung gemäß § 140. 142
+            Beispiel: Ein Mietvertrag über Wohnraum ist grundsätzlich nur unter Einhaltung
+            bestimmter Kündigungsfristen (vgl. § 573c) kündbar. Nur in wenigen im Gesetz
+            genau geregelten Ausnahmefällen ist eine fristlose Kündigung möglich (vgl.
+            §§ 543, 569). Kündigt der Vermieter seinem Mieter ohne Einhaltung der Frist,
+            obwohl ein solcher Ausnahmefall nicht gegeben ist, so ist die Kündigung wegen
+            Verstoßes gegen § 573c nichtig. Allerdings ist diese Kündigung gemäß § 140 in
+            eine fristgemäße Kündigung umzudeuten, wenn feststeht, dass der Vermieter das
+            Mietverhältnis auf jeden Fall beenden will, etwa weil er beabsichtigt, in die Woh-
+            nung selbst einzuziehen.
+
+
+            III.      Die Bestätigung (§ 141)
+     In § 141 Abs. 1 wird die Bestätigung eines nichtigen Rechtsgeschäfts als dessen
+     Neuvornahme fingiert.
+     Die Bestätigung setzt ein nichtiges Rechtsgeschäft voraus. Bei einem lediglich anfecht-
+     baren Rechtsgeschäft hat die Bestätigung nach § 144 Vorrang, wonach der Anfech-
+     tungsberechtigte lediglich auf sein Anfechtungsrecht verzichtet. Die Heilung eines un-
+     wirksamen Rechtsgeschäfts durch Erfüllung ist ebenfalls streng von der Bestätigung
+     nach § 141 zu trennen. Mit der Bestätigung nicht zu verwechseln ist schließlich die
+     Genehmigung eines schwebend unwirksamen Vertrages, zB § 108. 143
+     Die Bestätigung gemäß § 141 setzt weiter einen Bestätigungswillen und dessen Äu-
+     ßerung voraus. Die Erklärung der Bestätigung kann ausdrücklich, aber auch durch
+     schlüssiges (konkludentes) Verhalten erfolgen. 144 Wenn diejenigen, die einen nichti-
+     gen Vertrag geschlossen haben, in Kenntnis der Nichtigkeit gleichwohl ihre vertragli-
+     chen Pflichten erfüllen, so liegt darin im Zweifel die Bestätigung eines nichtigen Ver-
+     trages durch konkludentes Verhalten.
+
+
+            Beispiel: BWL–Student S gibt dem Gläubiger G mündlich ein Bürgschaftsverspre-
+            chen für die Schulden des B. Kurze Zeit später schließt S sein Studium ab und
+            gründet einen Verlag. Auf Nachfrage des G, ob er weiterhin zu seinem Bürg-
+            schaftsversprechen stehe, bejaht S dies.
+
+     Das von S als Student abgegebene Bürgschaftsversprechen war, weil es nur mündlich
+     erfolgte, gemäß §§ 766 S. 1, 125 nichtig. Die Bestätigung des Bürgschaftsverspre-
+     chens durch B erfolgte, als er einen Verlag betrieb. In dieser Funktion ist S gemäß § 1
+     Abs. 2 HGB Kaufmann. Er durfte deshalb nach § 350 HGB ein mündliches Bürg-
+     schaftsversprechen abgeben. Durch die Bestätigung des Bürgschaftsversprechens ist
+     dieses nunmehr gemäß § 141 BGB wirksam geworden.
+
+
+
+
+     _________________________________________________
+     142
+           BGHZ 68, 204, 206 f.
+     143
+           STADLER, BGB AT, Rn. 13.
+     144
+           BGHZ 11, 59, 60.
+Teilnichtigkeit und Umdeutung von Rechtsgeschäften                                      51
+
+
+
+Die Bestätigung entfaltet keine Rückwirkung. Das bestätigte Rechtsgeschäft ist erst
+vom Zeitpunkt seiner Bestätigung an voll wirksam. Allerdings schafft § 141 Abs. 2 für
+die Beteiligten eine beschränkte schuldrechtliche Rückbeziehung: Sie müssen einan-
+der das gewähren, was sie haben würden, wenn der Vertrag von Anfang an gültig
+gewesen wäre.
+
+
+Wichtige Entscheidungen:
+     BGHZ 112, 376, 378 f.
+     BGHZ 115, 324, 326 f.
+     BGHZ 120, 108, 122
+     BGH NJW 2003, 51.
+Diese Seite bleibt aus technischen Gründen frei!
+2001626
+(04/25)
+                           Alle Rechte vorbehalten
+
+55101-06-S#1   *2001626*   © 2025 FernUniversität in Hagen
+                           Rechtswissenschaftliche Fakultät
+

@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unified Design Test - JuraFit</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background-color: #f3f4f6;
+            padding: 20px;
+            margin: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #1f2937;
+            margin-bottom: 30px;
+        }
+        .comparison {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+        .module-card {
+            background: white;
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        .module-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        .ects-badge {
+            display: inline-block;
+            padding: 4px 8px;
+            background-color: #e0e7ff;
+            color: #4f46e5;
+            font-size: 12px;
+            border-radius: 9999px;
+            font-weight: 500;
+            margin-left: 12px;
+        }
+        .description {
+            color: #6b7280;
+            font-size: 14px;
+            margin-bottom: 12px;
+        }
+        .meta-info {
+            display: flex;
+            gap: 16px;
+            font-size: 14px;
+            color: #6b7280;
+            margin-bottom: 8px;
+        }
+        .progress-circle {
+            width: 80px;
+            height: 80px;
+            position: relative;
+            margin: 0 auto 8px;
+        }
+        .progress-circle svg {
+            transform: rotate(-90deg);
+        }
+        .progress-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .btn {
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-weight: 500;
+            font-size: 14px;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .btn-primary {
+            background-color: #4f46e5;
+            color: white;
+        }
+        .btn-primary:hover {
+            background-color: #4338ca;
+        }
+        .btn-lg {
+            padding: 12px 24px;
+            font-size: 16px;
+        }
+        .unit-item {
+            padding: 16px;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .unit-item:hover {
+            border-color: #c7d2fe;
+        }
+        .unit-title {
+            font-weight: 500;
+            color: #1f2937;
+            margin-bottom: 4px;
+        }
+        .unit-item:hover .unit-title {
+            color: #4f46e5;
+        }
+        .unit-meta {
+            font-size: 14px;
+            color: #6b7280;
+        }
+        .progress-bar {
+            width: 96px;
+            height: 8px;
+            background-color: #e5e7eb;
+            border-radius: 9999px;
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            background-color: #4f46e5;
+            border-radius: 9999px;
+        }
+        .check-icon {
+            width: 32px;
+            height: 32px;
+            background-color: #d1fae5;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #059669;
+        }
+        .section-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #1f2937;
+            margin: 20px 0 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Unified Module Design - JuraFit Learning Dashboard</h1>
+        
+        <div class="comparison">
+            <!-- Propaedeutikum Module -->
+            <div class="module-card">
+                <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 16px;">
+                    <div style="flex: 1;">
+                        <h2 class="module-title">Einführung in die rechtswissenschaftliche Arbeitsweise (Propädeutikum)</h2>
+                        <p class="description">Systematische Einführung in die juristische Methodik, Falllösungstechnik und wissenschaftliches Arbeiten.</p>
+                        <div class="meta-info">
+                            <span>🕐 40 Stunden</span>
+                            <span>📖 10 Einheiten</span>
+                        </div>
+                    </div>
+                    <div style="text-align: center;">
+                        <div class="progress-circle">
+                            <svg width="80" height="80">
+                                <circle cx="40" cy="40" r="36" stroke="#e5e7eb" stroke-width="8" fill="none"></circle>
+                                <circle cx="40" cy="40" r="36" stroke="#4f46e5" stroke-width="8" fill="none" 
+                                        stroke-dasharray="226" stroke-dashoffset="113"></circle>
+                            </svg>
+                            <div class="progress-text">50%</div>
+                        </div>
+                        <button class="btn btn-primary">
+                            Modul öffnen
+                            <span>→</span>
+                        </button>
+                    </div>
+                </div>
+                
+                <h3 class="section-title">Lerneinheiten:</h3>
+                
+                <div class="unit-item">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <div>
+                            <div class="unit-title">1. Grundlagen der Rechtswissenschaft</div>
+                            <div class="unit-meta">60 Min • 12 Übungen</div>
+                        </div>
+                        <div class="check-icon">✓</div>
+                    </div>
+                </div>
+                
+                <div class="unit-item">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <div>
+                            <div class="unit-title">2. Juristische Arbeitstechniken und Methodik</div>
+                            <div class="unit-meta">90 Min • 15 Übungen</div>
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 8px;">
+                            <span style="font-size: 14px; color: #4f46e5; font-weight: 500;">75%</span>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 75%;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- BGB AT Module -->
+            <div class="module-card">
+                <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 16px;">
+                    <div style="flex: 1;">
+                        <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
+                            <h2 class="module-title" style="margin: 0;">BGB Allgemeiner Teil</h2>
+                            <span class="ects-badge">10 ECTS</span>
+                        </div>
+                        <p class="description">Grundlegende Konzepte des Bürgerlichen Rechts: Rechtsgeschäfte, Vertragsschluss, Willenserklärungen und Stellvertretung.</p>
+                        <div class="meta-info">
+                            <span>🕐 150 Stunden</span>
+                            <span>📖 8 Einheiten</span>
+                        </div>
+                        <p style="font-size: 12px; color: #6b7280; margin-top: 8px;">
+                            <strong>Prüfung:</strong> Klausur (120 Min) • <strong>Verantwortlich:</strong> Prof. Dr. Schmidt
+                        </p>
+                    </div>
+                    <div style="text-align: center;">
+                        <div class="progress-circle">
+                            <svg width="80" height="80">
+                                <circle cx="40" cy="40" r="36" stroke="#e5e7eb" stroke-width="8" fill="none"></circle>
+                                <circle cx="40" cy="40" r="36" stroke="#4f46e5" stroke-width="8" fill="none" 
+                                        stroke-dasharray="226" stroke-dashoffset="180"></circle>
+                            </svg>
+                            <div class="progress-text">20%</div>
+                        </div>
+                        <button class="btn btn-primary">
+                            Modul öffnen
+                            <span>→</span>
+                        </button>
+                    </div>
+                </div>
+                
+                <h3 class="section-title">Lerneinheiten:</h3>
+                
+                <div class="unit-item">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <div>
+                            <div class="unit-title">1. Einführung und Rechtsgeschäftslehre</div>
+                            <div class="unit-meta">120 Min • 18 Übungen</div>
+                        </div>
+                        <div class="check-icon">✓</div>
+                    </div>
+                </div>
+                
+                <div class="unit-item">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <div>
+                            <div class="unit-title">2. Willenserklärung und Auslegung</div>
+                            <div class="unit-meta">150 Min • 20 Übungen</div>
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 8px;">
+                            <span style="font-size: 14px; color: #4f46e5; font-weight: 500;">40%</span>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 40%;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="unit-item">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <div>
+                            <div class="unit-title">3. Vertragsschluss</div>
+                            <div class="unit-meta">90 Min • 15 Übungen</div>
+                        </div>
+                        <span style="color: #9ca3af;">→</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <h2 style="margin: 40px 0 20px;">Key Design Changes</h2>
+        <ul style="background: white; padding: 24px; border-radius: 12px; line-height: 1.8;">
+            <li><strong>Unified Color Scheme:</strong> Both modules now use indigo (#4f46e5) as the primary color</li>
+            <li><strong>Consistent Button Styles:</strong> Same size, padding, and hover states for all buttons</li>
+            <li><strong>Progress Tracking:</strong> BGB-AT now has the same circular progress indicator as Propädeutikum</li>
+            <li><strong>Enrollment States:</strong> Both modules show "Jetzt starten" when not enrolled, "Modul öffnen" when enrolled</li>
+            <li><strong>Unit Previews:</strong> Same layout with progress bars, completion checkmarks, and hover states</li>
+            <li><strong>Hover Interactions:</strong> Consistent indigo border and text color on hover for all interactive elements</li>
+            <li><strong>Typography:</strong> Same font sizes and weights across both modules</li>
+            <li><strong>Spacing:</strong> Consistent padding and margins throughout</li>
+        </ul>
+    </div>
+</body>
+</html>

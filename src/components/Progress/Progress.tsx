@@ -1,58 +1,39 @@
 import React, { useState } from 'react';
 import ProgressCharts from '../Training/ProgressCharts';
-import useStudyStore from '../../store/studyStore';
 import useTrainingStore from '../../store/trainingStore';
 import useSettingsStore from '../../store/settingsStore';
+import useNutritionStore from '../../store/nutritionStore';
 import {
   FireIcon,
   TrophyIcon,
   ClockIcon,
-  BookOpenIcon,
   HeartIcon,
   ChartBarIcon,
   CalendarIcon,
-  ArrowTrendingUpIcon
+  ArrowTrendingUpIcon,
+  ScaleIcon
 } from '@heroicons/react/24/outline';
 import { format, startOfWeek, endOfWeek, eachDayOfInterval, subDays } from 'date-fns';
 import { de } from 'date-fns/locale';
 
 const Progress: React.FC = () => {
   const [timeRange, setTimeRange] = useState<'week' | 'month' | 'year'>('week');
-  const { modules, sessionHistory, getWeeklyStudyHours } = useStudyStore();
-  const { weeklyStats, trainingGoals, getWeeklyTrainingSessions } = useTrainingStore();
+  const { trainingGoals, getWeeklyTrainingSessions, sessionHistory } = useTrainingStore();
   const { user } = useSettingsStore();
+  const { foodEntries } = useNutritionStore();
 
   // Calculate streaks
   const calculateStreaks = () => {
     const today = new Date();
     today.setHours(0, 0, 0, 0);
     
-    let studyStreak = 0;
     let trainingStreak = 0;
+    let nutritionStreak = 0;
     let currentDate = new Date(today);
 
-    // Study streak
+    // Training streak
     while (true) {
-      const dayStudySessions = sessionHistory.filter(session => {
-        const sessionDate = new Date(session.startTime);
-        sessionDate.setHours(0, 0, 0, 0);
-        return sessionDate.getTime() === currentDate.getTime();
-      });
-      
-      if (dayStudySessions.length > 0) {
-        studyStreak++;
-        currentDate.setDate(currentDate.getDate() - 1);
-      } else {
-        break;
-      }
-    }
-
-    // Reset for training streak
-    currentDate = new Date(today);
-    const trainingSessions = useTrainingStore.getState().sessionHistory;
-    
-    while (true) {
-      const dayTrainingSessions = trainingSessions.filter(session => {
+      const dayTrainingSessions = sessionHistory.filter(session => {
         const sessionDate = new Date(session.date);
         sessionDate.setHours(0, 0, 0, 0);
         return sessionDate.getTime() === currentDate.getTime();
@@ -66,11 +47,28 @@ const Progress: React.FC = () => {
       }
     }
 
-    return { studyStreak, trainingStreak };
+    // Reset for nutrition streak
+    currentDate = new Date(today);
+    
+    while (true) {
+      const dayNutritionEntries = foodEntries.filter(entry => {
+        const entryDate = new Date(entry.date);
+        entryDate.setHours(0, 0, 0, 0);
+        return entryDate.getTime() === currentDate.getTime();
+      });
+      
+      if (dayNutritionEntries.length > 0) {
+        nutritionStreak++;
+        currentDate.setDate(currentDate.getDate() - 1);
+      } else {
+        break;
+      }
+    }
+
+    return { trainingStreak, nutritionStreak };
   };
 
   const streaks = calculateStreaks();
-  const weeklyStudyHours = getWeeklyStudyHours();
   const weeklyTrainingSessions = getWeeklyTrainingSessions();
 
   // Calculate weekly activity for heatmap
@@ -85,22 +83,22 @@ const Progress: React.FC = () => {
       const dayEnd = new Date(day);
       dayEnd.setHours(23, 59, 59, 999);
 
-      const studySessions = sessionHistory.filter(session => {
-        const sessionDate = new Date(session.startTime);
-        return sessionDate >= dayStart && sessionDate <= dayEnd;
-      });
-
-      const trainingSessions = useTrainingStore.getState().sessionHistory.filter(session => {
+      const trainingSessions = sessionHistory.filter(session => {
         const sessionDate = new Date(session.date);
         return sessionDate >= dayStart && sessionDate <= dayEnd;
       });
 
+      const nutritionEntries = foodEntries.filter(entry => {
+        const entryDate = new Date(entry.date);
+        return entryDate >= dayStart && entryDate <= dayEnd;
+      });
+
       return {
         date: day,
-        study: studySessions.length > 0,
         training: trainingSessions.length > 0,
-        studyHours: studySessions.reduce((total, session) => total + (session.duration || 0) / 60, 0),
-        trainingCount: trainingSessions.length
+        nutrition: nutritionEntries.length > 0,
+        trainingCount: trainingSessions.length,
+        caloriesLogged: nutritionEntries.reduce((total, entry) => total + entry.nutrition.calories, 0)
       };
     });
   };
@@ -108,9 +106,12 @@ const Progress: React.FC = () => {
   const weekActivity = getWeekActivity();
 
   // Calculate progress towards goals
-  const studyGoalProgress = (weeklyStudyHours / user.goals.weeklyStudyHours) * 100;
   const trainingGoalProgress = (weeklyTrainingSessions / user.goals.weeklyTrainingSessions) * 100;
   const weightProgress = ((user.weight - user.goals.targetWeight) / (92 - user.goals.targetWeight)) * 100;
+
+  // Calculate weekly calories average
+  const weeklyCaloriesAvg = weekActivity.reduce((sum, day) => sum + day.caloriesLogged, 0) / 7;
+  const calorieGoalProgress = (weeklyCaloriesAvg / user.goals.dailyCalories) * 100;
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-green-50 to-teal-100 pb-20">
@@ -121,19 +122,19 @@ const Progress: React.FC = () => {
         <div className="grid grid-cols-2 gap-3 mb-6">
           <div className="bg-white rounded-xl shadow-sm p-4">
             <div className="flex items-center justify-between mb-2">
-              <BookOpenIcon className="w-6 h-6 text-purple-600" />
-              <FireIcon className="w-5 h-5 text-orange-500" />
-            </div>
-            <p className="text-2xl font-bold text-gray-900">{streaks.studyStreak}</p>
-            <p className="text-sm text-gray-600">Tage Lern-Streak</p>
-          </div>
-          <div className="bg-white rounded-xl shadow-sm p-4">
-            <div className="flex items-center justify-between mb-2">
               <HeartIcon className="w-6 h-6 text-red-600" />
               <FireIcon className="w-5 h-5 text-orange-500" />
             </div>
             <p className="text-2xl font-bold text-gray-900">{streaks.trainingStreak}</p>
             <p className="text-sm text-gray-600">Tage Training-Streak</p>
+          </div>
+          <div className="bg-white rounded-xl shadow-sm p-4">
+            <div className="flex items-center justify-between mb-2">
+              <ScaleIcon className="w-6 h-6 text-green-600" />
+              <FireIcon className="w-5 h-5 text-orange-500" />
+            </div>
+            <p className="text-2xl font-bold text-gray-900">{streaks.nutritionStreak}</p>
+            <p className="text-sm text-gray-600">Tage Ernährungs-Streak</p>
           </div>
         </div>
 
@@ -142,19 +143,6 @@ const Progress: React.FC = () => {
           <h3 className="font-semibold text-gray-900 mb-4">Wochenziele</h3>
           
           <div className="space-y-4">
-            <div>
-              <div className="flex justify-between text-sm mb-1">
-                <span className="text-gray-600">Lernstunden</span>
-                <span className="font-medium">{weeklyStudyHours.toFixed(1)} / {user.goals.weeklyStudyHours}h</span>
-              </div>
-              <div className="w-full bg-gray-200 rounded-full h-2">
-                <div
-                  className="bg-purple-600 h-2 rounded-full transition-all duration-300"
-                  style={{ width: `${Math.min(studyGoalProgress, 100)}%` }}
-                />
-              </div>
-            </div>
-
             <div>
               <div className="flex justify-between text-sm mb-1">
                 <span className="text-gray-600">Trainingseinheiten</span>
@@ -180,6 +168,19 @@ const Progress: React.FC = () => {
                 />
               </div>
             </div>
+
+            <div>
+              <div className="flex justify-between text-sm mb-1">
+                <span className="text-gray-600">Kalorienziel (Ø)</span>
+                <span className="font-medium">{Math.round(weeklyCaloriesAvg)} / {user.goals.dailyCalories} kcal</span>
+              </div>
+              <div className="w-full bg-gray-200 rounded-full h-2">
+                <div
+                  className="bg-blue-600 h-2 rounded-full transition-all duration-300"
+                  style={{ width: `${Math.min(calorieGoalProgress, 100)}%` }}
+                />
+              </div>
+            </div>
           </div>
         </div>
 
@@ -194,17 +195,17 @@ const Progress: React.FC = () => {
                 </p>
                 <div
                   className={`h-12 rounded-lg flex flex-col items-center justify-center ${
-                    day.study && day.training
+                    day.training && day.nutrition
                       ? 'bg-green-500 text-white'
-                      : day.study
-                      ? 'bg-purple-500 text-white'
                       : day.training
                       ? 'bg-red-500 text-white'
+                      : day.nutrition
+                      ? 'bg-blue-500 text-white'
                       : 'bg-gray-100'
                   }`}
                 >
-                  {day.study && <BookOpenIcon className="w-4 h-4" />}
                   {day.training && <HeartIcon className="w-4 h-4" />}
+                  {day.nutrition && <ScaleIcon className="w-4 h-4" />}
                 </div>
                 <p className="text-xs text-gray-500 mt-1">
                   {format(day.date, 'd', { locale: de })}
@@ -214,66 +215,34 @@ const Progress: React.FC = () => {
           </div>
         </div>
 
-        {/* Module Progress */}
+        {/* Stats Overview */}
         <div className="bg-white rounded-xl shadow-sm p-6 mb-6">
-          <h3 className="font-semibold text-gray-900 mb-4">Modulfortschritt</h3>
-          <div className="space-y-3">
-            {modules.map(module => {
-              const progress = (module.completedHours / module.totalHours) * 100;
-              return (
-                <div key={module.id}>
-                  <div className="flex justify-between text-sm mb-1">
-                    <span className="text-gray-700">{module.name}</span>
-                    <span className="text-gray-600">{progress.toFixed(0)}%</span>
-                  </div>
-                  <div className="w-full bg-gray-200 rounded-full h-2">
-                    <div
-                      className="bg-blue-600 h-2 rounded-full transition-all duration-300"
-                      style={{ width: `${progress}%` }}
-                    />
-                  </div>
-                </div>
-              );
-            })}
+          <h3 className="font-semibold text-gray-900 mb-4">Statistiken</h3>
+          <div className="grid grid-cols-2 gap-4">
+            <div>
+              <p className="text-sm text-gray-600">Gesamt Training</p>
+              <p className="text-2xl font-bold text-gray-900">{sessionHistory.length}</p>
+              <p className="text-xs text-gray-500">Sessions</p>
+            </div>
+            <div>
+              <p className="text-sm text-gray-600">Ø Kalorien/Tag</p>
+              <p className="text-2xl font-bold text-gray-900">{Math.round(weeklyCaloriesAvg)}</p>
+              <p className="text-xs text-gray-500">kcal</p>
+            </div>
+            <div>
+              <p className="text-sm text-gray-600">Gewichtsveränderung</p>
+              <p className="text-2xl font-bold text-gray-900">-{(92 - user.weight).toFixed(1)}</p>
+              <p className="text-xs text-gray-500">kg</p>
+            </div>
+            <div>
+              <p className="text-sm text-gray-600">Wochenziel</p>
+              <p className="text-2xl font-bold text-gray-900">{Math.round((trainingGoalProgress + calorieGoalProgress) / 2)}%</p>
+              <p className="text-xs text-gray-500">erreicht</p>
+            </div>
           </div>
         </div>
 
-        {/* Training Goals */}
-        <div className="bg-white rounded-xl shadow-sm p-6 mb-6">
-          <h3 className="font-semibold text-gray-900 mb-4">Trainingsziele</h3>
-          <div className="space-y-3">
-            {trainingGoals.map(goal => {
-              const progress = goal.type === 'weight' 
-                ? ((goal.current - goal.target) / (92 - goal.target)) * 100
-                : (goal.current / goal.target) * 100;
-              
-              return (
-                <div key={goal.id} className="flex items-center justify-between">
-                  <div className="flex-1">
-                    <p className="text-sm font-medium text-gray-700">
-                      {goal.type === 'weight' ? 'Gewicht' : 'Körperfett'}
-                    </p>
-                    <p className="text-xs text-gray-600">
-                      {goal.current}{goal.unit} → {goal.target}{goal.unit}
-                    </p>
-                  </div>
-                  <div className="flex items-center">
-                    {goal.type === 'weight' && progress > 0 && (
-                      <ArrowTrendingUpIcon className="w-4 h-4 text-green-600 mr-2" />
-                    )}
-                    <span className={`text-sm font-medium ${
-                      progress >= 100 ? 'text-green-600' : 'text-gray-600'
-                    }`}>
-                      {Math.abs(100 - progress).toFixed(0)}%
-                    </span>
-                  </div>
-                </div>
-              );
-            })}
-          </div>
-        </div>
-
-        {/* Detailed Charts */}
+        {/* Charts Section */}
         <ProgressCharts />
       </div>
     </div>

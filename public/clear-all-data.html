@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JuraFit - Alle Daten löschen</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        button {
+            background-color: #dc2626;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            margin: 10px 5px;
+        }
+        button:hover {
+            background-color: #b91c1c;
+        }
+        .warning {
+            background-color: #fee2e2;
+            border: 1px solid #dc2626;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+            color: #991b1b;
+        }
+        .success {
+            background-color: #d1fae5;
+            border: 1px solid #10b981;
+            padding: 15px;
+            border-radius: 6px;
+            margin-top: 20px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>JuraFit - Kompletter Neustart</h1>
+        
+        <div class="warning">
+            <strong>⚠️ ACHTUNG:</strong> Diese Aktion löscht ALLE Daten der App:
+            <ul>
+                <li>Alle Module und Kursinhalte</li>
+                <li>Alle Lernfortschritte</li>
+                <li>Alle Einstellungen</li>
+            </ul>
+            <strong>Diese Aktion kann NICHT rückgängig gemacht werden!</strong>
+        </div>
+
+        <p>Klicken Sie nur auf den Button, wenn Sie wirklich einen kompletten Neustart möchten:</p>
+
+        <button onclick="clearAllData()">
+            🗑️ ALLE DATEN LÖSCHEN UND NEU STARTEN
+        </button>
+
+        <div id="success" class="success">
+            ✅ Alle Daten wurden gelöscht! Die App wird neu geladen...
+        </div>
+
+        <p style="margin-top: 30px;">
+            <a href="/">← Zurück zur App (ohne zu löschen)</a>
+        </p>
+    </div>
+
+    <script>
+        function clearAllData() {
+            if (confirm('Möchten Sie WIRKLICH alle Daten löschen?\n\nDiese Aktion kann NICHT rückgängig gemacht werden!')) {
+                if (confirm('Letzte Warnung: Alle Module, Fortschritte und Einstellungen werden gelöscht.\n\nSind Sie sicher?')) {
+                    try {
+                        // Alles löschen
+                        localStorage.clear();
+                        sessionStorage.clear();
+                        
+                        // IndexedDB löschen falls vorhanden
+                        if (window.indexedDB) {
+                            indexedDB.databases().then(databases => {
+                                databases.forEach(db => {
+                                    indexedDB.deleteDatabase(db.name);
+                                });
+                            }).catch(() => {});
+                        }
+                        
+                        document.getElementById('success').style.display = 'block';
+                        
+                        // Nach 2 Sekunden zur App
+                        setTimeout(() => {
+                            window.location.href = '/';
+                        }, 2000);
+                    } catch (error) {
+                        alert('Fehler beim Löschen: ' + error.message);
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+</html>

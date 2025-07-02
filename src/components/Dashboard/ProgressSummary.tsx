@@ -19,15 +19,6 @@ interface ProgressItem {
 const ProgressSummary: React.FC = () => {
   const progressItems: ProgressItem[] = [
     {
-      id: 'weekly-study',
-      label: 'Wochenstudium',
-      value: 15.5,
-      unit: 'Std',
-      icon: ClockIcon,
-      color: 'text-purple-600',
-      progress: 70
-    },
-    {
       id: 'weekly-training',
       label: 'Wochentraining',
       value: 2,
@@ -46,13 +37,22 @@ const ProgressSummary: React.FC = () => {
       progress: 24
     },
     {
-      id: 'module-progress',
-      label: 'Modulfortschritt',
-      value: 38,
-      unit: '%',
+      id: 'calories',
+      label: 'Kalorien heute',
+      value: 1850,
+      unit: 'kcal',
       icon: ChartBarIcon,
       color: 'text-blue-600',
-      progress: 38
+      progress: 75
+    },
+    {
+      id: 'weekly-activity',
+      label: 'Aktivität',
+      value: 5,
+      unit: 'Tage',
+      icon: ClockIcon,
+      color: 'text-purple-600',
+      progress: 71
     }
   ];
 

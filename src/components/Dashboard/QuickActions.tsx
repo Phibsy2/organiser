@@ -5,7 +5,8 @@ import {
   ChartBarIcon,
   Cog6ToothIcon,
   PlusIcon,
-  ClockIcon
+  ClockIcon,
+  AcademicCapIcon
 } from '@heroicons/react/24/outline';
 
 interface QuickAction {
@@ -23,13 +24,6 @@ interface QuickActionsProps {
 const QuickActions: React.FC<QuickActionsProps> = ({ onNavigate }) => {
   const actions: QuickAction[] = [
     {
-      id: 'start-study',
-      label: 'Studium starten',
-      icon: BookOpenIcon,
-      color: 'bg-purple-500 hover:bg-purple-600',
-      onClick: () => onNavigate?.('study')
-    },
-    {
       id: 'start-training',
       label: 'Training beginnen',
       icon: PlayIcon,
@@ -37,11 +31,18 @@ const QuickActions: React.FC<QuickActionsProps> = ({ onNavigate }) => {
       onClick: () => onNavigate?.('training')
     },
     {
-      id: 'pomodoro',
-      label: 'Pomodoro Timer',
-      icon: ClockIcon,
-      color: 'bg-orange-500 hover:bg-orange-600',
-      onClick: () => onNavigate?.('study')
+      id: 'log-nutrition',
+      label: 'Ernährung',
+      icon: BookOpenIcon,
+      color: 'bg-purple-500 hover:bg-purple-600',
+      onClick: () => onNavigate?.('nutrition')
+    },
+    {
+      id: 'learning',
+      label: 'Jura lernen',
+      icon: AcademicCapIcon,
+      color: 'bg-indigo-500 hover:bg-indigo-600',
+      onClick: () => onNavigate?.('learning')
     },
     {
       id: 'log-progress',
@@ -51,11 +52,11 @@ const QuickActions: React.FC<QuickActionsProps> = ({ onNavigate }) => {
       onClick: () => onNavigate?.('progress')
     },
     {
-      id: 'add-note',
-      label: 'Notiz hinzufügen',
-      icon: PlusIcon,
-      color: 'bg-blue-500 hover:bg-blue-600',
-      onClick: () => alert('Notiz-Funktion kommt bald!')
+      id: 'timer',
+      label: 'Timer',
+      icon: ClockIcon,
+      color: 'bg-orange-500 hover:bg-orange-600',
+      onClick: () => alert('Timer-Funktion kommt bald!')
     },
     {
       id: 'settings',

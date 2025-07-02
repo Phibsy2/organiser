@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debug Learning Content</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #f5f5f5;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #7c3aed;
+        }
+        .code {
+            background: #000;
+            color: #0f0;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+            white-space: pre;
+        }
+        button {
+            background: #7c3aed;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        button:hover {
+            background: #6d28d9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Debug Learning Content</h1>
+    
+    <div class="section">
+        <h2>Check Content Loading</h2>
+        <button onclick="checkContent()">Check propadeuctikumContent</button>
+        <button onclick="clearStores()">Clear All Stores</button>
+        <button onclick="simulateTopicSelection('ke1-kapitel-a')">Select Kapitel A</button>
+        <button onclick="simulateTopicSelection('ke1-kapitel-b')">Select Kapitel B</button>
+        <button onclick="simulateTopicSelection('ke1-kapitel-c')">Select Kapitel C</button>
+    </div>
+
+    <div class="section">
+        <h2>Output:</h2>
+        <div id="output" class="code"></div>
+    </div>
+
+    <script type="module">
+        // Import the content
+        import { propadeuctikumContent, feynmanTopicsA, feynmanTopicsB, feynmanTopicsC, cornellNotesA, cornellNotesB, cornellNotesC } from './src/data/propadeuctikumContent.js';
+
+        window.checkContent = function() {
+            const output = document.getElementById('output');
+            
+            const content = {
+                flashcardsA: propadeuctikumContent.kapitelA?.flashcards?.length || 0,
+                flashcardsB: propadeuctikumContent.kapitelB?.flashcards?.length || 0,
+                flashcardsC: propadeuctikumContent.kapitelC?.flashcards?.length || 0,
+                activeRecallA: propadeuctikumContent.kapitelA?.activeRecallQuestions?.length || 0,
+                activeRecallB: propadeuctikumContent.kapitelB?.activeRecallQuestions?.length || 0,
+                activeRecallC: propadeuctikumContent.kapitelC?.activeRecallQuestions?.length || 0,
+                feynmanTopics: propadeuctikumContent.feynmanTopics?.length || 0,
+                feynmanA: feynmanTopicsA?.length || 0,
+                feynmanB: feynmanTopicsB?.length || 0,
+                feynmanC: feynmanTopicsC?.length || 0,
+                cornellNotes: propadeuctikumContent.cornellNotes?.length || 0,
+                cornellA: cornellNotesA?.length || 0,
+                cornellB: cornellNotesB?.length || 0,
+                cornellC: cornellNotesC?.length || 0,
+                gutachtenExercises: propadeuctikumContent.gutachtenExercises?.length || 0
+            };
+
+            output.textContent = JSON.stringify(content, null, 2);
+            
+            // Also log sample data
+            console.log('Sample Flashcard:', propadeuctikumContent.kapitelA?.flashcards?.[0]);
+            console.log('Sample Active Recall:', propadeuctikumContent.kapitelA?.activeRecallQuestions?.[0]);
+            console.log('Sample Feynman:', feynmanTopicsA?.[0]);
+            console.log('Sample Cornell:', cornellNotesA?.[0]);
+        }
+
+        window.clearStores = function() {
+            // Clear all learning method stores
+            const stores = [
+                'srs-store',
+                'active-recall-store',
+                'feynman-store',
+                'cornell-store',
+                'gutachten-store'
+            ];
+
+            stores.forEach(store => {
+                localStorage.removeItem(store);
+            });
+
+            document.getElementById('output').textContent = 'All stores cleared!';
+        }
+
+        window.simulateTopicSelection = function(topicId) {
+            // This simulates what should happen when a topic is selected
+            const output = document.getElementById('output');
+            
+            let content = '';
+            if (topicId.includes('kapitel-a')) {
+                content = `
+Kapitel A Content:
+- Flashcards: ${propadeuctikumContent.kapitelA?.flashcards?.length || 0}
+- Active Recall: ${propadeuctikumContent.kapitelA?.activeRecallQuestions?.length || 0}
+- Feynman Topics: ${feynmanTopicsA?.length || 0}
+- Cornell Notes: ${cornellNotesA?.length || 0}
+
+Sample Flashcard:
+${JSON.stringify(propadeuctikumContent.kapitelA?.flashcards?.[0], null, 2)}
+                `;
+            } else if (topicId.includes('kapitel-b')) {
+                content = `
+Kapitel B Content:
+- Flashcards: ${propadeuctikumContent.kapitelB?.flashcards?.length || 0}
+- Active Recall: ${propadeuctikumContent.kapitelB?.activeRecallQuestions?.length || 0}
+- Feynman Topics: ${feynmanTopicsB?.length || 0}
+- Cornell Notes: ${cornellNotesB?.length || 0}
+                `;
+            } else if (topicId.includes('kapitel-c')) {
+                content = `
+Kapitel C Content:
+- Flashcards: ${propadeuctikumContent.kapitelC?.flashcards?.length || 0}
+- Active Recall: ${propadeuctikumContent.kapitelC?.activeRecallQuestions?.length || 0}
+- Feynman Topics: ${feynmanTopicsC?.length || 0}
+- Cornell Notes: ${cornellNotesC?.length || 0}
+- Gutachten Exercises: ${propadeuctikumContent.gutachtenExercises?.length || 0}
+                `;
+            }
+            
+            output.textContent = content;
+        }
+    </script>
+</body>
+</html>

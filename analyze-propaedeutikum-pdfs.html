@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Propädeutikum PDF Analyse</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        h2 {
+            color: #34495e;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h3 {
+            color: #7f8c8d;
+        }
+        .file-analysis {
+            margin-bottom: 40px;
+            border: 1px solid #ecf0f1;
+            border-radius: 8px;
+            padding: 20px;
+        }
+        .loading {
+            text-align: center;
+            color: #3498db;
+            font-style: italic;
+        }
+        .error {
+            color: #e74c3c;
+            background: #ffeaa7;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .summary {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .keywords {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin: 10px 0;
+        }
+        .keyword {
+            background: #3498db;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+        .definitions, .examples {
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .definition-item, .example-item {
+            margin-bottom: 10px;
+            padding: 10px;
+            background: white;
+            border-radius: 4px;
+        }
+        .learning-methods {
+            background: #e8f8f5;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .method-item {
+            margin: 5px 0;
+            padding: 5px 10px;
+            background: #16a085;
+            color: white;
+            border-radius: 4px;
+            display: inline-block;
+            margin-right: 10px;
+        }
+        button {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 10px 5px;
+        }
+        button:hover {
+            background: #2980b9;
+        }
+        .content-preview {
+            max-height: 300px;
+            overflow-y: auto;
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 4px;
+            font-size: 0.9em;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Propädeutikum PDF Analyse</h1>
+        <p>Diese Seite analysiert die PDF-Dateien im Propädeutikum-Ordner und extrahiert die wichtigsten Lerninhalte.</p>
+        
+        <div class="controls">
+            <input type="file" id="fileInput" accept=".pdf" multiple />
+            <button onclick="analyzePDFs()">PDFs analysieren</button>
+        </div>
+        
+        <div id="results"></div>
+    </div>
+
+    <script>
+        // Configure PDF.js
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+        // File names to analyze
+        const pdfFiles = [
+            '55100-01-S#1-2002102.pdf',
+            '55100-02-S#1-2002103.pdf',
+            '55100-03-S#1-0000000.pdf',
+            '55100-04-S#1-000000.pdf',
+            '55100-05-S#1-2001418.pdf'
+        ];
+
+        async function analyzePDFs() {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '<div class="loading">Analysiere PDFs...</div>';
+            
+            const fileInput = document.getElementById('fileInput');
+            if (fileInput.files.length === 0) {
+                resultsDiv.innerHTML = '<div class="error">Bitte wählen Sie die PDF-Dateien aus dem Ordner "Literatur Propädeutikum" aus.</div>';
+                return;
+            }
+
+            resultsDiv.innerHTML = '';
+            
+            for (const file of fileInput.files) {
+                await analyzeFile(file);
+            }
+        }
+
+        async function analyzeFile(file) {
+            const resultsDiv = document.getElementById('results');
+            const fileDiv = document.createElement('div');
+            fileDiv.className = 'file-analysis';
+            fileDiv.innerHTML = `<h2>${file.name}</h2><div class="loading">Analysiere...</div>`;
+            resultsDiv.appendChild(fileDiv);
+
+            try {
+                const text = await extractTextFromPDF(file);
+                const analysis = analyzeContent(text, file.name);
+                displayAnalysis(fileDiv, analysis, file.name);
+            } catch (error) {
+                fileDiv.innerHTML += `<div class="error">Fehler beim Analysieren: ${error.message}</div>`;
+            }
+        }
+
+        async function extractTextFromPDF(file) {
+            const arrayBuffer = await file.arrayBuffer();
+            const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
+            
+            let fullText = '';
+            for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+                const page = await pdf.getPage(pageNum);
+                const textContent = await page.getTextContent();
+                const pageText = textContent.items
+                    .map(item => item.str)
+                    .join(' ');
+                fullText += `\n--- Seite ${pageNum} ---\n${pageText}\n`;
+            }
+            
+            return fullText;
+        }
+
+        function analyzeContent(text, fileName) {
+            const analysis = {
+                fileName: fileName,
+                pageCount: (text.match(/--- Seite \d+ ---/g) || []).length,
+                chapters: extractChapters(text),
+                definitions: extractDefinitions(text),
+                examples: extractExamples(text),
+                keywords: extractKeywords(text),
+                legalReferences: extractLegalReferences(text),
+                mainTopics: extractMainTopics(text),
+                learningMethods: suggestLearningMethods(text)
+            };
+            
+            return analysis;
+        }
+
+        function extractChapters(text) {
+            const chapters = [];
+            const chapterPatterns = [
+                /^(?:Kapitel|Kap\.|Teil|Abschnitt)\s*(\d+|[IVX]+)[\.:]\s*(.+)$/gm,
+                /^(\d+)\.\s+([A-Z].+)$/gm,
+                /^([IVX]+)\.\s*(.+)$/gm,
+                /^§\s*\d+\s+(.+)$/gm
+            ];
+            
+            for (const pattern of chapterPatterns) {
+                let match;
+                while ((match = pattern.exec(text)) !== null) {
+                    chapters.push({
+                        number: match[1] || '',
+                        title: match[2] || match[1] || match[0]
+                    });
+                }
+            }
+            
+            return chapters.slice(0, 10); // Limit to first 10 chapters
+        }
+
+        function extractDefinitions(text) {
+            const definitions = [];
+            const definitionPatterns = [
+                /(?:Definition|Def\.|Begriffsbestimmung):\s*(.+?)(?:\.|$)/gi,
+                /„(.+?)"\s*(?:ist|sind|bezeichnet|bedeutet)\s+(.+?)(?:\.|$)/gi,
+                /Ein(?:e)?\s+(.+?)\s+ist\s+(.+?)(?:\.|$)/gi
+            ];
+            
+            for (const pattern of definitionPatterns) {
+                let match;
+                while ((match = pattern.exec(text)) !== null) {
+                    const term = match[1] ? match[1].trim() : '';
+                    const definition = match[2] ? match[2].trim() : match[1] ? match[1].trim() : '';
+                    
+                    if (term.length > 3 && definition.length > 10) {
+                        definitions.push({ term, definition });
+                    }
+                }
+            }
+            
+            return definitions.slice(0, 10); // Limit to first 10 definitions
+        }
+
+        function extractExamples(text) {
+            const examples = [];
+            const examplePatterns = [
+                /(?:Beispiel|Bsp\.|Fall|Sachverhalt):\s*(.+?)(?:Lösung|Ergebnis|Antwort|$)/gis,
+                /(?:Fall\s*\d+|Beispiel\s*\d+):\s*(.+?)(?=Fall\s*\d+|Beispiel\s*\d+|$)/gis
+            ];
+            
+            for (const pattern of examplePatterns) {
+                let match;
+                while ((match = pattern.exec(text)) !== null) {
+                    const example = match[1].trim();
+                    if (example.length > 20) {
+                        examples.push(example.substring(0, 200) + '...');
+                    }
+                }
+            }
+            
+            return examples.slice(0, 5); // Limit to first 5 examples
+        }
+
+        function extractKeywords(text) {
+            const keywords = new Set();
+            
+            // Common legal terms
+            const legalTerms = [
+                'Willenserklärung', 'Rechtsgeschäft', 'Vertrag', 'Anfechtung',
+                'Geschäftsfähigkeit', 'Stellvertretung', 'Verjährung', 'Schuldverhältnis',
+                'Tatbestand', 'Rechtsfolge', 'Anspruch', 'Einwendung', 'Einrede',
+                'Rechtsnorm', 'Subsumtion', 'Auslegung', 'Analogie', 'Teleologie',
+                'Systematik', 'Wortlaut', 'Normzweck', 'Gutachten', 'Falllösung'
+            ];
+            
+            for (const term of legalTerms) {
+                if (text.includes(term)) {
+                    keywords.add(term);
+                }
+            }
+            
+            return Array.from(keywords);
+        }
+
+        function extractLegalReferences(text) {
+            const references = new Set();
+            const refPattern = /§§?\s*\d+(?:\s*(?:Abs\.|Absatz)\s*\d+)?\s*(?:BGB|StGB|ZPO|StPO|GG|HGB)/g;
+            
+            let match;
+            while ((match = refPattern.exec(text)) !== null) {
+                references.add(match[0]);
+            }
+            
+            return Array.from(references).slice(0, 20); // Limit to 20 references
+        }
+
+        function extractMainTopics(text) {
+            const topics = [];
+            
+            // Check for common topic indicators
+            const topicIndicators = {
+                'Einführung': /Einführung|Grundlagen|Überblick/i,
+                'Rechtsgeschäftslehre': /Rechtsgeschäft|Willenserklärung|Vertrag/i,
+                'Methodenlehre': /Methode|Auslegung|Subsumtion|Gutachten/i,
+                'Verfassungsrecht': /Grundgesetz|Verfassung|Grundrecht/i,
+                'Zivilrecht': /BGB|Bürgerliches|Zivilrecht/i,
+                'Strafrecht': /StGB|Strafrecht|Tatbestand/i,
+                'Verfahrensrecht': /ZPO|StPO|Verfahren|Prozess/i,
+                'Fallbearbeitung': /Fall|Lösung|Klausur|Gutachten/i
+            };
+            
+            for (const [topic, pattern] of Object.entries(topicIndicators)) {
+                if (pattern.test(text)) {
+                    topics.push(topic);
+                }
+            }
+            
+            return topics;
+        }
+
+        function suggestLearningMethods(text) {
+            const methods = [];
+            
+            // Based on content type, suggest appropriate learning methods
+            if (/Definition|Begriff|Terminus/i.test(text)) {
+                methods.push('Karteikarten für Definitionen');
+            }
+            
+            if (/§\s*\d+|Paragraph|Norm/i.test(text)) {
+                methods.push('Gesetzestext-Mapping');
+            }
+            
+            if (/Fall|Beispiel|Sachverhalt/i.test(text)) {
+                methods.push('Fallbearbeitung üben');
+                methods.push('Gutachtenstil trainieren');
+            }
+            
+            if (/Schema|Prüfung|Aufbau/i.test(text)) {
+                methods.push('Prüfungsschemata erstellen');
+            }
+            
+            if (/Theorie|Lehre|Konzept/i.test(text)) {
+                methods.push('Feynman-Methode');
+                methods.push('Cornell-Notizen');
+            }
+            
+            // Always suggest these
+            methods.push('Active Recall');
+            methods.push('Spaced Repetition');
+            
+            return [...new Set(methods)];
+        }
+
+        function displayAnalysis(container, analysis, fileName) {
+            let html = `<h2>${fileName}</h2>`;
+            
+            // Summary
+            html += `
+                <div class="summary">
+                    <h3>Zusammenfassung</h3>
+                    <p>Seiten: ${analysis.pageCount}</p>
+                    <p>Kapitel gefunden: ${analysis.chapters.length}</p>
+                    <p>Definitionen: ${analysis.definitions.length}</p>
+                    <p>Beispiele: ${analysis.examples.length}</p>
+                </div>
+            `;
+            
+            // Main Topics
+            if (analysis.mainTopics.length > 0) {
+                html += `
+                    <div class="summary">
+                        <h3>Hauptthemen</h3>
+                        <div class="keywords">
+                            ${analysis.mainTopics.map(topic => `<span class="keyword">${topic}</span>`).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            // Chapters
+            if (analysis.chapters.length > 0) {
+                html += `
+                    <div class="summary">
+                        <h3>Gefundene Kapitel</h3>
+                        <ul>
+                            ${analysis.chapters.map(ch => `<li>${ch.number ? ch.number + ': ' : ''}${ch.title}</li>`).join('')}
+                        </ul>
+                    </div>
+                `;
+            }
+            
+            // Keywords
+            if (analysis.keywords.length > 0) {
+                html += `
+                    <div class="keywords">
+                        <h3>Schlüsselbegriffe</h3>
+                        ${analysis.keywords.map(kw => `<span class="keyword">${kw}</span>`).join('')}
+                    </div>
+                `;
+            }
+            
+            // Legal References
+            if (analysis.legalReferences.length > 0) {
+                html += `
+                    <div class="summary">
+                        <h3>Gesetzesverweise</h3>
+                        <div class="keywords">
+                            ${analysis.legalReferences.map(ref => `<span class="keyword">${ref}</span>`).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            // Definitions
+            if (analysis.definitions.length > 0) {
+                html += `
+                    <div class="definitions">
+                        <h3>Wichtige Definitionen</h3>
+                        ${analysis.definitions.map(def => `
+                            <div class="definition-item">
+                                <strong>${def.term}:</strong> ${def.definition}
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+            }
+            
+            // Examples
+            if (analysis.examples.length > 0) {
+                html += `
+                    <div class="examples">
+                        <h3>Beispiele und Fälle</h3>
+                        ${analysis.examples.map((ex, i) => `
+                            <div class="example-item">
+                                <strong>Beispiel ${i + 1}:</strong> ${ex}
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+            }
+            
+            // Learning Methods
+            html += `
+                <div class="learning-methods">
+                    <h3>Empfohlene Lernmethoden</h3>
+                    ${analysis.learningMethods.map(method => `<span class="method-item">${method}</span>`).join('')}
+                </div>
+            `;
+            
+            container.innerHTML = html;
+        }
+    </script>
+</body>
+</html>

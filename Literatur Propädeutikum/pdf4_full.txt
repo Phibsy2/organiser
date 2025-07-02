@@ -1,0 +1,2759 @@
+
+--- Seite 1 ---
+Rechts­
+wissenschaftliche
+FakultätStudium Rechtswissenschaft
+Prof. Dr. Katharina Gräfin von Schlieffen
+RA Christian Stiefel
+Prof. Dr. Ulrich Wackerbarth
+Modul 55100
+Propädeutikum
+Zusatzmaterial Teil 1:
+Illustrative Einführung in das Recht
+--- Seite 2 ---
+Das Werk ist urheberrechtlich geschützt. Die dadurch begründeten Rechte, insbesondere das Recht der Vervielfältigung und Verbrei -
+tung sowie der Übersetzung und des Nachdrucks, bleiben, auch bei nur auszugsweiser Verwertung, vorbehalten. Kein Teil des Werkes 
+darf in irgendeiner Form (Druck, Fotokopie, Mikrofilm oder ein anderes Verfahren) ohne schriftliche Genehmigung der FernUniversität 
+reproduziert oder unter Verwendung elektronischer Systeme verarbeitet, vervielfältigt oder verbreitet werden. Wir weisen darauf hin, 
+dass die vorgenannten Verwertungsalternativen je nach Ausgestaltung der Nutzungsbedingungen bereits durch Einstellen in Cloud-  
+Systeme verwirklicht sein können. Die FernUniversität bedient sich im Falle der Kenntnis von Urheberrechtsverletzungen sowohl zivil- 
+als auch strafrechtlicher Instrumente, um ihre Rechte geltend zu machen.
+ 
+ 
+Der Inhalt dieses Studienbriefs wird gedruckt auf Recyclingpapier (80 g/m2, weiß), hergestellt aus 100 % Altpapier.
+--- Seite 3 ---
+Liebe Studierende,  
+ 
+Zu Beginn Ihres Studiums werden Sie möglicherweise feststellen, dass Rechtsfragen im 
+Alltag meist anschaulich und spannend sind, sich in Lehrbüchern – losgelöst von 
+Lebensz usammenhängen – jedoch zunächst einmal wie ein Gebäude auftürmen können, in 
+dem sich der Anfänger erst mit der Zeit heimisch fühlt.  
+ 
+Aus diesem Grund möchten wir Ihnen den Start in Ihr rechtswissenschaftliches Studium mit 
+einer praxisnahen Einführung erleic htern. Sie besteht aus Geschichten, die sie aus der 
+alltägliche n Lebenspraxis kennen: Zum Einstieg finden Sie sich im Geschäfts - und 
+Privatleben einer jungen Bürogemeinschaft wi eder, die sich zu einer GmbH mit guten und 
+schlechten Zeiten entwickelt. So können Sie zu Beginn Ihres Studiums einen Blick auf Ihr 
+Ziel – die Beschäftigung mit lebensechten Rechtsfragen – werfen, um mit den  folgenden 
+Arbeits schritte n auf immer höhere Abstraktionsstufen zu gelangen.  
+ 
+Diese r Einführung skurs  soll Ihnen einen ersten Einblick in die Welt des Rechts geben. Den 
+Rechtsproblemen, die in diesem Kurs angesprochen werden,  müssen Sie in dieser Phase 
+Ihres Studiums noch nicht im Einzelnen nachgehen. Das Lernziel ist vielmehr, durch einen 
+Streifzug durch alle Rechtsgebiete einen Sinn dafür zu entwickeln, wie stark unser Alltag von 
+rechtlichen Regelungen durchdrungen ist,  in welchen Fällen welche Rechtsgebiete 
+einschlägig sind und wie die verschiedenen Rechtsmaterien, die im Studium getrennt 
+voneinander vermittelt werden, in der Lebenswelt aufeinandertreffen.  
+ Wir wünschen Ihnen nun viel Freude bei der Lektüre und viel E rfolg für den Start in Ihr 
+rechtswissenschaftliches Studium.  
+ 
+Für alle Mitwirkenden des ersten Moduls  
+Katharina Schlieffen  
+ 
+--- Seite 4 ---
+ 1 
+Inhalt  
+Zentralakte  ................................ ................................ ................................ ..........................  5 
+Jungunternehmerisches Leben  ................................ ................................ ...........................  6 
+Jungunternehmerisches Leben – Rechtliche Erläuterung  ................................ ..................  7 
+Die IHK  ................................ ................................ ................................ ................................  9 
+Die IHK – Rechtliche Erläuterung  ................................ ................................ .......................  9 
+Das geliehene Fahrrad  ................................ ................................ ................................ ...... 13 
+Das geliehene Fahrrad – Rechtliche Erläuterung  ................................ .............................  15 
+Der Büromöbelkauf  ................................ ................................ ................................ ...........  17 
+Der Bürom öbelkauf – Rechtliche Erläuterung ................................ ................................ ... 18 
+Der Firmenwagen  ................................ ................................ ................................ ..............  22 
+Der Firmenwagen – Rechtliche Erläuterung  ................................ ................................ ..... 24 
+Die Baustelle  ................................ ................................ ................................ .....................  27 
+Die Baustelle – Rechtliche Erläuterung  ................................ ................................ ............  28 
+Papier  und Toner  ................................ ................................ ................................ ..............  33 
+Papier  und Toner – Rechtliche Erläuterung  ................................ ................................ ...... 35 
+Der Radiorecorder  ................................ ................................ ................................ .............  38 
+Der Radiorecorder – Rechtliche Erläuterung  ................................ ................................ .... 39 
+Die BAföG -Rückzahlung  ................................ ................................ ................................ ... 50 
+Die BAföG -Rückzahlung – Rechtliche Erläuterung  ................................ ..........................  51 
+Die Wohnung im Lager  ................................ ................................ ................................ ..... 57 
+Die Wohnung im Lager – Rechtliche Erläuterung  ................................ .............................  58 
+Der Jungunternehmerstammtisch  ................................ ................................ .....................  62 
+Der Jungunternehmer stammtisch – Rechtliche Erläuterung  ................................ ............  63 
+Das Schild  aus dem Nichts  ................................ ................................ ...............................  66 
+Das Schild  aus dem Nichts – Rechtliche Erläuterung  ................................ ......................  67 
+Die neue Mitarbeiterin  ................................ ................................ ................................ ....... 72 
+Die neue Mitarbeiterin – Rechtliche Erläuterung  ................................ ..............................  74 
+ 
+--- Seite 5 ---
+ 2 
+Abkürzungsverzeichnis  
+a. a. O.         am angegebenen Ort  
+Abs.         Absatz   
+Abse.          Absätze  
+a. F.         alte Fassung  
+AGB         Allgemeine Geschäftsbedingungen  
+AktG         Aktiengesetz    
+allg.         allgemein  
+Alt.         Alternative  
+Anm.          Anmerkung  
+ArbG          Arbeitsgericht  
+Art.         Artikel  
+AT          Allgemeiner Teil  
+BAföG         Bundesausbildungsförderungsgesetz  
+BAG          Bundesarbeitsgericht  
+BauGB         Baugesetzbuch  
+BauNVO         Baunutzungsverordnung  
+BauO N RW       Landesbauordnung des Landes Nordrhein-
+Westfalen  
+BGB         Bürgerliches Gesetzbuch  
+BGH          Bundesgerichtshof  
+BGHZ          Entscheidungen des Bundesgerichtshofes in 
+Zivilsac hen 
+bspw.          beispielsweise 
+BVerfG         Bundesverfassungsgericht  
+BVerfGE         Entscheidungen des  Bundesverfassungs -
+gerichts  
+BVerwG         Bundesverwaltungsgericht  
+BVerwGE        Entscheidungen des Bundesverwaltungs -
+gerichts  
+bzgl.          bezügli ch 
+DB          Der Betrieb  
+d. h.         das heißt  
+DVBl.          Deutsches Verwaltungsblatt  
+EisenbahnverkehrsO     Eisenbahn -Verkehrsordnung  
+EnergiewirtschaftsG      Energiewirtschaftsgesetz  
+ff.          folgende Seiten  
+--- Seite 6 ---
+ 3 
+GenG          Gesetz betreffend der Erw erbs- und 
+Wirtschafts genossenschaften  
+GewStG         Gewerbesteuergesetz  
+GG         Grundgesetz  
+GmbH         Gesellschaft mit beschränkter Haftung  
+GmbHG         Gesetz betreffend der Gesellschaften mit 
+beschränkter Haftung  
+GO N RW        Gemeindeordnung des L andes Nordrhein-
+Westfalen  
+grds.          grundsätzlich  
+HGB          Handelsgesetzbuch  
+Hs.         Halbsatz   
+IHK-G         Gesetz über die Industrie - und Handelskammer  
+i. S. v.          im Sinne von  
+i. V. m.         in Verbindung mit  
+JugendarbeitsschutzG    Juge ndarbeitsschutzgesetz  
+JuS         Juristische Schulung  
+JZ          Juristenzeitung  
+KG         Kommanditgesellschaft  
+MDR          Monatsschrift für Deutsches Recht  
+MuSchG         Mutterschutzgesetz  
+NJW          Neue Juristische Wochenschrift  
+NVwZ          Neue  Zeitschrift für Verwaltungsrecht  
+OBG N RW        Ordnungsbehördengesetz des Landes 
+Nordrhein -Westfalen  
+OLG          Oberlandesgericht  
+OVG          Oberverwaltungsgericht  
+PersonenbeförderungsG    Personenbeförderungsgesetz  
+PolG N RW        Polizeigesetz des Landes Nordrhein -Westfalen  
+RG         Reichsgericht  
+Rn.         Randnummer   
+S.          Satz   
+SK          Systematischer Kommentar zum 
+Strafgeset zbuch 
+sog.         so genannt  
+StGB         Strafgesetzbuch   
+StPO          Strafprozessordnung  
+StVG          Straßen verkehrsgesetz  
+StVO          Straßenverkehrsordnung  
+u. a.         unter anderem  
+--- Seite 7 ---
+ 4 
+UZwG          Gesetz über den unmittelbaren Zwang bei 
+Ausübung öffentlicher Gewalt durch 
+Vollzugsbea mte des Bundes  
+vgl.         vergleiche  
+VwGO         Verwaltungsgerichtsordnung 
+VwVfG         Verwaltungsverfahrensgesetz  
+VwVfG N RW       Verwaltungsverfahrensgesetz des Landes 
+Nordrhein -Westfalen  
+VwVG N RW       Verwaltungsvollstreckungsgesetz des Landes 
+Nordrhein -Westfalen  
+z. B.         zum Beispiel  
+z. Zt.          zur Zeit  
+--- Seite 8 ---
+ 5 
+Zentralakt e 
+Beteiligte:  
+ 
+Christoph, 29 Jahre alt, Grafiker, hat eine Lehre in einer Werbeagentur gemacht und da -
+nach mehrere Jahre in diesem Berufsfeld gearbeitet. Um sich mehr dem gemeinsamen Arbeiten mit Karina und Stefan zu widmen, hat er seine Festanstellung in der Agentur ge -
+kündigt und arbeitet dort nur noch als freier Mitarbeiter mit einem Rahmenvertrag über 20 Stunden pro Woche. Christoph mimt gern den Bedächtigen, Überlegten und m ahnt im 
+Allgemei nen zur Vorsicht. Er ist verheiratet mit Alexandra und hat eine Tochter Julia, 5 
+Jahre.  
+ 
+Stefan , 26 Jahre alt, Grafiker und Web -Designer, programmiert z. B. Internetauftritte. In der 
+Gruppe und im Außenverhältnis bleibt er lieber im Hintergrund. In Entscheidungssituationen 
+handelt er eher unüberlegt und ist –  geschäftlich und privat –  meist auf der Suche nach 
+Schnäppchen, Gelegenheiten oder „tollen Geschäften“. Vorher hat er relativ lange studiert. 
+Stefan ist Single und lebt allein in einer geerbten Eigentumswohnung.  
+ 
+Karina , 26 Jahre alt, hat an der FH Kommunikationsdesign studiert. Zu ihren Aufgaben ge-
+hört es, die Entwürfe von Christoph, Stefan und ihr den Kunden vorzuführen, weswegen sie 
+viel mit dem Auto unterwegs sein muss. Seit mehreren Jahren arbeitet sie selbständig.  
+Karina ist im Karateverein und macht viel Sport (Fitnessclub, Jogging).  
+ Alle drei sind in der Werbung tätig und wollen zusammenarbeiten. Ihr Ziel ist es, für kleine 
+und mittelständische Firmen Werbemaßnahmen zu realisieren, was sowohl  die Gestaltung 
+und Produktion von Werbeträgern oder Briefpapie r (Karina und Christoph) als auch den 
+Entwurf und die Programmierung von Websites (Stefan)  einschließt . 
+Christoph, Stefan und Karina haben früher schon in wechselnden Konstellationen zusam -
+mengearbeitet, mit der Zeit wurden jedoch immer mehr Aufträge in Form einer nicht geson-
+dert geregelten BGB -Gesellschaft erledigt. Auf Anraten ihres Steuerberaters wollen sie ihre 
+künftige Zusammenarbeit auf solidere Füße stellen und haben deswegen die StartUp GmbH gegründet. Alle drei sind gleichberechtigte geschäftsführ ende Gesellschafter.  
+Die StartUp GmbH muss Büromöbel, Büroartikel und Computer kaufen. Mit ihren Kunden 
+schließt sie meist Werkverträge über die Erstellung von Websites, Geschäftspapier oder 
+Broschüren. Dabei werden Arbeiten zum Teil selbst erledigt (beispielsweise Gestaltung von 
+Grafiken, Programmierung von Internetauftritten), zum Teil aber auch an Dritte weitergege -
+ben (Erstellung von Druckvorlagen, Druckarbeiten). Steuerberater und Rechtsanwalt Lorenz  
+steht den dreien in steuerlicher und rechtlicher Sic ht zur Seite.  
+--- Seite 9 ---
+ 6 
+Jungunternehmerisches Lebe n 
+In beschwingter Stimmung gab Christoph seiner Frau einen Abschiedskuss und verließ die 
+Wohnung. Heute war es endlich soweit: Nach monatelangen Vorarbeiten sollte die StartUp 
+GmbH gegründet werden. Nachdem er schon einige Zeit mit Stefan und Karina in wechseln -
+den Konstellationen zusammengearbeitet hat te, wollten sich die drei heute beim Notar 
+treffen und den Gesellschaftervertrag unterzeichnen. Mit der Gründung einer GmbH wollen 
+sie künftig gemeinsam Werbemaßnahmen für kleine und mittelständische Firmen realisieren: 
+Prospekte erstellen, Werbematerial gestalten und – Stefans Aufgabe – Internetauftritte pro -
+grammieren.  
+Als Christoph an einem kleinen Supermarkt vorbeikam, fiel ihm ein, dass es eine nette Idee 
+sein könnte, wenn er mit seinen Kollegen später zur Feier des Tages ein Glas Sekt trinken 
+würde. Schnell betrat er den Laden, suchte eine dem Anlass angemessene Flasche aus und 
+machte sich auf den Weg zur Kasse.  
+Nach zehn Minuten Fußweg kam Christoph beim Büro des  Notars an, wo  Karina und Stefan 
+schon auf ihn warteten. Zu dritt betraten sie das Gebäude. Im Notariat wurden sie zunächst 
+von der Sekretärin darüber aufgeklärt, dass sie noch eine Viertelstunde warten müssten. 
+Und so saßen sie im Warteraum des Notars, blätterten in den ausgelegten Zeitungen und 
+harrten der Dinge, die da kommen mochten. Stefan entdeckte bald die bereitgestellten 
+Kugelschreiber und Schreibblöcke mit dem aufgedruckten Namen des Notars und begann 
+munter seinen Rucksack damit zu füllen.  
+Karina war alles andere als amüsiert: „Sag mal Stefan, hast du denn gar kein Benehmen? 
+Leg die Stifte und das Papier wieder auf den Tisch, Gott ist das peinlich!“  
+Stefan sah sich im Recht: „Wieso ? Der legt den Kram hier als Werbegeschenk aus, wir müs -
+sen für die Verans taltung bei ihm eine Menge Geld bezahlen – da werd’ ich mir doch wohl 
+ein bisschen was mitnehmen dürfen…!“  
+Das Erscheinen des Notars beendete die Diskussion: „Meine Dame, meine Herren, wenn ich dann bitten dürfte…“  
+Peinlich berührt vom Verhalten s einer Kollegen nickte Christoph dem Notar zu und trieb 
+Stefan und Karina in das Besprechungszimmer.  
+Nach – wie es den dreien erschien – endlosen Erklärungen des Notars war es zwei Stunden 
+später soweit: Der Gesellschaftsvertrag war geschlossen und alle drei waren als gleichbe-
+rechtigte geschäftsführende Gesellschafter vermerkt. Die StartUp GmbH i.G. konnte mit der 
+Arbeit beginnen.  
+Wieder auf der Straße beschlossen die drei, gleich ins Büro zu fahren, in dem sie bereits seit 
+einigen Monaten zusammen arbeitet en.  
+„Woll’n doch mal sehen, ob es sich als Geschäftsführer anders arbeitet.“, grinste Stefan.  
+Doch Christoph wollte den Tag der Gesellschaftsgründung gleich für Praktisches nutzen. 
+„Ich schlage vor, dass wir jetzt erstmal zur Bank gehen, ein Konto anlegen und das Stamm -
+--- Seite 10 ---
+ 7 
+kapital einzahlen, damit der Notar diese Mitteilung ans Handelsregister abschicken kann und 
+wir eingetragen werden können. Und dann sollten wir gleich einen Dauerauftrag einrichten, damit in Zukunft die StartUp die Büromiete zahlt. Zu irgendetwas muss sie ja schon mal gut 
+sein.“  
+Nachdem die Kontoeröffnung und die Einzahlung des mühsam zusammengesparten Stammkapitals geschafft waren, fuhren die drei mit Stefans Auto zum Büro, um dort zu -
+nächst mit der Flasche Sekt auf die Gründung anzustoßen.
+ 
+In den letzten Monaten hatten sie immer wieder gemeinsam gearbeitet. Meist waren es 
+Karina oder Christoph gewesen, die einen Auftrag an Land zogen, während Stefan fast alle 
+Programmierarbeiten und die weiteren computerrelevanten Dinge erledigte. Da jeder auf den anderen angewiesen war, hatten sie sich bald angewöhnt, unabhängig von der tatsä chlichen 
+Akquise, den Auftrag gemeinsam zu erledigen und die Einnahmen nach Abzug der aufge -
+tretenen Kosten einfach durch drei zu teilen. Mit der Zeit hatten sie sich s o immer mehr als 
+Team begriffen.
+ 
+Um eine gemeinsame Anlaufstelle zu haben, hatten die drei dann nach einigen Monaten ein 
+kleines Büro ausgesucht und einen Telefonanschluss eingerichtet. So waren sie mithilfe von 
+Anrufbeantworter und Fax für potentielle Auf traggeber besser erreichbar und konnten schon 
+etwas professioneller auftreten. Den Mietvertrag für das Büro hatte Karina unterzeichnet, genauso wie sie den Telefonanschluss beantragt hatte. Christoph und Stefan hatten ihr dann 
+anteilig Miete und Telefonkosten erstattet, doch mit diesem Chaos sollte jetzt Schluss sein – 
+jetzt gab es die StartUp GmbH.  
+Jungunternehmerisches Leben – Rechtliche Erläuterung 
+Gründungsphasen  
+Die GmbH entsteht in mehreren Abschnitten. In der Regel beginnt der eigentliche Entste -
+hungsvorgang mit dem Abschluss des Gesellschaftsvertrages. Dies ist jedoch meist nicht die erste Stufe der Entwicklung. Fast immer treffen diejenigen Personen, die eine GmbH grün -
+den wollen, schon vor dem Abschluss des Gesellschaftsvertrages verbindliche Abreden im Hinblick auf die Errichtung der Gesellschaft.  
+ Sobald die Verhandlungen über die Gründung einer GmbH ihren unverbindlichen Charakter 
+verloren und zu rechtsverbindlichen Vereinbarungen zwischen den Personen geführt haben, 
+die eine GmbH errichten wollen, beginnt die erste Phase der Gründung. Diese Phase ist in 
+der Regel erreicht, wenn die Gründer vertragliche Vereinbarungen über den Zweck und die 
+Ausgestaltung der zu gründenden GmbH sowie über die Höhe des Stammkapitals getroffen 
+--- Seite 11 ---
+ 8 
+haben.  Diese Phase endet mit dem Abschluss des Gesellschaftsvertrages für die GmbH. Bis 
+zu diesem Zeitpunkt hat in der Regel eine Vorgründungsgesellschaft bestanden.  
+Die zweite Phase, die mit dem Abschluss des GmbH -Gesellschaftsvertrages beginnt, dauert 
+bis zur Eintragung der GmbH in das Handelsregister. In dieser Phase besteht eine 
+Vorg esellschaft, die auch Vor-GmbH  genannt wird.  
+Die GmbH, und damit die juristische Person, entsteht erst mit der Eintragung in das Handelsregister.  
+Die Vor- GmbH  
+Mit dem Abschluss des Gesellschaftsvertrages haben die Gründer eine Vorgesellschaft , die 
+sog. Vor -GmbH, entstehen lassen. Hinsichtlich der unter den Gesellschaftern und zwischen 
+ihnen und der Gesellschaft bestehenden Verhältnisse unterliegt die Vor -GmbH  schon 
+denjenigen Rechtsregeln, die für die fertige GmbH gelten. 
+ 
+Schon vor der Eintragung der GmbH in das Handelsregister werden von den Gründern eine 
+Reihe von Rechtsgeschäften mit Dritten getätigt, die nicht nur der Entstehung der GmbH 
+dienen, sondern mit dem Zweck zusammenhängen, zu dem die GmbH gegründet wird. Ob 
+und gegebenenfalls in wel chem Umfang die Gesellschafter der Vor-GmbH  persönlich, d. h. 
+mit ihrem Privatvermögen für daraus entstehende Verbindlichkeiten haften wird näher im  
+Modul zum Handels - und Gesellschaftsrecht  behandelt.  
+Mindestkapital, Stammkapital, Stammeinlage  
+Die Gründung einer GmbH ist, was das zur Gründung notwendige Kapital anbetrifft, relativ 
+einfach. Das Mindestkapital beträgt gem. § 5 Abs. 1 GmbHG lediglich 25.000 Euro.  Alle 
+Stammeinlagen müssen von den Gründern selbst übernommen werden. Auch Sacheinlagen 
+sind zulässig. Wenn solche geleistet werden sollen, so müssen im Gesellschaftsvertrag der 
+Gegenstand der Sacheinlage und der Betrag der Stammeinlage, auf die sich die 
+Sacheinl age bezieht, festgesetzt sein (§ 5 Abs. 4 GmbHG). Die Gesellschafter müssen in 
+einem sol chen Fall einen Sachgründungsbericht erstellen, in dem sie u. a. die für die 
+Angemessenheit der Leistungen für Sacheinlagen wesentlichen Umstände darzulegen 
+haben (§ 5 Abs. 4 S.  2 GmbHG). Gem. § 7 Abs. 2 GmbHG muss vor der Eintragung 
+mindestens die Hälfte des Mindeststammkapitals, d. h.  12.500 Euro  eingezahlt sein.  
+ 
+ 
+--- Seite 12 ---
+ 9 
+Die IHK  
+Einige Tage später gab es offiziell wirkende Post von der Industrie- und Handelskammer.  
+„Schaut mal“, rief Stefan, „die IHK s chreibt und begrüßt uns!“  
+„Na, das ist doch nett!“  
+„Na ja, hier steht, dass wir jetzt dazu gehören und Ihnen unsere Steuernummer mitteilen und 
+einen Erhebungsbogen ausfüllen sollen. Über die Höhe des Beitrags werden wir gesondert 
+informiert.“  
+„Was soll das  heißen, dass wir jetzt dazu gehören? Zu was denn?“  
+„Hier steht: ‚Der Status einer Körperschaft des öffentlichen Rechts sichert unserer Kammer 
+Unabhängigkeit und Objektivität zu’. Und zwei Zeilen später erfährt man, dass die zugehöri -
+gen Unternehmen diese Unabhängigkeit mit ihren Beiträgen finanzieren.“  
+„Dazugehörige Unternehmen, das dürften dann ja wohl wir sein, oder?“  
+„Und was bekommen wir dafür?“, fragte Christoph.  
+„Nun“, grinste Karina, „die vertreten unsere Interessen und schicken uns regelmäßig ein 
+buntes Infoheft zu.“  
+„Wahrscheinlich so eins wie diese Krankenkassenmagazine: Eine Auflage von 1,5 Mio. und dabei leider nur 23 Leser und die Familie des Chefredakteurs. Und woher wollen die unsere 
+Interessen kennen? Ich hab mit noch keinem von denen gesprochen.“  
+„Ich seh’ das gar nicht erst ein! Ich will da nicht Mitglied werden und zahlen werden wir schon gar nicht. Als ob wir zu viel Kohle hätten. Die müssen uns doch wohl erst mal einen Aufnahmeantrag schicken, oder?! Wenn wir nichts von denen wollen, können die auch nix 
+von uns wollen.“  
+Die IHK – Rechtliche Erläuterung 
+Hier irren sich Stefan, Karina und Christoph. Ihr Unternehmen ist per G esetz Mitglied der 
+Industrie- und Handelskammer und als Mitglieder müssen sie den Mitgliedsbeitrag zahlen. 
+So wie ihnen geht es vielen Gewerbetre ibenden.  
+Zwangsmitgliedschaft  
+Die Regelung der Mitgliedschaft in § 2 Abs. 1 IHK -G 
+Die primäre Aufgabe der Industrie- und Handelskammern ist ge mäß § 1 Abs.  1 IHK-G, das 
+Gesamtinteresse der zugehörigen Gewerbetreibenden ihres Bezir kes wahrzunehmen, für 
+die Förderung der gewerbl ichen Wirtschaft zu wirken und dabei die wirtschaftlichen Interes -
+--- Seite 13 ---
+ 10 
+sen einzelner Gewerbezweige oder Betriebe abwägend und ausgleichend zu berücksicht i-
+gen. Trotz der priv aten Interessenvertretung gehören die I ndustrie- und Handelskammern 
+wegen ihrer Organisation als öffentlich -rechtliche Kör perschaften gemäß § 3 Abs.  1 IHK-G 
+zur mittelbaren Staatsverwaltung. 
+ 
+Das Einzige, was an der IHK nicht dem Willen der Mitglieder entspricht, ist die Mitgliedschaft 
+selbst.  Die Kammern beruhen auf dem in § 2 Abs. 1 IHK-G niedergelegten Prinzip der 
+Zwangsmitgliedschaft. Demnach sind per Gesetz u. a. auch juristische Personen des pri -
+vaten und öffentlichen Rechts Kammerzugehörige, sofer n sie im Bezirk der Kammer eine 
+Betriebsstätte unterhalten und zur Gewerbesteuer veranlagt sind.  
+ Bei einer juristischen Person handelt es sich um eine Vereinigung von Personen, dem 
+gesetzlich rechtliche Selbständigkeit zuerkannt ist. Eine juristische Person besitzt eigene 
+Rechtsfähigkeit  und kann damit Träger von Rechten und Pflichten sein. Damit kann sie – 
+abgesehen von einigen höchstpersönlichen Rechtsgeschäften wie z.  B. der Eh eschließung – 
+im Rechtsleben grundsätzlich genauso auftreten als wäre sie eine natürliche Person, d. h. 
+ein Mensch. Damit kann eine juristische Person auch Adressat von gesetzlichen Pflichten 
+sein.  
+ Die GmbH  von Stefan, Karina und Christoph ist aufgrund § 13 Abs. 1 GmbHG eine juristi -
+sche Person. Weil sie gemäß § 2 Abs.  2 S. 1 und Abs.  1 S. 1 GewStG zur Gewerbesteuer 
+veranlagt ist, ist sie damit gemäß § 2 Abs. 1 IHK-G zwangsweise Mitglied der regionalen 
+Industrie- und Ha ndelskammer – unabhängig von Stefans , Karina s und Christophs Willen . 
+Verfassungsrechtlicher Maßstab  
+Eine solche Zwangsmitgliedschaft ist rechtlich nicht unproblematisch. Aus Art. 20 Abs. 3 GG  
+ergibt sich der sog. Gesetzesvorbehalt . Dieser b esagt, dass Eingriffe der Verwaltung – wozu 
+auch die Zwangsmitgliedschaft in einer Körperschaft öffentlichen Rechts gehört – einer 
+gesetzlichen Grundlage bedürfen. Eine solche findet sich zwar in § 2 Abs. 1 IHK-G, doch 
+könnte diese verfassungswidrig und damit unwirksam sein. Dies hätte zur  Folge, dass die 
+Zwangsmi tgliedschaft und die Beitragspflicht nicht bestünden.  
+ 
+Das Grundgesetz genießt als Verfassung unseres Staates oberste Priorität in der 
+Norme nhierarchie. Zum einen müs sen alle Gesetze zu ihrer Wirksamkeit formell 
+verfassungsgemäß sein, d. h. nach den Regeln des Grundgeset zes entstanden sein. Dies ist 
+gegeben, wenn der Gesetzgeber – in diesem Fall der Bund – sowohl die Kompetenz zum 
+Erlass des Geset zes hatte – die so genan nte Gesetzgebungskompetenz  – als auch das 
+--- Seite 14 ---
+ 11 
+Gesetz im korrekten Gesetzgebungsverfahren nach Art. 76 ff. GG zustande gekommen ist. 
+An der formellen Ver fassungsmäßigkeit des IHK -G bestehen hier allerdin gs keine Zweifel.  
+ 
+Normenpyramide
+Verordnungen/Satzungen
+Landesverfassung
+LandesgesetzeBundesgesetze
+Verordnungen/SatzungenGrundgesetz
+Art. 31 GG 
+Bundesrecht bricht 
+LandesrechtEuroparecht
+Anwendungsvorrang
+ 
+Vereinigungsfreiheit  
+Die Zwangsmitgliedschaft muss außerdem auch materiell verfassungsmäßig sein, d.  h. den 
+inhaltlichen Vorschriften des Grundgesetzes entsprechen. Hier könnte das Grundrecht der 
+Vereinigungsfreiheit in Art.  9 Abs. 1 GG  der Zwangsmitgliedschaft der GmbH in der IHK 
+entgegenstehen.  
+ 
+Das Grundgesetz räumt nämlich durch seine Grundrechte nicht nur natü rlichen Personen 
+Freiheiten ein, sondern gemäß Art.  19 Abs. 3 GG  auch i nländischen juristischen Personen. 
+Demnach ist auch die GmbH von Stefan, Karina und Christoph grundrechtsfähig. 
+ 
+Die Vereinigungsfreiheit  gewährt gemäß Art.  9 Abs. 1 GG allen Deu tschen das Recht, Ver -
+eine und Gesellschaften zu bilden. Der Staat darf die Bildung von Vereinigungen also nicht behindern. Im konkreten Fall geht es Stefan, Karina und Christoph im Gegenteil aber da rum, 
+dass ihre GmbH gerade nicht der Kammer angehört, also einer Vereinigung fernbleibt. In-sofern ist zwischen der positiven  und der negativen Vereinigungsf reiheit  zu unterscheiden. 
+Die positive Vereinigungsfreiheit ist vom Wortlaut des Art.  9 Abs. 1 GG unmittelbar erfasst 
+--- Seite 15 ---
+ 12 
+und schützt die Freiheit zur Bildung von Ver einigungen. Die negative Vereinigungsfreiheit 
+hingegen lässt sich nur durch Auslegung ermittel n und schützt die Freiheit, Vereinigungen 
+fern zu bleiben.  
+ 
+Demzufolge müsste die Zwangsmitgliedschaft der IHK eigentlich gegen die negative Ver -
+einigungsfreiheit verstoßen. Jedoch hat das Bundesverfa ssungsgericht , dessen Ent schei -
+dungen u. a. alle Gerichte und Behörden bi nden, die Frage der Zwangsmitgliedschaft in 
+Körperschaften des öffentlichen Rechts (BVerfGE 10, 89 (102), 10, 354 (361 f.)) und speziell die Frage der IHK -Zwangsmitgliedschaft ( BVerfGE 15, 235 (239)) gegenteilig entschi eden: 
+Art. 9 Abs. 1 GG  gewähre positiv nur die Freiheit, privatrechtliche Vereinigungen zu gründen 
+und ihnen beizutreten. Spiegelbildlich garantiere die negative Vereinigungsfreiheit nur das 
+Recht, einer privatrechtlichen Vereinigung fernzubleiben, nicht einer öffentlich- rechtlichen. 
+Die Zwang smitgliedschaft in öffentlich- rechtlichen Körperschaften berühre also schon gar 
+nicht den Schutzbereich der Vereinigungsfreiheit.  
+Dieser Argumentation ist zuzugestehen, dass öffentlich- rechtliche Vereinigungen – Körper -
+schaften, Anstalt en und Stiftungen öffentlichen Rechts  – zur mittelbaren Staatsverwal tung 
+gehören und daher selbstverständlich nur vom Staat gegründet werden können. Die Kons equenz ist allerdings, dass der Staat allein durch die Wahl der Rechtsform die negative 
+Vere inigungsfreiheit umgehen kann, weshalb die Entscheidung des BVerfG in der 
+rechtswisse nschaftlichen Literatur zum Teil erheblich kritisiert  wird. 
+Allgemeine Handlungsfreiheit  
+Folgt man der Auffassung des Bundes verfassungsgerichts, so heißt dies aber nicht, dass die 
+Zwangsmitgliedschaft in jedem Fall verfassungsgemäß ist. Als Auffanggrundrecht garantiert Art. 2 Abs. 1 GG  die sog. allgemeine Handlungsfreiheit . Die ses Grundrecht gewährt 
+jeder mann das Recht, zu tun und zu lassen, was er will, sofern er nicht die Rechte anderer 
+verletzt und nicht gegen die verfassungsmäßige Ordnung verstößt.  
+ Die Zwangsmitgliedschaft der GmbH von Stefan, Karina und Christoph ist gegen deren Wil -
+len und damit ein Eingriff  in den Schutzbereich der allgemeinen Handlungsfreiheit. Ein sol -
+cher Grundrechtseingriff  ist aber nicht gleichbedeutend mit der Verletzung des Grundrechts. 
+Denn das Grundrecht der allgemeinen Handlungsfreiheit ist nicht schrankenlos ge -
+währleistet, weil sonst jeder tun und lassen könnte, was er wollte. Die sog. Schrankentrias  
+des Art. 2 Abs. 1, 2.  Hs. GG  enthält als praktisch wichtigste Grundrechtsschranke die der 
+verfassungsmäßigen Ordnung. Zu dieser gehören alle Gesetze, die die allgemeine Hand-lungsfreiheit in verhältnismäßiger Wei se einschränken. Ist die Anordnung der Zwangsmit -
+gliedschaft in § 2 Abs. 1 IHK -G also ve rhältnismäßig, dann ist der Eingriff in die allgemeine 
+Handlungsfreiheit verfas sungsrechtlich gerechtfertigt und damit wirksam. Dann wäre die 
+GmbH rechtmäßig Mitglied in der regionalen IHK und müsste den Mitgliedsbeitrag zah len. 
+--- Seite 16 ---
+ 13 
+Verhältnismäßigkeitsprinzip  
+Das Verhältnismäßi gkeitsprinzip  ist das zentrale Mittel, um zwischen verschiedenen Werten, 
+Rechten und Gütern abzuwägen. Es ist Ausdruck der Grundrechte, wenn es verlangt, dass 
+diese so weit wie möglich zur Geltung kommen und Eingriffe nur zuzulassen sind, soweit 
+diese zugunsten der Allgemeinheit oder auch Einzelner unbedingt nötig sind.  
+Die Verhältnismäßigkeit setzt voraus, dass der Eingriff ein legitimes Ziel verfolgt, geeignet ist, dieses zu erreichen, dass es kein milderes, aber ebenso wirksames Mittel gibt, und dass 
+der Eingriff nicht unangemessen schwer wiegt gegenüber dem Zweck des Eingriffs.  
+Das Bundesverfassungsgericht  hat die Verhältnismäßigkeit der Zwangsmitgliedschaft 
+festgestellt: Die Vertr etung der Wirtschaft gegenüber dem Staat und die den Industrie - und 
+Handelskammern übertragenen Verwaltungsaufgaben auf wirtschaftlichem Gebiet seien legitime öffentliche Zwecke. Zur sachgemäßen Erfüllung dieser Aufg aben sei die 
+Zwangsmitgliedschaft in den Industrie- und Handelskammern sinnvoll, ja notwendig. Die sich 
+daraus ergebende Freiheits beschrän kung der Mitglieder sei  gegenüber dieser im 
+öffentl ichen Interesse liegenden sachlichen Notwendigkeit des Organisationszwanges 
+unbedeutend und bestünde ohnehin fast nur in der Zahlung der Beitrage, die auch nicht 
+unangemessen hoch sei en (BVerfGE 15, 235 (243 ff.)). Der in § 2 Abs. 1 IHK-G liegende 
+Eingriff in Art. 2 Abs. 1 GG ist somit durch die Schranke der verfassungsmäßigen Ordnung 
+gedeckt. Eine Grundrechtsverletzung liegt nach Auffassung des Bundesverfas sungsge richts 
+nicht vor. Die GmbH kann sich nicht dagegen zur Wehr setzen. Sie muss zahlen.  
+ 
+Prüfung eines Grundrechts
+Schutzbereich
+RechtfertigungEingriffPersönlicher Schutzbereich (= persönlicher Anwendungsbereich)
+Sachlicher Schutzbereich (= geschütztes Verhalten)
+Schranken
+Schranken- Schranken
+Art. 19 I, II GGVerkürzung des Schutzbereichs
+Klassischer Eingriff Mittelbarer Eingriff
+Rechtsstaatsprinzip, insb. Verhältnismäßigkeit
+ 
+--- Seite 17 ---
+ 14 
+Das geliehene Fahrrad  
+Als Stefan, Christoph und Karina –  noch vor Gründung der StartUp GmbH –  in die neuen 
+Büroräume gezogen waren, hatte sich besonders Stefan gefreut. Viele seiner Freunde 
+wohnten in der Nähe, so dass immer mal wieder ein Bekannter auf einen Kaffee vorbeikam. 
+Mit der Zeit bemerkte er jedoch den einen oder anderen Nachteil – wer immer etwas 
+brauc hte oder sich etwas leihen wollte, besuchte ihn jetzt im Büro. Schließlich kamen schon 
+Freunde von Freunden vorbei. Heute stand Martin, ein als humorlos berüchtigter 
+Mitbewohner der Wohngemeinschaft seiner Schwester, plötzlich im Büro und erklärte, dass 
+er ganz dringend zur Uni müsse, um eine Hausarbeit noch fristgerecht abzugeben. In 
+Ermangelung eines eigenen Fahrrads bat er um Stefans Rad.  
+„O.k., aber nur für zwei Stunden, ich brauche das Rad nachher noch! “, willigte Stefan n icht 
+eben begeistert ein. Er hegte und pflegte nämlich sein Gefährt mit all der Sorgfalt, die er an 
+seinem Arbeitsplatz manchmal vermissen ließ, und hatte gerade ein Wochenende darauf 
+verwandt, dem Rad einen neuen, neongrünen Anstrich zu verpassen.  
+Martin bedankte sich und radelte in Richtung der Innenstadt davon.  
+Dort stattete Christoph gerade der Hausbank der StartUp GmbH einen Besuch ab, um –  
+leider erfolglos – über günstigere Kontoführungsgebühren zu verhandeln. Ziemlich schlecht 
+gelaunt verließ er gerade das Bankgebäude und staunte nicht schlecht, als er den ihm 
+unbekannten Martin auf Stefans unverkennbarem grellgrünem Fahrrad vorbeiradeln sah.  
+Empört wollte er für Recht und Ordnung sorgen.  
+„Hey, stehen bleiben! “, brüllte er über die Straße, wovon sich der vermeintliche Fahrraddieb 
+ziemlich unberührt zeigte und ohne erkenntliche Reaktion weiterfuhr.  
+Mit einem kurzen Sprint hatte Christoph Martin eingeholt und diesen vom Fahrrad gerissen. 
+Nach einer kurzen Rangelei hielt er ihn im Schwitzkasten und klärt e ihn triumphierend 
+darüber auf, dass das Fahrrad seinem Freund Stefan gehörte und dass er ihn jetzt zur 
+Polizei bringen würde.  
+Die Zufriedenheit ob seines entschiedenen Handelns verflüchtigte sich rasch, als Martin erwiderte, dass das Fahrrad selbstverständlich Stefan gehörte, dass er es sich von ihm ge-
+liehen hatte und dass er fest entschlossen sei, seinerseits Christoph anzuzeigen. Und zwar 
+wegen Nötigung, Körperverletzung und –  nach einem Blick auf das Loch am Knie seiner 
+Jeans – wegen Sachbeschädigung.  
+Widerstrebend ließ Christoph ihn los und versuchte die Situation zu retten.  
+„Ich konnte ja nicht wissen, dass er dir das Rad geliehen hat, du hättest ja was sagen 
+können, immerhin habe ich dich aufgefordert, stehen zu bleiben.“  
+„Bloß weil irgendwer in de r Gegend rumbrüllt, werde ich grad vom Fahrrad springen!“, ent -
+gegnete Martin und zeigte sich nicht eben versöhnungswillig. „Und selbst wenn ich das Fahr -
+rad gestohlen hätte, wär’ das noch lang kein Grund hier den Privat -Sheriff zu spielen. 
+Schließlich ist  es nicht d ein Fahrrad. Ich gehe jetzt zur Polizei und von meinem Vater wirst 
+--- Seite 18 ---
+ 15 
+du in den nächsten Tagen auch Post bekommen, der ist Anwalt, das wird ein teurer Spaß für 
+dich.“  
+Abends schilderte Christoph seiner Frau sein Leid.  
+„Tja, mein Lieber, “ meinte si e grinsend, „v ielleicht solltest du dich etwas mehr um deine 
+eigenen Sachen kümmern…“  
+Das geliehene Fahrrad – Rechtliche Erläuterung  
+Christoph hatte sich geirrt und aufgrund dieses Irrtums Martin vom Fahrrad gerissen. Chri s-
+toph hatte angenommen, Martin st ehle das Fahrrad.  
+Nothilfe  
+Wäre Christoph denn berechtigt gewesen, so zu handeln, wenn seine Vorstellungen richtig 
+gewesen wären? Wenn Martin tatsächlich dabei gewesen wäre, einen Diebstahl zu bege -
+hen, wäre Christoph nach § 32 StGB wegen Notwehr  – genauer Nothilfe  – gerecht fertigt. Die 
+Notwehr ist ein Rechtfertigungsgrund. Sie gibt zwar kein Recht, „Privat -Sheriff“ zu spielen. 
+Doch bietet sie das Recht, sich gegen gegenwärtige rechtswidrige Angriffe zu verteidi gen. 
+Gedeckt werden von der Notwehr alle Ver teidigungshandlungen, die zur Abwehr eines 
+solchen Angriffs erforderlich sind. Die Notwehr bietet damit ein starkes Recht zur Abwehr, 
+denn es wird nicht zwischen dem angegriffenen Rechtsgut und demjenigen, das von dem 
+Notwehr Übenden angegriffen wird, abgewogen. Das von § 32 StGB geschützte Rechtsgut 
+muss das durch die Notwehrhandlung beeinträchtigte also nicht überwiegen. Eine solche Abwägung wäre etwa bei einer Rechtfertigung wegen Notstandes nach § 34 StGB 
+vorzunehmen.  
+ Die Notwehr nach § 32 StGB berechtigt nicht nur dazu, Angriffe von sich selbst abzuwe n-
+den. Es darf auch Nothilfe geübt werden, denn in § 32 StGB heißt es „um einen gegenwär -
+tigen rechtswidrigen Angriff von sich oder einem anderen abzuwenden“.  
+ Wenn Martin das Fahrrad tatsächlich gestohlen oder auch nach § 248b StGB  bloß unbe -
+rechtigten Gebrauch von dem Fahrrad gemacht hätte, hätte er einen gegenwärtigen recht swidrigen Angriff auf Stefans Eigentum verübt. In diesem Fall hätte Christoph eine 
+Verteidigung shandlung gewählt, die zur Abwehr des  Angriffs erforderlich war. Mit dem 
+Merkmal der Er forderlichkeit soll der Notwehrübende nicht auf eine weniger Erfolg verspre-
+chende Abwehr verwi esen werden. Vielmehr ist er nur verpflichtet, aus mehreren gleich 
+wirksamen Mitteln dasjeni ge zu wählen, das für den Angreifer am wenigsten gefährlich ist. 
+Er ist also nicht zur Auswahl des mildesten, sondern nur des relativ mildesten Mittels ver -
+--- Seite 19 ---
+ 16 
+pflichtet. Christoph hat te bereits vergeblich versucht, Martin durch einen Ruf vom Weiterfah -
+ren abzuhalten. Nunmehr bl ieb ihm in jedem Fall kein milderes gleich wirksames Mittel mehr. 
+Christoph hätte auch subjektiv zur Abwehr des Angriffs gehandelt (vgl. § 32 Abs. 2 StGB : 
+„um .... abzuwe nden“).  
+ 
+Allerdings ist zu berücksichtigen, dass die Notwehr nur die jeweilige Abwehrhandlung deckt. 
+Nicht von der Rechtfertigung wegen Notwehr umfasst werden diejenigen Handlungen, die 
+nicht mehr der Abwehr des Angriffs dienen. Wenn Christoph also Martin noch Verletzun gen 
+zugefügt hat, als er ihn bereits vom Fahrrad herunter gerissen hatte, sind diese nicht mehr nach § 32 StGB gerechtfertigt. Ein Rechtfertigungsgrund kommt dafür nur noch aufgrund 
+des Festnahmerechts  nach § 127 StPO  in Betracht. Alle anderen Rechtsgutsverletzungen – 
+eine Körperverletzung, Nötigung und auch eine Sachbeschädig ung –, die im Rahmen der 
+Abwehr des Angriffs erfolgten, wären jedoch nach § 32 StGB wegen Nothilfe gerechtfertigt.  
+Erlaubnistatbestandsirrtum  
+Die genannte Lösung trifft jedoch auf diesen Fall nicht zu. Christoph hat sich eine Rechtfe rti-
+gungslage ja nur vorgestellt. In Wirklichkeit fehlte es aber an einem gegenwärtigen recht s-
+widrigen Angriff. Martin hatte sich das Fahrrad mit Zustimmung des Eigentümers Stefan geliehen. Er verhielt sich also rechtmäßig. Das Strafgesetzbuch kennt keine Regelung für 
+einen solchen Irrtum, der als Erlaubnistatbestandsirrtum  bezeichnet wird. In § 16 StGB  ist 
+nur der Irrtum geregelt, das s der Täter einen Umstand des gesetzlichen Tatbestandes bei 
+der Tatbege hung nicht kennt. Dieser Irrtum – Tatbestandsirrtum  – führt zum Vorsatz aus-
+schluss. In § 17 StGB findet sich eine Regelung für den Irrtum, der eine fehlende 
+Unrechtseinsicht  zur Folge hat. Danach ist die Schuld ausgeschlossen, es sei denn der Irr-
+tum – Verbotsirrtum  – ist vermeidbar . In Rechtsprechung und Literatur ist die Lösung solcher 
+Irrtumsfälle, in denen sich der Täter tatsächliche Umstände vorstellt, die im Falle ihres 
+Vorliegens zur Bejahung eines Rechtfertigungsgrundes führten, umstritten. Die weit 
+überwiegende Auffassung geht dahin, dass dieser Irrtum die Rechtsfolgen de s § 16 StGB  
+auslöst und des halb die Strafbarkeit wegen einer Vorsatztat ausgeschlossen ist. Aufgrund 
+seines Irrtums erwartet Christoph also keine Bestrafung wegen einer Vorsat ztat. Dies gilt 
+sowohl für den Irrtum über die Voraussetzungen der Notwehr als auch bezüglich des Irrtums 
+über das B estehen eines Festnahmerechts, dem er ebenfalls unterlegen ist, sofern er dem 
+Martin nach Abwehr des Angriffs durch das Festhalten noch weitere Verletzungen zugefügt 
+hat. 
+ Übrig bleibt damit nur die Möglichkeit einer Strafbarkeit wegen fahrlässiger 
+Körperverletzung, § 229 StGB. Die übrigen hier in Frage stehenden De likte – Nötigung und 
+Sachbeschädigung kennen keine Fahrlässigkeitsstrafbarkeit, vgl. § 15 StGB . 
+--- Seite 20 ---
+ 17 
+Der Büromöbelkauf  
+Nach nur wenigen Wochen wurde immer deutlicher , dass ein geregeltes Arbeiten auf zwei 
+Jugendschreibtischen und einem provisorischen Tisch – bestehend aus einer Tischplatte auf 
+zwei Tischlerböcken – nicht möglich war. Immerhin war ein Großteil des Gründungskapitals 
+noch vorhanden und so sollten Büromöb el gekauft werden.  
+Zunächst wurde der Katalog eines nordeuropäischen Möbelhauses gewälzt. Schnell fand 
+man die Büromöbelserie Produkta, suchte sich Tische, Stühle und passende Regale aus 
+und fuhr – bewaffnet mit Katalog und genau notierten Bestellnummern – los. 
+Im Möbelhaus angekommen, erfolgte recht schnell die große Ernüchterung: „Die Serie Pro -
+dukta ist eingestellt, wir haben nur noch Restposten! Dafür gibt es jetzt bald die Serie 
+Hoppa, in sechs bis acht Wochen haben wir die ersten Möbel auf Lager.“  
+Unverrichteter Dinge zogen die drei wieder ab.  
+Zurück im Büro, machte Karina den Vorschlag, dass man vielleicht doch zum Fachhandel 
+gehen solle und so entschieden sich die drei für ein Büromöbelgeschäft im nahe gelegenen 
+Gewerbegebiet.  
+Karina, Christoph und Stefan wurden umfangreich beraten, auf die Vorteile von hochwerti -
+gen Büromöbeln hingewiesen und mit allen Details von Ausbauprogrammen vertraut ge-
+macht. Alle waren begeistert, entdeckten viele nützliche Dinge, probierten bequeme Dreh-
+stühle aus und waren sich schnell einig, dass Echtholzfurnier viel besser aussah als Kunst -
+stoffverblendungen. Schließlich entdeckten sie auch noch, dass das Arbeiten unter der bis -
+herigen Beleuchtung mit Sicherheit innerhalb kürzester Zeit zu Augenschäden führen würde. 
+Offensichtlich konnten hier nur italienische Deckenfluter und optimal konstruierte Tischlam -
+pen weiterhelfen.  
+Stefan rief alle drei Minuten aus: „Ist gebongt, das nehmen wir!“  
+Auf dem Parkplatz angekommen waren sich alle einig, dass es doch besser gewesen sei,  in 
+den Fachhandel zu gehen. Schließlich hatten sie erst dort festgestellt, auf was man alles 
+achten muss, und welche nützlichen Erweiterungen es für jeden Schreibtisch gibt.  
+ 
+Am nächsten Morgen sorgte Christoph dann doch für schlechte Laune. „Habt Ihr eigentlich 
+mal zusammengerechnet, was uns alles kosten würde, was wir da ausgesucht haben?“  
+„Klar, die Schreibtische waren teurer als die Tische, die wir zuerst kaufen wollten, dafür 
+sehen sie aber auch viel besser aus!“ argumentierte Stefan.  
+Auch Karina sah nur Positives: „Außerdem ist das eine viel bessere Qualität! Die halten viel 
+länger und wir wollen bestimmt nicht nächsten Sommer schon wieder neue Möbel kaufen, 
+oder?! Zudem haben wir bei einem richtigen Büromöbelhändler auch die Garantie, dass wir 
+immer wieder passende Möbel nachkaufen können. Schließlich wollen wir uns doch be-
+stimmt mal vergrößern und Mitarbeiter einstellen.“  
+--- Seite 21 ---
+ 18 
+„Denk doch mal an die ganzen Zusatzteile, mit denen man den Monitor erst auf die richtige 
+Höhe bringen kann und die praktischen Kabelschächte!“, warf Stefan ein.  
+„Haben wir denn 7.378 Euro  zuzüglich Mehrwertsteuer übrig?“  
+Christophs Frage löste betretenes Schweigen aus.  
+„Wofür brauchen wir das Geld denn...?“, versuchte Stefan die Stimmung zu retten.  
+„Ich hab mal zusammengerechnet, was uns allein die Tische, Regale und Zusatzteile kosten würden. Die Lampen sind da noch nicht mal dabei, ich kenn die Preise gar nicht.“  
+„Tja“, erklärte Karina, „da werden wir vielleicht noch mal umplanen müssen. Vielleicht haben die ja auch noch preiswer tere Möbelserien im Angebot. Bei dieser Gelegenheit möchte ich 
+auch noch mal betonen, dass unser technisches Equipment nicht unbedingt auf dem neu -
+esten Stand ist. Und je mehr ich hier im Büro arbeite, desto weniger kann ich mal zwischen-
+durch in irgendeiner Agentur schnell was einscannen. Und mein alter Scanner schafft die 
+notwendigen Auflösungen nicht mehr.“  
+Beim Stichwort „technisches Equipment“ wurde auch Stefan endgültig wach: „Stimmt, da fällt mir auch so einiges ein, was wir noch benötigen. Allein die Anbindung der Rechner ans 
+Telefonnetz ist ‘ne Katastrophe und in die ganzen anderen Kabel muss auch mal Struktur 
+gebracht werden.“  
+„Also Jungs und Mädels, es hilft alles nichts“, ergänzte Christoph, „da werden wir wohl unser Traumprogramm kräftig abspecken und noch mal umplanen müssen.“  
+Mit deutlich weniger elanvoller Stimmung griff sich jeder einen „billigeren“ Katalog und be-gann die Suche nach preiswerteren Möbelserien.  
+ 
+Zwei Stunden später ratterte etwas durchs Fax, das mit „Auftragsbestätigung“ über titelt war 
+und mit einer Gesamtsumme von 7.378 Euro zuzüglich Mehrwertsteuer endete. Die 
+„Auftrags bestätigung“ über Leuchtkörper sollte im Laufe des nächsten Tages folgen.  
+Im Büro herrschte Empörung.  
+„Wieso Auftragsbestätigung? Wir haben denen doch gar keinen Auftrag erteilt!“  
+„Genau. Niemand hat irgendeinen Vertrag unterschrieben und ohne Unterschrift gibt’s ja wohl auch keinen Vertrag. Oder?“  
+Der Büromöbelkauf – Rechtliche Erläuterung  
+Dieser sog. „Auftragsbestätigung“ sollte unverzüglich widersprochen wer den, weil ansonsten 
+einige Tage später ein Kaufvertrag nach § 433 BGB  zustande kommen würde.  
+ 
+--- Seite 22 ---
+ 19 
+Zustandekommen eines Vertrages  
+Wenn eine Person von einer anderen eine bestimmte Leistung erwirken möchte, auch als 
+Gegenleistung für ihre eigene, müssen sich beide einigen. Eine solche Einigung nennt man 
+Vertrag , der die Beteiligten an ihre Zusagen bindet.  
+ Ein Vertrag kommt durch zwei übereinstimmende Willenserklärungen zu stande. Die zeitlich 
+vorangehende nennt man Angebot . Diese enthält alle für den Vertrag  relevanten Pflichten, 
+so dass die andere Person nur noch „Ja“ sagen muss, wenn sie einverstanden ist, damit der 
+Vertrag zustande kommen kann. Dies ist dann die zweite Willenserklärung, nämlich die An-
+nahme. Überei nstimmend sind die Willenserklärungen dann, wenn sie sich inhaltlich auf den 
+gleichen Sachverhalt beziehen.  
+Willenserklärung  
+Willenserklärungen bestimmen den Inhalt eines Vertrages. Sie sind sozusagen die 
+„Basi ssteine“ des Vertrages. Erst wenn sie vorliegen, kann man von einem Vertrag  reden.  
+Umgekeh rt bedeutet das, dass wenn eine Person rechtsgeschäftlich tätig we rden möchte, z. 
+B. wenn sie einen Vertrag  abschließen möchte, sie eine Willenserklärung  abgeben muss. 
+Eine Willenserklärung setzt sich aus drei Bestandteilen zusammen: Handlungswille , 
+Erklär ungsbe wusstsein  und Rechtsfolgewille . 
+Handlungswille  
+Der Handlungswille  ist der Wille, irgendeine Handlung, nicht unbedingt eine rechtsge -
+schäftliche, vorzunehmen. Negativ abgegrenzt fehlt dieser, wenn sich ein Mensch im Schlaf 
+befindet oder eine Reflexbewegung vornimmt. Dabei handelt es sich um nicht vom Bewusst -
+sein getragene Bewegungen, d. h. der Mensch hat dann keinen Willen, sie zu vollführen. Es 
+fehlt am Willen zu ha ndeln, dem Handlungswillen. 
+Erklärungsbewusstsein  
+Erklärungsbewusstsein  liegt vor, we nn sich die Person bewusst ist, irgendeine rechtsge -
+schäftlich relevante Handlung vorzunehmen. Wenn jemand bspw. unter ein Angebot seine Unterschrift setzt im Glauben, es sei eine Glückwunschkarte, weiß er nicht, dass er 
+recht sgeschäftlich tätig geworden ist. Weiß diese Person hingegen, dass es sich um ein 
+--- Seite 23 ---
+ 20 
+Angebot handelt, nur nicht um welches, dann liegt aber zumindest das 
+Erklärungsbewuss tsein vor. 
+Rechtsfolgewille  
+Der Rechtsfolgewille  hingegen bezeichnet den Willen, eine ganz bestimmte rechtsge-
+schäftlic he Handlung vornehmen zu wollen. Definitionsbedingt liegen natürlich beim Rechts -
+folgewillen auch ein Erklärungsbewusstsein  sowie der Handlungswille vor. 
+Das Kaufmännische Bestätigungsschreiben  
+Das schlichte Schweigen besitzt im Rechtsverkehr grundsätzlich keinen Erklärungswert und 
+ist deshalb auch grundsätzlich keine Willenserklärung. Eine Au snahme von diesem  
+Grundsatz ist das sog. Kaufmännische Bestätigungsschreiben. Rechtsfolge dieses 
+gewohnheitsrechtlich anerkannten Rechtsinst ituts ist das Zustandekomm en eines Vertrages 
+mit dem Inhalt des Bestätigungsschreibens. Der Vertrag  kommt dabei durch Schweigen auf 
+das Bestätigungsschreiben  zustande. 
+Anwendungsbereich 
+Die Grundsätze des Kaufmännischen Bestätigungsschreibens  gelten für Absender und 
+Empfänger, die zumutbar einen Beitrag zur Rechtssicherheit erbringen können. Das bedeu -
+tet, dass sich nur solche Personen dieses  Recht sinstituts bedienen dürfen, die seine Be-
+deutung kennen oder im Falle des Em pfängers kennen müssten. Insbesondere bei Kauf -
+leuten im Sinn e des HGB ist von ausreichender rechtlicher Kompetenz auszugehen.  
+ Hier sollten die Büromöbel für die StartUp GmbH angeschafft werden. Die drei handelten 
+folglich in ihrer Funktion als geschäftsführende Gesellschafter für ihre GmbH, welche gemäß 
+der §§ 13 GmbHG, 1 HGB  die Kaufmannseigenschaft  besitzt. Bei einem großen 
+Möbelgeschäft, welches seine Niederlassung in einem G ewerbegebiet hat, kann spätestens 
+aufgrund seiner Größe die Kaufmannseigenschaft aus § 1 Abs. 2 HGB  bejaht werden. 
+Folglich ist das Rechtsi nstitut  des Kaufmännischen Bestätigungsschreibens auf diesen Fall 
+anwendbar.  
+ 
+ 
+--- Seite 24 ---
+ 21 
+Abgrenzung zur Auftragsbestätigung  
+Das echte Kaufmännische Bestätigungsschreiben ist streng von einer Au ftragsbestäti gung 
+abzugrenzen (BGHZ 18, 212; BGHZ 61, 282, 285). Dabei i st die äußere Bezeichnung nicht 
+relevant. Es kommt vielmehr auf den Inhalt des Schreibens an.  Ein echtes Kaufmännisches 
+Bestätigungsschreiben ist gegeben, wenn es auf einen vorher, auch vermeintlich, 
+geschlossenen Vertrag Bezug nimmt. Die Auftragsbestätigung hingegen liegt vor, wenn sie 
+nur auf ein Angebot Bezug nimmt.  
+ Das am nächsten Tag angekommene Fax bestätigte lediglich noch einmal, was tags zuvor 
+u. a. Stefan mit seinem „Ist gebongt!“ ausgesucht hat. Es nimmt somit Bezug auf die durch -
+geführten Vertragsverhandlungen. Folglich handelt es sich um ein echtes Kaufmännisches 
+Bestätigungsschreiben, auch wenn es lediglich mit „Auftragsbestätigung“ überschrieben ist.  
+Voraussetzungen des Kaufmännischen Bestätigungsschreibens  
+Zwischen den Parteien müssen zunä chst Vertrag sverhandlungen  stattgefu nden haben. Auf 
+einen Vertragsschluss bei diesen Verhandlungen kommt es da bei nicht an. Der Sinn des 
+Kaufmännischen Bestätigungsschreibens ist, für den Geschäftsverkehr möglichst schnell 
+klare Rechtsverhältnisse zwischen den Vertragsparteien herzustellen. Bei Vorliegen der 
+Voraussetzungen wird ein möglicherweise vorher geschlossener Vertrag durch den Inhalt des Kaufmännischen Bestätigungsschreibens faktisch ersetzt.  
+ 
+Nach Art der Vertragsverhandlungen muss ferner ein Klar stellungsbedürfnis  bestehen. Das 
+ist grds. bei mündlichen, telefonischen oder telegraphischen Vertragsverhandlungen der 
+Fall. Auch hier spielt es keine Rolle, dass möglicherweise ein Vertrag bereits zustande 
+gekommen ist und es einer Klarstellung somit nicht mehr be darf. 
+ Stefan, Karina und Christoph haben sich nach bestimmten Büromöbeln, u. a.  nach Dreh -
+stühlen und Lampen, erkundigt. Sie werden auch mit Verkäufern über Vor - und Nachteile 
+bestimmter Möbel gesprochen und Preise nachgefragt haben. Mündliche V ertragsverhand-
+lungen mit dem Ziel eines möglichen Vertragsa bschlusses liegen somit vor.  
+ 
+Durch das Bestätigungsschreiben muss außerdem der wesentliche Inhalt der 
+Vertragsverhandlungen, d. h. die tatsächlich verhandelten Punkte, wiedergegeben we rden. 
+Das bedeutet aber auch, dass Erweiterungen und Veränderungen grds. z ulässig sind. Das 
+schließt sogar Preisänderungen mit ein.  
+ 
+--- Seite 25 ---
+ 22 
+Hier gibt allerdings das  Fax den exakten Preis von 7.378 Euro  sowie eine Aufstellung der 
+betreffenden Büromöbel wieder. Eine Abweichung zu den ge führten Vertragsverhandlungen 
+ist nicht ersichtlich.  
+ 
+Das Kaufmännische Bestätigungsschreiben muss der betreffenden Partei kurze Zeit nach 
+den Ve rtragsverhandlungen zugehen. Dabei sind Zeitspannen von einigen Tagen noch 
+zulässig. Hier ging das  Bestätigungsschreiben am folgen den Tag und somit rechtzeitig ein.  
+ Es darf außerdem kein Widerspruch innerhalb der Widerspruchsfrist  seitens des 
+Empfängers erfolgen. Diese Frist ist von den Gesamtumständen abhängig und beträgt ca. 
+zwei bis fünf Tage. Chri stoph, oder einer der anderen, sollte am besten noch heute dem Fax 
+widersprechen, wenn die drei sich noch nicht sicher sind oder diese Büromöbel nicht angeschafft wer den sollen, da der Vertrag andernfalls mit dem Inhalt des Faxes zustande 
+kommt.  
+ 
+Der Firme nwagen  
+Auch wenn anfangs das ein oder andere organisatorische Problem zu bewältigen war, so 
+stellte sich doch bald heraus, dass die gemeinsame Arbeit nach der StartUp Gründung so -
+gar noch besser lief als vorher. Während sich bei früheren Projekten meist de rjenige verant -
+wortlich fühlte, der der eigentliche Auftragnehmer war, entwickelte sich in den Wochen nach der GmbH -Gründung schnell so etwas wie eine Corporate Identity. Alle achteten darauf, 
+dass Termine eingehalten und Arbeiten ordentlich erledigt wurden. Stefan trug vereinbarte 
+Abgabefristen in den elektronischen Kalender ein und Christoph ließ keine Arbeit seiner 
+Kollegen das Haus verlassen, welche er nicht gründlich überprüft hatte.  
+Auch die Auftragslage entwickelte sich mehr als erfreulich. Die drei arbeiteten schnell und 
+zuverlässig und zu moderaten Preisen. Hatten sie schon als Einzelkämpfer einen guten 
+Namen, so erledigten sie als Team ihre Arbeit so gut, dass sie schon bald die ersten Auf -
+träge durch Mundpropaganda erhielten.  
+Doch nicht alles lief  reibungslos. Je mehr Kundentermine Karina wahrnahm, desto mehr 
+zeigte sich, dass ihr altersschwacher Kleinwagen keine wirklich verlässliche Terminplanung zuließ. Immer wieder kam es vor, dass sie mit dem Wagen auf halber Strecke liegen blieb 
+oder das Auto erst gar nicht starten konnte. In den bisherigen Fällen konnte sie immer kurz -
+fristig ein Taxi bestellen, doch heute war sie mitten auf der Landstraße mit einem totalen 
+Motorausfall stehen geblieben. Bis der sofort benachrichtigte Pannendienst den Wagen i n 
+die nächste Werkstatt geschleppt hatte und Karina ein Ersatzfahrzeug beschafft hatte, war der Präsentationstermin beim Kunden längst vorbei. Nach einigen hektischen Telefonaten 
+--- Seite 26 ---
+ 23 
+konnte zwar ein Ersatztermin vereinbart werden, aber Karina vermutete zu Recht, dass der 
+Kunde alles andere als begeistert war.  
+Im Büro schilderte sie Stefan und Christoph die Geschehnisse des Nachmittags und man 
+suchte gemeinsam nach Lösungen.  
+„Mein Fahrrad hilft da wohl nicht weiter, aber du könntest dir doch Christophs Auto ausl ei-
+hen“, schlug Stefan vor.  
+Christoph war nicht begeistert. „Und dann holt sie erst meine Tochter vom Kindergarten ab, 
+bevor sie danach die Einkäufe meiner Frau erledigt , um dann schließlich mit den Materialien 
+für eine Präsentation zum Kunden zu fahren? G ute Idee, Stefan..! Wie wär’s denn, wenn 
+Karina den Wagen mal richtig überholen lässt? Die Kosten könnte ja die GmbH tragen, 
+schließlich bist du andauernd für uns unterwegs.“  
+„Erstens habe ich deswegen schon den Lorenz gefragt und der meinte, dass ich das dann 
+als Einkommen versteuern müsste, wozu ich wirklich keine Lust habe. Außerdem war ich mit 
+dem Wagen grad neulich in der Werkstatt und der Mechaniker –  wie im Ü brigen auch der 
+Typ heute vom Abschleppdienst –  hat mir gesagt, dass es eh ein Wunder sei, dass der 
+Wagen überhaupt noch fährt. Und eine Reparatur sei ungefähr so sinnvoll, wie Stefan davon 
+zu überzeugen, nicht mehr im Auto zu rauchen.“ Womit auch geklärt war, warum für Karina 
+die Nutzung von Stefans Auto nicht in Frage kam.  
+Nach allgemeiner Ratlo sigkeit kam der rettende Vorschlag schließlich von Stefan. „Wie 
+wär’s, wenn die GmbH einen Wagen anschafft. Muss ja nichts Großes sein, aber es kann ja 
+wohl nicht sein, dass wir irgendwelche Jobs nicht kriegen, weil Karina unterwegs auf der Straße mit ihre r Schrottkarre liegen bleibt.“  
+Auch wenn Christoph zunächst befürchtete, dass es zu früh sei, um schon ein Auto anzu -
+schaffen, so sah er doch bald ein, dass der augenblickliche Zustand unhaltbar war. Nach 
+einigem Hin und Her stand fest, dass die StartUp GmbH einen Geschäftswagen brauchte. 
+Um Präsentationsmaterialien in ausreichender Menge transportieren zu können, einigte man 
+sich schnell auf einen SUV.  
+Als es um die Größe des anzuschaffenden Wagens ging und Stefan einen repräsentativen 
+Mercedes  vorschlug,  schaffte es Christoph jedoch, wieder auf die notwendigen finanziellen 
+Mittel hinzuweisen. „Wir haben jetzt zwar einiges Geld verdient und können bald ernsthaft 
+daran denken, uns Gehälter auszuzahlen, aber trotzdem sollten wir erst genau überprüfen, 
+wie vi el Geld wir eigentlich wirklich für die Anschaffung zur  Verfügung haben.“  
+Stefan übernahm es, die finanzielle Situation mit Steuerberater Lorenz abzuklären. Glück -
+licherweise war bereits genug Gewinn erwirtschaftet worden, so dass die Buchhaltung für 
+die A nschaffung grünes Licht geben sollte. Verunsicherung erzeugte jedoch die Frage des 
+Steuerberaters, in welcher Form der Wagen angeschafft werden sollte: „Wollen Sie finanzie-
+ren oder leasen?“  
+„Was meinen Sie denn mit finanzieren?“  
+„Ob Sie den Wagen mittels eines Kredits kaufen wollen?“  
+--- Seite 27 ---
+ 24 
+„Aber wir haben doch genug Geld, da müssen wir doch keinen Kredit aufnehmen. Und was 
+heißt überhaupt Leasing?“  
+„Leasing bedeutet Mietkauf.“ 
+„Wir wollen kein Auto mieten, wir wollen es kaufen.“  
+„Leasing ist rechtlich zwar ein Mietverhältnis, aber in der Abwicklung stellt es für Sie vor allem eine steuerlich günstige Möglichkeit dar, den Wagen abzuschreiben.“  
+„Wir sollen den Wagen abschreiben? Wir wollen ihn doch erst anschaffen…!“  
+„Abschreiben bedeutet, dass die Anschaffungskost en eines abnutzbaren Gegenstandes in 
+steuerlicher Hinsicht auf seine voraussichtliche Nutzungsdauer verteilt werden.“  
+„Ich versteh kein Wort.“  
+„Wenn Sie beispielsweise einen Computer für sagen wir 3.000 Euro anschaffen, so müssen 
+Sie diesen über drei Jahre hinweg abschreiben,  das heißt Sie können pro Jahr  1.000 Euro 
+vom zu versteuernden Einkommen abziehen.“  
+„Das heißt, wir geben 3.000 Euro aus und müssen trotzdem erst mal für 2.000  Euro  Steuern 
+zahlen?“  
+„So ist es .“ 
+„Und was ist beim Leasing dann anders?“  
+„Beim Leasing bezahlen Sie lediglich für die Abnutzung eines Gegenstande s und haben 
+meist am Ende der Vertragslaufzeit ein Ankaufsrecht. Die Leasingraten können sie jedoch direkt absetzen.“  
+„So, dann werden wir wohl mal nach entsprechenden Leasingangeboten Ausschau halten.“ 
+Stefan hatte zwar kaum ein Wort verstanden, aber der Steuerberater sollte wohl kompetent 
+genug in solchen Fragen sein. Nach den üblichen Ermahnungen, dass die Buchhaltung der 
+StartUp GmbH nicht mehr allzu lange in einem Karton stattfinden sollte und dass möglichst 
+bald damit begonnen werden sollte, Belege zu Kontoauszügen zu sortieren, verließ Stefan 
+die Kanzlei.  
+Wieder auf der Straße angekommen, überlegte er sich, dass er jetzt zwar noch immer nicht 
+wusste, in welcher Form der Geschäfts wagen angeschafft werden würde, er sich aber zu -
+mindest schon mal beim nächsten Händler als potentieller Käufer präsentieren konnte.  
+Der Firmenwagen – Rechtliche Erläuterung  
+Bei der Entscheidung, wie der Firmenwagen angeschafft werden soll, müssen Stefan, Karina 
+und Christoph viele Gesichtspunkte unterschiedlicher Art be rücksichtigen. Neben wirt schaft -
+lichen Überlegungen sind auch rechtliche Erw ägungen bzgl. der Anschaffung anzustellen.  
+ 
+--- Seite 28 ---
+ 25 
+Vertragsfreiheit  
+Grundlage für die Möglichkeit, verschiedene Verträg e schließen zu können, ist die Ver-
+tragsfreiheit , die ein beherrschender Grundsatz im Vertragsrecht des BGB ist und auch 
+Vertragsautonomie genannt wird. Sie überlässt den am rechtsgeschäftlichen Verkehr teil -
+nehmenden Parteien grds. sowohl die Freiheit, ob und mit wem sie einen Vertrag abschlie -
+ßen möchten, die sog. Abschlussfreiheit , als auch mit welchem Inhalt ein Vertrag zustande 
+kommen soll,  die sog. Gestaltungsfreiheit . 
+ 
+Der allgemein anerkannte Grundsatz der Vertragsfreiheit wird nur zugunsten von 
+höherrangigen Interessen eingeschränkt.  Zum Teil existieren daher Abschlusszwänge , z. B. 
+hinsichtlich öffentlicher Verso rgungsbetriebe in § 3 EisenbahnverkehrsO , § 6 
+EnergiewirtschaftsG  und § 22 PersonenbeförderungsG , um die Versorgun g der Bevölkerung 
+sicher zustellen . In anderen Fällen best ehen Abschlussverbote , die eine oder beide 
+Vertragsparteien schützen, z. B.  §§ 22 ff. Juge ndarbeitsschutzG  oder § 134 BGB  für 
+Verträge, die gegen ein gesetzliches Verbot verstoßen. Eine inhaltliche Einschränkung von 
+Rechtsgeschäften  kann sich auch aus § 138 BGB ergeben, wenn der Vertrag  gegen die 
+guten Sitten verstößt.  
+Vertragstypen  
+Das BGB hat bestimmte Vertragstypen besonders ausgestaltet, so z. B. den Kaufvertrag in 
+den §§ 433 ff. BGB, den Mietvertrag  in den §§ 535 ff. BGB , den Pachtvertrag in den 
+§§ 581 ff. BGB, den Leihvertrag in den §§ 598 ff. BGB, den (Geld- )Darlehensvertrag in den 
+§§ 488 ff. BGB, den Sachdarlehen svertrag in den §§ 607 ff. BGB, den Dienstvertrag in den 
+§§ 611 ff. BGB oder den Werkvertrag  in den §§ 631 ff. BGB. Das steht der Vertrags auto-
+nomie  aber nicht entgegen. Vielmehr wurden die im Wirtschaftsleben häufig auftretenden 
+Verträge der Rechtssicherheit wegen besonders geregelt. Damit wollte der Gesetzgeber eine interessengerechte Durchführung garanti eren. 
+Entspricht ein Rechtsgeschäft nicht den im BGB typisierten Vertragsarten, so begründen  
+sich die Leistungspflicht en der Vertragsparteien nach den §§ 311 Abs. 1, 241 BGB , d. h. den 
+im Ver trag festgelegten Leistungspflichten.  
+Miete  
+Der Mietvertrag , §§ 535 ff. BGB, hat die entgeltliche Gebrauchsüberlassung zum Inhalt.  Der 
+Vermieter verpflichtet sich, eine Sache auf Zeit dem Mieter zu überla ssen. Umgekehrt muss 
+der Mieter den vereinbarten Mietzins erbringen. Ist keine Gegenleistung vereinbart, so 
+--- Seite 29 ---
+ 26 
+handelt es sich um einen Leihvertrag, §§ 598 ff. BGB. Der Mieter wird dabei nicht Eigentü-
+mer, sondern lediglich Besitzer der Mietsache. Endet der Mietvertrag z. B. durch Ablauf der 
+Mietzeit, ist der Mieter verpflichtet, das Mietobjekt zurückzugeben, § 546 Abs. 1 BGB. 
+Kauf 
+Im Gegensatz zum Mietvertrag ist der Kaufvertrag  auf Eigentumsübertragung gerichtet. Das 
+bedeutet, dass regelmäßig sowohl Eigentum  als auch Besitz  übergehen sollen. Gegenstand 
+eines Kaufvertrages können nicht nur Sachen sein, § 433 Abs. 1 BGB , sondern auch Rechte 
+und sonstige Gegenstände, § 453 Abs. 1 BGB. Mit sonstigen Gegenständen im Sinne des 
+§ 453 Abs. 1 BGB  sind verkehrsfähige Güter gemeint, die weder Sachen noch Rechte sind, 
+so z. B. Elektrizität und Wärme.  
+Leasing  
+Die Vertragsfreiheit  erlaubt es auch, einen sog. Mischvertrag zu nutzen. D abei werden zwei 
+oder mehr typisierte Vertragsarten gemischt. Der Leasingvertrag  ist keine im BGB geregelte 
+Vertrags art, sondern ein solcher Mischvertrag. Kern dieses Ve rtragstyps ist der Mietvertrag. 
+Dabei wird trotz zahlreicher verschiedener Lea singvertragstypen in der Praxis zwischen dem 
+sog. Operating Leasing und dem Financial Leasing unterschieden.  
+ 
+Beim Operating Leasing wird die Leasingsache dem Leasingnehmer entgel tlich zur Verfü -
+gung gestellt, wie beim Mietvertrag auch, so dass auf diese Art des Leasings die mietrechtli -
+chen Vorschriften der §§ 535 ff. BGB  anzuwenden sind. Nach Ablauf der Leasingzeit kann 
+sich der Leasingnehmer das Recht ver traglich sichern lassen, den Leasinggegenstand unter 
+Anrechnung der bisher geleisteten Leasingraten käuflich zu erwerben. Nutzt der Leasing-nehmer die Möglichkeit zum Erwerb der Sache, richten sich alle Rechte und Pflichten ab 
+diesem Zeitpunkt nach den kaufrechtlichen Vorschriften der §§ 433 ff. BGB. 
+ Beim Financial Leasing sind drei Personen beteiligt. Der Leasinggeber er wirbt dabei einen, 
+in der Praxis meist teuren, Gegenstand von einem Produzen ten oder Händler und überlässt 
+ihn entgeltlich dem Leasingnehmer. Unter di esen drei Vertragsparteien ergeben sich ver -
+schie dene Rechte und Pflichten, die sowohl auf kaufrechtlichen als auch mietrechtlichen 
+Vorschriften basieren.  
+ Bei einer Entscheidung, ob eine Sache gekauft oder geleast werden sollte, müssen also 
+auch rechtliche Gesichtspunkte berüc ksichtigt werden. So wird man bei einem Kaufvertrag 
+grds. bei Erfüllung sofort Eigentümer und ist somit für die Kaufsache verantwortlich, auch 
+--- Seite 30 ---
+ 27 
+wenn man den Kaufpreis noch nicht oder nicht vollständig erbracht hat. Weiterhin muss sich 
+der Käufer bereits beim Kaufvertrag für die Kaufsache entscheiden. Im Gegensatz dazu kann man beim Operating Leasing bis zum Ablauf des Leasingvertrages die Entscheidung, 
+ob die Sache angeschafft werden soll, auf schieben. Das kann gerade bei einem StartUp-
+Unternehmen , wie dem von St efan, Karina und Christoph, für die Existenz entscheidend 
+sein. Gerade bei einem Firmenfahrzeug kann sich nach drei Jahren der Zweck der Anschaf fung ändern.  
+ 
+Inhaltliche Bestimmung von Verträgen
+Vertrag eigener 
+Gattung
+§§ 311 Abs. 1, 241 BGB
+Leistungspflichten 
+ergeben sich aus dem 
+i
+m Vertrag 
+Vereinbarten.Typisierter Vertrag
+z.B.
+§ 433 BGB Kaufvertrag
+oder
+§ 535 BGB Mietvertrag
+Le
+istungspflichten 
+ergeben sich aus der im 
+Gesetz typisierten 
+Vertragsart. 
+Welche 
+Leistungspflichten 
+einschlägig sind, richtet 
+sich nach dem im 
+Vertrag Vereinbarten.Mischvertrag
+z.B.
+Leasing
+Leistungspflichten 
+ergeben sich aus den im 
+G
+esetz typisierten 
+Vertragsarten.
+Welche 
+Leistungspflichten 
+einschlägig sind, richtet 
+sich nach dem im 
+Vertrag Vereinbarten.
+ 
+ 
+Die Baustelle  
+Am Montag kam Christoph sichtlich besorgt ins Büro. Ächzend ließ er sich in seinen Dreh-stuhl fallen und erklärte: „Ich glaube, ich habe ein Problem.“  
+Besorgt sahen sich Karina und Stefan an.  
+„Was ist los?“, ergriff Stefan schließlich das Wort, worauf Christoph zu erzählen begann.  
+Er hatte am Freitag seine Tochter Julia aus dem Kindergarten abgeholt, um mit ihr noch etwas Zeit auf dem Spielplatz zu verbringen und anschließend noch einiges einkaufen zu 
+gehen. Gegen Nachmittag waren sie schließlich auf dem Heimweg, als Christoph noch eine 
+Bekannte traf. Im Lärm einer Großbaustelle unterhielten sie sich eine Weile, bis Christophs 
+Tochter plötzlich durch ein Loch im Bauzaun schlüpfte und auf der Baustelle verschwand. 
+--- Seite 31 ---
+ 28 
+Christoph lief sofort zum nahe gelegenen Eingang und begann seine Tochter auf der Bau-
+stelle zu suchen. Schon nach wenigen Augenblicken entdeckte er das Mädchen, wie es 
+gerade über eine schlammige Behelfsstrasse stolperte und dabei mit in den Nacken geleg-
+tem Kopf fasziniert den sich drehenden Kran anschaute.  
+Christoph rief nach ihr, aber der Krach der Maschinen übertönte seine Stimme, so laut er 
+auch brüllte. Also lief er quer über die schlammige Baustelle, um das Kind zu holen. Kaum 
+hatte er sich in Bewegung gesetzt, sah er wie ein schwerer Lastwagen um die Ecke des 
+halbfertigen Gebäudes kam und direkt auf seine Tochte r zuhielt. Im letzten Moment be-
+merkte der Fahrer das Kind, riss das Steuer herum und rammte einen am Rand der Straße stehenden Betonmischer, der scheppernd in sich zusammenbrach.  
+So schnell er konnte, lief Christoph zu seiner Tochter und vergewisserte sic h, dass dem Kind 
+nichts passiert war. Julia war mit dem Schrecken davon gekommen, der Lastwagenfahrer 
+war jedoch alles andere als gut gelaunt. Es kam zu einer ziemlich lautstarken Auseinander -
+setzung in deren Verlauf der Fahrer Christoph als Vollidioten und Rabenvater  beschimpfte, 
+weil er seine Tochter offensichtlich ohne Aufsicht auf einer Großbaustelle hatte spielen las -
+sen. 
+Christoph hinterließ seine Adresse und verließ die Baustelle mit einem mulmigen Gefühl, 
+aber doch glücklich, dass seiner Tochter nic hts passiert war.  
+Am Montagmorgen bereits hatte der Anwalt des Bauunternehmens bei Christoph angerufen 
+und ihn mit immensen Forderungen konfrontiert.  
+„An dem LKW ist ein Schaden für mehrere t ausend Euro entstanden und der Betonmischer 
+ist total hinüber.“ s eufzte Christoph.  
+„Aber das ist doch alles gar nicht Deine Schuld!“, warf Karina ein.  
+„Na ja“, antwortete Christoph, „das dachte ich auch, aber der Rechtsanwalt meinte, dass 
+Eltern für ihre Kinder haften würden, wie es ja auch überall auf den Schildern am Zaun steht. 
+Außerdem hat er irgendwas von Aufsichtspflichtverletzung gesagt und dass die mich auch 
+direkt belangen könnten. Ich weiß gar nicht, wie ich das alles bezahlen soll, schließlich habe 
+ich nicht einmal eine Haftpflichtversicherung. Am Ende hat er noch was von Hausfriedens -
+bruch und Strafverfahren erzählt, aber da hab ich dann gar nicht mehr zugehört. Als ob Julia jetzt in den Knast käme.  Der wollte mich eh’ nur einschüchtern.“  
+Die Baustelle –  Rechtliche Erläuterung  
+Christoph hat hier noch einmal Gl ück im Unglück gehabt. Obwohl durch sei ne Unachtsam -
+keit Julia auf die Baustelle gelangt ist, muss er für den dadurch entstandenen Schaden nicht 
+bzw. nur teilweise aufkommen. Auch das ang ebrachte Schild „Eltern haften für ihre Kinder“ 
+hat in diesem Zusammenhang keine große Bedeu tung.  
+ 
+--- Seite 32 ---
+ 29 
+Die rechtliche Abwicklung von Schäden ist in den §§ 823 bis 853 BGB  geregelt, dem sog. 
+Deliktsrecht oder dem Recht der unerlaubten Handlungen.  Diese Vorschriften sollen den 
+Einzelnen gegen widerrechtliche Eingriffe, vorsätzliche oder fahrlässige, in seine Rechte 
+schützen. Es handelt sich hierbei um allgemeine, zwischen allen Personen bestehende 
+Rechtsbeziehungen, die jeder be achten muss (KG MDR 98, 897). So ist z. B.  das Recht am 
+Eigentum von allen zu achten. Niemandem ist es ohne weiteres erlaubt, dieses Rechtsgut zu verletzten. Im Gegensatz dazu werden im Vertragsrecht nur bestimmte, zwischen den Ver -
+tragsparteien bestehende, Rechtspositionen geschützt.  
+ 
+Obwohl es letztendlich Christoph ist, der sich  wegen einer Aufsichtspflichtverletzung nach 
+§ 832 Abs. 1 BGB schadensersatzpflichtig gemacht haben mag (die Tochter ist nicht 
+delikt sfähig, § 828 Abs. 1 BGB) , muss zunächst festgestellt werden, inwieweit seine Tochter 
+Julia den objektiven Tatbestand des § 823 BGB erfüllt hat oder nicht: Dies ist Voraussetzung 
+für einen Anspruch aus § 832 Abs. 1 BGB.  Der Vollständigkeit halber soll hier aber der 
+gesamte Tatbestand des § 823 BGB für Julia geprüft werden.  
+Die Schadensersatzpflicht  nach § 823 Abs.  1 BGB  
+In § 823 Abs. 1 BGB ist die allgemeine Schadensersatzpflicht  normiert. D aneben existieren 
+noch weitere spezielle Schadensersatznormen, so z. B. in § 831 BGB  für den Geschäfts -
+herrn, in § 832 Abs. 1 BGB  für den Aufsichtspflicht igen, in § 833 S. 1 BGB  für den Tierhalter, 
+in § 834 S. 1 BGB  für den Tieraufseher oder in § 837 BGB  für den Gebäude besitzer usw.  
+Aber auch außerhalb des BGB existieren Vorschriften, die eine Schadensersatzpflicht 
+begründen können. Die wichtigste ist der § 7 Abs. 1 StVG  bei Schäden im Straßenverkehr . 
+ Der § 823 Abs. 1 BGB  unterteilt sich, wie fast alle deliktsrechtlichen Normen, in den 
+haftungsbegründenden  und den haftungsausfüllenden Tatbestand. Der 
+haftungsbegründende Tatbestand besteht aus dem objektivem Tatbestand – 
+Rechtsgutsverletzung, Verletzungshandlung und Kausalität –, der Rechtswi drigkeit und dem 
+Verschulden. Mit dem haftungsausfüllenden Tatbestand wird geprüft , ob ein Schaden 
+eingetreten ist, der auf der Recht sgutverletzung beruht.  
+Voraussetzungen  
+Um eine Schadensersatzpflicht nach § 823 Abs. 1 BGB  begründen zu kö nnen, müssen die 
+Haftungsvoraussetzungen vorliegen. Es muss eine Verletzung eines Rechtsguts aus dem    
+§ 823 Abs. 1 BGB  vorliegen. Diese Rechtsgüter sind: das Leben , der Körper , die Gesund -
+heit, die Freiheit , das Eigentum  oder ein sonst iges Rec ht.  
+ 
+--- Seite 33 ---
+ 30 
+Hier sind gleich mehrere Schäden entstanden. Zu m einen wurde der LKW be schädigt und 
+zum anderen der Betonmischer zerstört. In Betracht kommt hier eine Verletzung des 
+Eigentums . Darunter versteht man die Zerstörung, Beschädigung, Verunstaltung oder Ent -
+ziehung einer Sache.  
+ 
+Sowohl die Beschädigung des LKWs als auch die Zerstörung des Betonm ischers stellen 
+somit eine Eigentumsverletzung im Sinne des § 823 Abs. 1 BGB  dar.  
+ 
+Ferner muss eine Verletzungshandlung des in Anspruch Genommenen vo rliegen, d. h. eine 
+nachteilige Beeinträchtigung eines der in §  823 Abs. 1 BGB  genannten Rechtsgüter. Diese 
+kann sowohl in einem aktiven Tun oder einem Unterlas sen bestehen.  
+ Hier ergeben sich mehrere Anknüpfungspunkte für eine Verletzungshandlung von Julia. Auf 
+der ei nen Seite stellt das Betreten des Baustellengeländes eine Verletzungshandlung dar, 
+auf der anderen kann aber das „ sich nicht Entfernen “ eine Verletzungshandlung darstellen. 
+Hier braucht nicht entschieden zu wer den, welches Verhalten zu Grunde zu legen ist,  da 
+sich beide „Handlungen“  verletzend ausgewirkt haben.  
+ 
+Zudem muss die Verletzungshandlung kausal , d. h. ursächlich, für die Rechtsgutsver letzung 
+des § 823 Abs. 1 BGB  gewesen sein.  
+ 
+Die Kausalität kann hier sehr einfach bestimm t werden. Hätte Julia nicht die Baustelle 
+betreten oder, wenn man von einem Unterlassen ausgeht, hätte sie sich rechtzei tig entfernt, 
+hätte der LKW -Fahrer nicht ausweichen müssen und sowohl der LKW als auch der  
+Betonmischer wären nicht beschädigt bzw. zerstört worden.  
+ 
+Ein Verhalt en, das  zwar kausal zu einer Rechtsgutverletzung geführt hat, d. h.  den objekti -
+ven Tatbestand erfüllt, löst aber nur dann eine Schadensersat zpflicht aus, wenn es auch 
+rechtswidrig  war. Im Deliktsrecht, d. h.  in den §§ 823 ff. BGB, kann jedoch davon ausge-
+gangen werden, dass allein aufgrund des verwirklichten objektiven Tatbestandes die Rechtswidrigkeit vorliegt. Di ese kann nur durch Rechtfertigungsgründe widerlegt werden. 
+Rechtfertigung sgründe bilden z. B.  die Notwehr  aus § 227 BGB , der Verteidigungsnotstand 
+aus § 228 BGB , das Selbsthilferecht  aus § 229 BGB , der Angriffsnotstand in § 904 BGB, der 
+rechtfertigende Notstand aus § 34 StGB , die sog. berechtigte G eschäftsführung ohne Auf -
+trag aus den §§ 677 ff. BGB und die Einwilligung des Verletzten.  
+ Hier ist f ür Julia leider kein Recht fertigungsgrund ersichtlich, so dass ihr Verhalten recht swid-
+rig war.  
+ 
+--- Seite 34 ---
+ 31 
+Im Deliktsrecht hängt die Verpflichtung zur Leistung von Schadensersatz da von ab, dass ein 
+Verschuldensfähiger schuldhaft  gehandelt hat und keine Entschuldigungsgründe eingreifen.  
+ 
+Julia besucht jedoch noch den Kindergarten. Sie hat somit das siebente Le bensjahr noch 
+nicht vollendet . Gemäß § 828 Abs. 1 BGB  ist sie daher für den Sch aden nicht verantwortlich; 
+mithin ist sie aufgrund ihres Alters verschuldensunf ähig. Für den entstandenen Schaden 
+muss Julia folglich nicht aufkommen.  
+ 
+Trotz der Minderjährigkeit und somit der meist wirtschaftlichen Unfähigkeit, den angerichte -
+ten Schaden zu ersetzen, muss geprüft werden, ob Julia sich er satzpflichtig gemacht haben 
+könnte. Bei Vollendung des siebenten Lebensja hres besteht bei Verantwortlichkeitsreife die 
+Möglichkeit, den Minderjährigen schadensersatzrechtlich zur Verantwortung zu ziehen.  
+Die Schadensersatzpflicht  nach § 832 Abs.  1 BGB  
+Der § 832 BGB  schließt die Lücke, die durch die §§ 827, 828 BGB  entsta nden ist. Wenn 
+Verschuldensunfähige, d. h.  Minderjährige oder  Menschen mit krankhafter Störung ihrer 
+Geistes tätigkeit , Schäden verurs achen, so gebietet das Postulat der Gerechtig keit, diese zu 
+ersetzten. Herangez ogen werden können dann die sog. Aufsichtspflichtigen. Im Falle von 
+Julia ist das Chr istoph als Sorgeberechtigter gemäß  § 1626 BGB. 
+Voraussetzungen  
+Voraussetzung für einen Schadensersatzanspruch gegen Christoph aus § 832 BGB ist  
+zunächst , dass eine Aufsichts pflicht  gegenüber dem Aufsichtsbe dürftigen besteht. Das ist 
+bei Eltern gegenüber ihren minderjährigen Kindern gemäß der §§ 1626, 1631 Abs.  1 BGB  
+der Fall. Diese Aufsichtspflicht muss verletzt worden sein. Der Inhalt dieser Pflicht bemisst sich bei Ki ndern nach ihrem Alter, ihrer Eigenart und ihrem Charakter.  
+ Julia besucht gerade den Kindergarten. Sie ist in einem Alter, wo Kinder lernen, die Welt zu 
+entdecken. Sie sind neugierig und häufig aufgrund dessen unvorsichtig, denn sie haben mit 
+dem Besuch des Kindergartens gelernt, sich auch ohne ihre Eltern selbstständig fortzube-
+wegen. Gerade in diesem Alter sind Kinder besonders zu beaufsichtigen, da ihr Sinn für 
+Gefahren sich erst noch entwickeln muss. Folglich war die Aufsichtspflicht von Christoph 
+sehr hoch . Er musste immer damit rechnen, dass Julia sich von ihm entfernt. 
+Dementsprechend hätte er sie nicht aus den Augen lassen dürfen. Das jedoch hat er getan, 
+als er sich mit seiner Bekannten unterhielt. 
+ 
+--- Seite 35 ---
+ 32 
+Auch den in § 832 BGB  ermöglichten Entlastungsbeweis  kann Christoph nicht erbringen. Er 
+hat seiner Aufsichtspflicht hier nicht genügt, obwohl eine vollständige Aufsicht grds. von 
+keinem Menschen verlangt werden kann. Zwar braucht die jederzeitige Eingriffsmöglichkeit 
+gegenüber einem vierjährigen Kind nicht gewährleistet zu sein ( Celle VersR 69, 333). Hier ist 
+jedoch die nahe gelegene Baustelle zu berücksichtigen. Diese weckt die Neugier von 
+Kleinkindern besonders schnell. Außerdem sind sie durch den Lärm nicht in der Lage, 
+Anweisungen ihrer Eltern zu vernehm en, so dass in diesen Fällen ein Aufsichtspflichtiger in 
+der Lage sein muss, sofort eingreifen zu kön nen. 
+ Ferner muss der Aufsichtsbedürftige zumindest den objektiven Tatbestand einer unerlaubten 
+Handlung, also einer der §§ 823 ff. BGB, rechtswidrig  erfüllt haben. Das ist, wie bereits oben 
+festgestellt, hier bei Julia der Fall.  
+ 
+Auf der Seite des haftungsausfüllenden Tatbestands müsste ein Schaden entstanden sein, 
+der auf der Rechtsgutverletzung beruht . Die Rechtsfolge ist dann der Ersatz des Schadens, 
+welcher sich nach den § § 249 ff. BGB richtet. Es soll der Zustand hergestellt werden, der 
+bestehen würde, wenn das schädigende Ereignis nicht passiert wäre, sog. Naturalrestitution 
+aus § 249 Abs. 1 BGB . Der Geschädigte kann jedoch auch Geldersatz wählen, § 249 Abs. 2 
+BGB.  
+ 
+Hier muss sehr wahrscheinlich der LKW repariert werden, so dass die Repa raturkosten die 
+erste Schadensposition bilden. Weiterhin muss ein neuer B etonmischer angeschafft werden. 
+Seine Anschaffungskosten stellen eine n weiteren Schadensposten dar. 
+ 
+Jedoch kann Christoph dem Bauunternehmer entgegenhalten, dass ein Loch im Bauzaun 
+erst diesen Vorfall ermöglicht hat , diesen also ein sog. Mitver schulden nach § 254 Abs. 1 
+BGB trifft.  
+ 
+Der § 254 BGB  soll die Schadensersatzpflicht des Schädigers bes chränken, wenn der 
+Geschädigte bei der Entstehung des Schadens  mitgewirkt hat, d. h. selbst einen Beitrag zum 
+Schaden geleistet hat. Liegt ein Mitverschulden vor, so wird – den Verschuldensanteilen ent -
+sprechend – der Anspruch  des Geschädi gten gekürzt. Liegt z. B.  hälftiges Mitverschulden  
+vor, muss der Schädiger nur die Hälfte zahlen. Die Abwägung beider Verschuldensanteile 
+kann im Extre mfall auch zu dem Ergebnis führen, dass den Geschädigten ein so überwie-
+gendes (Mit -)Verschulden trifft, dass dieser insgesamt für den Schaden aufkommen muss.  
+ 
+Hier kann man durchaus die Meinung vertreten, dass ein Loch im Bauzaun wesent lich 
+verschuldensträchtiger ist  als die wohl eher geringfügige Verletzung der Aufsichtspflicht von 
+Christoph. Ein Bauzaun soll gerade alle Unbefugten von der Baustelle fernhalten. Insbesondere Kindern soll der Weg ve rsperrt werden, da sie wegen ihres Alters Warn-
+--- Seite 36 ---
+ 33 
+schilder nicht lesen können oder ihnen nicht die geforderte Aufmerksamkeit schenken, so 
+wie das Erwachsene tun.  
+ 
+Da Abwägungen Wertun gsfragen sind, kann in diesem Fall durchaus auch eine Quotelung 
+von z. B. 80 % zu 20% vertreten werden.  
+ 
+Keine Verpflichtung zum Ersatz eines Schadens  ergibt sich wegen des Schildes „Eltern 
+haften für ihre Kinder“. Vielmehr als eine deklaratorische Wirkung kann man dem nicht zu -
+sprechen. Gesetzliche Schadensersatzansprüche, die einzigen, die hier in Betracht kamen, 
+haben ihre Voraussetzungen im Gesetz verankert, nicht auf einem Schild. Wie man hier 
+auch sehr gut sehen kann, haf tet trotz eines Schadens Chris toph wenn überhaupt, dann 
+lediglich zu einem geringen Teil.  
+ 
+Papier  und Toner  
+Obwohl die Zusammenarbeit zwischen Christoph, Karina und Stefan immer besser funktio-nierte,  stellte sich doch mit steigender Auftragslage heraus, dass es an einer geordneten 
+Büroorganisation mangelte. Immer wieder wurden Anfragen von Kunden nicht beantwortet, 
+weil nicht so recht klar war, wer für was zuständig war. Verlorene Aufträge und empörte 
+Anrufe waren die Folge.  
+Richtig schlimm wurde es jedoch, wenn sich kurz vor Fertigst ellung einer Arbeit heraus -
+stellte, dass ge rade kein passendes Papier vorrätig oder der Toner ausgegangen war. Viel 
+zu oft musste sich einer der drei kurzfristig durch den Berufsverkehr in die Stadt quälen, um 
+noch vor Geschäftsschluss Aktenordner, Drucker patronen oder besonders gefärbtes Papier 
+zu kaufen.  
+Schließlich schlug Stefan vor, Büromaterial künftig beim Versandhandel zu bestellen. „Die 
+haben ein noch größeres Angebot als die Büromärkte in der Stadt, liefern binnen 24 Stunden 
+ins Haus und sind meist  noch billiger.“  
+Stefans Vorschlag fand allgemeine Zustimmung und er wurde beauftragt, für Materialnach-
+schub über ein Versandhaus zu sorgen.  
+Schon eine Woche nach der Idee bestellte er zum  ersten Mal telefonisch. Mit einem Katalog 
+und einer ellenlangen Li ste mit komplizierten Bestellnummern ausgerüstet, diktierte er Arti -
+kel, Preis und gewünschte Menge und freute sich, dass von nun an die Papierschlepperei 
+durch die Fußgängerzone und andere Unannehmlichkeiten entfallen sollten.  
+Schon am nächsten Tag stand der Paketdienst mit zwei riesigen Kartons vor der Tür und 
+lieferte das Bestellte gegen Rechnung. Leider entsprach die Lieferung nicht vollständig dem 
+Gewünschten.  
+--- Seite 37 ---
+ 34 
+„Für welchen Drucker sollen denn diese Tonerkartuschen sein?“, fragte Karina mit kritischem 
+Blick. 
+Stefan befürchtete Ärger: „Was stimmt denn nicht?“  
+„Die sind für das aktuelle Modell. W ir haben den Vorgänger und brauchen die alten Kartu -
+schen!“  
+„Mensch, das hab‘ ich denen doch erklärt.  Ich habe sogar den Druckertyp genannt“, recht -
+fertigte sich Stefan. „Ich werde das mal überprüfen.“  
+Nach langem Suchen in seiner Bestellliste fand er schließlich den Abschnitt mit dem zu be-stellenden Toner – vermerkt war lediglich ein Fragezeichen.  
+„Klar konnte ich keine Bestellnummer notieren. Ich hab‘ auf dieser ewig langen Liste unseren Drucker ja gar nicht gefunden. Ich habe der Dame von der Bestellannahme dann die Typen -
+bezeichnung von unserem Drucker genannt und ihr gesagt, dass wir vier Tonerkartuschen benötigen. Sie hat dann ein bisschen vor sich hin gemurmelt und nach zwei bis drei Minuten 
+gesagt, dass sie jetzt wüsste, was wir benötigen. Und das hat sie dann wohl als Bestellung 
+aufgenommen. Ich rufe da gleich mal an und kläre das mit denen.“  
+„Warte mal, ich glaub wir haben hier noch mehr Probleme“, mischte sich Christoph ein. „Hier sind drei Pakete mit 160 Gramm Papier. Das ist schon Kartonstärke. Was sollen wir denn 
+damit? Stefan wirkte verwirrt: „Also das dick e Papier habe ich bestellt.  Du hast doch gesagt, 
+wir benötigen buntes Papier für Karinas Präsentation in der  nächsten Woche. Und dann hast 
+du noch gesagt, es sollte dicker sein.“  
+„Aber doch nicht gleich 160 Gramm pro Quadratmeter, das kriegen wir doch nie in den Drucker oder sollen wir es vielleicht von Hand beschriften?“, entgegnete Christoph.  
+„Oh Mann, da hab ich dann wohl was falsch verstanden“, räumte Stefan ein. Wie dem auch sei, ich rufe da noch mal an und kläre das mit denen.“  
+Das Telefonat schien nicht zufrieden stellend zu verlaufen. Immer wieder hörten Christoph und Karina, wie Stefan die Dame von der Bestellannahme davon zu überzeugen versuchte, 
+dass er keine Verantwortung für die Fehllieferung trug. Völlig entnervt legte er nach zehn Minuten auf und verkündete das Ergebnis:  
+„Die war irgendwie nicht besonders entgegenkommend. Sie will weder da s Papier noch den  
+Toner zurücknehmen, auch wenn sie eingeräumt hat, dass bezüglich des Toner s wohl ein 
+Missverständnis vorliegen könne.  Karina war empört. „Das Papier können wir zur Not noch 
+für etwas anderes verwenden, aber was sollen wir denn mit dem Toner? Schließlich haben 
+die Stefan doch falsch beraten oder die haben einfach an einander vorbeigeredet. Auf jeden 
+Fall sehe ich nicht ein, dass wir ein paar hundert Euro für etwas bezahlen, dass wir nicht 
+gebrauchen können.“  
+ 
+--- Seite 38 ---
+ 35 
+Papier  und Toner – Rechtliche E rläuterung 
+Hier ergeben sich, obwohl augenscheinlich ähnliche Situationen, zwei  verschiedene recht -
+liche Beurteilungen für die beiden gelieferten Sachen. Während das irrtümlich bestellte 
+Papier tatsächlich, wie Karina schon vermutet hatte, nicht umgetauscht werden kann, muss 
+der Versandhandel d en Toner doch wieder zurücknehmen.  
+Papier  
+Das Papier kann, wie bereits oben erwähnt, nicht zurückgegeben werden. Einzige rechtliche 
+Möglichkeit wäre eine Anfechtung  wegen Irrtums  (zur Anfechtung siehe auch den Fall „ Die 
+neue Mitarbeiterin“) . Problematisch ist hier j edoch der Anfechtungsgrund. Keiner der in den 
+§ 119 ff. BGB  aufgezählten Irrtumsgründe, die zur Anfechtung berechtigen, ist hier 
+einschl ägig. Für eine widerrechtliche Drohung oder arglistige Täuschung gemäß  § 123 
+Abs. 1 BGB  liegen keine Anhaltspunkte vor.  
+Inhaltsirrtum  
+Ein Inhaltsirrtum  gemäß § 119 Abs. 1 1. Fall BGB  ist hier nicht gegeben. Dieser setzt voraus, 
+dass der äußere Tatbestand der Erklärung zwar dem Willen des Erklärenden entspricht, die Willenser klärung aber inhaltlich eine andere Bedeutung hat, als der Erklärende ihr 
+beimessen wol lte. 
+ Als Beispiel für einen Inhaltsirrtum  ist hier der Fall  zu nennen, in dem der aus Berlin stam -
+mende A in einer Kölner Gaststätte nach der ihm vorgelegten Karte einen "halven Hahn" bestellt. A weiß nicht, dass in Köln unter einem "halven Hahn" eine mit Käse belegte Bröt -
+chenhälfte verstanden wird. A hatte ein halbes Hähnchen erwartet. Da er mit dem Inhalt, den seine Erklärung objektiv hat – wobei der "Kölner Empfängerhorizont" zu G runde z u legen 
+ist –, eine andere Vorstellung verbindet, kann A wegen Inhaltsirr tums  gemäß 
+§ 119 Abs. 1 BGB an fechten.  
+ Stefan war aber nicht im Irrtum über seine Erklärung, denn 160g- Papier bedeutet auch das -
+selbe.  
+ 
+ 
+--- Seite 39 ---
+ 36 
+Erklärungsirrtum  
+Auch  ein Erklärungsirrtum  gemäß § 119 Abs. 1 2. Fall BGB  ist hier nicht einschlägig. Dabei 
+will der Erklärende eine Willenserklärung  abge ben – er gibt sie aber in einer Art und Weise 
+ab, in der er sie nicht abgeben wol lte. Der äußere Tatbestand der Willenserkl ärung weicht 
+von dem ab, was der Erklärende von sich geben wollte. Ein Erklärungsirrtum  liegt in der 
+Regel vor, wenn sich jemand verspricht oder verschreibt, z. B. in uns erem Fall, wenn Stefan 
+zwar 160g -Papier gesagt, aber 80g -Papier gemeint hätte. Das ist jedoch hier nicht der Fall.  
+Eigenschaftsirrtum  
+Ein Eigenschaftsirrtum  gemäß § 119 Abs. 2 BGB  liegt ebenfalls nicht vor. Durch ihn wird 
+demjenigen ein Anfechtungsrecht eingeräumt, der sich bei der Abgabe seiner Willenserklä -
+rung über die bei dem  Rechtsgeschäft  wesentliche Eigenschaft seines Vertragspartners oder 
+der Sache, die Lei stungsgegenstand ist, geirrt hat. Als Eigenschaften kommen nur tatsäch-
+liche oder rechtliche Verhältnisse in Betracht, die in dem Rechtsgeschäft  als w esentlich zum 
+Ausdruck gebracht worden sind. Darunter sind alle diejenigen Merkmale und Verhältnisse 
+einer Person oder Sache zu verstehen, die infolge ihrer Beschaffenheit und Dauer auf die Brauchbarkeit und den Wert von Einfluss sind (vgl. BGHZ 34, 32, 41).  
+ Stefan irrte sich hier  jedoch nicht über irgendeine Eigenschaft des Papiers, denn das 160g - 
+Papier hat genau die Eigenschaften, die Stefan daran ge knüpft hatte. Vielmehr irrte sich 
+Stefan darüber, welches Papier bestellt werden sollte.  
+Übermittlungsirrtum  
+Auch ein Übermittlungsirrtum, § 120 BGB, scheidet hier aus, denn Stefan hat ja selbst 
+gehandelt bzw. eine Willenserklärung abgegeben. Der Irrtum  bei der Übermittlung ist ein 
+Unte rfall des Erklärungsirrtums . Auch hier wird etwas anderes erklärt  als erklärt werden soll. 
+Allerdings erklärt nicht der Erklärende selbst irrtümlich etwas Falsches, sondern die Person, 
+z. B. ein Bote, derer sich der Erklärende zur Übermittlung bedient. Falls eine Erklärung 
+falsch wiedergegeben wird, besteht wie beim Erklärungsirrtum  eine Nichtübereins timmung 
+zwischen dem Willen des Erkl ärenden und dem Erklärungs tatbe stand, der dem Empfänger 
+bekannt gewor den ist.  
+ 
+--- Seite 40 ---
+ 37 
+Motivirrtum  
+Hier liegt vielmehr ein sog. Motivirrtum  vor, d. h. ein Irrtum  im Bewe ggrund. Motivirrtümer 
+sind grundsätzlich unbeachtlich; sie berechtigen nicht zur Anfechtung. Würden diese 
+Irrtümer eine Anfechtung ermöglichen, so wären alle Rechtsgeschäfte anfechtbar, weil die 
+Basis jedes rechtsgeschäftlichen Handelns der menschliche Wille ist und das somit seine Bewe ggründe sind.  
+Unterscheidung von fehlerhafter Willensbildung und Willensäußeru ng
+Fehlerhafte 
+Willensbildung
+Diese Irrtümer 
+betreffen die 
+Motivation des 
+Erklärenden und sind 
+grds. unbeachtlich ,
+sog. Motivirrtümer
+Ausnahme:
+§ 119 Abs. 2 BGB
+Irrtum über 
+verkehrswesentliche
+Eigenschaften einer 
+Person oder SacheFehlerhafte 
+Willensäußerung
+§ 119 Abs. 1 1. Alt. 
+BGB
+Irrtum über die 
+Erklärungsbedeutung,
+sog. InhaltsirrtumFehlerhafte 
+Willensäußerung
+§ 119 Abs. 1 2. Alt. 
+BGB
+Irrtum über die 
+Erklärungshandlung,
+sog. Erklärungsirrtum
+mit dem Unterfall des 
+Übermittlungsirrtums 
+§ 120 BGB
+ 
+ 
+T
+oner 
+Die Toner hingegen muss der Versandhandel zurücknehmen. Basis der Leistungspflicht ist 
+nämlich der Vertrag, d. h.  es kommt auf das in diesem Vertrag Vereinbarte an. Hier hat 
+Stefan nicht genau gewusst, welche B estellnummer die von ihm gewünschten Toner haben. 
+Deswegen hat er der Frau am Telefon die Typenbezeichnung des Druckers genannt und ihr 
+gesagt, dass er vier Tonerkartuschen benötigt, woraufhin diese  erwiderte, dass sie wüsste, 
+welche Toner Stefan bräuchte. Die Vereinbarung ging also dahin, dass Stefan vier Toner für den Drucker mit der durchgegebenen Typenbe zeichnung kaufen wollte, mithin für den 
+Drucker, der in der StartUp GmbH benutzt wird. Genau diese Toner sind aber nicht geliefert 
+--- Seite 41 ---
+ 38 
+worden, sondern andere. Folglich hat der  Versandhandel seine Verpflichtung aus dem 
+Vertrag noch nicht erfüllt und schuldet weiterhin die vereinbarten Toner, § 433 Abs. 1 BGB . 
+ 
+Auf die Frage, ob die Allgemeinen Geschäftsbedingungen gemäß § 305 Abs. 2 BGB 
+wirksam in den Vertrag einbezogen wurden,  indem diese hinten im Katalog abgedruckt und 
+der Rechnung beigelegt waren,  kommt es hier also nicht an. Aus demselben Grund muss 
+auch nicht weiter geprüft werden, ob die Klausel – so sie denn wirksam einbezogen wurden 
+– zweifelsfrei dahin ausgelegt werden kann, dass kaufvertragliche Gewährleistungsrechte 
+ausgeschlossen sein sollen.  
+ 
+Der Radiorecorder  
+Im Laufe der Zeit konnte mit dem verdienten Geld des jungen Unternehmens die Büroaus -
+stattung immer weiter vom Eindruck des Provisorischen befreit werden. Neue Lampen ließen 
+ordentliches Arbeiten endlich auch nach Sonnenuntergang zu und als der lautstark vor sich 
+hingurgelnde Kühlschrank schließlich gegen ein neues Modell ausgetauscht worden war, 
+waren sich die drei einig, dass das Büro langsam richtig professionell aussah.  
+Nur eins fehlte nach Stefans Meinung noch: Musik.  
+„Wenigstens ein Radio!“, bettelte er bei Christoph und Karina, die von Musik im Büro alles 
+andere als begeistert waren. Immer wieder brachte er das Gespräch auf die fehlende 
+Hintergrundberiesel ung, aber er bleib mit seinem Wunsch allein.  
+Als Stefan eines Samstags allein im Büro arbeitete, bekam er Besuch von Lars, einem 
+13jährigen Jungen aus der Nachbarschaft, der immer mal wieder im Büro vorbeischaute und 
+Stefan für seine Computerkenntnisse bew underte. Auch bei diesem Besuch fachsimpelten 
+die beiden eine ganze Weile über die Feinheiten der HTML -Programmierung, als Lars plötz -
+lich fragte: „Wieso habt ihr eigentlich keine Musik hier?“  
+Stefan klagte ihm sein Leid und erzählte, dass er mit seinem Wu nsch nach Musik leider 
+allein im Büro war.  
+Lars fand, dass sich sein großes Vorbild diese kleine Freude nicht von seinen Arbeitskolle -
+gen verderben lassen sollte.  
+„Hast Recht“, bemerkte Stefan, „vielleicht kaufe ich demnächst einfach ein kleines Radio und stelle es auf meinen Schreibtisch. Christoph und Karina werden es wohl kaum einfach weg -
+schmeißen.“  
+„Warum so lange warten?“, warf Lars ein. „Ich hab ein echt gutes Radio bei mir zu Haus, das 
+ich eh nie benutze. Für einen Zwanziger gehört es dir.“  
+Stefan g efiel die Idee, einfach Fakten zu schaffen, und er willigte ein.  
+--- Seite 42 ---
+ 39 
+Lars verließ das Büro und kam zehn Minuten später mit dem versprochenen Radio zurück. 
+Stefan gab ihm die versprochenen zwanzig Euro, die Lars gleich in seiner Hosentasche verschwinden ließ.  
+„War mir eine Freude, mit dir Geschäfte zu machen“, sagte er zum Abschied.  
+Am Montag waren Christoph und Karina über Stefans Anschaffung natürlich alles andere als 
+erfreut. Nachdem Stefan die Lautstärke des Radios auf ein erträgliches Maß reduziert hatte, 
+willigten beide schließlich seufzend in die Musikberieselung ein. Stefan freute sich diebisch 
+und gratulierte sich heimlich zum Radiokauf. Der Handel mit Lars war eine gute Idee gewe-sen. 
+Diese Einschätzung änderte sich jedoch, als am Nachmittag Lars mit seiner Mutter in der Tür stand.  
+Frau Hellinger klärte Stefan darüber auf, dass das Radio eigentlich ihrem Mann gehörte, der es Lars nur geliehen hatte und dass Lars keine Erlaubnis hatte, es zu verkaufen.  
+„Wo kommen wir denn hin, wenn unser Sohnemann jetzt plötzlich anfängt, unseren Hausrat an irgendwelche Leute zu verscherbeln. Und Sie sollten sich was schämen, meinen Sohn zu 
+so etwas zu verleiten. Schließlich ist er gerade mal dreizehn und wohl kaum ein geeigneter 
+Geschäftspartner für Sie“, sagte sie und blickte dabei ziemlich empört zwischen Stefan und 
+Lars hin und her.  
+Stefan sah sein neu gewonnenes Glück zerrinnen, verspürte aber auch keine große Lust auf eine längere Diskussion mit Frau Hellinger.  
+„Ist schon o .k.“, räumte er ein. „Wenn ihm das Ding nicht gehört, kann er’s mir auch kaum 
+verkaufen. Ich nehme mein Geld dann zinslos zurück und Sie können ihrem Mann gern Ihr Radio zurückbringen.“  
+Lars’ Mutter schien erleichtert. „Schön, dass Sie so vernünftig sind. Los Lars, gib ihm das Geld zurück und pack das Radio ein.“  
+Kleinlaut räumte Lars ein, dass er das Geld bereits im Kino und bei McDonalds ausgegeben hatte.  
+Jetzt wurde es Stefan zu bunt. „Wenn ich mein Geld nicht wiederbekomme, gibt’s das Radio auch nicht zurück.“  
+Der Radiorecorder – Rechtliche Erläuterung  
+Fraglich ist, ob Lars und Stefan aufgrund der Minderjährigkeit des Lars einen wirksa men 
+Kaufvertrag über den Radiorecorder geschlossen haben, welche Auswirkungen die 
+Minderjährigkeit auf die Übertragung des Eigentums an dem Radiorecorder hat und ob 
+Stefan sein Geld zurückverlangen kann.  
+ 
+--- Seite 43 ---
+ 40 
+Minderjährigenrecht  
+Dem Zustandekommen eines Kaufvertrages könnte hier die Minderjährigkeit des Lars 
+entgegenstehen. Wirksame Willenserklärungen können nur Personen abgeben, die 
+geschäft sfähig sind.  
+Rechtsfähigkeit  und Deliktsfähigkeit  
+Der Begriff der Geschäftsfähigkeit  ist abzugrenzen von dem der Rechtsfähigkeit  und der 
+Deliktsfähigkeit .  
+ Rechtsfä higkeit  meint dabei die Fähigkeit, Träger von Rechten und Pflichten sein zu kön nen. 
+Als Träger von Rechten und Pflichten kennt das Privatrecht natürliche Personen, damit sind Menschen gemeint, und juristische Per sonen. In § 1 BGB  ist die Rechtsfähigkeit von 
+natürl ichen Personen geregelt. Danach ist jeder Mensch von Geburt an rechtsfähig.  
+Juristische Personen sind Organisationen, denen die Rechtsordnung eine eigene 
+Rechtsfähigkeit zuer kennt . Juristische  Personen sind also selbst rechtsfähig. Ihre Rechte 
+und Pflichten sind ihre eigenen und nicht diejenigen der ihr angehörenden natürlichen Personen. Die Rechtsfähi gkeit von juristische n Personen  richtet sich nach jeweili gen 
+Spezialgesetzen, wie dem HGB, GmbHG, AktG oder GenG.  
+ 
+Mit Deliktsfähigkeit , auch Verschuldensfähigkeit, ist die Fähigkeit ei ner Person, für eigenes 
+schuldhaftes Handeln verantwortlich zu sein, gemeint . Die Deliktsfähigkeit ist im Hinblick auf 
+Schadensersatzan sprüche, die aus unerlaubten Handlungen ( §§ 823 ff. BGB) entst ehen 
+können, von wesentlicher Bedeutung. Geregelt ist die Deliktsfähigkeit in den §§ 827, 828 
+BGB ( siehe hierzu auch den Fall „ Die Ba ustelle “). 
+ 
+Für die Beurteilung von Rechtsgeschäften Minderjähriger kommt es maßgeblich auf die 
+Geschäftsfähigkeit  an, die in §§ 104 ff. BGB geregelt ist. Dabei ist zwischen 
+Geschäftsunfähigen und beschränkt Geschäftsfähigen zu unterscheiden.  
+--- Seite 44 ---
+ 41 
+Gesch äftsfähigkeit
+Gesch äftsunf ähig sind:
+§104 N
+r. 1 BGB
+Kinder unter sieben 
+Jahren
+§104 Nr. 2 BGB
+dauerhaft Geistesgest örte
+§105 Abs. 2 BGB
+Personen, die sich im 
+Zustand der 
+Bewusstlosigkeit oder 
+vorübergehenden 
+Störung der Geistes-
+tätigkeit befinden, z.B. 
+VolltrunkeneBeschr änkt 
+Gesch äftsfäh ig sind:
+§§106, 2 BGB
+Jugendliche, die ä lter als 
+sieben, aber noch keine 
+18 Jahre alt sind.
+Für sie gelten die 
+Regelungen der §§ 107 
+bis 113 BGB.Gesetzliche Vertreter 
+sind:
+§§1626, 1629 BGB
+Elt
+ern für ihre Kinder
+§§1773 ff. BGB
+Vormund
+§§1896 ff. BGB
+Betreuer
+§§1909 ff. BGB
+Pfleger im Fall einer 
+Pflegschaft
+ 
+ 
+G
+eschäftsunfähigkeit  
+Geschäftsunfähig sind gemäß § 104 BGB  Kinder, die das siebente Lebens jahr noch nicht 
+vollendet haben. Weiterhin fallen unter diese Kategorie Me nschen, die aufgrund krankhafter 
+Störung ihrer Geistestätigkeit dauerhaft  an einer freien Willensbestimmung gehindert sind. 
+Das Gesetz möchte diese Per sonen rechtlich schützen, weil es ihnen an der erforderlichen 
+Einsicht sfähigkeit in die Bedeutung des Rechtsgeschäfts fehlt. Deswegen sind Willenser -
+kläru ngen von Geschäftsunfähigen gemäß § 105 Abs. 1 BGB  nichtig .  
+Geschäftsunfähige können demnach keine Willenserklärungen im Sinne des BGB abgeben 
+und somit niemals Verträge abschli eßen.  
+ 
+Dasselbe gilt für Menschen, die eine Willenserklärung im Zustand der B ewusstlosigkeit oder 
+einer vorübergehenden Störung ihrer Geistestätigkeit abge geben haben, § 105 Abs. 2 BGB . 
+Hauptanwendungsfall des § 105 Abs. 2 BGB  sind Volltrunkene in der Zeit ihres 
+alkoholisierten Z ustandes.  
+ 
+Die einzige Möglichkeit für Geschäftsunfähige, rechtsgeschäftlich tätig zu werden, ist durch 
+ihren gesetzlichen Vertreter, z. B. Eltern für ihre Kinder (§§ 1626, 1629 BGB ) zu handeln.  
+ 
+--- Seite 45 ---
+ 42 
+Lars ist jedoch bereits 13 Jahre alt. Auch ist weder eine dauerhafte noch eine vorüberge -
+hende Störung seiner Geistestätigkeit zu erkennen, so dass er nicht gemäß der §§ 104, 105 
+BGB geschäftsunf ähig ist.  
+Beschränkt Geschäftsfähige  
+Neben der Regelung über die Geschäftsunfähigen in den §§ 104, 105 BGB  kennt das 
+Gesetz auch die beschränkte Geschäftsfähigkeit  nach den §§ 106 ff. BGB. Beschränkt 
+geschäftsfähig ist gemäß § 106 BGB  jeder Minderjährige, der das siebente Lebensjahr voll -
+endet hat. Nach § 2 BGB  tritt mit der Volle ndung des achtzehnten Lebensjahres die Volljäh-
+rigkeit ein. Somit sind beschränkt Geschäftsfähige mindestens sieben, aber noch keine 
+achtzehn Jahre alt.  
+ Mit einem Alter von 13 Jahren ist Lars als beschränkt Geschäftsfähiger anz usehen. Fraglich 
+ist, wie seine Willenserklärungen rechtlich zu bewerten sind.  
+ 
+Im Gegensatz zu Willenserklärungen von Geschäftsunfähigen können Willenserklärungen 
+von beschränkt G eschäftsfähigen wirksam werden. Das ist dann der Fall, wenn die 
+Zustimmung (Erlaubnis) eines gesetzlichen Vertreters vorliegt oder das Rechtsgeschäft für 
+den Minderjährigen lediglich rechtlich vorteilhaft  ist. Hinsichtlich der Zustimmung 
+unterscheidet das Gesetz zwischen der Einwilligung und der Genehmigung.  
+ Die Einwilligung  ist in § 183 S. 1 BGB legaldefiniert und ist eine vorherige Zustimmung, d. h. 
+der Minderjä hrige fragt vorher um Erlaubnis. Solche Willenserklärungen  sind dann gemäß 
+§ 107 BGB  wirksam.  
+ 
+Hier hat Lars jedoch vorher seine Eltern als gesetzlichen Vertreter, gemäß §§ 1626, 1629 
+BGB, nicht gefragt, so dass eine Einwilligung  im Sinne des § 107 BGB  nicht vorliegt.  
+ 
+Wenn jedoch ein Minderjähriger eine Willenserklä rung ohne die erforderliche Einwilligung 
+abgibt, kann das Rechtsgeschäft  nachträglich von seinem gesetzlichen Vertreter genehmigt 
+werden, § 108 Abs. 1 BGB . Die Genehmigung ist in  § 184 Abs. 1 BGB geregelt. Bis zur 
+Genehmigung , also der nachträglichen Zusti mmung , oder Verweigerung dieser, ist der 
+Vertrag schwebend unwirksam. Das bedeutet, von ihm gehen in dieser  Zeit keine 
+Rechtswi rkungen aus;  er ist rechtlich gesehen nicht existent.  Durch die Genehmigung wird 
+der Schwebez ustand beendet und das Rechtsgeschäf t rückwirkend  wirksam , § 184 Abs. 1 
+BGB. Die Verweigerung der Genehmigung führt zur endgültigen Unwirksamkeit des 
+Rechtsg eschäfts . 
+ 
+--- Seite 46 ---
+ 43 
+Die Eltern von Lars haben das Rechtsg eschäft jedoch nicht nachträglich genehmigt . 
+ 
+Die Willenserklärung  eines Minderjährige n kann auch ohne die Zustimmung  seines 
+gesetzl ichen Vertreters wirksam werden, wenn sie sog. lediglich rechtlich vorteilhaft  für den 
+Minde rjährigen ist, § 107 BGB . Für den beschränkt G eschäftsfähigen darf das 
+Rechtsgeschäft  also nicht rechtlich nachteilhaf t sein, was bereits dann der Fall ist, wenn er 
+sich nur irgend wie verpflichtet , eine Leistung zu erbringen. Auf die wirtschaftliche 
+Betrach tung kommt es hierbei nicht an.  
+Als Extrembeispiel ist der Fall zu nennen, bei dem ein Minderjähriger einen Kaufvertr ag über 
+einen neuen PKW im Wert von 30.000 Euro  abschließt, der Kaufpreis aber nur 1 Euro  
+beträgt. Trotz des enormen wirtschaftlichen Vorteils ist das Rechtsgeschäft  rechtlich 
+nachtei lhaft im Sinne des § 107 BGB , weil der Minderjährige  sich zur Zahlung von 1 Euro  
+verpflic htet. Jedoch würden die meisten Eltern aufgrund des hohen Wertes des PKWs den 
+Kaufvertrag natürlich nachträglich gemäß § 108 Abs. 1 BGB  genehmigen. 
+ 
+Lars könnte hier einen Kaufvertrag gemäß § 433 BGB  abgeschlossen haben. Dadurch erhält 
+er zwar den Kaufpreiszahlungsanspruch aus § 433 Abs. 2 BGB , er ve rpflichtet sich aber im 
+Gegenzug, den Radiorecorder Stefan zu übergeben und ihm das Eigentum  daran zu 
+verschaffen, § 433 Abs. 1 S. 1 BGB. Lars ist somit eine rechtliche Verpflichtung 
+eingegangen, so dass das Geschäft für ihn nicht lediglich rechtlich vorteilhaft  ist.  
+ 
+Da es allein auf rechtliche und nicht auf wirtschaftliche Gesichtspunkte ankommt, spielt es 
+auch keine Rolle,  dass der Radiorecorder nicht Lars gehört . Folglich ist der Kaufvertr ag für 
+Lars rechtlich nachteilhaft  im Sinne des § 107 BGB . Somit ist  zwischen Stefan und Lars kein 
+wirksamer Kaufvertrag zustande gekommen.  
+Eigentum an dem Radiorecorder  
+Ob ein wirksamer Vertrag zwischen Stefan und Lars zustande gekommen ist, ist von der 
+Frage zu unterscheiden, ob Stefan Eigentümer  des Radiorecorders geworden ist.  Der Grund 
+für die getrennte Betrachtung ist das dem deutschen Pri vatrecht immanente Trennungs - und 
+Abstraktionsprinzip . Das bede utet, dass zwischen dem Grundgeschäft, dem sog. 
+Verpflichtungsgeschäft , und dem Verfügungsgeschäft  unter schieden wird.  
+Verpflichtungsgeschäft  
+Mit dem Verpflichtungsgeschäft  verpflichtet man sich, z. B.  durch Vertrag , lediglich zur 
+Leistung. So verpflichtet sich der Verkäufer einer Sache gemäß  § 433 Abs. 1 S. 1 BGB  dem 
+--- Seite 47 ---
+ 44 
+Käufer die Sache zu übergeben und das Eigentum an der Sache zu verschaffen.  Das 
+Gleiche gilt auch für die Gegenleistung aus § 433 Abs. 2 BGB. Auch dort verpflichtet sich der 
+Käufer lediglich den Kaufpreis zu zahlen und die Kaufsache abzunehmen. Durch das 
+Verpflichtungsgeschäft  entsteht beim Kaufvertrag also lediglich ein Anspruch auf 
+Übereignung.  
+Verfügungsgeschäft  
+Für die Erfüllung eines  Verpflichtungsgeschäftes  ist ein weiteres Geschäft, nämlich die 
+Verfügung notwendig. Unter einer Verfügung versteht man die Rechtsänderung durch 
+Übertra gen, Belasten, Ändern oder Aufheben. Das Ver fügungsgeschäft ist demnach bspw. 
+die Übertragung des Eigentums an einer Sache.  
+Trennungs- /Abstraktionsprinzip  
+Das Trennungsprinzip  besagt  lediglich , dass das Verpflichtungs - und das 
+Verfügungsg eschäft  rechtlich voneinander zu trennen sind. Das Abstraktionsprinzip  ergänzt 
+das Trennungs prinzip und besagt, dass die Wirksamkeit des einen Geschäfts die 
+Wirksamkeit des anderen nicht berührt. Verpfli chtungs - und Verfügungsgeschäft  sind somit 
+rechtlich einzeln auf ihre Wirksamkeit zu überprüfen.  
+Trennungsprinzip
+Schuldrechtliches 
+Verpflichtungsgeschäft
+z.B. Kaufvertrag §433 
+Abs. 1 BGB
+ist ein schuldrechtlicher 
+Vertrag, der auf die 
+Verpflichtung zur  
+Übergabe und 
+Übereignung der 
+Kaufsache gerichtet ist.Dingliches 
+Verfügungsgeschäft
+z.B. §929 S. 1 BGB
+ist ein dinglicher 
+Vertrag, der auf die 
+Übergabe und 
+Übereignung z.B. der 
+Kaufsache gerichtet ist.
+Er dient der Erfüllung 
+des Verpflichtungs -
+geschäfts.
+ 
+--- Seite 48 ---
+ 45 
+Eigentumsübertragung  
+Zur Übertragung des Eigentums  bedarf es also eines  Verfügungsgeschäft es. Bei 
+beweglichen Sachen richtet sich die Übertragung des Eigentums nach den §§ 929 ff. BGB . 
+Nach § 929 S. 1 BGB  geht das Eigentum  über, wenn „der Eigentümer die Sache dem 
+Erwerber übergibt und beide darüber einig sind, dass das Eigentum übergehen soll.“ D. h. es 
+muss:  
+• eine Einigung im Sinne des § 929 BGB vorliegen und  
+• eine Übergabe der Sache stattgefunden haben,  
+• beide Vertragsparteien müssen sich im Zeitpunkt der Übergabe immer noch einig 
+gewesen sein  
+• und die Berechtigung zur Übertragung muss vorhanden sein.  
+ 
+Die Einigung im Sinne des § 929 S.  1 BGB  ist ein dinglich er Vertrag, der auf die Eigentums -
+übertragung gerichtet ist. Er kommt,  wie jeder Vertrag , durch die übereinstimmenden 
+Willenserklärungen der Beteiligten zustande. Derjenige, der das Eigentum  von sich auf den 
+ande ren übertragen möchte (Veräußerer), und der, der das Eigentum erwerben möchte 
+(Erwerber), geben ihr Einverständnis mit dem Eigentumsübergang durch zwei 
+Einigungserklärungen ( Willenserklärungen) ab. 
+ Hier haben Lars und Stefan weder mündlich  noch schriftlich  erklärt, dass das Eigentum  am 
+Radiorecorder übergehen soll. Willen serklärungen  können jedoch (sofern das Gesetz keine 
+bestimmte Form  – wie z. B. Schriftform oder notarielle Beurkundung – vorschreibt) auch 
+durch schlüssiges Verhalten, d. h. konkl udent, abgegeben werden.  
+ 
+Das bedeutet in di esem Fall, dass Lars durch die wortlose Hingabe des Radiore corders  
+konkludent  eine Willenserklärung mit dem Inhalt der Eigentum sübertragung abgegeben hat. 
+Insbesondere der vorher vermeintlich geschlossene Kaufvertrag über gerade diesen 
+Radiorecorder lässt nur den Schluss zu, dass Lars seiner ebenfalls vermeintlichen Pflicht 
+aus di esem Vertrag  nachkommen wollte, nämlich der Übergabe der Sache und Verschaf -
+fung des Eigentums , § 433 Abs. 1 S. 1 BGB .  
+ Ebenso verhält es sich bei Stefan. Auch er hat weder mündli ch noch schrif tlich erklärt, das 
+Eigentum  an der Sache annehmen zu wollen. Jedoch hat er durch Entgegennahme des 
+Radiorecorders konkludent  zu erkennen gegeben, dass er mit der Eigentumsübertragung 
+einverstanden ist.  
+ 
+Folglich haben beide übereinstimmende Willenserklärungen abgeg eben.  
+--- Seite 49 ---
+ 46 
+ 
+Fraglich ist aber, wie sich die beschränkte Geschäftsfähigkeit von Lars auf den dinglichen 
+Vertrag auswirkt. Die Einigung im Sinne des § 929 S. 1 BGB  ist, wie bereits oben erwähnt, 
+ein Vertrag , so dass die diesem Vertrag zugrunde liegenden Willenserklärungen, wie bei 
+einem rechtsgeschäftlichen Vertrag auch, u. a.  auf Folgen, die sich aus der beschränkten 
+Geschäftsfähigkeit ergeben, unter sucht werden müssen.  
+ 
+Es wurde bereits festgestellt, dass Lars bei Abschluss des Kaufvert rages gemäß der §§ 106, 
+2 BGB  beschränkt ge schäft sfähig war . Trotzdem ist eine erneute Prüfung nicht überflüssig, 
+da sich ein Mangel im Verpflichtungsge schäft nicht automatisch auf das Verfüg ungsgeschäft 
+durchschlägt.   
+ 
+Lars war aber auch zum Zeitpunkt der Einigung im Sinne des §  929 S. 1 BGB  beschränkt 
+geschäftsfähig.  
+ 
+Es liegt weder eine Einwilligung , § 107 BGB , noch eine Genehm igung, § 108 Abs. 1 BGB , 
+bzgl. der Übergabe seitens Lars Eltern vor.  
+ 
+Somit hängt die Wirksamkeit der Einigung davon ab, ob sie für Lars ledi glich rechtlich vor -
+teilhaft  im Sinne des § 107 BGB  war, also nicht rechtlich nachteilig. Hier hatte die Einigung 
+die Eigentumsübertragung des Radiorecor ders zum Inhalt. Dieser gehörte aber nicht Lars, 
+sondern seinen Eltern. Durch eine möglic he Eigentumsübertragung würde Lars kein Nachteil 
+erleiden, da, wenn überhaupt, nur seine Eltern das Eigentum  am Radiorecorder verlieren 
+könnten. Folglich gestaltet sich die Einigung für Lars rechtlich neutral, also lediglich recht lich 
+vorteilhaft .  
+ 
+Die Übergabe  der Sache ist kein rechtsgeschäftlicher, sondern ein faktischer Akt. Dabei wird 
+der unmittelbare Besitz  an der Sache durch den Eigentümer auf den Erwerber übertragen.  
+Der Besitz  ist die tatsächliche Herrschaft einer Person über eine Sache. Dabei s ind Eigen-
+tum und Besitz  auseinander zu halten. Der Eigentümer einer Sache ist zwar häufig zugleich 
+der Besitzer, Eigentum  und Besitz  können jedoch auch auseinander fallen. Das ist z. B. bei 
+einem Miet - oder Leihvertrag regelmäßig der Fall. Der Vermieter eines PKWs bleibt natürlich 
+weiter Eigentümer. Die tatsächliche Sachherrschaft hat jedoch der Mieter. Er ist also Besit -
+zer, aber kein Eigent ümer.  
+ 
+Hier wurde der Radiorecorder von Lars an Stefan übergeben. Stefan ist sei tdem Besitzer.  
+ Das Einigsein  im Zeitpunkt der Übergabe soll lediglich feststellen, dass bis zur vollständigen 
+Eigentumsübertragung nicht eine der Parteien ihre Willenserklärung  für die Einigung 
+zurückgenommen hat, denn das ist im Sachenrecht möglich.  
+--- Seite 50 ---
+ 47 
+ 
+Bis zur Übergabe wollte Lars nach wie vor Stefan den Radiorecorder über eignen, d. h. ihm 
+das Eigentum  verschaffen. Er hat somit seine Willenserkl ärung für die Übereignung nicht 
+zurückgenommen.  
+ 
+Die Wirksamkeit eines Verfügungsgeschäftes  setzt grundsätzlich auch voraus, dass der 
+Verfü gende d azu berechtigt  ist, er also Verfügungsmacht hat. Diese ergibt sich immer aus 
+der Eigentümerstellung. Entweder der Eigentümer s elbst verfügt über seine Sachen oder er 
+gibt einem Dritten eine Verfügungsbefugnis, die sich rechtlich aus § 185 BGB  ergibt.  
+ 
+Fraglich ist hier, ob Lars die Berechtigung hatte, den Radiorecorder zu ver äußern. Dieser 
+stand im Eigentum  seiner Eltern, somit war er nicht Eigent ümer. Lars hatte auch keine Be-
+rechtigung von seinen Eltern erhalten.  
+ Im Ergebnis hatte Lars keine Berechtigung für die Übereignung des Radioreco rders.  
+Gutgläubiger Erwerb vom Nichtberechtigten  
+Liegt die Berechtigung aus § 929 S. 1 BGB  nicht vor, so kann das Eigentum  dennoch über -
+tragen werden, wenn der Erwerber in gutem Glauben war, § 932 Abs. 1 BGB . Gemäß § 932 
+Abs. 2 BGB  ist das nicht der Fall, wenn ihm bekannt war oder infolge grober Fahrlässigkeit  
+unbekannt geblieben ist, dass die Sache nicht dem Veräußerer gehört. Man geht aber zu Gunsten des Erwerbers davon aus, dass der Veräußerer der E igentümer ist,  wenn er  die 
+Sache im Besitz  hat, § 1006 Abs. 1 S. 1 BGB. 
+Lars hat, wie wir bereits festgestellt haben, den Radiorecorder persönlich vorbeigebracht und übergeben. Er hatte zu diesem Zeitpunkt die tatsächliche Sachherrschaft und war somit 
+Besitzer.  
+ Ein gutgläubiger Erwerb scheidet jedoch aus, wenn die Sache dem Eigent ümer gestohlen 
+oder abhandengekommen ist, § 935 Abs. 1 S. 1 BGB, d. h. wenn er den Besitz nicht freiwillig  
+abgegeben hat.  
+Fraglich ist hier, ob der Radiorecorder den Eltern von Lars gestohlen  wurde oder 
+abhandenge kommen  ist. Da der Vater Lars den Radiorecorder geliehen hat und Lars daher 
+nicht ohne oder gegen den Willen seines Vaters im Besitz des Radiorecorders war , scheidet 
+ein Abhan denkommen aus.  
+ 
+--- Seite 51 ---
+ 48 
+Restriktive Auslegung von Gutglaubens vorschriften  
+Jedoch sind die Gutglaubensvorschriften in den Fällen, in denen ein Minderjähriger als 
+Nichtberechtigter verfügt , restriktiv auszulegen.  Das bedeutet, man wendet in diesen Fällen 
+die Vorschrift des § 932 BGB  nicht an.  
+ 
+Der gute Glaube bezieht sich auf die Eigentümerstellung des Minder jährigen. Wenn das 
+aber zutreffen würde, könnte der Minderjährige sein Eigentum nicht ohne Zustimmung  
+übertragen, da es für ihn rechtlich nachtei lhaft im Sinne des § 107 BGB  wäre. Er würde 
+einen rechtlichen Nachteil, den Verlust seines Eigentums , erleiden. In solchen Fällen kann 
+man das Eigentum  nicht gutgläubig, d. h.  nach den  §§ 929 S. 1, 932 Abs. 1 S. 1 BGB, er -
+werben. Man hätte nämlich bei Richtigkeit seiner eigenen Vorstellung ohne die Zustimmung 
+des g esetzlichen Vertreters, wegen § 107 BGB  ohnehin kein Eigentum erwerben können.  
+ So verhält es sich auch hier. Stefan ist davon ausgegangen, Lars gehöre der Radiorecorder. 
+In diesem Fall hätte er die Eltern von Lars bereits fragen mü ssen, ob er mit Lars überhaupt 
+einen Kaufvert rag nach § 433 BGB  mit dem I nhalt der Eigentumsverschaffung an diesem 
+Recorder abschließen darf.  
+ Folglich ist Stefan nicht Eigentümer des Radiorecorders geworden.  
+Herausgabe des Radiorecor ders 
+Ob und unter welchen Voraussetzungen Stefan  den Radi orecorder  aber herausgeben muss, 
+ist eine andere Frage.  Ein Anspruch auf Herausgabe ergibt sich aus §§ 985, 986 BGB und 
+setzt ein sog. Eigentümer -Besitzer -Verhältnis , auch Vindikationslage genannt, voraus . 
+Gemäß § 985 BGB kann der Eigentümer vom Besitzer die Herausgabe der Sache 
+verlangen, wenn der Besitzer kein Recht zum Besitz hat.   
+ Wie zuvor festgestellt, ist der Vater von Lars Eigentümer  des Radiorecorders geblieben und 
+somit anspruchsberechtigt.  Da Stefan im Besitz  des Radiorecorders ist, ist er der 
+Anspruchsg egner.   
+ Ein Recht zum Besitz  ist immer dann gegeben, wenn der Besitzer die Sache nutzen darf. 
+Das ist z. B. immer bei Miete, Pacht oder Leihe der Fall. Dort fällt nämlich Besitz und Eigen -
+tum planmäßig auseinander, weil sich der Besitzer sein Besitzrecht hat vertraglich sichern 
+lassen. Für Stefan ist aber hier ein sol ches Besitzrecht nicht ersichtlich.  
+ 
+--- Seite 52 ---
+ 49 
+Folglich haben die Eltern einen Anspruch aus den §§ 985, 986 BGB  auf Her ausgabe des 
+Radiorecorders.  
+Rückzahlung der 20 Euro  
+Zuletzt stellt sich noch die Frage, ob Stefan von Lars im Gegenzug die bereits gezahlten 20 
+Euro zurückverlangen kann.  
+ 
+Auch hier ist entscheidend, wer Eigentümer des Geldes (geworden) ist. St efan hat keinen 
+Anspruch aus den §§ 985, 986 BGB, denn das Eigentum  an den 20  Euro ist gemäß § 929 S. 
+1 BGB  auf Lars übergegangen. Problem atisch ist hier nur die Einigung, denn auch hier muss 
+die Willenserklärung  von Lars auf ihre Wirksamkeit nach den §§ 104 ff. BGB hin überprüft 
+werden. Da eine Zustimmung  seiner Eltern nicht vorliegt, hängt die Wirksamkeit der 
+Einigung davon ab, ob sie für Lars lediglich rechtlich vorteilhaft  im Sinne des § 107 BGB  ist. 
+Durch die Einigung soll das Eigentum an den zwanzig Euro auf Lars übergehen. Das ist für 
+ihn rechtlich vorteilhaft, so dass seine Willenserklärung auch ohne die Zustim mung seiner 
+Eltern gemäß § 107 BGB  wirksam ist. Im Ergebnis liegt eine wirksame Eigen -
+tumsübertragung gemäß § 929 S. 1 BGB  an den zwanzig Euro zugunsten von Lars vor. Eine 
+Vindikation slage besteht somit nicht.  
+ Durch das Abstraktionsp rinzip  können – wie im Fall von Stefan und Lars – Situationen 
+entstehen, in denen das Verpflich tungsgeschäft  nichtig  ist, so z. B. durch Anfechtung oder 
+Minderjä hrigkeit eines Vertragspartners, das Verfügungsgeschäft  jedoch wirksam bleibt. 
+Dies kann zu unbilligen Ergebni ssen führen. Denn eine der Parteien hat dann geleistet und 
+z. B. das Eigentum an einer S ache übertragen und somit verloren, während die andere 
+Partei nichts eingebüßt hat.  
+ Für diese Fälle kann sich aber ein Anspruch aus dem Bereicherungs recht  (§§ 812 bis 822  
+BGB) , auch Recht der ungerechtfertigten Bereicherung genannt, ergeben.  Bei Verträgen, die 
+von Anfang an nichtig  sind, können die Parteien ihre bi sherigen Leistun gen zurückfordern, 
+sofern diese sich zur Rückgabe eignen . Das Bereicherungsrecht zielt auf die Abschöpfung 
+der Bereicherung.  
+ Unter den folgenden Voraussetzungen des § 812 Abs. 1 S. 1 1. Fall BGB  kann man das 
+Geleistete zurückfordern:  
+ 
+• der Anspruchsgegner muss etwas  erlangt haben, 
+• durch die Leistung des Anspruchstellers  
+• und da s ohne Rechtsgrund . 
+--- Seite 53 ---
+ 50 
+Hier hat Lars etwas (Besitz und Eigentum an den 20 Euro) durch die Leistung von Stefan 
+(Übereignung der 20 Euro) erlangt. Die Leistung ist auch ohne Rechtsgrund bewirkt worden, 
+da für Stefan aufgrund des unwirksamen Kaufvertrages keine Verpflichtung zur Zahlung der 
+20 Euro bestand.  
+ 
+Dem Grunde nach hat Stefan daher einen A nspruch auf Rückübereignung der 20 Euro  aus 
+§ 812 Abs. 1 S. 1 1. Fall BGB, denn die Rechtsfolge des Bereicherungsanspruchs ist die 
+Rückgabe der Bereicherung. Der U mfang dieses Anspruchs hinge gen ist in §  818 BGB  
+geregelt.  
+ 
+Die Verpflichtung zur Herausgabe ist jedoch dann ausgeschlossen, wenn der Empfänger 
+nicht meh r bereichert, also entrei chert  ist, §  818 Abs.  3 BGB . Das ist dann der Fall, wenn z. 
+B. der Em pfänger die erlan gte Sache einem Dritten schenkt, er also weder  die Sache noch 
+einen wirtschaftlichen Ersatz  hat.  
+ 
+Wie Lars kleinlaut zugegeben hat, sind die 20 Euro  von ihm für Kino und McDonalds 
+ausge geben worden. Er ist somit entreichert. Stefan kann folglich die Rückübereignung der 
+zwanzig Euro nicht verlangen.  
+ Im Ergebnis können zwar die Eltern von Lars die Rückgabe des Radioreco rders von Stefan 
+verlangen, er selbst bekommt die 20 Euro  jedoch weder von Lars  noch von seinen Eltern 
+erstat tet. 
+ 
+Die BAföG -Rückzahlung 
+Christoph, pflichtbewusster Familienvater der er war, appellierte auch bei seinen beiden Geschäftspartnern immer wieder an ihr Verantwortungsbewusstsein. Gerade in Geldangele -
+genheiten ermahnte er Stefan und Karina ständig und scheute auch nicht davor , ihnen zu 
+erklären, wie sie ihr Geld privat am besten anlegen sollten.  
+Irgendwann platzte Karina der Kragen. „Erstens bin ich schon in der Lage, mein Geld allein zu verwalten und zweitens bin ich vollends damit beschäftigt, mein BAföG zurückzu zahlen. 
+Im G egensatz zu Stefan haben bei mir nicht Papa und Mama das Studium bezahlt, sondern 
+ich musste selbst sehen, wie ich mein Geld zusammenbekomme. Deswegen habe ich 
+BAföG beantragt. Und da das nicht reichte, habe ich nebenbei noch gearbeitet. Und jetzt 
+stehe ic h mit knapp 28.000 Euro Schulden da.“  
+„Nun werde mal nicht persönlich!“, mischte sich Stefan ein. „Ich kann ja wohl nichts dafür, 
+dass meine Eltern mehr Geld hatten als deine. Außerdem scheinst du dir ja mächtig Zeit 
+beim Studieren gelassen zu haben. Sowei t ich weiß, muss man das BAföG doch nur zur 
+--- Seite 54 ---
+ 51 
+Hälfte zurückzahlen. Bei knapp 500 Euro Unterstützung im Monat hast du also fünf Jahre 
+studiert. Ich dachte immer, an der Fachhochschule geht alles so schnell.“  
+„Ja ja, schön wär’s gewesen! Die Erhöhung der Rückzahlungsquote kam auch noch hinzu“, 
+antwortete sie. „Kaum waren die ersten zwei Semester rum, gab es plötzlich etwas mehr 
+Geld und dafür die Information, dass ich am Ende jetzt alles würde zurückzahlen müssen.“  
+„Wie bitte?“, fragte Christoph, dessen Sinn für Gerechtigkeit erwacht war. „Die lassen dich anfangen zu studieren und sagen dann mittendrin ‚Ätsch, jetzt kostet es das Doppelte?’ Der 
+Lorenz hat doch bei unserer letzten Steuererklärung irgendwas von Vertrauensschutz er -
+zählt, der im Verwaltungsrecht gilt. Dann können die dir doch nicht einfach das Doppelte abknöpfen, nachdem sie dir am Anfang gesagt haben, du müsstest nur die Hälfte zurück -
+zahlen. Frage doch mal den Lorenz, ob man da nicht noch was gegen machen kann.“  
+„Glaube ich nicht“, zweifelte Karina. „Ich habe irgendwann den Rückzahlungsbescheid be -
+kommen. Da stand drin, dass ich innerhalb eines Monats Widerspruch einlegen müsste, wenn ich damit nicht einverstanden wäre und die Frist ist längst abgelaufen. Außerdem hab 
+ich eigentlich auch keine Lust, mir da jetzt noch irgendwelchen Stress einzuhandeln.“  
+Christoph sah das Ganze etwas anders: „Also ich finde das unerhört. Wenn du da nichts dagegen machen willst, werde ich mal mit Lorenz darüber reden. Vielleicht kann ich ja noch 
+diesen Widerspruch einl egen.“  
+Die BAföG -Rückzahlung – Rechtliche Erläuterung  
+Die Auskunft des Rechtsanwalts Lorenz hinsichtlich des Widerspruchs wird leider negativ 
+ausfallen. Weder Karina selbst noch Christoph können gegen den Bescheid Widerspruch 
+einlegen.  
+Der Verwaltungsakt  
+Ein Verwaltungsakt  hat die Funktion, gesetzliche Regelungen im Einzel fall für den Bürger 
+verbindlich zu machen. Mit dem Verwaltungsakt können Behörden u. a. den Bürger zu 
+einem Tun, Dulden oder Unterlassen verpflichten. Gemäß § 35 S. 1 VwVfG  ist unter einem 
+Verwaltungsakt jede Verfügung, Entscheidung oder andere hoheitliche Maßnahme zu verstehen, die eine B ehörde zur Regelung eines Einzel falles auf dem Gebiet des 
+öffentlichen Rechts trifft und die auf unmittelbare Rechtswirkung nach außen gerichtet ist.  
+ 
+Danach ist der Rückzahlungsbescheid, den Karina erhalten hat, ein solcher Verwaltungsakt: 
+Da der Bescheid auf Grundlage des öffentlich- recht lichen Bundesausbildungsförderungs -
+gesetzes (BAföG) ergan gen ist, handelt es sich um eine hoheitliche Maßnahme auf  dem 
+Gebiet des öffentlichen Rechts. Der Bescheid ist eine Entscheidung einer Behörde, nämlich 
+--- Seite 55 ---
+ 52 
+des Bundesverwaltungsamtes (vgl. § 18 Abs. 5a BAföG). Er stellt nicht jegliche nach dem 
+BAföG bestehende Rückzahlungspflichten ver bindlich fest, sondern nur die von Karina und 
+hat deswegen Regelungswi rkung hinsichtlich eines Einzelfalls . Und da Karina als Bürgerin 
+betroffen ist, wirkt der Bescheid nicht nur innerhalb der Verwaltung und hat deswegen Außenwirkung . Es handelt sich also um einen Verwaltungsakt.  
+ Der Verwaltungsakt wird gemäß § 43 Abs.  1 VwVfG NRW wirksam, wenn er gegenüber dem 
+Bürger bekannt gegeben wird. Dies gilt auch für den Fall der Rechtswidrigkeit – abgesehen 
+von den selt enen Fällen der Nichtigkeit  des Verwaltungsakts  i. S. v. § 44 VwVfG NRW. Au ch 
+ein rechtswidriger Verwaltungsakt wird also zunächst gemäß § 43 Abs.  1 VwVfG NRW  
+wirksam.  
+ Statthafter  Rechtsbehelf gegen einen Verwaltungsakt  ist gemäß § 68 Abs.  1 S. 1 VwGO  der 
+Widerspruch. Die VwGO geht von der grundsätzlichen Durchführung des 
+Widers pruchsverfahrens aus, lässt aber auch Ausnahmen zu. Einige Bundesländer, wie z. 
+B. Niedersachsen und Nordrhein -Westfalen, haben – mit dem Ziel der Verfahrens -
+beschleunigung und Kostenersparnis – von der Möglichkeit Gebrauch gemacht, das 
+Vorverfahren gemäß  § 68 Abs. 1 S. 2, 1. HS VwGO durch ein förmliches Gesetz 
+auszuschließen.  
+Bestandskraft  
+Endgültig sind die Folgen des Verwaltungsakts erst, wenn der Verwaltungsakt 
+bestandskräftig ist. Die Bestands kraft tritt ein,  
+ 
+• wenn nicht gemäß § 70 Abs. 1 VwGO  innerhal b eines Monats nach Bekanntgabe 
+Widerspruch gegen den Verwaltungsakt einge legt wurde oder  
+• wenn gegen den Widerspruchsbescheid nicht gemäß § 74 Abs. 1 S. 1 VwGO  
+innerhalb eines Monats Anfechtungsklage vor dem Verwaltungsgericht erhoben 
+wurde oder  
+• wenn das v erwaltungsgerichtliche Urteil nicht mehr durch Ber ufung gemäß § 124 
+Abs. 1 VwGO  oder Revision  gemäß § 132 Abs. 1 VwGO  angreifbar ist.  
+ 
+Danach ist der Verwaltungsakt unabhängig von seiner Rechtmäßigkeit un anfechtbar und der 
+Bürger muss dessen Regelung grundsätzlich gegen sich gelten lassen.  
+So liegt auch hier der Fall: Der Bescheid enthielt einen Hinweis auf den innerhalb eines 
+Monats einzulegenden Widerspruch. Wegen dieser or dnungsgemäßen Rechtsbehelfs -
+--- Seite 56 ---
+ 53 
+belehrung hat die Monatsfrist angefangen zu laufen, § 58 Abs. 1 VwGO. Karina hätte Gele-
+genheit gehabt, gegen den Bescheid Widerspruch schriftlich oder zur Niederschrift beim 
+Bundesver waltungsamt einzulegen, § 70 Abs. 1 S. 1 VwGO . Indem sie die Widerspruchs frist 
+aber hat verstreichen lassen, ist der Rückzahlungsbescheid bestandskräftig geworden. Ein verfrist eter Widerspruch ist unzulässig. Einzige – hier nicht einschlägige Ausnahme – ist die 
+Wiedereinsetzung in den vorigen Stand gemäß § 32 VwVfG N RW. 
+Behördliches Vorverfahren  
+Hätte sie aber fristgerecht Widers pruch eingelegt, dann hätte dies zunächst einmal gemäß 
+§ 80 Abs. 1 S. 1 VwGO  aufschiebende Wirkung gehabt, d. h. die nach § 43 VwVfG N RW an 
+sich wirksame Regelung wäre vorläufig auf gehoben. Zugleich hätte gemäß § 69 VwGO  das 
+Vorverfahren  begon nen. Das Bundesverwaltungsamt  hätte den Bescheid auf seine Recht - 
+und Zweckmäßigkeit überprüft und bei Rechtswidrigkeit oder Un zweckm äßigkeit ab geholfen, 
+§§ 68 Abs. 1 S. 1, 72 VwGO , d. h. den Bescheid aufgehoben und durch einen rechtmäßigen 
+oder zweckmäßigeren ersetzt . Hilft die Ausgangsbehörde nicht ab,  müsste nach der 
+Grun dregel des § 73 Abs. 1 S. 2 Nr. 1 VwGO die nächsthöhere Behörde den Bescheid 
+nochmals in demselben Umfang überprüf en und dann hätte entweder abgeholfen oder 
+Karinas Wide rspruch durch einen Widerspruchsbescheid abgelehnt. Da die nächsthöhere 
+Behörde hier jedoch das Bundesministerium des Inneren und damit eine oberste Bundesbehörde ist, wür de der Widerspruchsbescheid ausnahmsweise auch vom 
+Bundesverwaltungsamt selbst erlassen werden, § 73 Abs. 1 S. 2 N r. 2 VwGO. Der 
+Widerspruchs bescheid hätte das Vo rverfahren abgeschlossen.  
+Rechtsweg gegen Verwaltungsakte  
+Wenn Karina mit dieser behördlichen Prüfung des Verwaltungsakts im Vorverfahren nicht einverstanden gewesen wäre, hätte sie dann die Mög lichkeit gehabt, den Rechtsweg zu 
+beschreiten. Für solche öffentlich -rechtliche Streitigkeiten ist gemäß § 40 Abs. 1 S. 1 VwGO  
+der Verwa ltungsrechtsweg  eröffnet. Erstinstanzlich zuständig wäre gemäß §§ 45, 52 Nr. 5 
+VwGO  das örtliche Verwaltungsgericht  gewesen. Vor di esem hätte Karina, da sie Aufhebung 
+des Rückzahlungsbescheides begehrte, Anfechtungsklage erheben müssen, § 42 Abs. 1, 1. 
+Alt. VwGO . Gegenstand dieser Klage wäre der Widerspruchsbescheid gewe sen, § 79 Abs. 1 
+Nr. 1 VwGO. Im Falle der Rechtswidrigkeit hätte das Verwaltungsgericht den B escheid durch 
+Urteil  aufgehoben, § 113 Abs. 1 S. 1 VwGO , andernfalls die Klage abgewiesen. Danach 
+wäre Karina gemäß § 124 Abs. 1 VwGO  auf Berufung vor dem Ober verwaltungsgericht  
+angewiesen gewesen und dann, wenn diese ohne Erfolg geblieben wäre, auf Re vision  vor 
+dem Bundesverwaltungsgericht , § 132 Abs. 1 VwGO , sofern diese Rechtsmittel  überhaupt 
+--- Seite 57 ---
+ 54 
+zugelassen wor den wären. Spätestens durch die Revision hätte Karina den Rechtsweg 
+erschöpft. Der Rechtsstreit wäre ins ofern endgültig e ntschieden.  
+Rechtsweg gegen Verwaltungsakte
+Verwaltungsakt Widerspruch Vorverfahren
+UrteilVerwaltungs -
+gerichtliches 
+VerfahrenAnfechtungs -
+klageWiderspruchs-
+bescheid Bestands -
+kraftWieder -
+aufnahmeAbhilfe
+ 
+Widerspruchs- und Klagebefugnis  
+Aber Karina hat keinen fristgerechten Widerspruch eingelegt und den Rückzahlungs be-
+scheid bestandskräftig bzw. unanfechtbar werden lassen. Christoph hat die Überlegung 
+geäußert, er  selbst könne ja vielleicht den Widerspruch für Karina einlegen. Jedoch regelt § 
+42 Abs. 2 VwGO, dass nur derjenige Anfechtungsklage erheben  kann , der geltend macht, 
+durch den Verwaltungsakt in seinen eigenen Rechten verletzt zu sein, sog. 
+Widerspruchsbefugnis  bzw. Klagebefugnis . Da es hier nicht auf eine bloße Behauptung 
+ankommen kann, ist nur derjenige zur Klage befugt, nach dessen substantiierten Ausführungen ( § 82 Abs. 1 VwGO ) die Möglichkeit besteht, dass die Verletzung eigener 
+Rechte nicht unter allen rechtlichen Gesichtspunkten ausgeschlossen ist (sog. Negativformel ). Für das Vorverfahren gilt selbs tverständlich dasselbe; auch den 
+Widerspruch kann nur derjenige einlegen, dessen Rechte verletzt sein können. Im konkreten 
+Fall ist eine Verletzung der allgemeinen Handlungsfreiheit  (Art. 2 Abs. 1 GG) von Karina 
+nicht von vornherein ausz uschließen, weil sie Adressatin des belastenden Bescheids ist 
+(sog. Adressatentheorie). Hingegen hat Christoph mit der Rüc kzahlung der 
+Ausbildungsförderung nichts zu tun und ist deswegen mangels Möglichkeit der 
+--- Seite 58 ---
+ 55 
+Rechtsverletzung auch nicht widerspruchsbefugt. Karina und Christoph können also gegen 
+den Rückzahlungsbescheid ohne weiteres nichts unternehmen.  
+Verfassungsrechtliche Anforderungen an Gesetzesände rungen  
+Allerdings bliebe Karina der seltene Ausnahmefall des Wiederaufgreifens des Verfahrens  
+gemäß §§ 51 Abs. 5, 48 Abs. 1 VwVfG N RW, wenn der Ver waltungsakt schwerwiegend 
+rechtswidrig wäre. Ist aber der Rückzahlung sbescheid schwerwiegend rechtswidrig? Die 
+Ausbildungsförde rung wurde ursprünglich vollständig als Zuschuss gezahlt. Im Jahre 1983 
+wurde sie durch ein Änderungsgesetz zum Bundesausbildungsförderungsgesetz auf ein Volldarlehen umgestellt. Dementsprechend wurde die Ausbildungsförde rung für die kom -
+menden Semester auch nur als Volldarlehen bewilligt. Ebenso lauten selbstverständlich die 
+Rückzahlungs bescheide. Im Jahre 1990 wurde die Ausbildungsförderung dann auf einen 
+hälftigen Zuschuss umge stellt. Auch der Rückzahlungsbescheid von Karina entspricht der 
+von 1983 bis  1990 geltenden Gesetzeslage.  
+ Damit kann der Rückzahlungsbescheid wegen Übereinstimmung mit dem Bundesausbil -
+dungsförderungsgesetz a. F. nur dann rechtswidrig sein, wenn die Gesetzesänderung selbst rechtswidrig, d. h. verfassungswidrig war.  
+Rechtsstaatsp rinzip und Vertrauensschutz  
+Die Gesetzesänderung könnte gegen Art.  20 Abs. 3 GG – das Recht sstaatsprinzip – ver-
+stoßen. Aus diesem folgt u. a. der Grundsatz des Ver trauensschutzes , der allgemein das 
+Vertrauen des Bürgers in den Fortbes tand staatlicher Maßnahmen schützt.  
+ 
+Der Vertrauensschutz  bezieht sich zum einen auf Verwaltungsakte und wird durch §§ 48 ff. 
+VwVfG (N RW) konkretisiert. Die Verwaltung darf rechtmäßige Verwaltungsakte nur 
+ausnahmsweise nach Maßgabe des § 49 VwVfG (N RW) zurück nehmen. Selbst 
+rechtswidrige Verwaltungsakte genießen gemäß § 48 VwVfG (N RW) einen gewissen 
+Bestandsschutz.  
+Zum anderen – und darum geht es hier – schützt Art. 20 Abs. 3 GG  auch das Vertrauen auf 
+Gesetze. In dieser Ausprägung wird vom sog. Rückwirkungsverbot  gesprochen. 
+Unterschieden wird zwischen echter und unechter Rückwirkung bzw. zwischen 
+Rückbewirkung von Rechtsfolgen und tatbestandlicher Rückanknüpfung.  
+ 
+--- Seite 59 ---
+ 56 
+Echte vs. unechte Rückwirkung von Gesetzen  
+Echte Rückwirkung bzw. Rückbewirkung von Rechtsfolgen liegt vor, „wenn ein Gesetz 
+nachträglich ändernd in vergangene Tatbestände eingreift“ (BVerfGE 57, 361 (391); 68, 287 
+(306) ), und ist grundsätzlich verfassung swidrig;  es gibt aber auch Ausnahmen (BVerfGE 13, 
+261 (270 ff.). Karina be fand sich aber zur Zeit des Änderungsgesetzes noch im Studium. 
+Auch die Rückzahlungsmodalitäten der ersten beiden Semester wurden nicht geän dert. In 
+vergangene Tatbestände wurde also nicht eingegriffen. Eine echte Rückwi rkung liegt hier 
+somit nicht vor.  
+ 
+In Frage kommt indes unechte Rückwirkung b zw. tatbestandliche Rüc kanknüpfung. Diese ist 
+gegeben, „wenn eine Norm auf gegenwärtige, noch nicht abgeschlossene Sachverhalte für die Zukunft einwirkt“ (BVerfGE 51, 356 (362) ; 69, 272 (309)) bzw. „künftige Rechtsfolgen von 
+Gegebenheiten aus der Zeit vor ihrer Verkündung abhängig macht“ (BVerfGE 79, 29 (45 f.) ). 
+Die unechte Rückwirkung ist, gemessen am Rechtsstaatsprinzip, im Grundsatz zulässig, 
+aber differenziert zu beurteilen  
+ Doch fragt sich zunächst, ob hier überhaupt eine Rückwirkungsproblem atik vorl iegt. Be -
+trachtete man das Studium als noch nicht abgeschlossenen Sachverhalt, auf den durch das 
+Änderungsgesetz eingewirkt worden ist, so wäre unechte Rückwirkung gegeben, die an    
+Art. 20 Abs. 3 GG zu messen wäre. Aus der Sicht von Karina ist eine solch e 
+Betrachtung sweise legitim. Zu berücksichtigen ist allerdings, dass die Ausbildungsförderung 
+gemäß § 1 BAföG  nur nach Maßgabe des Bundesausbildungsförderungsgesetzes gewährt 
+wird. Auße rdem regelt  § 50 Abs. 3 BAföG , dass die Ausbildungsförderung jeweils nu r für 
+einen konkr eten Bewilligungs zeitraum – in der Regel ein Jahr – bewilligt wird. 
+Dementsprechend sind die Bewilligungszeiträume als die jeweils maßgeblichen 
+Sachverhalte anzusehen. Nur wenn in einen lau fenden Bewilligungszeitraum eingegriffen 
+worden wäre, läge unechte Rückwirkung vor. So hat der Gesetzgeber die 
+Rückwirkungsproblematik vermieden. Damit ist Art. 20 Abs. 3 GG hier nicht relevant.  
+ Das Änderungsgesetz war somit rechtmäßig. Auch Karinas Rückzah lungsbescheid, der auf 
+dem geänderten Bundesausbildungsförderungsgesetz beruht, ist somit rechtmäßig. Damit kommt auch ein Wiederaufgreifen des Verfahrens nicht in Betracht. Karina muss sich mit 
+ihrem Rückzahlungsb escheid abfinden.  
+ 
+ 
+--- Seite 60 ---
+ 57 
+Die Wohnung im Lager  
+Während Karina und Stefan ihr steigendes Einkommen aus der StartUp GmbH zur Anhe -
+bung ihres Lebensstils nutzten, hatte sich Familienvater Christoph einen lang gehegten 
+Traum erfüllt.  
+Er bewohnte seit einigen Jahren am Stadtrand die ehemalige Müllerwohnung einer alten Wassermühle. Als er mit seiner Fr au in die loftartigen Räume einzog, war den beiden alles 
+riesig vorgekommen. Mit der Geburt ihrer Tochter Julia hingegen wuchs der Wunsch nach mehr Platz, oder besser gesagt, nach mehr Zimmern, vor allem einem separaten Kinder -
+zimmer.  
+Da traf es sich gut,  dass im eigentlichen Mühlgebäude noch zwei ineinander übergehende 
+Räume vorhanden waren, die früher als Lager genutzt wurden. Das ehemalige Lager lag in 
+direkter Nähe zur Wohnung und eignete sich ideal zur Erweiterung. Nachdem die Mühle 
+bereits mehrere Ja hrzehnte außer Betrieb war, hatten die übrigen Bewohner die Räume für 
+ihre eigenen Zwecke entdeckt. So hatte sich im Laufe der Zeit in den Räumen einiges Ge-rümpel angesammelt. Das einzige Fenster hatte irgendwann unter dem Gewicht von ange -
+lehnten Gartenm öbeln nachgegeben und im Laufe zweier Jahre war Wasser in den Raum 
+gelaufen, was den Holzbohlen arg zugesetzt hatte.  
+Eines Tages hatte sich Christoph die Schäden angesehen und entschieden, dass alles zu 
+reparieren sei und die beiden Räume ein gutes Schlafz immer und ein Arbeitszimmer für 
+seine Frau abgegeben würden. Mit der Vermieterin war er schnell handelseinig. Sie schlug 
+jedoch vor, dass er neben das bereits vorhandene Bad auch noch eine kleine Küche hinzu-
+baute. So könnte sie nach seinem Auszug die Wohnung getrennt vermieten. Die Material -
+kosten wollte sie übernehmen und dafür, dass er die beiden Räume renovierte, sollte er sie zum Vorzugspreis von 200 Euro zu seiner Wohnung hinzumieten dürfen.  
+Nach zwei Monaten abendlicher Schufterei und durchgearbeitet er Wochenenden war es 
+geschafft: Das Gerümpel war vom Sperrmüll abgeholt, der Holzboden abgeschliffen und 
+versiegelt und die Wände gestrichen. Das einzige Problem war das fehlende Tageslicht. Das 
+Fenster hatte er zwar ersetzt, aber sechzig Quadratmeter Wohnfläche mit nur einem kleinen 
+Fenster sorgten selbst bei hellem Sonnenschein nicht gerade für lichtdurchflutetes Wohn-
+gefühl.  
+„Immerhin haben wir jetzt Platz“, tröstete er seine Frau.  
+Doch die Freude währte nicht lange. Zwei Monate nach dem Bezug der neuen Räume kam 
+Christoph mehr als schlecht gelaunt ins Büro.  
+„Die Stadt will mir mein Schlafzimmer wegnehmen“, erklärte er wut schnaubend. „Ich habe 
+gestern Post erhalten. Da stand drin, dass ich ohne Genehmigung bauliche Maßnahmen 
+durchgeführt hätte, die ich jetzt wieder rückgängig zu machen hätte.“  
+--- Seite 61 ---
+ 58 
+„Ruf da doch mal an und erkläre denen die Lage“, schlug Karina vor. „Schließlich wird doch 
+überall Wohnraum gebraucht, da kann es doch nicht sein, dass die dir verbieten, deine 
+Wohnung zu erweitern.“  
+„Das habe ich heute Morgen schon versucht“, antwortete Christoph. „Aber der Beamte hat 
+sich stur gestellt. Erstens, so sagte er, hätte ich eine Baugenehmigung gebraucht.“  
+„Wieso denn das?“, fragte Stefan. „Du hast doch bloß den Boden abgeschliffen und die Wände gestrichen. Und für die Reparatur eines Fensters braucht man doch wohl keine Bau-
+genehmigung.“  
+„Das habe ich dem auch erklärt“, entgegnete Christoph. „Aber er meinte, dass die Räume lediglich für eine gewerbliche Nutzung vorgesehen seien, also braucht man eine Nutzungs -
+änderungsgenehmigung oder so was. Und wenn gewerbliche Räume in Wohnraum umge -
+wandelt werden sollen, dann gelten da die Bestimmungen für einen Neubau.“  
+„Und was bedeutet das?“, fragte Karina.  
+„Wir brauchen ein feuersicheres Treppenhaus, es müssen Maßnahmen zum Schall - und 
+Wärmeschutz ergriffen werden und und und.“, antwortete Christoph. „Ich habe gleich danach einen befreundeten Architekten angerufen. Der hat sich erst mal amüsiert und mir gesagt, 
+dass er mir das gleich hätte sagen können, wenn ich ihn gefragt hätte. Von wegen Nut -
+zungsänderung und so. Und dann hat er grob überschlagen, was das alles kosten würde 
+und erklärt, dass ich es unter 150.000 Euro gar nicht erst versuchen bräuchte.“  
+„Ich fass es nicht“, erklärte Stefan ungläubig. „Könnte man den Typen vom Bauamt nicht mit 
+einer guten Flasche Rotwein etwas gnädiger stimmen? Christoph ignorierte Stefans Vorschlag und fuhr fort: „Jetzt habe ich acht Wochen Zeit, den 
+gesetzlichen Zustand, wie die es nennen, wieder herzustellen. Ob ich mal den Lorenz 
+anrufen soll? Vielleicht kann der mir helfen?!  
+Die Wohnung im Lager – Rechtliche Erläuterung  
+Es fragt sich, ob die amtliche Verfügung, die anordnet, in acht Wochen den gesetzlichen Zustand wiederherzustellen, rechtmäßig ist.  
+Baurecht, Bauplanungsrecht und Bauordnungsrecht  
+Bei dieser Verfügung handelt es sich um eine sog. Bauordnungsverf ügung.  Diese beruht auf 
+dem Baurecht. Das Baurecht besteht aus zwei Rege lungsbereichen, dem Bauplanungs recht 
+und dem Bauordnungsrecht . 
+Das Bauplanungsrecht , auch Stadtpl anungsrecht  oder Städtebaurecht  genannt, ist 
+fläche nbezogen und regelt die Zulässigkeit der baulichen Nutzung von Grundstücken. Dabei 
+wird die in der Eigentumsgarantie des Art. 14 Abs.  1 GG enthaltene Baufreiheit  einge -
+--- Seite 62 ---
+ 59 
+schränkt. Für das Bauplanungsrecht hat der Bund gemäß Art.  74 Abs. 1 Nr. 18 GG  die 
+Gesetzgebungskompetenz , auf deren Grundlage das Baugesetzbuch ( BauGB ) erla ssen 
+worden ist.  
+ 
+Auf der anderen Seite steht das Bauordnungsrecht. Das formelle Ba uordnungsrecht  regelt 
+die Organisation und die Zustän digkeit der Behörden und deren Verfahren, während das 
+materielle Bauordnungsrecht objektbezogen die Anforderungen an die Ausführung des 
+einzelnen Bauwerks regelt. Dabei geht es um die Abwehr von Gefahren, die mit der 
+baulichen Nutzung von Grundstücken einherg ehen, vgl. § 3 Abs. 1 S.°1 BauO N RW. Damit 
+handelt es sich beim Bauor dnungsrecht um Sonderordnungsrecht , wofür die Länder 
+aufgrund Art. 70 Abs. 1 GG  die ausschließliche Gesetzgebungskompetenz  haben. Aufgrund 
+dessen haben die Länder verschiedene Bauordnun gen erlassen, in Nor drhein- Westfalen ist 
+dies die BauO N RW. 
+Ermächtigungsgrundlage  
+Die Bauordnungsverfügung greift belastend in Christophs Rechte ein, zumindest ist seine 
+allgemeine Handlungsfreiheit  aus Art. 2 Abs. 1 GG betroffen. Aus dem Wesen der Grund -
+rechte als Abwehrrechte gegen staatl iche Eingriffe und aus der Bindung der Verwaltung an 
+Gesetz und Recht gemäß Art. 20 Abs. 3 GG ergibt sich der sog. Gesetzesvorbehalt , wonach 
+belastende staatliche Eingriffe einer gesetzlichen Grundlage – der sog. Ermä chti-
+gungsgrundlage – bedürfen. Als solche kommt, da es sich um eine Bauordnungsverfügung 
+der Bauaufsichtsbehörde handelt, mangels spezieller Ermächtigungen in Nordrhein -Westfa -
+len allein die bauordnung srechtliche Generalklausel  in Betracht: Gemäß § 58 Abs. 2 S.°1 
+BauO N RW haben die Bauaufsichtsbehörden bei Errichtung, Änderung, Abbruch, Nutzung , 
+Nutzungsänderung und Instandhaltung baulicher Anlagen darüber zu wachen, dass die 
+öffentlich -rechtlichen Vorschriften und die aufgrund dieser Vorschriften erlassenen Anord -
+nungen eingehalten werden. In Wahrne hmung dieser Aufgabe haben sie gemäß § 58 Abs. 2 
+S.°2 BauO N RW in pflichtgemäßem Ermessen die erforderlichen Maßnahmen zu treffen.  
+Rechtmäßigkeit  
+Als Verwaltungsakt  ist die Bauordnungsverfügung nur rechtmäßig, w enn 
+ 
+• formell ihre Entstehung – d. h. das Verwaltungsverfahren – den formellen Anforde -
+rungen des VwVfG N RW entspricht und  
+• materiell ihre Regelung die Anforderungen der Ermächtigungsgrundlage und des 
+sonstigen anwendbaren Rechts erfüllt.  
+--- Seite 63 ---
+ 60 
+Formelle Rechtmäßigkeit 
+Die Bauordnungsverfügung müsste also formell rechtmäßig sein. Dafür müsste zunächst der 
+‚Typ vom Bauamt’ zuständig gewesen sein. Gemäß § 57 Abs.°1 Nr.°3 BauO N RW ist für den 
+Vollzug der Bauordnung die untere Bauauf sichtsbehörde zuständig. Dies ist hier die Stadt, 
+§ 57 Abs. 1 Nr. °3 a BauO N RW. Für diese handelt der Bürgermeister, § 62 Abs. 2 S.°2 GO 
+NRW , d. h. die gesamte Stadtverwaltung, u. a. auch das Bauamt. Da das Handeln des 
+Amtswalters der Behörde zuzurechnen ist, stammt die Verfügung vom Bür germeister und 
+damit von der zuständigen unteren Bauaufsichtsb ehörde.  
+Ferner ist bei belastenden Verwaltungsakten gemäß § 28 Abs. 1 VwVfG N RW eine 
+vorherige Anhörung des Betroffenen erforderlich. Eine solche A nhörung hat hier allerdings 
+nicht statt gefunden, so dass die Verfügung bi slang formell rechtswidrig ist. Die Anhörung 
+kann aber nach § 45 Abs. 1 Nr. °3 VwVfG N RW bis zum Abschluss des 
+verwaltungsgerichtlichen Verfahrens nachgeholt werden. Sollte auch dies nicht geschehen, 
+so kann die fehlende A nhörung weg en § 46 VwVfG N RW dennoch unbeachtlich sein, wenn 
+die Behörde ohnehin so entschieden hätte, wie sie entschieden hat.  
+Letztlich müsste die Bauordnungsverfügung auch formgemäß erlassen worden sein. Die von 
+§§ 12 Abs. 2, 20 Abs. 1 S. 1 OGB N RW bei Ordnungsver fügungen geforderte Schriftform ist 
+gewahrt.  
+Materielle Rechtmäßigkeit  
+Tatbestandsvoraussetzungen der Ermächtigungsgrundlage  
+Die Bauordnungsverfügung müsste auch materiell rechtmäßig sein. Dafür müssten zunächst die tatbestandlichen Voraussetzungen der Er mächtigung sgrundlage gegeben sein. § 58 
+Abs. 2 S.°1°u.°2 BauO N RW gibt den Bauauf sichtsbehörden die Befugnis, die erforderlichen 
+Maßnahmen zu treffen, da mit die öffentlich -rechtlichen Vorschriften bei Errichtung, Ände-
+rung, A bbruch, Nutzung, Nutzungsänderung und Instandsetzung baulicher Anlagen ein-
+gehalten werden.  
+Nutzungsänderung einer baulichen Anlage 
+Gemäß § 2 Abs. 1 S.°1 BauO N RW ist unter einer baulichen Anlage eine mit dem Erdboden 
+verbundene, aus Bauprodukten (§ 2 Abs. 9 BauO N RW) hergestellte Anlage zu verstehen. 
+Damit handelt es sich bei der Mühle um eine bauliche Anlage. Indem das ehemalige Lager nunmehr als Wohnung genutzt wird, liegt eine Nutzungsänderung i.S.d. § 58 Abs. 2 S.°1 
+BauO N RW vor. Damit war die Bauaufsichtsbehörde verpflichtet, die Einhaltung der 
+öffentlich -rechtlichen Vorschriften zu überw achen.  
+--- Seite 64 ---
+ 61 
+Formelle Illegalität  
+Hierzu gehört einerseits § 60 BauO N RW, der anordnet, dass auch die Nut zungsänderung 
+baulicher Anlagen grundsätzlich der Baugenehmigung be dürfen (Ausnahmen in §§ 61-63 , 
+78, 79 BauO N RW). Fehlt die erforderliche Baugenehmigung, so ist das Vorhaben formell 
+illegal. So liegt auch hier der Fall: Die Nutzungsänderung der Räume in der Mühle war 
+genehmigungspflichtig,  § 60 BauO N RW. Somit steht das Vorhaben wegen formeller 
+Illega lität im Widerspruch zur öffentlich -rechtlichen Vorschrift des § 60 BauO N RW. 
+Materielle Illegalität  
+Aber wäre denn die Nutzungsänderung genehmigungsfähig gewesen?  
+ 
+Eine Baugenehmigung wird von der unteren Bauaufsichtsbehörde auf A ntrag (sog. Bauan-
+trag, § 70 BauO N RW) erteilt, wenn dem Vorhaben öffent lich-rechtliche Vorschriften nicht 
+entgegenstehen, § 74 Abs. 1 S. 1 BauO N RW. An dieser Stelle wird die Verzahnung von 
+Bauordnungsrecht und Baupl anungsrecht sichtbar. Denn zu den öffentlich- rechtlichen Vor -
+schriften zählt neben dem materiellen Bauordnungsrecht  maßgeblich auch das Baupla -
+nungsrecht, das sich aus dem Baugesetzbuch (BauGB ) i. V. m. der Baunutzungs verordnung 
+(BauNVO ) und dem für das jeweilige Grundstück geltenden Bebauungsplan ergibt. Das 
+Bauplan ungsrecht regelt, ob ein Grundstück überhaupt bebaut werden darf ( §§ 29 ff. 
+BauGB ), welche Art baulicher Nutzung (Wohngebiete, Gewer begebiete, Industriegebiete 
+usw., vgl. § § 2 ff. BauNVO) und welches Maß baulicher Nutzung (Geschoßzahl, Höhe usw., 
+vgl. §§ 16- 21a BauNVO) zulässig sind, welche Bauweise (Einzelhäuser, Doppelhäu ser, 
+Häusergruppen, vgl. § 22 BauNVO ) vorgeschrieben ist und wie viel der Grundstücksfl äche 
+überbaut werden darf (§ 23 BauNVO). Ein Vorhaben ist nur genehmigungsfähig, wenn es 
+neben den Anforderungen des materiellen Bauord nungsrechts auch dem Bauplanungs recht  
+entspricht. Durch das Instrument der Baugenehmigung werden also das Bauplanungs recht 
+und das Bauordnungsrecht miteinander verzahnt . Wenn ein Vorhaben dem 
+Bauplanung srecht oder den Anforderungen der Bauordnung an die konkrete Bauausführung 
+widerspricht, dann ist es materiell illegal. 
+ Und was bedeutet dies für Christophs Vorhaben? Die Nutzungsänderung der ehemaligen 
+Lagerräume der Mühle wäre nur möglich, wenn Christoph umfangreiche Umbaumaßnahmen 
+(z. B. ein feuersicheres Treppenhaus, § 37 Abs. 6 BauO N RW) im Wert von 150.000 Euro 
+vornehmen würde. Im jetzigen Zustand entspricht das Vorhaben also jedenfalls nicht den 
+Anford erungen des materiellen Bauordnungsrechtes. Christophs Vorhaben ist damit nicht 
+genehmigungsfähig. Ein Widerspruch zu öffentlich- rechtlichen Vor schriften ist also gegeben. 
+Die Erfordernisse der bauordnungsrechtlichen Generalklausel sind erfüllt.  
+--- Seite 65 ---
+ 62 
+Ermessen 
+Demnach konnte die Behörde gemäß § 58 Abs. 2 S.°2 BauO N RW nach  pflichtgemäßem Er-
+messen die erforderlichen Maßnahmen treffen. Zu di esen Maßnahmen gehören vor allem 
+Bauordnungsverfügungen, also auch Nutzungsuntersagungen. Eine formell und materiell 
+illegale Nutzung zu untersagen, ist jedenfalls verhältnismäßig. Da Christoph den 
+bauor dnungswidrigen Zustand geschaffen hat und daher für diesen gemäß § 17 OBG N RW 
+verantwortlich ist, konnte die Verfügung auch ihm gegenüber ergehen. Damit ist die 
+Verfügung grundsätzlich materiell recht mäßig.  
+ 
+Der Jungunternehmerstammtisch 
+Auch wenn die Geschäfte gut liefen, so gab es doch immer wieder Momente, in denen den 
+drei Jungunternehmern klar wurde, dass sie noch viel lernen mussten. Immer wieder stan -
+den sie vor organisatorischen, rechtlichen oder steuerlichen Problemen, mit denen sie sich 
+erstmals beschäftigen mussten. Da sicherlich auch andere junge Selbständige diese Prob -
+leme hatten, überlegten die drei, wie man einen Erfahrungsaustausch organisieren könnte. Hierzu wollten s ie einen Stammtisch einrichten, an dem junge StartUps und Selbständige 
+ihre Erfahrungen austauschen konnten.  
+Der Jungunternehmerstammtisch schien ein voller Erfolg zu werden. Immerhin hatten sich  
+etwa 25 Selbständige zusammengefunden. Außerdem waren drei Mitglieder des Ge -
+meinderates sowie ein Vertreter der IHK erschienen. Schließlich hatte sich sogar ein Ver -
+treter des Wirtschaftsministeriums eingefunden, um das Engagement der Anwesenden zu loben.  
+Um halb drei aber gab auch der letzte Jungunternehmer auf, nachdem der Wirt auch keine rechte Lust mehr gezeigt hatte, die Sperrstunde noch weiter zu überziehen.  
+Trotz des ein en oder anderen Glases Sekt, das sie auf den gelungenen Abend getrunken 
+hatte, setzte sich Karina noch ins Auto, um nach Hause zu fahren. Diese Entscheidung be -
+reute sie schon nach zehn Minuten, als sie von einer blinkenden Kelle aufgefordert wurde, zu verlangsamen und rechts ran zu fahren.  
+„Allgemeine Verkehrskontrolle!“, begrüßte sie der Beamte. „Darf ich mal bitte ihre Papiere sehen?“  
+Karina durchsuchte ihren Rucksack nach den geforderten Unterlagen und übergab sie dem Beamten. Als sie die Frage nach vorangegangenem Alkoholgenuss nicht eindeutig vernei -
+nen konnte, wurde sie freundlich gebeten, einen Atemalkoholtest zu absolvieren.  
+Nachdem Sie kräftig in das Gerät geblasen hatte, warf der Polizeibeamte einen Blick auf die 
+Digitalanzeige und meinte schlicht: „Ja, das war’s dann wohl: 1,55 Promille. Ich fahre Ihren Wagen mal um die Ecke, den Führerschein behalten wir gleich ein.“  
+--- Seite 66 ---
+ 63 
+Lächelnd kam er zurück und übergab Karina die Wagenschlüssel mit den Wor ten: „Morgen 
+früh ab neun ist da Parkverbot, da muss der Wagen weg sein, sonst gibt’s eine kostenpflich -
+tige Verwarnung. Der Kollege fährt Sie jetzt ins Krankenhaus zur Blutprobe.“  
+Am nächsten Tag saß  Karina beim Anwalt der Firma und bat  um Hilfe.  
+„Wenn i ch meinen Führerschein nicht wieder bekomme, kriegen wir größte Schwierigkeite n. 
+Ich bin doch für die Kundenak quise zuständig, fahre ständig im Land herum. Mit der Bahn 
+kann ich nicht fahren, ich hab doch immer das ganze Präsentationsmaterial dabei, das ka nn 
+ich allein gar nicht tragen. Und wenn ich das alles mit dem Taxi machen soll, dann sind wir 
+ruck zuck pleite.  
+Außerdem bin ich doch zum ersten Mal erwischt worden; ich trinke sonst fast nie Alkohol. Da 
+muss es doch möglich sein, dass die noch mal ein A uge zudrücken. Es wäre schließlich 
+vollkommen unverhältnismäßig, wenn ich jetzt meinen Beruf nicht mehr ausüben kann, bloß wegen einmal Fahren mit Alkohol.“  
+Der Jungunternehmerstammtisch –   
+Rechtliche Erläuterung  
+Alkoholisiertes Autofahren, die sog. Trunke nheitsfahrt, ist, je nach dem Grad der Alkohol isie-
+rung, entweder als Ordnungswidrigkeit  oder auch strafrechtlich relevant.  
+ § 316 StGB  ordnet eine Strafbarkeit  für denjenigen an, der im Verkehr ein Fahrzeug führt, 
+obwohl er infolge des Genusses alkoholisc her Getränke oder anderer berauschender Mittel 
+nicht in der Lage ist, das Fahrzeug sicher zu führen. Fahren im Zustande der Fahruntüch -
+tigkeit ist danach strafbar. Die Rechtsprechung nimmt bei Fahrern von Kraftfahrzeugen eine 
+absolute Fahrun tüchtigkeit  bei einem Alkoholgehalt ab 1,1 Promille an. Radfahrer gelten bei 
+1,6 Promille als fahruntüchtig. Bei Erreichen dieser Werte wird die Fahrunsicherheit 
+unwider leglich vermutet, absolute Fahruntüchtigkeit . Bei einer Alkoholisierung unterhalb 
+dieser Werte kann dennoch Fahrunsicherheit angenommen werden. Zur Feststellung dieser 
+relativen Fahruntüchtigkeit  sind jedoch zusätzlich zum Alkoholgehalt Ausfallerscheinungen 
+erforder lich, die nachweisen, dass der Fahrer nicht mehr in der Lage war, das Fahrzeug im 
+Verkehr  sicher zu führen.  
+ Zu einer Verletzung fremder Rechtsgüter durch das alkoholisierte Fahren braucht es nicht 
+gekommen zu sein. Es genügt bereits die durch die Fahruntüchtigkeit entstehende abstrakte 
+Gefährdung. § 316 StGB  ist ein so genanntes abstraktes Gefährdungsdelikt . Wenn es zu 
+einer konkreten Gefährdung von Leib und Leben anderer Menschen oder von Sachen von 
+bedeutendem Wert gekommen ist, so geht eine Strafbarkeit nach §  315c Abs. 1 Nr. 1a) 
+--- Seite 67 ---
+ 64 
+StGB vor, vgl. § 316 Abs. 1 am Ende StGB . § 315c StGB  ist ein  konkretes Gefährdungs -
+delikt . 
+ 
+§ 24a Abs. 1 StVG  bestimmt, dass, unabhängig davon, ob der Fahrzeugführer fahruntüchtig 
+ist, eine Ordnungswidrigkeit  dann vorliegt, wenn jemand mit 0,5 Promille oder mehr Alkohol 
+im Blut im Straßenverkehr ein Fahrzeug führt.   
+ Da Karina mit einem Alkoholgehalt von 1,55 Promille ihr Auto gefahren hat, hat sie sich nach 
+§ 316 StGB wegen Trunkenheit im Verkehr strafbar gemacht.  
+Die Polizei wird ihr den Führerschein deshalb abnehmen. Juristisch gesagt: Sie beschlag-nahmt  den Führ erschein nach §§ 94 Abs. 1, 3, 98 Abs. 1 S. 1 StPO , 69 Abs. 3 S. 2 StGB . 
+Die Polizei darf zwar den Führerschein als Gegenstand beschlagnahmen, aber nicht die Fahrer laubnis vorläufig entziehen. Dazu ist nach § 111a Abs. 1 S. 1 StPO  nur der Richter 
+berechtigt. Ob die Fahrerlaubnis nicht nur vorläufig, sondern endgültig – was die spätere 
+Erteilung einer neuen Fahrerlaubnis nicht ausschließt – entzogen wird, entscheidet sich erst 
+im Strafprozess und dem darauf ergehenden Urteil. Es ist also zwischen der Entziehung der Fahrerlaubnis, der vorläufigen Entziehung der Fahrerlaubnis und der Beschlagnahme des 
+Führerscheins zu unterscheiden. Daneben besteht nach § 44 StGB  noch die Möglichkeit, als 
+Nebenstrafe ein Fahrverbot zu verhängen. Dies soll im Folgenden aber außer Betracht blei -
+ben, da hier die Ent ziehung der Fahrerlaubnis wegen einer Tat nach § 316 StGB  näher liegt 
+und nach § 44 Abs. 1 S. 2 StGB ein Fahrverbot in der Regel gerade dann anzuordnen ist, 
+wenn in den Fällen des § 316 StGB  die Fahrerlaubnis nicht entzogen wird.  
+Entziehung der Fahrerlaubnis  
+Die Entziehung der Fahrerlaubnis  als die Berechtigung, ein Kraftfahrzeug der bestimmten 
+Art zu führen, ist in § 69 StGB als Maßregel der Besserung und Sicherung, nicht als Strafe, 
+geregelt. Eine Maßregel der Besserung  und Sicherung kann im Gegensatz zur Strafe auch 
+ohne Schuld vorwurf gegenüber dem Täter verhängt werden, vgl. § 69 Abs. 1 S. 1 StGB. Mit 
+den Maßregeln der Besserung und Sicherung wird damit eher präventiv gegen den Täter vorgegangen.  
+Vorläufige Entziehung der Fahrerlaubnis  
+Sind dringende Gründe für die Annahme vorhanden, dass im Urteil die Fahrerlaubnis nach   
+§ 69 StGB  entzogen werden wird, so kann der Richter dem Beschuldigten durch Beschluss 
+nach § 111a StPO  die Fahrerlaubnis vorläufig, also vor einem s trafgerichtlichen Verfahren,  
+entziehen. Diese vorläufige Entziehung ist deshalb dann aufzuheben, wenn sich die 
+--- Seite 68 ---
+ 65 
+Annahme letztlich nicht bestätigt, dem Täter die Fahrerlaubnis also nicht nach § 69 StGB  
+entzogen wird, § 111a Abs. 2 StPO .  
+Beschlagnahme des F ührerscheins  
+Der Führerschein als Sache kann beschlagnahmt  werden. Die vorläufige Entziehung der 
+Fahrerlaubnis nach § 111a StPO  bedeutet zugleich eine Anordnung oder Bestätigung der 
+Beschlagnahme, § 111a Abs. 3 StPO . Andererseits haben nach §§ 94 Abs. 1, 3, 98 Abs. 2 
+StPO  bei Gefahr im Verzug – also dann, wenn die richterliche Anordnung nicht eingeholt 
+werden kann, ohne dass der Zweck der Maßnahme gefährdet wird – auch Polizei und 
+Staatsanwal tschaft die Befugnis zur Beschlagnahme des Führerscheins. Voraussetzung 
+dafür ist, dass der Führerschein der Einziehung unterliegt. Dies richtet sich nach § 69 StGB. 
+Es müssen also – wie bei der richterlichen Anordnung der Beschlagnahme nach § 111a 
+Abs. 1 S. 1, Abs. 3 S. 1 StPO  – dringende Gründe für die Annahme bejaht werden, dass die 
+Fahrerlaubnis nach § 69 StGB entzogen werden wird.  
+ 
+Daher sind in jedem Fall – für die Entziehung der Fahrerlaubnis ohnehin, aber auch im 
+Rahmen der vorläufigen Entziehung der Fahrerlaubnis sowie bei der Beschlagnahme des Führerscheins – die Voraussetzungen des § 69 StGB  zu prüfen.  
+Ungeeignetheit zum Führen von Kraftfahrzeugen 
+Die Ungeeignetheit zum Führen von Kraftfahrzeugen  muss nach § 69 Abs. 1 S. 1 StGB  an-
+hand der konkreten Tat in der Regel positiv festgestellt werden. Nach § 69 Abs. 2 StGB  wird 
+die Ungeeignetheit vermutet, wenn ein dort genanntes Vergehen verübt worden ist. Für diese Fälle ist also die Prognose bezüglich der Feststellung der Ungeeignetheit im Gesetz 
+vorwe ggenommen. Die Vermutung ist allerdings widerlegbar. In Ausnahmefällen kann also 
+trotz Vorliegens eines in § 69 Abs. 2 StGB genannten Vergehens die Ungeeignetheit zum 
+Führen von Kraftfahrzeugen verneint werden. Dass die Tat einen ersten Verstoß des Täters 
+gegen die jeweilige Strafnorm darstellt, beinhaltet für sich alleine noch kein hinreichendes 
+Indiz zur Widerlegung der Vermutung des § 69 Abs.  2 StGB. Es müssten noch besondere 
+Umstände hinzukommen, die die Annahme rechtfertigen, dass es sich um einen einmaligen Verkehr sverstoß handelte. In jedem Fall – dies gilt sowohl  für § 69 Abs. 1 und Abs. 2 StGB – 
+erfolgt keine besondere Prüfung der Verhältnismäßigkeit, § 69 Abs. 1 S. 2 StGB. 
+ 
+Karina, die vorsätzlich, rechtswidrig und schuldhaft gegen § 316 Abs. 1 StGB verstoßen hat, 
+muss damit rechnen, dass die Polizei nach §§ 94 Abs. 3, 98 Abs. 1 S. 1 StPO  ihren Führe r-
+schein beschlagnahmen wird. Es ist nämlich von ihrer fehlenden Eignung zum Führen von 
+--- Seite 69 ---
+ 66 
+Kraftfahrzeugen nach §  69 Abs. 2 Nr. 2 StGB auszugehen. Anhaltspunkte zur Widerlegung 
+der Vermutung des § 69 Abs. 2 StGB ergeben sich nicht. Eine Verhältnismäßigkeitsprüfung 
+erfolgt nicht. Karina wird deshalb mit ihrem Argument, eine Beschlagnahme des Führe r-
+scheins treffe sie aus beruflichen Gründen unverhältnismäßig, nicht durchdringen. Diese 
+beruflichen Gründe finden im Rahmen von § 69 Abs. 2 StGB keine Berücksichtigung. Es 
+kommt allein auf Umstände an, die trotz des Vergehens ausnahmsweise für die Geeignetheit 
+des Täters zum Führen von Kraftfahrzeugen sprechen. Derartige Umstände sind bei Karina 
+nicht ersichtlich. Sie ist nicht etwa aufgrund eines Notfalls, z. B.  um jemanden zum Arzt zu 
+bringen, betrunken Auto gefahren. Dass sie Ersttäterin ist, genügt nach dem Gesagten nicht. 
+Die Gefahr, den Führerschein und auch die Fahrerlaubnis zu verlieren, muss man beden -
+ken, bevor man erheblich alkoholisiert das Auto startet. Wenn man die Gefährdung bedenkt, die man mit der Trunkenheitsfahrt schafft, leuchtet dies ein.  
+ 
+Das Schild aus dem Nichts 
+Während Christoph nach den immer länger werdenden Tagen im Büro abends schnell nach 
+Hause wollte,  zogen es Karina und Stefan meist vor, in der Stadt zu essen und dann zu 
+sehen, was der Abend noch so brachte. So fuhren sie auch an diesem Donnerstag in ihr 
+Stammrestaurant, um die Arbeitswoche ausklingen zu lassen. Wie üblich trafen sie den 
+einen oder anderen Bekannten und zogen bald mit Freunden von Lokal zu Lokal. Mit einem 
+letzten Cocktail in einer Bar beendeten sie den feuchtfröhlichen Abend in den frühen Mor -
+genstunden. Stefan hatte zwar nicht immer einen realistischen Blick für seine Umwelt, aber dass er seine Fahrtüchtigkeit bereits vor Stunden verloren hatte, stand selbst für ihn außer 
+Frage.  
+Grinsend hielt er Karina einen mittellangen Vortrag über die Gefahren einer Alkoholfahrt und 
+bestellte ein Taxi. Sein Auto stand zur Abwechslung mal auf einem legalen Parkplatz, so 
+dass er es gefahrlos im Laufe des Wochenendes abholen konnte. Dass es dazu nicht kam, 
+fiel ihm erst am Montagmorgen auf, als er zur Arbeit wollte. Achselzuckend schwang er sich 
+auf sein Fahrrad und nutz te den Weg zum Büro für die er ste körperliche Ertüchtigung der 
+neuen Arbeitswoche.  
+Auch in den nächsten Tagen nutzte er entweder sein Fahrrad oder lieh sich Christophs Auto. 
+Als sich das Wochenende näherte und Christoph immer weniger Lust zeigte, als Autover -
+mieter zu fungieren, beschl oss Stefan, dass es Zeit sei, sein Auto aus der Stadt zu holen. 
+Nicht gerade begeistert willigte Christoph ein, ihn durch den dichten Berufsverkehr zu fah -
+ren. 
+In der Nebenstraße angekommen, in der Stefan sein Auto abgestellt hatte, machten die 
+beiden jedoch eine unangenehme Entdeckung: Wo Stefans Auto stehen sollte, war die 
+--- Seite 70 ---
+ 67 
+Straße auf einer Länge von 10 Metern aufgerissen und die Kanalisation war freigelegt. Von 
+seinem Auto fehlte jede Spur.  
+„Hast du deinen Wagen eingebuddelt?“, witzelte Christoph.  
+Während  Christoph sich noch über seinen Scherz amüsierte, verließ Stefan den Wagen und 
+blickte reichlich verwirrt in die Baugrube.  
+„Wo ist denn mein Auto hin?“, fragte er verständnislos. „Ich hab’s genau hier abgestellt. Das muss irgendwer gestohlen haben.“  
+„Als ob dein alter Karren noch geklaut werden würde. Die Polizei wird’s abgeschleppt 
+haben“, entgegnete Christoph, der mittlerweile aus dem Auto ausgestiegen war. „Da vorne 
+steht doch ein Schild, dass hier ab Mittwoch die Straße aufgerissen wird.“  
+„Das stand aber Freitag noch nicht hier!“, beschwerte sich Stefan. „Was mach ich denn 
+jetzt?“  
+„Na, bei der Polizei anrufen und fragen, ob die wissen, wo dein Auto ist“, schlug Christoph 
+vor und reichte Stefan sein Handy.  
+„Dann werde ich das mal tun“, beschloss Stefan.  
+Das Telefonat verlief nur teilweise zu Stefans Zufriedenheit. Nachdem er Kennzeichen und 
+Wagentyp genannt hatte, erfuhr er zu seiner Erleichterung, dass der Wagen nicht gestohlen,  
+sondern nur abgeschleppt worden war. Die weiteren Neuigkeiten erfreuten ihn jedoch weni -
+ger. Stefans Auto stand auf dem Betriebshof eines Abschleppunternehmens und konnte dort 
+abgeholt werden, allerdings nur gegen Zahlung der nicht unbeträchtlichen Abschleppkosten.  
+„Das seh’ ich ja gar nicht erst ein“, fluchte Stefan, nachdem er d as Gespräch beendet hatte. 
+„Die können doch nicht, während ich drauf stehe, einen legalen Parkplatz in eine Kanalbau-stelle verwandeln und mich dann fürs Abschleppen bezahlen lassen!  
+„Die haben das bestimmt nicht aus Jux und Dollerei getan“, versuchte Chri stoph Stefan zu 
+beruhigen. „Wahrscheinlich ist da irgendein Rohr geplatzt und die mussten schnell handeln.“  
+„Ja, ja, so was hat der von der Polizei auch gesagt. Aber wieso soll ich dann die Abschlepp-kosten zahlen? Das G anze ist ja wohl kaum mein Fehler, i ch habe schließlich nichts falsch 
+gemacht. Keinen Cent werde ich zahlen, ich lass mich doch nicht einfach ausnehmen.“  
+„Wenn du dein Auto wiederhaben möchtest, wirst du kaum ums Bezahlen herumkommen.“  
+Stefan gab auf. „Wahrscheinlich hast du Recht. Ich werde erst mal zahlen, damit ich den 
+Wagen zurückbekomme – auch wenn das nichts anderes als Erpressung ist. Aber gleich am 
+Montag rufe ich unseren Anwalt an. Der Lorenz wird mir das Geld zurückholen, und wenn ich bis vor das Bundesverfassungsgericht ziehen muss .“ 
+Das Schild aus dem Nichts –  Rechtliche Erläuterung  
+Stefan kann sich darauf einstellen, per Verwaltungsakt  – dem sog. Kostenbescheid – zur 
+Zahlung der Abschleppkosten herangezogen zu werden. Ob Herr Rechtsanwalt Lorenz da-
+gegen Erfolg haben wird? Dazu si nd drei Dinge zu unterscheiden:  
+--- Seite 71 ---
+ 68 
+ 
+• Stefan muss nur dann zahlen, wenn der Kostenbescheid rechtmäßig ist, was 
+voraussetzt, dass die Stadt tatsächlich einen Anspruch auf Zahlung der Kosten 
+hat. 
+• Die Stadt kann nur dann die Zahlung der Abschleppkosten verlangen,  wenn das 
+Abschleppen rechtmäßig erfolgt ist.  
+• Und das Abschleppen ist nur rechtmäßig, wenn Stefan sein Auto von dort hätte entfernen müssen.  
+Entfernungsgebot  
+Zuerst ist zu fragen, ob Stefan sein Auto überhaupt vom Parkplatz entfernen musste. Stefan 
+hat auf einem Parkplatz geparkt. Das Parken auf dem Parkstreifen ist grundsätzlich erlaubt 
+gemäß § 12 Abs. 4 S. 1 StVO , sofern es nicht verboten bzw. sonst wie geregelt ist gemäß 
+§§ 12, 13 StVO . 
+Halteverbotsschild  
+Das Schild, das das Parken an der Stelle, wo Stefans Auto stand, ab Mittwoch untersagt, ist ein Halteverbotschild gemäß § 41 Abs. 2 Nr. 8 Zeichen 283 StVO. Dieses Schild „verbietet 
+jedes Halten auf der Fahrbahn.“ Damit war hier ab Mittwoch gemäß § 12 Abs. 1 Nr. 6 a 
+StVO  das Halten und erst recht das Parken verboten. Das Halteverbot beinhaltet zugleich 
+das Gebot, bei Zuwiderhandeln den ordnungswidrigen Zustand alsbald zu beenden, das Fahrzeug also zu entfernen (BVerwGE NVwZ 1988, 623 (624)). Damit war Stefan grund -
+sätzlich verpflichtet, sein Auto ab Mittwoch wegzufahren.  
+Bekanntgabe trotz nachträglichen Aufstellens  
+Allerdings erscheint es problematisch, dass Stefan von diesem Verbot nichts wusste, weil 
+das Halteverbotsschild erst aufgestellt worden ist, nachdem er sein Auto auf dem Parkstrei -
+fen geparkt hatte. Verkehrs zeichen sind nach dem Willen des Gesetzgebers sog. 
+benut zungsregelnde Allgemeinverfügungen gemäß § 35 S. 2, 3. Alt. VwVfG (N RW), also 
+Verwa ltungsakte. Dies erklärt sich auch daraus, dass Verkehrszeichen im Prinzip nur die 
+verkehr sregelnden Anweisungen von Polizisten vertreten.  
+Ein Verwaltungsakt ist allerdings dem Adressaten gemäß § 41 Abs. 1 S. 1 VwVfG (N RW) 
+bekannt zu geben. Erst dann wird er für den Adressaten wirksam, § 43 Abs. 1 S. 1 VwVfG 
+(NRW). Eine individuelle Bekanntgabe des Halteverbots an Stefan hat hier nicht stattgefun-
+--- Seite 72 ---
+ 69 
+den. Zwar gibt es bei Verwaltungsakten gemäß § 41 Abs. 3 S. 1 VwVfG (N RW) auch eine 
+öffentl iche Bekanntmachung. Dann müssen die jeweiligen Adressaten des Verwaltungs akts 
+keine Kenntnis von diesem erlangt haben. Doch scheitert eine öffentliche Bekannt machung 
+des Verkehrszeichens durch dessen Aufstellung an den nach § 41 Abs. 4 VwVfG (N RW) 
+erforder lichen Formalien. Demgemäß wäre das Halteverbot und damit das Entfer nungsgebot 
+für St efan noch nicht wirksam geworden, da er nicht davon wusste. Daher hätte er keine 
+Pflicht zur Entfernung seines Wagens gehabt.  
+ 
+Doch – so die herrschende Rechtsprechung – sei zu bedenken, dass das Aufstellen von 
+Verkehrsschildern wegen des Rechtsstaatsprinzips selbstverständlich so erfolgen müs se, 
+dass ein sorgfältiger Verkehrsteilnehmer i. S. v.  § 1 Abs. 2 StVO  das Schild ohne weitere 
+Überlegung eindeutig erfassen könne. Zudem nehme jemand, der sein Auto geparkt habe, weiterhin am ruhenden Verkehr teil und bleibe damit Verkehrsteilnehmer,  für den die 
+Straßenverkehrsordnung gelte. Und die Straßenverkehrsordnung setze zur Wirksamkeit von 
+Verkehrszeichen nur deren Aufstellung voraus. Auch sei zu bedenken, dass man von einem 
+sorgfältigen Teilnehmer am ruhenden Verkehr verlangen könne, in regelmäßigen und ange-
+mess enen Abständen von mehreren Tagen, nach seinem Fahrzeug und der Verkehrsrege -
+lung zu s ehen. Aus diesem Grund sei es gerechtfertigt, von den allgemeinen Bekanntgabe -
+regeln des § 41 VwVfG (N RW) abzuweichen und einen speziellen Bekanntgab ebegriff der 
+Straßenve rkehrsordnung anzunehmen ( OVG Münster NJW 1990, 2835 (2835 f.)). Diese 
+Auffassung rückt Verkehrsschilder in ihrer Wirkung bedenklich nahe an Rechtsnormen heran, entspricht aber der höchstrichterlichen Rechtsprechung (BVerwG NJW 1997, 1021 
+(1022)). Folgt man dieser, dann werden Verkehrszeichen allein mit dem Aufstellen den 
+Verkehrsteilnehmern – also auch Stefan – bekannt gegeben, ob diese davon wissen oder 
+nicht. Demnach musste Stefan ab Mittwoch sein Auto vom Parkplatz entfernen.  
+Verwaltungszwang 
+Aber heißt dies auch, dass das Auto einfach abgeschleppt werden durfte? Dann müsste es möglich sein, die aus einem Verwaltungsakt folgende Pflicht, etwas zu tun, ersatzweise 
+anstatt des Adressaten ohne oder sogar gegen dessen Willen vorzunehmen. 
+Begriff 
+Solche und ähnliche Fälle sind Gegenstand des Verwaltungszwangs . Beim Verwaltung s-
+zwang geht es darum, die öffentliche Ordnung – wenn nötig – mit Zwang durchzusetzen. Der 
+Betroffene eines gebietenden oder verbietenden Verwaltungsakts soll seine Pflicht erfüllen, 
+allein schon um der Verwaltungsvollstreckung und den damit verbundenen Kosten zu ent -
+gehen. Erfüllt er seine Pflicht nicht, dann wird diese zwangsweise vollstreckt.  
+--- Seite 73 ---
+ 70 
+ 
+Der Verwaltungszwang ist in Nordrhein -Westfalen allgemein in den §§ 55-75 VwVG N RW – 
+für Polizei speziell in §§ 50-66 PolG N RW – geregelt. Auf Bundesebene finden sich in §§ 6-
+16 VwVG des Bundes  und im UZwG  entsprechende Regelungen. Hier ist das Landesge setz 
+anzuwenden, weil das Entfernungsgebot von der örtlichen Ordnungsbehörde und damit von 
+einer Landesbehörde erlassen worden ist.  
+Zulässigkeit  
+Wie oben festgestellt, war Stefan durch das Halteverbot verpflichtet, das Auto ab Mittwoch zu entfernen. Das Halteverbot ist ein Verwaltungsakt, der zur Vornahme einer Handlung 
+verpflicht et. Ein solches Gebot kann gemäß § 55 Abs. 1 VwVG N RW dann zwangsweise 
+durchg esetzt werden, wenn es unanfechtbar  ist oder wenn ein Rechtsmittel keine auf -
+schiebende Wirkung – auch Suspensiveffekt  genannt – hat. Der in dem Halteverbots schild 
+liegende Ver waltungsakt ist zum einen noch nicht unanfechtbar, weil das Schild erst kürzlich 
+aufgestellt worden ist und daher ein Widerspruch  innerhalb der Monatsfrist des § 70 Abs. 1 
+VwGO  noch möglich ist. Zum anderen vertreten Verkehrsschilder die verkehrsregelnden 
+Anweisungen von Polizisten, weswegen ein Widerspruch gegen Verkehrszeichen 
+entspr echend § 80 Abs. 2 Nr. 2 VwGO  keine aufschiebende Wirkung entfaltet. Somit ist der 
+Verwaltung szwang hier gemäß § 55 Abs. 1 VwVG N RW zulässig.  
+Ordnungsgemäße Art und Weise des V erwaltungszwangs 
+Allerdings müsste die Vollstreckung des Entfernungsgebots auch ordnungsgemäß abgelau-fen sein.  
+Richtiges Zwangsmittel  
+Es müsste zunächst ein zulässiges Zwangsmittel angewandt worden sein. Es gibt gemäß 
+§ 57 VwVG N RW drei verschiedene Zwangsmittel: Ersatzvornahme, Zwangsgeld und un -
+mittelbarer Zwang. Das Entfernen des Wagens ist eine Handlung, die nicht nur Stefan, sondern jedermann ausführen kann, also eine vertretbare Handlung. Durch das Abschlep -
+pen des Autos ist diese Handlungspflicht ausgeführt worden. Damit ist nicht unmittelbarer Zwang, sondern die Ersatzvornahme (vgl. § 59 VwVG N RW), also die Entfernung des Autos 
+durch die Vol lzugsbehörde oder durch einen beauftragten Dritten – den Abschleppunterneh-
+mer – das grund sätzlich richtige Zw angsmittel.  
+ 
+--- Seite 74 ---
+ 71 
+Androhung und Festsetzung 
+Der Verwaltungszwang ist normalerweise nicht ohne Vorwarnung zulässig. Schließlich geht 
+es primär darum, dass der Adressat des Verwaltungsakts seine Pflicht selbst erfüllt, wozu 
+ihm die Möglichkeit belassen werden sol l. Deswegen ist das Zwangsmittel grundsätzlich 
+gemäß § 63 Abs. 1 S. 1 u. 2 VwVG N RW vorher schriftlich anzudrohen; nach Fristablauf 
+wird es ge mäß § 64 VwVG N RW festgesetzt , dann erst kann es angewendet werden. Hier 
+sind gegenüber Stefan weder Androhung noch Festsetzung erfolgt.  
+ Bei gegenwärtiger Gefahr  kann jedoch von diesen Formalien abgesehen werden. Man 
+spricht dann vom sog. sofortigen Vollzug i. S. v. § 55 Abs. 2 VwVG N RW. Für eine solche 
+Gefahr  im ordnungsrechtlichen Sinne genügt es, dass ein Verstoß gegen die Rechtsordnung 
+droht. Da Stefans Wagen im Halteverbot parkte, lag damit ein Verstoß gegen § 12 Abs. 1 Nr. 
+6a StVO  vor. Diese Gefahr war auch gegenwärtig, weil der Verstoß nicht nur drohte, 
+sondern bereits verwirklicht war. Die Ersatzvornahme des Entfernungsgebots war also 
+notwendig, um diesen Verstoß gegen die Straßenverkehrs ordnung zu beenden. Androhung 
+und Festsetzung waren deswegen hier entbehrlich.  
+Verhältnismäßigkeit  
+Letztlich müsste die Ersatzvornahme des Entfernungsgebotes verhältnismäßig  erfolgt sein. 
+Denn alle staatlichen Maßnahmen müssen wegen des Rechtsstaatsprinzips  des Art. 20 
+Abs. 3 GG den Bürger so wenig wie möglich belasten. Im Bereich des Verwaltungs zwangs 
+ist dies in § 58 VwVG N RW ausdrücklich geregelt. Eine Maßnahme ist verhältni smäßig, 
+wenn sie zur Verwirklichung ihres Ziels geeignet, erforderlich und angemessen ist . 
+ 
+Das Abschleppen zielte darauf ab, das Entfernungsgebot zu vollstrecken und war dazu auch 
+geeignet.  
+ Es müsste aber auch erforderlich sein. Das wäre es nicht, wenn das Ziel der Maßnahme 
+auch durch ein anderes, gleich wirksames Mittel hätte erreicht werden können, das nicht 
+oder weniger fühlbar eingreift . Das Androhen von Zwangsgeld als gegenüber der 
+Ersatzvo rnahme milderes Mittel wäre zwar möglich gewesen, aber nicht  ebenso effektiv, weil 
+die Verletzung der Straßenverkehrsordnung nicht sofort beendet worden w äre. 
+Kostenbescheid  
+Gemäß § 77 VwVG N RW werden für Amtshandlungen nach dem Verwaltungs-
+vollstreckungs gesetz Kosten erhoben. Dies verfolgt den Zweck, denjenigen, der seine 
+--- Seite 75 ---
+ 72 
+primä re Pflicht aus dem Verwaltungsakt nicht erfüllt hat, wenigstens sekundär zu den Kosten 
+der Gefahrb eseitigung heranziehen zu können. Ansonsten wäre die Nichterfüllung von 
+Pflichten aus Ve rwaltungsakten weitgehend sanktionslos. Letztlich sol l dem Staat die 
+Möglichkeit zur effektiven und bedarfsdeckenden Einnahmeerzielung gegeben werden ( OVG 
+Lüneburg NVwZ 1990, 786 (787)) . Stefan muss die Kosten also tragen. Herr Rechtsanwalt 
+Lorenz wird ihm raten, von Widerspruch  und Anfec htungsklage gegen den zu erwartenden 
+Kostenbescheid abzusehen und zügig zu zahlen.  
+ 
+Die neue Mitarbeiterin  
+Je mehr Projekte gleichzeitig in Bearbeitung waren, desto häufiger klingelte das Telefon. 
+Waren Christoph und Karina gleichzeitig unterwegs, so kam Stefan kaum noch zum Arbei -
+ten, weil er ständig zwischen den drei Telefonen hin und her pendelte, Anrufe ent gegen -
+nahm und Notizen machte. Kam der nächste Anruf zu schnell, gelang ihm manchmal kaum 
+eine ord entliche Telefonnotiz. Fehlende Informationen und verpasste Rückrufe waren die 
+Folge solcher Tage.  
+Als zum Jahresende viele Aufträge gleichzeitig beendet werden sollten, war es mal wieder 
+soweit: Eine vierte Kraft war dringend notwendig.  
+„O.K., ich mach mal wieder einen Aushang an der Uni.“, erklärte sich Stefan bereit. Chris -
+toph war anderer Meinung: „Das reicht nicht mehr. Wir haben viel zu viel zu tun und können 
+nicht mehr mit irgendwelchen Aushilfen arbeiten. Wir werden es dementsprechend diesmal etwas professioneller angehen und eine Anzeige in die Zeitung setzen.“  
+„Gute Idee!“, mischte sich jetzt Karina ein. „Und was schreiben wir da rein?“  
+„Wir brauchen eine Bürokraft, die sich ein bisschen mit Computern auskennt und vor allem 
+regelmäßig kommt.“, antwortete Christoph. „Wir brauchen jemanden, den wir gründlich ein -
+arbeiten und der uns dann langfristig vor allem das Telefon und den ganzen Kleinkram vom Hals hält.“  
+Die einige Tage später in der Lokalpresse geschaltete Anzeige brachte weniger Erfolg als 
+die drei erhofft hatten. Immerhin fanden sich im Laufe der folgenden W oche zehn Bewer -
+bungs mappen im Briefkasten, von denen acht Erfolg versprechend wirkten. Nach ersten 
+Telefonaten wurden fünf Bewerber zu einem Vorstellungsgespräch eingeladen.  
+Am besten gefiel den drei Jungunternehmern Frau Kurz. Frau Kurz war 33 Jahre alt  und 
+hatte eine Ausbildung zur Bürokauffrau absolviert. Nach der Ausbildung hatte sie zwei Jahre 
+gearbeitet und war dann nach der Geburt ihres Sohnes in den Erziehungsurlaub gegangen. 
+Nun ging ihr Kind zur Schule und sie wollte wieder halbtags arbeiten.  
+Christoph erklärte ihr ausführlich, dass die StartUp GmbH dringend auf kontinuierliche Mitar -
+beit angewiesen war.  
+--- Seite 76 ---
+ 73 
+„Wir haben jetzt eine ganze Zeit lang mit Aushilfen gearbeitet, aber das geht jetzt einfach 
+nicht mehr. Wir werden wahrscheinlich einige Zeit brauchen, bis wir Sie mit allen Abläufen 
+vertraut gemacht haben. Für uns werden Sie dementsprechend erst in einigen Wochen oder 
+Monaten wirklich wertvoll sein, wenn wir Sie im Büro allein lassen können. Und wenn Sie 
+dann beispielsweise wieder aussteigen, weil sie noch ein Kind bekommen, macht Ihre bis 
+dahin geleistete Mitarbeit für uns wenig Sinn.“  
+Frau Kurz äußerte Verständnis für diese Anforderungen und verwies in diesem Zusammen -
+hang auf ihre Mutter, die sich in Notfällen um ihren Sohn kümmern würde. Auch sei sie 
+weder schwanger noch sei eine weitere Schwangerschaft geplant.  
+„Ich möchte jetzt erstmal wieder ins Berufsleben zurückfinden und arbeiten. Kinder möchte 
+ich ganz bestimmt keine mehr.“ , erklärte sie.  
+Frau Kurz trat ihre neue Arbeitsstelle wie verei nbart zwei Wochen später an. Schnell stellte 
+sich heraus, dass ihre EDV -Kenntnisse spärlich und zumeist veraltet waren. Viele Arbeits -
+vorgänge überforderten sie und sie reagierte immer häufiger mit Verweigerung. Die drei 
+mussten schon bald deutliche Abstri che von ihren Erwartungen machen. Immerhin über -
+nahm Frau Kurz selbständig das Telefon und notierte eingehende Anrufe, so dass Chris -
+toph, Karina und Stefan ihre Arbeit nicht mehr so häufig unterbrechen mussten.  
+Leider stellten die drei bald fest, dass Frau Kurz’ Neigung zum Telefon weit über die beruf -
+lichen Erfordernisse hinausging. Nach und nach bemerkten sie, dass die neue Mitarbeiterin 
+oft und lange private Dinge am Telefon besprach – offensichtlich nicht mit Kunden.  
+Stefan platzte schließlich der Kragen. „Haben Sie schon registriert, dass Sie hier zum 
+Arbe iten sind und nicht zum Telefonieren? Sie können in dringenden Fällen gern mal ein 
+kurzes Telefonat führen, aber ansonsten sind Privattelefonate ab sofort tabu.“  
+Richtig wütend wurde er jedoch, als er 14 Tage später routinemäßig den Einzel verbindungs -
+nachweis der Telefonrechnung überprüfte und zu seiner Überraschung viele ihm unbekannte Telefonnummern aus ganz Deutschland entdeckte. Außerdem fanden sich mehrere längere 
+Gespräche nach Übersee. Da die StartUp GmbH noch keine Kunden in Amerika hatte, ver -
+mutete er nicht zu Unrecht, dass es sich bei den Angerufenen um Verwandte von Frau Kurz 
+handelte.  
+Als Christoph davon erfuhr, stellte er Frau Kurz zur Rede.  
+Frau Kurz zeigte sich nicht sonderlich beeindr uckt. „Dass Sie sich wegen der paar Telefo -
+nate so aufregen versteh ich echt nicht. Sie verdienen doch genug Geld. Ist aber auch egal, 
+denn ich weiß eh nicht, wie lang ich überhaupt noch kommen kann, mein Arzt meint nämlich, 
+dass ich wegen meines Zustands sowieso nicht so viel Stress vertrage.“  
+Und so erfuhr Christoph, dass Frau Kurz schwanger war und dies auch schon zur Zeit der Einstellung gewesen war. Nicht ohne Triumph erklärte sie, dass sie auch nicht wüsste, ob 
+sie noch lang kommen würde oder ob sie s ich verstärkt ins Bett würde legen müssen. Dabei 
+vergaß sie nicht zu erwähnen, dass sie davon ausging, weiterhin ihr Gehalt zu bekommen.  
+Nachdem Frau Kurz um ein Uhr das Büro verlassen hatte, trafen sich die drei zur Krisensit -
+zung.  
+--- Seite 77 ---
+ 74 
+„Jetzt reicht’s einfach, wir schmeißen sie raus!“, empörte sich Christoph.  
+„Wieso kündigen?" , entgegnet e Stefan verärgert, "Schließlich hat sie uns doch angelogen. 
+Sie war schwanger und hat uns gesagt, sie sei es nicht!“  
+Karina meldete Skepsis an: „Ob das so einfach geht? Schließlich ist sie schwanger. Hat sie 
+dann nicht so was wie Mutterschutz?“  
+Christoph und Stefan starrten sie entgeistert an.  
+„Bist du jetzt auf ihrer oder auf unserer Seite?“, fragte Stefan sie schließlich empört.  
+Karina verdrehte entnervt die Augen. „Klar bin ich auf unserer Seite, aber im Laufe der letz -
+ten Monate haben wir ja wohl gemerkt, dass es einige Sachen gibt, die wir nicht so einfach 
+nach unserem Geschmack verändern können und ich schätze mal, der Mutterschutz gehört 
+dazu.“  
+Christop h stöhnte auf. „Wer hätte gedacht, dass das alles so kompliziert wird? Wenn ich 
+überlege, wie einfach alles war, als wir unsere Jobs noch als Freiberufler abgewickelt haben, 
+jeden Monat ein bisschen was für das Büro bezahlt haben und ansonsten unsere Ruhe hat -
+ten…“  
+Stefan r ettete grinsend die Stimmung: „Jetzt stellt euch mal nicht so an, die Sache mit der 
+Kurz wird sich schon irgendwie regeln – Mutterschutz hin oder her – und ansonsten läuft 
+doch alles ganz gut, oder? Und bevor ihr mir jetzt beide depressiv werdet, mach ich mal den 
+rettenden Vorschlag: Wer will noch ’nen Kaffee mit extra stark aufgeschäumter Milch…?“  
+Die neue Mitarbeiterin – Rechtliche Erläuterung  
+Wie Karina zutreffend bemerkt hatte, stellt sich die Angelegenheit in der Tat nicht ganz so einfach dar. Die Schwangerschaft von Frau Kurz belastet die StartUp GmbH enorm; und 
+obwohl Frau Kurz bei der Einstellung diesbezüglich die Unwahrheit gesagt hatte, ist sie 
+deswegen nicht kündbar. Auch ihr Fehlverhalten am Arbeitsplatz berechtigt nicht zu einer 
+Kündigung. 
+Anfechtung 
+Eine Möglichkeit, ein wirksam zustande gekommenes Rechtsgeschäft  nachträglich einseitig 
+zu vernichten, gewährt die Anfechtung, §§ 119 ff. BGB. Unter den im Gesetz genannten 
+Voraussetzungen kann derjenige, der eine Willenserklärung abgegeben hat, dies e Erklä rung 
+mit der Folge anfechten, dass das gesamte Rechtsgeschäft  rückwirkend, lateinisch ex tunc , 
+vernichtet wird, § 142 Abs. 1 BGB. Wegen der Besonderheit im Arbeitsve rhältnis geht die 
+herrschende Meinung davon aus, dass das Arbeitsverhältnis durch die Anfechtung nicht rückwirkend, sondern erst vom Zeitpunkt der Anfechtungserklärung an, beendet wird, da der 
+Arbeitnehmer die geleistete Arbeit nicht „zurückgeben“ kann. Ferner wären die Fol gen einer 
+--- Seite 78 ---
+ 75 
+rückwirkenden Anfechtung für den Arbeitnehmer noch insoweit unzumutbar, da er die 
+ausgezahlte Vergütung regelmäßig zum Lebensunterhalt verwendet.  
+Voraussetzungen einer wirksamen Anfechtung sind:  
+ 
+• eine Anfechtungserklärung, 
+• ein Anfechtungsgrund, 
+• und die Einhaltung der Anfechtungsfrist.  
+Anfechtungserklärung  
+Dam it die Anfechtung  den gewünschten Erfolgt erzielen kann, ist Vorau ssetzung, dass die 
+Anfechtungserklärung gemäß § 143 BGB  dem richtigen Anfechtungsgegner zugeht, § 130 
+BGB. Zum Inhalt hat eine Anfechtung serklärung, die selbst eine Willenserklärung  ist, den  
+Willen des Anfechtungsberechtigten, die rückwirkende Vernichtung seiner anfechtbaren 
+Erklärung herbeizuführen.  
+Hier müssten  Karina, Stefan oder Christoph im Namen der GmbH Frau Kurz gegen über 
+erklären, dass  der Arbeitsvertrag angefochten wird.  
+Anfechtungsgrund  
+Das Gesetz kennt viele Anfechtungsgründe in den §§ 119 ff. BGB, so z. B.  den Inhaltsirr tum, 
+§ 119 Abs. 1 1. Fall BGB,  Erklärungsirrtum , § 119 Abs. 1 2. Fall BGB , Eigenschafts irrtum , 
+§ 119 Abs. 2 BGB , als auch die Anfechtbarkeit wegen arglistiger T äuschung oder 
+widerrechtlicher Drohung, § 123 Abs. 1 BGB .  
+Frau Kurz hat beim Einstellungsgespräch über ihren Zustand als werdende Mutter arglistig 
+getäuscht. Als Täuschung ist nämlich jedes Verhalten anzusehen, das bei einem anderen einen Irrtum herbeiführt , unterhält oder er regt. Dieser Irrtum  muss  sich auf objektiv nach -
+prüfbare Umstände beziehen. Arglistig ist eine Täuschung, wenn sie bewusst vorgenommen wurde, mithin der Handelnde die Unrichtigkeit seiner Anga ben kannte.  
+ Obwohl im Wortlaut des § 123 Abs. 1 BGB  als Voraussetzung nicht genannt, muss auch die 
+arglistige Täuschung, wie auch die Drohung, widerrechtlic h sein. Dies ist aber nur dann der 
+Fall, wenn die bewusst unrichtige Antwort auf eine zulässige Frage folgte. Damit wäre das 
+Verschweigen der  Schwangerschaft unerheblich, wenn die Frage danach im Falle von Frau 
+Kurz unzulässig war. Ob jedoch die Frage nach einer bestehenden Schwangerschaft unzulässig ist, wurde in der Vergangenheit in der Rechtsprechung unterschiedlich beurteilt. 
+Hierbei ist die Unterscheidung widerrechtlich und rechtmäßig von entscheidender Bedeu -
+tung, da sich der Arbeitgeber grds. über den einzustellenden Mitarbeiter informieren bzw. 
+--- Seite 79 ---
+ 76 
+diesen bei dem Ei nstellungsgespräch befragen darf. Es dürfen nur Fragen gestellt werden, 
+die für das einzelne einzugehende Arbeitsverhältnis von Bedeutung sind. Wenn jedoch ein-
+zelne Fragen den Rechtskreis des Arbeitnehmers zu stark beeinträchtigen, brauchen diese 
+nicht wah rheitsgemäß beantwortet zu werden. Erwidert der möglicherweise zukünftige 
+Arbeitnehmer eine solche Frage wahrheitswidrig und täuscht damit den Arbeitgeber arglistig, 
+fehlt es an der Widerrechtlichkeit der Täuschung im Sinne des § 123 Abs. 1 BGB . Wann das 
+der Fall ist, muss  von Einzelfall zu Einzellfall entschieden werden.  
+ 
+So hatt e das BAG im Jahre 1962 dem Arbeitgeber noch ein umfassendes Fragerecht zuge-
+billigt ( BAG NJW 1962, 74 ). Bereits im Jahre 1987 hat das BAG unter Einbeziehung des im 
+Jahre 1980 ins BGB eingefügten §  611a BGB  eine Differenzierung vorgenommen. Danach 
+war die Frage nach einer bestehenden Schwangerschaft bei ausschließlich weiblichen 
+Bewerbern nach wie vor zulässig. Hintergrund dieser Entscheidung war die Annahme, dass 
+eine Diskriminierung und somit die Verletzung des Art.  3 GG  durch U ngleichbehandlung 
+unter wei blichen Bewerbern nicht gegeben ist ( BAG JZ 1987, 311). Nunmehr wird grds. die 
+Frage nach einer bestehenden Schwangerschaft als unzulässig angesehen (BAG, DB 1993, 
+435),  weil sie gegen das allg. Persönlic hkeitsrecht  aus Art. 1 Abs. 1 i. V. m.  Art. 2 Abs. 1 GG 
+verstößt . Die Folge ist, dass auch eine wahrheitswidrig beantwortete Frage nicht 
+widerrechtlich im Sinne des § 123 Abs. 1 BGB  ist. Dieser Di skriminierungsschutz wird auch 
+auf andere Bereiche des allg. Persönlichkeitsrechts  angewandt, so z. B.  auf Fragen nach 
+Erkrankungen (HIV -Virus). Nur in Ausnahmefällen wird von diesem Diskrimini erungsschutz 
+abgesehen, so z. B.  im Hinblick auf eine Schwangerschaft dann, wenn es um eine 
+Einstellung als Tänzerin, Model oder Mannequin geht, d. h.  wenn die Frage nach der 
+Schwangerschaft objektiv dem gesund heitlichen Schutz der werdenden Mutter und dem 
+ungeborenen Kind dient.  
+ 
+Hier sollte Frau Kurz jedoch als Sekretärin eingestellt werden. Ein Aus nahmefall kann daher 
+nicht angenommen werden, mit der Folge, dass die arglisti ge Täuschung nicht widerrechtlich 
+war. Eine Anfechtung nach § 123 Abs. 1 BGB  ist somit nicht möglich.  
+ Denkbar ist ferner aber auch eine Anfechtung des Arbeitsvertrages wegen Irrtums über eine 
+verkehrswesentliche Eigenschaft gemäß §  119 Abs. 2 BGB . Eine be stehende Schwanger -
+schaft stellt jedoch keine Eigenschaft dar, weil eine verkehrswesentliche Eigenschaft einer Person nur dann vorliegt, wenn sie von längerer Dauer ist. Eine Schwangerschaft hingegen 
+ist vor übergehend und somit keine Eigenschaft, die einer  Person anhaftet.  
+ 
+Nur in Ausnahmefällen kann aufgrund einer bestehenden Schwangerschaft nach §  119 
+Abs. 2 BGB  angefochten werden. Das ist dann der Fall, wenn die vertraglich vorgesehene 
+Tätig keit vollkommen oder zum größten Teil gerade wegen der Schwange rschaft nicht 
+verrichtet werden kann, z. B.  bei schwerer körperlicher Arbeit. Die für Frau Kurz 
+--- Seite 80 ---
+ 77 
+vorgesehene Bürotätigkeit fällt nicht unter diese Ausnahmeregelung, weil es einer 
+werdenden Mutter grds. möglich ist, diese Tätigkeit im Rahmen der Vorschriften des MuSchGs  durchzuführen.  
+ Eine Anfechtung wegen Irrtums über eine verkehrswesentliche Eigen schaft gemäß § 119 
+Abs. 2 BGB  scheidet somit ebenfalls aus.  
+Kündigung 
+Eine (fristlose) Kündigung  aus wichtigem Grund gemäß § 626 Abs. 1 BGB  im Hinblick auf 
+das bewusste Verschweigen der Schwangerschaft seitens Frau Kurz scheidet ebenfalls aus 
+den obigen Erwägungen aus. Frau Kurz durfte eine unzulässige Frage durchaus unwahr beantworten.  
+Eine Kündigung wäre hier aber grds. möglich, wenn Frau Kurz aufgrund der langen Telefo -
+nate ins Ausland während der Arbeitszeit arbeitsvertragl iche Pflichten verletzt hat.  
+ Der Arbeitsvertrag als Grundlage des Arbeitsverhältnisses ist ein Sonder fall des Dienstver -
+trages, §§ 611 ff. BGB. Für ihn gelten somit die Kündi gungsvorschri ften der §§ 611 bis 630 
+BGB. Dabei kann ein Arbeitsvertrag ordentlich, §§ 620 ff. BGB, und außeror dentlich 
+gekün digt werden, § 626 BGB .  
+ 
+Voraussetzung für eine Kündigung nach § 626 BGB ist, dass:  
+ 
+• eine Kündigungserklärung und  
+• ein außerordentlicher Kündigungsgrund vorliegt sowie 
+• kein besonderer Kündigungsschutz eingreift  
+Kündigungserklärung  
+Die Kündigungserklärung ist eine empfangsbedürftige Willenserklärung , so dass für sie die 
+allg. Regeln über Geschäftsfähigkeit , §§ 104 ff. BGB, Stellvertretung, §§ 164 ff. BGB und 
+Zugang von Willenserklärungen, §§ 130 ff. BGB anzuwenden sind. Besonders wichtig ist 
+jedoch, dass aufgrund der Bedeutung der Kündigungserklärung diese ausdrücklich als solche bezeichnet werden oder z umindest der Kündigungswille unzweideutig erkennbar sein 
+muss , z. B. durch eine beili egende Begründung. Eine Kündigung bedarf gemäß § 623 BGB  
+der Schrif tform.  
+ 
+--- Seite 81 ---
+ 78 
+Hier müsste die StartUp GmbH noch durch Stefan, Karina oder  Christoph eine Kündigungs -
+erklärung verfassen und Frau Kurz zukommen lassen.  
+Künd igungsgrund  
+Ferner muss ein wichtiger Grund im Sinne des § 626 Abs. 1 BGB  vorliegen. Dieser muss in 
+zwei Schritten festgestellt werden. Der der Kündigung  zugrunde gelegte Sachverhalt muss 
+abstrakt geeignet sein, einen Kündi gungsgrund darzustellen. Weiterhin sind alle Interessen 
+des konkreten Ei nzelfalls mit zu berücksichtigen.  
+ 
+Fraglich ist, ob im Fall der privaten Telefonate von Frau Kurz – trotz vorheriger Abmahnung  
+– von einer gravierenden Beeinträchtigung der arbeitsvertraglichen Pflichten ausgegangen 
+werden kann.  
+ Zunächst ist festzustellen, dass die privaten Telefonate in keiner Weise der Einarbeitung in 
+ihre berufl iche Tätigkeit dienten.  Zum anderen hat Frau Kurz, nicht zuletzt durch ihre 
+Auslandsgespr äche, auch beträchtliche Kosten verursacht. Zu den arbeits vertraglichen 
+Pflichten jedes A rbeitnehmers gehört auch die Pflicht, Schaden vom Unter nehmen 
+fernzuhalten, also auch das Unternehmen nicht unnötig finanziell zu belasten. Eine 
+Abma hnung ist, wie bereits oben festgestellt, erfolgt.  
+ Eine Abwägung der einzelnen Interessen ergibt, dass gerade aufgrund der geringen Größe 
+der StartUp GmbH und der damit verbundenen finanziellen und personellen Mittel eine Trennung von Frau Kurz notwendig ist, zumal diese sich höchst uneinsichtig gezeigt hat, so 
+dass weitere Arbeitsausfälle verbunden mit hohen Kosten auf die GmbH zukommen könn -
+ten.  
+ 
+Folglich besteht ein wichtiger Grund im Sinne des § 626 Abs. 1 BGB .  
+Kündigungsschutz  
+Eine Kündigung ist hier allerdings wegen § 9 MuSchG  nicht möglich. Diese Norm stellt im 
+Arbeitsrecht zum Schutz der Schwangeren ein sog. absolutes Kündigungsverbot  dar, d. h. 
+sowohl eine fristgerechte, als auch fristlose, Kündigung ist unzulässig. Das bedeutet, dass  
+Frau Kurz nicht entlassen werden kann, obwohl sie nur mäßige Leistungen erbringt und sich 
+bereits mehrmals hat etwas zu Schulden kommen lassen (privates Telefonieren auf Kosten 
+der StartUp GmbH während der Arbeitszeit).  Erst vier Monate nach der Entbindung entfällt 
+der Kündigungs schutz des § 9 MuSchG. 
+--- Seite 82 ---
+ 79 
+Aufhebungsvertrag  
+Letztlich kann ein Arbeitsverhältnis auf verschiedene Art und Weise auf gelöst werden, so z. 
+B. auch durch einen Aufhebungsvertrag. Dieser hat die Aufhebung des Arbeits vertrages, 
+welcher regelmäßig ein Diens tvertrag gemäß der §§ 611 ff. BGB  ist, zum Inhalt. Wie jeder  
+Vertrag  setzt auch der Aufhebungsvertrag zwei Willenserklärungen voraus, d. h. aber, dass 
+sich Arbeitgeber und Arbeitnehmer die Beendigung des Arbeitsverhältnisses wün schen oder 
+zumindest damit einverstanden sind.  
+ 
+Hier hat Frau Kurz durch ihr eindeutiges  Verhalten zu erkennen gegeben, dass sie weiter 
+beschäftigt werden will, denn sie möchte ihren Lohn während ihrer Schwangerschaft weiter beziehen können. Ein Aufhebungsvertrag scheidet somit in diesem Fall am fehlenden Mit -
+wirken seitens Frau Kurz aus.  
+ 
+Damit besteht das Arbeitsverhältnis mit Frau Kurz zum Leidwesen von Karina, Stefan und 
+Christoph weiter hin. 
+--- Seite 83 ---
+
+--- Seite 84 ---
+Alle Rechte vorbehalten
+© 2025 FernUniversität in Hagen
+Rechtswissenschaftliche Fakultät *000000000*000000000
+(04/25)
+55100­04­S#1

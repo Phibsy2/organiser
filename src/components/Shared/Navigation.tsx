@@ -5,7 +5,8 @@ import {
   HeartIcon,
   ChartBarIcon,
   Cog6ToothIcon,
-  CakeIcon
+  CakeIcon,
+  AcademicCapIcon
 } from '@heroicons/react/24/outline';
 import {
   HomeIcon as HomeIconSolid,
@@ -13,10 +14,11 @@ import {
   HeartIcon as HeartIconSolid,
   ChartBarIcon as ChartBarIconSolid,
   Cog6ToothIcon as Cog6ToothIconSolid,
-  CakeIcon as CakeIconSolid
+  CakeIcon as CakeIconSolid,
+  AcademicCapIcon as AcademicCapIconSolid
 } from '@heroicons/react/24/solid';
 
-export type NavigationTab = 'dashboard' | 'study' | 'training' | 'nutrition' | 'progress' | 'settings';
+export type NavigationTab = 'dashboard' | 'training' | 'nutrition' | 'learning' | 'progress' | 'settings';
 
 interface NavigationProps {
   activeTab: NavigationTab;
@@ -32,12 +34,6 @@ const Navigation: React.FC<NavigationProps> = ({ activeTab, onTabChange }) => {
       iconActive: HomeIconSolid
     },
     {
-      id: 'study' as NavigationTab,
-      label: 'Studium',
-      icon: BookOpenIcon,
-      iconActive: BookOpenIconSolid
-    },
-    {
       id: 'training' as NavigationTab,
       label: 'Training',
       icon: HeartIcon,
@@ -48,6 +44,12 @@ const Navigation: React.FC<NavigationProps> = ({ activeTab, onTabChange }) => {
       label: 'Ernährung',
       icon: CakeIcon,
       iconActive: CakeIconSolid
+    },
+    {
+      id: 'learning' as NavigationTab,
+      label: 'Lernen',
+      icon: AcademicCapIcon,
+      iconActive: AcademicCapIconSolid
     },
     {
       id: 'progress' as NavigationTab,

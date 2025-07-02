@@ -42,5 +42,6 @@ export interface User {
     primaryGoal: 'lose_weight' | 'build_muscle' | 'maintain' | 'body_recomposition';
     weeklyStudyHours: number;
     weeklyTrainingSessions: number;
+    dailyCalories: number;
   };
 }

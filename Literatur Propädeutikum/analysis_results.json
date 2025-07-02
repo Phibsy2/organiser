@@ -1,0 +1,1351 @@
+{
+  "pdf1": {
+    "totalLines": 7361,
+    "chapters": [
+      {
+        "title": "A. Grundbegriffe der Rechtsanwendung",
+        "lineNumber": 341,
+        "sections": [
+          {
+            "title": "1. Abgrenzung",
+            "lineNumber": 395
+          },
+          {
+            "title": "2. Fall und Falllösung",
+            "lineNumber": 530
+          }
+        ]
+      },
+      {
+        "title": "II. Rechtsanwendung",
+        "lineNumber": 617,
+        "sections": [
+          {
+            "title": "1. Logisch-systematische Voraussetzungen",
+            "lineNumber": 627
+          },
+          {
+            "title": "2. Justizsyllogismus: pragmatische Regelanwendung",
+            "lineNumber": 1816
+          },
+          {
+            "title": "1. Prämisse: Wenn Tatbestand erfüllt → Rechtsfolge",
+            "lineNumber": 2101
+          },
+          {
+            "title": "2. Prämisse: Sachverhalt – erfüllt Tatbestand",
+            "lineNumber": 2102
+          },
+          {
+            "title": "3. Erweiterung des Schemas: der vollständige Justizsyllogismus",
+            "lineNumber": 2171
+          },
+          {
+            "title": "1. Prämisse: Wenn Tatbestand erfüllt → Rechtsfolge",
+            "lineNumber": 2178
+          },
+          {
+            "title": "2. Prämisse: Sachverhalt – erfüllt Tatbestand",
+            "lineNumber": 2179
+          },
+          {
+            "title": "1. Prämisse: Wenn Tatbestand erfüllt → Rechtsfolge",
+            "lineNumber": 2194
+          },
+          {
+            "title": "2. Prämisse: Sachverhalt – erfüllt Tatbestand ???",
+            "lineNumber": 2195
+          },
+          {
+            "title": "4. Nebenschema: Schwerpunkt der Begründung",
+            "lineNumber": 2293
+          },
+          {
+            "title": "5. Woher kommen die Tatbestandsmerkmale?",
+            "lineNumber": 2330
+          },
+          {
+            "title": "6. Subsumtion",
+            "lineNumber": 2386
+          }
+        ]
+      },
+      {
+        "title": "III. Methodologische Überlegungen: Wie arbeiten Juristen?",
+        "lineNumber": 2464,
+        "sections": [
+          {
+            "title": "1. Ausgangspunkt Rechtsproblem",
+            "lineNumber": 2535
+          },
+          {
+            "title": "2. Arbeitsauftrag: Das Herstellen der Prämissen",
+            "lineNumber": 2578
+          },
+          {
+            "title": "3. Autorität und Gerechtigkeit",
+            "lineNumber": 2634
+          }
+        ]
+      },
+      {
+        "title": "B. Der Sachverhalt 57",
+        "lineNumber": 2651,
+        "sections": [
+          {
+            "title": "1. Sachverhaltskonstruktion in der Praxis",
+            "lineNumber": 2665
+          },
+          {
+            "title": "2. Der Sachverhalt im Studium",
+            "lineNumber": 2714
+          },
+          {
+            "title": "3. Professionalität",
+            "lineNumber": 2750
+          }
+        ]
+      },
+      {
+        "title": "II. Arbeitsschritte im Umgang mit dem Sachverhalt",
+        "lineNumber": 2774,
+        "sections": [
+          {
+            "title": "1. Erfassen: Studieren Sie den Sachverhalt!",
+            "lineNumber": 2810
+          },
+          {
+            "title": "2. Im Sachverhalt nach Lösungshinweisen suchen!",
+            "lineNumber": 2824
+          },
+          {
+            "title": "3. Gliedere den Sachverhalt!",
+            "lineNumber": 3195
+          },
+          {
+            "title": "4. Verarbeiten des Sachverhaltes",
+            "lineNumber": 3355
+          }
+        ]
+      },
+      {
+        "title": "C. Einführung in den Gutachtenstil",
+        "lineNumber": 3691,
+        "sections": [
+          {
+            "title": "1. Der Such- und Prüfmodus",
+            "lineNumber": 3799
+          }
+        ]
+      },
+      {
+        "title": "A. Ergebnishypothese: Ich könnte heute länger schlafen…",
+        "lineNumber": 3966,
+        "sections": []
+      },
+      {
+        "title": "I. Gesichtspunkt1: …weil Feiertag ist? [„(Wenn) Feiertag → (dann) kann man",
+        "lineNumber": 3967,
+        "sections": [
+          {
+            "title": "1. Prüfung: Der Kalender sagt leider nein: heute ist kein Feiertag (-)",
+            "lineNumber": 3969
+          },
+          {
+            "title": "2. Ergebnis1: Ich kann heute nicht länger schlafen",
+            "lineNumber": 3970
+          }
+        ]
+      },
+      {
+        "title": "II. Gesichtspunkt 2: ...weil mein erster Termin heute ausfällt? [„Wenn erster",
+        "lineNumber": 3971,
+        "sections": [
+          {
+            "title": "1. Prüfung: Termin fällt aus, ja! (+)",
+            "lineNumber": 3973
+          },
+          {
+            "title": "2. Ergebnis2: Ich kann heute länger schlafen",
+            "lineNumber": 3974
+          }
+        ]
+      },
+      {
+        "title": "III. Gesichtspunkt 3: …weil ich müde bin? [„(Wenn) müde → (dann) länger",
+        "lineNumber": 3975,
+        "sections": [
+          {
+            "title": "1. Prüfung: Der Regel-Anwendungstest wäre ja erfolgreich: ich bin",
+            "lineNumber": 3977
+          },
+          {
+            "title": "2. Ergebnis3: Ich kann heute nicht länger schlafen",
+            "lineNumber": 3981
+          }
+        ]
+      },
+      {
+        "title": "B. Endergebnis: Gemäß Begründung2 kann ich heute länger schlafen.",
+        "lineNumber": 3982,
+        "sections": [
+          {
+            "title": "2. Gründe prüfen im Gutachtenstil",
+            "lineNumber": 3984
+          },
+          {
+            "title": "1. Hypothetischer Teil",
+            "lineNumber": 4075
+          },
+          {
+            "title": "2. Ergebnis",
+            "lineNumber": 4077
+          },
+          {
+            "title": "3. Denken unter Voraussetzungen",
+            "lineNumber": 4139
+          }
+        ]
+      },
+      {
+        "title": "II. Aufbau des Gutachtens",
+        "lineNumber": 4285,
+        "sections": [
+          {
+            "title": "1. Obersatz",
+            "lineNumber": 4326
+          },
+          {
+            "title": "2. Voraussetzung",
+            "lineNumber": 4327
+          },
+          {
+            "title": "3. Definition",
+            "lineNumber": 4328
+          },
+          {
+            "title": "4. Subsumtion",
+            "lineNumber": 4329
+          },
+          {
+            "title": "5. Ergebnis",
+            "lineNumber": 4330
+          },
+          {
+            "title": "1. Obersatz",
+            "lineNumber": 4337
+          },
+          {
+            "title": "1. Obersatz",
+            "lineNumber": 4346
+          },
+          {
+            "title": "2. Voraussetzung",
+            "lineNumber": 4347
+          },
+          {
+            "title": "3. Definition",
+            "lineNumber": 4348
+          },
+          {
+            "title": "4. Subsumtion",
+            "lineNumber": 4349
+          },
+          {
+            "title": "5. Ergebnis",
+            "lineNumber": 4350
+          },
+          {
+            "title": "1. Obersatz",
+            "lineNumber": 4354
+          },
+          {
+            "title": "2. Voraussetzung",
+            "lineNumber": 4358
+          },
+          {
+            "title": "3. Definition",
+            "lineNumber": 4362
+          },
+          {
+            "title": "4. Subsumtion",
+            "lineNumber": 4366
+          },
+          {
+            "title": "5. Ergebnis",
+            "lineNumber": 4370
+          },
+          {
+            "title": "2. Voraussetzungen",
+            "lineNumber": 4644
+          },
+          {
+            "title": "1. Obersatz",
+            "lineNumber": 4646
+          }
+        ]
+      },
+      {
+        "title": "S. o. Abschnitt A. Grundbegriffe II. 2. b).",
+        "lineNumber": 4660,
+        "sections": []
+      },
+      {
+        "title": "I. Obersatz",
+        "lineNumber": 4680,
+        "sections": []
+      },
+      {
+        "title": "II. Voraussetzung",
+        "lineNumber": 4684,
+        "sections": []
+      },
+      {
+        "title": "III. Subsumtion",
+        "lineNumber": 4689,
+        "sections": []
+      },
+      {
+        "title": "IV. Ergebnis",
+        "lineNumber": 4695,
+        "sections": [
+          {
+            "title": "2. Voraussetzungen",
+            "lineNumber": 5016
+          },
+          {
+            "title": "1. Obersatz",
+            "lineNumber": 5020
+          },
+          {
+            "title": "2. Voraussetzungen",
+            "lineNumber": 5024
+          },
+          {
+            "title": "3. Definition",
+            "lineNumber": 5028
+          },
+          {
+            "title": "4. Subsumtion",
+            "lineNumber": 5034
+          },
+          {
+            "title": "5. Ergebnis",
+            "lineNumber": 5040
+          },
+          {
+            "title": "1. Zu prüfen ist, ob Merkmal 1 vorliegt.",
+            "lineNumber": 5057
+          },
+          {
+            "title": "2. Fraglich ist des Weiteren, ob Merkmal 2 vorliegt.",
+            "lineNumber": 5068
+          }
+        ]
+      },
+      {
+        "title": "I. Objektiver Tatbestand. A müsste eine",
+        "lineNumber": 5119,
+        "sections": []
+      },
+      {
+        "title": "I. Objektiver Tatbestand. Dafür müsste A einen anderen Men-",
+        "lineNumber": 5140,
+        "sections": [
+          {
+            "title": "1. Der Obersatz wird traditionell im Konjunktiv II (Irrealis) formuliert, z. B. „A könnte",
+            "lineNumber": 5480
+          },
+          {
+            "title": "2. Zählen Sie zu den Fortschrittlichen, die bereits den ersten Obersatz in den Indikativ setzen, werden Sie dies durchgehend beibehalten. 87",
+            "lineNumber": 5538
+          },
+          {
+            "title": "3. Definition",
+            "lineNumber": 5560
+          },
+          {
+            "title": "1. Obersatz",
+            "lineNumber": 5564
+          },
+          {
+            "title": "2. Voraussetzungen",
+            "lineNumber": 5568
+          },
+          {
+            "title": "3. Definition",
+            "lineNumber": 5572
+          },
+          {
+            "title": "4. Subsumtion",
+            "lineNumber": 5577
+          },
+          {
+            "title": "5. Ergebnis",
+            "lineNumber": 5578
+          }
+        ]
+      },
+      {
+        "title": "I. Streitstand",
+        "lineNumber": 5806,
+        "sections": [
+          {
+            "title": "1. Meinung {z. B.: Tod = Funktionsverlust des Gesamthirns}",
+            "lineNumber": 5807
+          },
+          {
+            "title": "2. Meinung {Tod = Herztod}",
+            "lineNumber": 5822
+          },
+          {
+            "title": "3. Meinung … usw.",
+            "lineNumber": 5833
+          }
+        ]
+      },
+      {
+        "title": "II. Streitentscheidung durch eigene Stellungnahme",
+        "lineNumber": 5834,
+        "sections": [
+          {
+            "title": "4. Aufl. 2013, Rn. 25–27, mwN.",
+            "lineNumber": 5856
+          },
+          {
+            "title": "1. Die grammatische Auslegung geht vom allgemeinen Sprachgebrauch",
+            "lineNumber": 6310
+          },
+          {
+            "title": "2. Mit der systematischen Auslegung wird anhand der vom Gesetzgeber",
+            "lineNumber": 6317
+          },
+          {
+            "title": "3. Die historische Auslegung fragt insbesondere nach der geschichtlichen",
+            "lineNumber": 6366
+          },
+          {
+            "title": "4. Bei der teleologischen Auslegung wird die Bedeutung der Norm nach",
+            "lineNumber": 6429
+          },
+          {
+            "title": "4. Subsumtion",
+            "lineNumber": 6478
+          },
+          {
+            "title": "1. Obersatz",
+            "lineNumber": 6481
+          },
+          {
+            "title": "2. Voraussetzungen",
+            "lineNumber": 6485
+          },
+          {
+            "title": "3. Definition",
+            "lineNumber": 6489
+          },
+          {
+            "title": "4. Subsumtion",
+            "lineNumber": 6493
+          },
+          {
+            "title": "5. Ergebnis",
+            "lineNumber": 6497
+          },
+          {
+            "title": "5. Ergebnis",
+            "lineNumber": 6883
+          },
+          {
+            "title": "1. Obersatz",
+            "lineNumber": 6886
+          },
+          {
+            "title": "2. Voraussetzungen",
+            "lineNumber": 6887
+          },
+          {
+            "title": "3. Definition",
+            "lineNumber": 6891
+          },
+          {
+            "title": "4. Subsumtion",
+            "lineNumber": 6895
+          },
+          {
+            "title": "5. Ergebnis",
+            "lineNumber": 6900
+          }
+        ]
+      },
+      {
+        "title": "I. Anspruch entstanden?",
+        "lineNumber": 6970,
+        "sections": [
+          {
+            "title": "1. Tatbestandsvoraussetzungen der Anspruchsgrundlage",
+            "lineNumber": 6971
+          },
+          {
+            "title": "2. Rechtshindernde Einwendungen, insbesondere",
+            "lineNumber": 6972
+          }
+        ]
+      },
+      {
+        "title": "II. Anspruch untergegangen?",
+        "lineNumber": 6986,
+        "sections": [
+          {
+            "title": "1. Rechtsvernichtende Einwendungen, insbesondere",
+            "lineNumber": 6987
+          }
+        ]
+      },
+      {
+        "title": "III. Anspruch durchsetzbar?",
+        "lineNumber": 7027,
+        "sections": [
+          {
+            "title": "1. Peremptorische (= dauerhafte) Einreden:",
+            "lineNumber": 7029
+          },
+          {
+            "title": "2. Dilatorische (= verzögernde) Einreden:",
+            "lineNumber": 7037
+          }
+        ]
+      },
+      {
+        "title": "I. Ursprünglich war E Eigentümer",
+        "lineNumber": 7050,
+        "sections": []
+      },
+      {
+        "title": "II. Eigentumsverlust durch Ereignis 1., 2., 3.?",
+        "lineNumber": 7051,
+        "sections": [
+          {
+            "title": "6. Die weiteren Obersätze",
+            "lineNumber": 7087
+          },
+          {
+            "title": "1. Voraussetzung ist, dass A eine",
+            "lineNumber": 7166
+          },
+          {
+            "title": "7. Der Sinn fürs Wesentliche",
+            "lineNumber": 7212
+          }
+        ]
+      }
+    ],
+    "keywords": [
+      "Syllogismus",
+      "Definition",
+      "Tatbestand",
+      "Rechtsfolge",
+      "Subsumtion",
+      "Gutachtenstil",
+      "Obersatz",
+      "Rechtsgeschäft",
+      "Vertrag",
+      "Untersatz",
+      "Verwaltungsakt",
+      "Schuld",
+      "Willenserklärung",
+      "Anspruch",
+      "Rechtswidrigkeit"
+    ],
+    "definitions": [
+      {
+        "line": "Definition: „Ein Fohlen (Definiendum) ist ● ein Pferd und ● noch nicht",
+        "lineNumber": 818
+      },
+      {
+        "line": "[Definition:] Unter einem Leihvertrag ist die Verpflichtung zur vorübergehenden unentgeltlichen Gebrauchsüberlassung zu verstehen.",
+        "lineNumber": 5587
+      },
+      {
+        "line": "Zur Struktur, den Arten und Aufgaben einer Definition: Kurseinheit 1 A. II. 1. c) bb).",
+        "lineNumber": 5617
+      },
+      {
+        "line": "Streitige Definition: Begriff Richtermediation",
+        "lineNumber": 5731
+      },
+      {
+        "line": "Definition: Grausam tötet, wer dem Opfer aus gefühlsloser, unbarmherziger Gesinnung nach Dauer, Stärke oder durch Wiederholung Schmerzen oder Qualen körperlicher oder seelischer Art",
+        "lineNumber": 6796
+      }
+    ],
+    "examples": [
+      {
+        "line": "Abgrenzung: Beispiele und Regelbeispiele............................ 124",
+        "lineNumber": 284
+      },
+      {
+        "line": "Beispiele zu nennen, Verteilungskonflikte, Zielkonflikte, Machtkonflikte, Wertkonflikte oder Beziehungskonflikte.",
+        "lineNumber": 399
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 534
+      },
+      {
+        "line": "Das syllogistische Schließen kennt bejahende und verneinende Urteile, die entweder für allgemeine („alle“) oder partikuläre („einige“) Begriffe getroffen werden können. So werden im sog. Modus barbara, nach dem das vorliegende Beispiel gebildet",
+        "lineNumber": 672
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 698
+      },
+      {
+        "line": "(„Alle Verträge sind Rechtsgeschäfte“, u.s.w., s.o. Beispiel Syllogismus Modus barbara).",
+        "lineNumber": 704
+      },
+      {
+        "line": "Weiteres Beispiel",
+        "lineNumber": 705
+      },
+      {
+        "line": "So kann, wie im soeben angeführten Beispiel, in einem unproblematischen",
+        "lineNumber": 781
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 802
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 823
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 848
+      },
+      {
+        "line": "könnte man Einzelfälle aufführen oder Beispiele beschreiben (Leasingrate",
+        "lineNumber": 852
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 856
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 861
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 868
+      },
+      {
+        "line": "Beispiele",
+        "lineNumber": 943
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1033
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1048
+      },
+      {
+        "line": "Weiteres Beispiel",
+        "lineNumber": 1067
+      },
+      {
+        "line": "Beispiele für das begriffliche Wesensverständnis in der praktischen Jurisprudenz:",
+        "lineNumber": 1100
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1160
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1244
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1280
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1357
+      },
+      {
+        "line": "Weiteres Beispiel",
+        "lineNumber": 1364
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1371
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1381
+      },
+      {
+        "line": "den Anforderungen, die in anderen Disziplinen erhoben werden. Eine juristische Eigenart ist z. B. die offene Definition („… und andere“) sowie Definitionen durch Beispiele oder beispielhafte Fallgruppen:",
+        "lineNumber": 1396
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1397
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1423
+      },
+      {
+        "line": "Disjunktiv sind dagegen die Merkmale in den vorhergehenden Beispielsfällen („Arbeitnehmer“, „Landwirtschaft“) zu begreifen, das heißt: damit das Definierte („Landwirtschaft“) vorliegt, muss nur eines der Attribute (z. B. die berufsmäßige Imkerei) gegeben sein.",
+        "lineNumber": 1429
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1500
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1510
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1637
+      },
+      {
+        "line": "es sich zunächst vorstellen mag. Beispielsweise können Diskrepanzen zwischen der alltäglichen und der fachsprachlichen Wortverwendung auftreten.",
+        "lineNumber": 1644
+      },
+      {
+        "line": "Beispiel 42",
+        "lineNumber": 1653
+      },
+      {
+        "line": "„=“ („kommt zu“) ist in dem Beispiel genaugenommen in jedem Satz etwas anderes",
+        "lineNumber": 1852
+      },
+      {
+        "line": "In unserem Beispielsfall sind zahlreiche Ausnahmen denkbar. So muss z. B. der",
+        "lineNumber": 1862
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 1960
+      },
+      {
+        "line": "Beispiele",
+        "lineNumber": 1986
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 2082
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 2090
+      },
+      {
+        "line": "Beispiele",
+        "lineNumber": 2186
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 2208
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 2338
+      },
+      {
+        "line": "Merkmalsbildung durch die Lehre (Beispiel):",
+        "lineNumber": 2351
+      },
+      {
+        "line": "den Gesetzestext ergänzende Gestaltung. Die Klassifikation im vorliegenden Beispiel zu § 303 StGB liegt nahe, ist aber dennoch nicht zwingend. Manchmal fügen",
+        "lineNumber": 2376
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 2393
+      },
+      {
+        "line": "Beispiel 1",
+        "lineNumber": 2671
+      },
+      {
+        "line": "In diesem Beispiel liegt die Herausforderung nicht in der",
+        "lineNumber": 2679
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 2696
+      },
+      {
+        "line": "Beispiel 2",
+        "lineNumber": 2722
+      },
+      {
+        "line": "Im Gegensatz zu unserem Beispiel 1 steht die Sachlage hier",
+        "lineNumber": 2729
+      },
+      {
+        "line": "Die folgenden Beispiele sollen Sie mit der Sprache der offenen und versteckten Hinweise in Sachverhalten vertraut machen. Rechtliche Bewertungen sollen noch keine",
+        "lineNumber": 2872
+      },
+      {
+        "line": "Beispiel 3",
+        "lineNumber": 2875
+      },
+      {
+        "line": "Beispiel 4",
+        "lineNumber": 2893
+      },
+      {
+        "line": "Beispiel 4a",
+        "lineNumber": 2901
+      },
+      {
+        "line": "Beispiel 4b",
+        "lineNumber": 2908
+      },
+      {
+        "line": "Beispiel 5",
+        "lineNumber": 2922
+      },
+      {
+        "line": "Beispiel 5a",
+        "lineNumber": 2929
+      },
+      {
+        "line": "Beispiel 5b",
+        "lineNumber": 2937
+      },
+      {
+        "line": "Beispiel 6",
+        "lineNumber": 2954
+      },
+      {
+        "line": "Beispiel 7",
+        "lineNumber": 2967
+      },
+      {
+        "line": "Beispiel 8",
+        "lineNumber": 2981
+      },
+      {
+        "line": "Die Beispiele zeigen, dass bei konzentrierter Lektüre des Sachverhalts, der sprichwörtliche Wink mit dem Zaunpfahl sichtbar wird. Mit ihm will der Klausursteller die",
+        "lineNumber": 3051
+      },
+      {
+        "line": "Beispiel 9",
+        "lineNumber": 3060
+      },
+      {
+        "line": "Beispiel 10",
+        "lineNumber": 3071
+      },
+      {
+        "line": "Beispiel 11",
+        "lineNumber": 3095
+      },
+      {
+        "line": "Beispiel 12",
+        "lineNumber": 3142
+      },
+      {
+        "line": "Anders verhält es sich, wenn rechtliche Fachausdrücke bewusst als fraglich gekennzeichnet sind. Beispielsweise lässt die Beschreibung, A habe ein Restaurant „gemietet“, durch die Anführungszeichen offen, ob tatsächlich eine Miete vorliegt. Hier",
+        "lineNumber": 3157
+      },
+      {
+        "line": "Beispiel 13",
+        "lineNumber": 3163
+      },
+      {
+        "line": "Beispielsweise können Vorgänge, die eine bestimmte Handlung betreffen grün, Fristen rot, Beschreibung von Örtlichkeiten blau gekennzeichnet werden. Hierbei gilt es,",
+        "lineNumber": 3203
+      },
+      {
+        "line": "Beispiel 14",
+        "lineNumber": 3234
+      },
+      {
+        "line": "Beispiel 15",
+        "lineNumber": 3243
+      },
+      {
+        "line": "Beispiel 16",
+        "lineNumber": 3260
+      },
+      {
+        "line": "Beispiel 17",
+        "lineNumber": 3280
+      },
+      {
+        "line": "Beispiel 18",
+        "lineNumber": 3300
+      },
+      {
+        "line": "Beispiel 19",
+        "lineNumber": 3319
+      },
+      {
+        "line": "Beispiel 19a",
+        "lineNumber": 3325
+      },
+      {
+        "line": "Beispiel 20",
+        "lineNumber": 3334
+      },
+      {
+        "line": "Beispiel 20a",
+        "lineNumber": 3338
+      },
+      {
+        "line": "Beispiel 21",
+        "lineNumber": 3475
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 3886
+      },
+      {
+        "line": "Im Beispielsfall verlagert sich die Aufmerksamkeit von der Person A und seiner Strafbarkeit auf die Sachfrage, ob eine „Beschädigung oder Zerstörung",
+        "lineNumber": 4258
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4339
+      },
+      {
+        "line": "Beispiel für „weitere Obersätze“",
+        "lineNumber": 4374
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4430
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4439
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4451
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4494
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4511
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4574
+      },
+      {
+        "line": "Beispiele",
+        "lineNumber": 4594
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4631
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4665
+      },
+      {
+        "line": "Weiteres Beispiel: V und K haben sich auf einem Straßenfest über die Veräußerung",
+        "lineNumber": 4703
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4767
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4796
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4807
+      },
+      {
+        "line": "Beispiele",
+        "lineNumber": 4883
+      },
+      {
+        "line": "Sie sehen: die Liste dieser Beispiele könnte so lang werden wie die Menge aller",
+        "lineNumber": 4889
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4909
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 4919
+      },
+      {
+        "line": "Weiteres Beispiel",
+        "lineNumber": 4964
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5106
+      },
+      {
+        "line": "Weiteres Beispiel",
+        "lineNumber": 5126
+      },
+      {
+        "line": "Weiteres Beispiel",
+        "lineNumber": 5147
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5202
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5211
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5248
+      },
+      {
+        "line": "Weiteres Beispiel",
+        "lineNumber": 5274
+      },
+      {
+        "line": "Weiteres Beispiel",
+        "lineNumber": 5315
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5341
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5368
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5393
+      },
+      {
+        "line": "e) Abgrenzung: Beispiele und Regelbeispiele",
+        "lineNumber": 5410
+      },
+      {
+        "line": "Von den gutachterlichen Prüfvoraussetzungen, die den gesetzlichen Tatbestandselementen entsprechen, sind die vom Gesetzgeber angeführten Beispiele zu unterscheiden.",
+        "lineNumber": 5411
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5428
+      },
+      {
+        "line": "Beispiele - ob sie innerhalb einer Norm oder an anderer Stelle genannt werden können keine abstrakten (Tatbestands)Voraussetzungen sein und damit auch nicht",
+        "lineNumber": 5433
+      },
+      {
+        "line": "Was für die Beispiele gilt, ist grundsätzlich auch zu den sog. Regelbeispielen festzustellen. Allerdings nehmen diese gesetzestechnisch eine Zwischenstellung ein.",
+        "lineNumber": 5437
+      },
+      {
+        "line": "Zum Teil werden sie wie übliche Beispiele behandelt, zum Teil nähern sie sich in der",
+        "lineNumber": 5438
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5442
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5459
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5510
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5529
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5581
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5594
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5634
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5690
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5725
+      },
+      {
+        "line": "Wie die unterschiedlichen Streitstände (im Gutachten: die widerstreitenden Definitionen) im Einzelnen behandelt werden, erfahren wir später. Hier nur einige Bemerkungen zum Aufbau und ein ausführliches Beispiel.",
+        "lineNumber": 5796
+      },
+      {
+        "line": "Beispiel 91",
+        "lineNumber": 5839
+      },
+      {
+        "line": "Das gesamte Beispiel ist in seinen abstrakten Passagen ein zumeist wörtliches, jedoch",
+        "lineNumber": 5853
+      },
+      {
+        "line": "auf Rechtsnormen, Lehrsätze, allgemeingültige Leitsätze, Rechtsregeln, sog. Denkund Naturgesetze und Regeln des alltäglichen Lebens berufen. Dagegen ist es problematisch, eine Begriffsbestimmung mit einem Beispiel widerlegen zu wollen. Das",
+        "lineNumber": 5928
+      },
+      {
+        "line": "Beispiel bezieht sich stets auf einen Einzelfall. Durch nur einen Fall wird im Recht",
+        "lineNumber": 5929
+      },
+      {
+        "line": "Exkurs: Beispiel (exemplum)",
+        "lineNumber": 5942
+      },
+      {
+        "line": "Beispiele, also Einzelfälle bzw. entschiedene Streitfälle zählen dennoch in Rechtsgutachten zu",
+        "lineNumber": 5943
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 5955
+      },
+      {
+        "line": "(2) Bildung neuer Begriffe. Hierzu werden mehrere Beispiele verglichen, die wesentlichen Merkmale, die diesen gemeinsam sind, herausgestellt und unter einem neu formulierten Oberbegriff",
+        "lineNumber": 5965
+      },
+      {
+        "line": "Beispiel für Regelbildung",
+        "lineNumber": 6026
+      },
+      {
+        "line": "Also belässt man es bei den Beispielen.",
+        "lineNumber": 6036
+      },
+      {
+        "line": "Diesen Beispielen ist der vorliegende Fall gleichzusetzen, in dem es ebenfalls um einen",
+        "lineNumber": 6042
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6100
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6173
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6181
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6261
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6509
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6527
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6535
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6569
+      },
+      {
+        "line": "Weiteres Beispiel",
+        "lineNumber": 6791
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6830
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6855
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6862
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 6874
+      },
+      {
+        "line": "Weitere Beispiele",
+        "lineNumber": 6921
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 7061
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 7080
+      },
+      {
+        "line": "Beispiele für die weiteren Obersätze",
+        "lineNumber": 7091
+      },
+      {
+        "line": "Sie sehen: die Liste dieser Beispiele könnte so lang werden wie die Menge aller",
+        "lineNumber": 7101
+      },
+      {
+        "line": "Weiteres Beispiel",
+        "lineNumber": 7163
+      },
+      {
+        "line": "Wie man gerade an den letzten Beispielen sieht, geizt der Jurist mit Worten und",
+        "lineNumber": 7213
+      },
+      {
+        "line": "Beispiel für eine stark verkürzte gutachterliche Prüfung",
+        "lineNumber": 7222
+      },
+      {
+        "line": "Beispiel",
+        "lineNumber": 7321
+      }
+    ],
+    "legalReferences": [
+      "§ 604",
+      "§ 433 BGB",
+      "§ 43 Abs. 3 VwVfG",
+      "§ 44 Abs. 1 VwVfG",
+      "§ 433 ",
+      "§ 854 BGB",
+      "§ 276 Abs. 1 ",
+      "§ 604 Abs. 1",
+      "§ 598 BGB",
+      "§ 194 Abs. 1 ",
+      "§ 276 Abs. 2 BGB",
+      "§ 29 ",
+      "§ 1610 Abs. 1 BGB",
+      "§ 5 ",
+      "§ 201 ",
+      "§ 123 StGB",
+      "§ 123 Abs. 1 StGB",
+      "§ 43",
+      "§ 326 Abs. 1 ",
+      "§ 604 Abs. 1 BGB",
+      "§ 212 StGB",
+      "§ 32 Abs. 1 StGB",
+      "§ 433 Abs. 1 BGB",
+      "§ 985 BGB",
+      "§ 362 Abs. 1 BGB",
+      "§ 303 ",
+      "§ 303",
+      "§ 303 StGB",
+      "§ 303 Abs. 1 StGB",
+      "§ 433 Abs. 2 BGB",
+      "§ 306 Abs. 1 StGB",
+      "§ 306 ",
+      "§ 23 Abs. 3",
+      "§ 24 ",
+      "§ 142",
+      "§ 303 Abs. 1",
+      "§ 433 Abs. 2",
+      "§ 223 Abs. 1 StGB",
+      "§ 535 Abs. 2 BGB",
+      "§ 433 Abs. 2 ",
+      "§ 433 Abs. 1 ",
+      "§ 437 ",
+      "§ 212",
+      "§ 212 Abs. 1",
+      "§ 8 ",
+      "§ 8 Abs. 1",
+      "§ 239 StGB",
+      "§ 239 Abs. 1 ",
+      "§ 263",
+      "§ 263 StGB",
+      "§ 263 ",
+      "§ 242 ",
+      "§ 243 BGB",
+      "§ 194 Abs. 1 BGB",
+      "§ 312c",
+      "§ 77a Abs. 3 ",
+      "§ 224 StGB",
+      "§ 370 Abs. 3 ",
+      "§ 276 ",
+      "§ 3 Abs. 2 ",
+      "§ 211",
+      "§ 211 StGB",
+      "§ 90 BGB",
+      "§ 133 BGB",
+      "§ 157 BGB",
+      "§ 133",
+      "§ 186 ",
+      "§ 305c",
+      "§ 329 ",
+      "§ 2084 ",
+      "§ 2097 ",
+      "§ 2137 ",
+      "§ 2304 ",
+      "§ 2 ",
+      "§ 4 ",
+      "§ 1 Abs. 1",
+      "§ 2 Abs. 1 ",
+      "§ 242 StGB",
+      "§ 242",
+      "§ 211 ",
+      "§ 105 BGB",
+      "§ 138 BGB",
+      "§ 125 BGB",
+      "§ 117 BGB",
+      "§ 134 BGB",
+      "§ 118 BGB",
+      "§ 362 ",
+      "§ 378 BGB",
+      "§ 364 ",
+      "§ 389 BGB",
+      "§ 275 ",
+      "§ 397 BGB",
+      "§ 326 ",
+      "§ 313 BGB",
+      "§ 142 ",
+      "§ 311 ",
+      "§ 346 BGB",
+      "§ 158 ",
+      "§ 357 BGB",
+      "§ 314 BGB",
+      "§ 821 BGB",
+      "§ 853 BGB",
+      "§ 214 ",
+      "§ 205 BGB",
+      "§ 321 ",
+      "§ 320 ",
+      "§ 273 ",
+      "§ 211 Abs. 2 "
+    ]
+  }
+}

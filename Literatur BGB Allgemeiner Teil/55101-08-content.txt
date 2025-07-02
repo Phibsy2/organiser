@@ -1,0 +1,3070 @@
+Studium Rechtswissenschaft
+Prof. Dr. Sebastian Kubis
+Prof. Dr. Ulrich Eisenhardt
+
+
+Unter Mitarbeit von Abdussamed Nazik
+und Pia Höhne
+
+
+
+Kurs 55101
+Allgemeiner Teil des BGB -
+Das Rechtsgeschäft und die Instrumente des Privatrechts
+
+
+Kurseinheit 8
+
+
+
+
+     Rechts­
+     wissenschaftliche
+     Fakultät
+Das Werk ist urheberrechtlich geschützt. Die dadurch begründeten Rechte, insbesondere das Recht der Vervielfältigung und Verbrei-
+tung sowie der Übersetzung und des Nachdrucks, bleiben, auch bei nur auszugsweiser Verwertung, vorbehalten. Kein Teil des Werkes
+darf in irgendeiner Form (Druck, Fotokopie, Mikrofilm oder ein anderes Verfahren) ohne schriftliche Genehmigung der FernUniversität
+reproduziert oder unter Verwendung elektronischer Systeme verarbeitet, vervielfältigt oder verbreitet werden. Wir weisen darauf hin,
+dass die vorgenannten Verwertungsalternativen je nach Ausgestaltung der Nutzungsbedingungen bereits durch Einstellen in Cloud-
+Systeme verwirklicht sein können. Die FernUniversität bedient sich im Falle der Kenntnis von Urheberrechtsverletzungen sowohl zivil-
+als auch strafrechtlicher Instrumente, um ihre Rechte geltend zu machen.
+
+
+
+Der Inhalt dieses Studienbriefs wird gedruckt auf Recyclingpapier (80 g/m2, weiß), hergestellt aus 100 % Altpapier.
+                                                                                                                                3
+
+
+
+Inhaltsverzeichnis
+Inhaltsverzeichnis .................................................................................................. 3
+   § 20         Die Berechnung von Fristen und Terminen ............................................... 5
+   § 21         Die Verjährung ...................................................................................... 11
+
+   § 22         Die Personen ......................................................................................... 18
+          I.         Rechtssubjekte .................................................................................. 18
+                1.        Der Personenbegriff des BGB .......................................................... 18
+
+                2.        Die Rechtsfähigkeit ........................................................................ 18
+                3.        Der Schutz der Persönlichkeit.......................................................... 20
+                     a)      Überblick.................................................................................... 20
+                     b)      Das Namensrecht ....................................................................... 20
+                     c)      Das Recht am eigenen Bild .......................................................... 21
+                     d)      Die Verletzung der in § 823 Abs. 1 genannten Lebensgüter ......... 21
+                     e)      Der Schutz des allgemeinen Persönlichkeitsrechts ........................ 22
+          II.        Die juristischen Personen.................................................................... 25
+                1.        Begriff, Bedeutung und Arten von juristischen Personen .................. 25
+                2.        Der Schutz des Persönlichkeitsrechts juristischer Personen ............... 27
+                3.        Der Verein ..................................................................................... 28
+                     a)      Überblick.................................................................................... 28
+                     b)      Der eingetragene Verein ............................................................. 29
+                     c)      Der wirtschaftliche Verein ........................................................... 30
+                     d)      Vereine ohne Rechtspersönlichkeit .............................................. 31
+                4.        Die rechtsfähige Stiftung des privaten Rechts .................................. 31
+   § 23         Subjektive Rechte .................................................................................. 33
+          I.         Subjektives Recht und objektives Recht............................................... 33
+          II.        Begriff und Arten der subjektiven Rechte............................................ 33
+                1.        Der Begriff des subjektiven Rechts .................................................. 33
+                2.        Arten der subjektiven Rechte .......................................................... 33
+                     a)      Die Einteilung der subjektiven Rechte nach Inhalten ..................... 33
+                                (a) Die Persönlichkeitsrechte .................................................. 33
+                                (b) Die persönlichen Familienrechte ....................................... 34
+                                (c) Die Herrschaftsrechte ....................................................... 34
+                                (d) Ansprüche....................................................................... 35
+4
+
+
+
+                                  (e) Die Gestaltungsrechte...................................................... 35
+                       b)      Absolute und relative Rechte ...................................................... 37
+           III.        Der Erwerb und die Übertragung subjektiver Rechte ........................... 38
+
+           IV. Die Grenzen der Durchsetzbarkeit subjektiver Rechte.......................... 39
+                  1.        Das Schikaneverbot und andere Fälle unzulässiger Rechtsausübung. 39
+                  2.        Rechtsmissbräuchliches Handeln..................................................... 40
+
+           V.          Die erlaubte Verteidigung subjektiver Rechte (Rechtfertigungsgründe) 42
+                  1.        Überblick ....................................................................................... 42
+                  2.        Notwehr § 227 .............................................................................. 42
+                  3.        Notstand ....................................................................................... 43
+                  4.        Selbsthilfe §§ 229 ff....................................................................... 44
+                  5.        Selbsthilfe des Besitzers nach § 859 ................................................ 44
+    § 24          Rechtsobjekte ....................................................................................... 45
+           I.          Überblick .......................................................................................... 45
+           II.         Sachen .............................................................................................. 45
+                  1.        Begriff und Arten von Sachen ........................................................ 45
+                  2.        Verbindungen von Sachen ............................................................. 47
+                       a)      Bestandteile ............................................................................... 47
+                       b)      Zubehör ..................................................................................... 50
+                  3.        Der Leichnam und die Entnahme von Körperteilen .......................... 50
+           III.        Rechte .............................................................................................. 51
+           IV. Nutzungen (Früchte und Gebrauchsvorteile) ....................................... 51
+           V.          Gesamtheiten von Sachen und Rechten ............................................. 53
+                  1.        Das Vermögen ............................................................................... 53
+                  2.        Das Unternehmen .......................................................................... 53
+    Anhang: Wichtige Anspruchsgrundlagen, Einwendungen und Gestaltungsrechte
+    ....................................................................................................................... 55
+Die Berechnung von Fristen und Terminen                                                    5
+
+
+
+      § 20 Die Berechnung von Fristen und Terminen
+Schrifttum: EFFER-UHE, Die Berechnung von Rückwärtsfristen – zugleich eine Stel-
+lungnahme zur Dogmatik des Zugangs von Willenserklärungen, JZ 2016, 770; HÜB-
+NER, § 52 in Allgemeiner Teil des Bürgerlichen Gesetzbuches, 2. Auflage 1996; ZIEGEL-
+TRUM, Grundfälle zur Berechnung von Fristen und Terminen gem. §§ 187 ff. BGB in
+JuS 1986, 705, 784; SCHROETER, Die Fristenberechnung im Bürgerlichen Recht, JuS
+2007, 29; VON ALTEN, Kündigung zum Jahresende und Verjährung, NJW 2021, 3622.
+
+
+I. Einleitung
+Der Faktor „Zeit“ hat im Rechtsleben eine enorme Bedeutung, da er häufig gesetzlich
+normierte Voraussetzung für den Eintritt oder Nichteintritt einer Rechtswirkung ist.
+Beispiele bilden etwa der Eintritt der unbeschränkten Geschäftsfähigkeit mit Vollen-
+dung des 18. Lebensjahres (§§ 2, 106) oder das Erlöschen des Urheberrechts 70 Jahre
+nach dem Tod des Urhebers (§ 64 UrhG)
+Darüber hinaus können auch vertraglich geregelte oder auch einseitig erklärte Zeitbe-
+stimmungen Voraussetzung für den Eintritt oder Nichteintritt einer Rechtswirkung
+sein. Wenn z.B. die in einem Vertrag geregelte Kündigungsfrist nicht eingehalten
+wird, besteht trotz der (zu späten) Kündigung der Vertrag fort. Ein weiteres Beispiel
+ist die einseitig gesetzte Annahmefrist beim Vertragsschluss (vgl. § 148). Wird sie ver-
+säumt, so kommt trotz Annahmeerklärung kein Vertrag zustande.
+Daher sollte jeder Teilnehmer am Rechtsverkehr in der Lage sein, Fristen und Termine
+richtig zu berechnen. Dies so lange unproblematisch, wie Zeitbestimmung eindeutige
+und unzweifelhaft getroffen worden ist (Beispiel: "Zugang bis 24.3., 12 Uhr"). In der
+Praxis hat man es indes häufig mit weniger klaren, auslegungsbedürftigen Zeitbestim-
+mungen zu tun.
+
+
+II. Die Regeln in §§ 187-193 BGB
+Das BGB enthält in den §§ 187-193 Auslegungsregeln über die Berechnung von Fris-
+ten und Terminen. Diese Vorschriften verfolgen nach dem Willen des Gesetzgebers
+den Zweck, Bestimmtheit und Einfachheit der Sprache zu ermöglichen und zu ge-
+währleisten, dass mehrdeutige Ausdrucksweisen so verstanden werden, wie dies nach
+der Lebenserfahrung der mutmaßlichen Absicht desjenigen entspricht, der Fristen und
+Termine setzt. Es handelt sich hierbei um materielle Auslegungsregeln, die dann an-
+zuwenden sind, wenn die Auslegung von Gesetzen, Willenserklärungen oder Verträ-
+gen nach den allgemeinen Grundsätzen zu keinem zweifelsfreien Ergebnis führt. Sie
+sind von großer Bedeutung, da Fristenprobleme in der Praxis recht häufig auftauchen
+und die Fristversäumung oder -einhaltung über das Bestehen von Ansprüchen ent-
+scheiden kann. Die Vorschriften sind subsidiär, d.h. sie treten zurück, wenn man be-
+reits mit Hilfe der Auslegung nach §§ 133, 157 zu einem eindeutigen Ergebnis ge-
+langt 1 oder wenn eine Frist unter Angabe von Datum und Uhrzeit so genau bestimmt
+ist, dass sie einer Auslegung weder nach allgemeinen Grundsätzen noch unter Zuhil-
+fenahme der §§ 187 ff. bedarf.
+
+
+
+
+_________________________________________________
+1
+    MünchKomm/GROTHE, BGB § 186, Rn. 1.
+6                                                       Die Berechnung von Fristen und Terminen
+
+
+
+    Beispiele:
+       1. Setzt A dem B eine Frist zur Vornahme einer Rechtshandlung mit der Erklärung
+          "bis Donnerstag, den 7. November um 12 Uhr mittags", dann bedarf diese
+          Erklärung weder der Auslegung nach allgemeinen Grundsätzen noch sind die
+          Regeln der §§ 187 ff. anzuwenden.
+       2. Setzt A der B eine Frist mit der Erklärung "bis einschließlich Donnerstag, den
+          7. November" wird man diese Erklärung nach gängigem Sprachgebrauch un-
+          ter Berücksichtigung des Wortes "einschließlich" so zu verstehen haben, dass
+          die Frist am Donnerstag, dem 7. November um 24.00 Uhr enden wird. Auf-
+          grund dieses eindeutigen Ergebnisses bleibt für die Anwendung der §§ 187-
+          193 kein Raum.
+       3. Bei einer Fristsetzung mit der Erklärung "heute in 8 Tagen" wird man diese
+          wohl ebenfalls nach gängigem Sprachgebrauch so zu verstehen haben, dass
+          der gleiche Wochentag in der nächsten Woche gemeint ist (vgl. aber § 359
+          Abs. 2 HGB bei Handelsgeschäften!). In diesem Fall würden die §§ 187 ff.
+          ohnehin nicht weiterhelfen, da dort nicht geregelt ist, was unter der Erklärung
+          „heute in 8 Tagen“ zu verstehen ist.
+    Nach § 186 gelten die §§ 187-193 für Frist- und Terminbestimmungen, die in Geset-
+    zen, gerichtlichen Verfügungen und Rechtsgeschäften enthalten sind. Gesetz im
+    Sinne des BGB ist nach Art. 2 EGBGB jede Rechtsnorm. Demnach ist der Anwen-
+    dungsbereich der §§ 187 ff. nicht auf das Zivilrecht beschränkt, sondern erfasst viel-
+    mehr alle Rechtsgebiete, soweit dort nicht Sondervorschriften über Fristen und Ter-
+    mine bestehen. In manchen Fällen finden die §§ 187 ff. neben Sondervorschriften
+    Anwendung. Beispielsweise enthält das Zivilprozessrecht mit den §§ 221, 223 ZPO
+    spezielle Vorschriften zur Frist- und Terminbestimmung, ordnet daneben jedoch in
+    § 222 ZPO die entsprechende Geltung der §§ 187 ff. an.
+
+     Unter einer Frist versteht man einen Zeitraum, der bestimmt bezeichnet oder je-
+     denfalls bestimmbar ist und innerhalb dessen eine Rechtshandlung vorzunehmen
+     ist oder ein Ereignis eintreten soll.
+
+     Bei einem Termin handelt es sich um einen bestimmten Zeitpunkt, an dem eine
+     Rechtshandlung vorzunehmen ist oder eine Rechtswirkung eintreten soll.
+
+    Bei der Berechnung von Fristen gilt nach den Vorschriften der §§ 187, 188, 189 das
+    Prinzip der "Zivilkomputation"; das bedeutet, dass eine Frist, die nach Tagen, Wo-
+    chen, Monaten oder Jahren bemessen ist, nach ganzen Kalendertagen berechnet
+    wird. Sind Fristen hingegen nach Stunden oder Minuten bestimmt, kommen die
+    §§ 187, 188, 189 nicht zur Anwendung.
+
+
+    III. Beginn und Ende einer Frist
+
+    1. Beginn
+    In den meisten Fällen ist für den Beginn einer Frist ein Ereignis oder in den Lauf eines
+    Tages fallender Zeitpunkt maßgebend. In diesem Fall wird nach § 187 Abs. 1 bei der
+    Berechnung der Frist der Tag des maßgebenden Ereignisses bzw. Zeitpunktes nicht
+    mit eingerechnet. Hierdurch wird nach dem Prinzip der Zivilkomputation verhindert,
+    dass Bruchteile von Tagen in die Fristberechnung mit einfließen.
+Die Berechnung von Fristen und Terminen                                                    7
+
+
+
+      Beispiel: A setzt dem B zur Vornahme einer Rechtshandlung am Donnerstag um
+      14 Uhr eine Frist von 5 Tagen. Ereignis im Sinne des § 187 Abs. 1 ist vorliegend
+      die Erklärung des A, dass er dem B eine Frist von 5 Tagen setze. Die Frist beginnt
+      damit erst am nächsten Tag, also am Freitag um 0.00 Uhr.
+Ist hingegen der Anfang eines Tages als Fristbeginn bestimmt, soll also zum Beispiel
+eine Frist am 01.09. beginnen, so wird dieser Tag nach § 187 Abs. 2 S. 1 mit einge-
+rechnet.
+      Beispiel: A vereinbart mit dem P, dass der Pachtzins ab dem 01.03. zu zahlen ist.
+      Die Zahlungspflicht besteht damit auch schon für den 01.03.
+Die gleiche Berechnung wie im Falle des § 187 Abs. 2 S. 1 wird auch bei der Berech-
+nung des Lebensalters angewandt. Obwohl eine Geburt in der Regel in den Lauf eines
+Tages fällt und damit eigentlich die Regel des § 187 Abs. 1 Anwendung finden
+müsste, bestimmt für diesen Fall § 187 Abs. 2 S. 2, dass der Geburtstag bei der Be-
+rechnung des Lebensalters mitgezählt wird. Dies entspricht der allgemeinen Verkehrs-
+anschauung. 2
+      Beispiel: Ein am 12.08.2024 um 23.57 Uhr geborenes Kind gilt als am
+      12.08.2024 um 0.00 Uhr geboren (Zur Berechnung der Volljährigkeit siehe so-
+      gleich).
+
+2. Ende
+Ist eine Frist nach Tagen berechnet, so endet sie nach § 188 Abs. 1 mit dem Ablauf
+des letzten Tages (und nicht etwa irgendwann im Laufe des Tages).
+Beispiele:
+      1. A setzt dem B zur Vornahme einer Rechtshandlung am Donnerstag um 14 Uhr
+         eine Frist von 5 Tagen. Die Frist beginnt am Freitag um 0.00 Uhr und endet
+         demnach am Dienstag um 24.00 Uhr.
+      2. A setzt dem B eine Frist „bis zum Donnerstag“. Die Frist endet am Donnerstag
+         um 24.00 Uhr.
+      3. M mietet beim Fahrradverleih V am 26.7. um 12.30 Uhr ein Fahrrad für einen
+         Tag (Preis pro Tag: 10 Euro). M bringt das Rad am 27.7. um 12 Uhr zurück. V
+         verlangt die Zahlung von 20 Euro. Zu Recht? In der Praxis werden unterschied-
+         liche Vereinbarungen getroffen. Besorgt man sich einen Skipass als Tagesti-
+         cket, gilt dieser nur für den selben Tag. Bei einem Mietwagen steht das Auto
+         dem Mieter in aller Regel für 24 Stunden zu Verfügung. Schaut man auf die
+         gesetzlichen Regelungen in §§ 187 Abs. 2 S. 1, 188 Abs. 1 BGB, so würde M
+         für das Fahrrad 20 Euro zahlen müssen, da mit dem 27.07. ein neuer Kalen-
+         dertag beginnt und somit auch der Preis für den Tag zu zahlen wäre.
+Für den Ablauf einer nach Wochen oder Monaten bestimmten Frist ist gemäß § 188
+Abs. 2 zwischen dem Fall nach § 187 Abs. 1 und dem des § 187 Abs. 2 S. 1 zu
+unterscheiden:
+Liegt ein Fall des § 187 Abs. 1 vor, dann endet die Frist am gleichen Wochen- oder
+Monatstag, an dem das die Frist auslösende Ereignis stattgefunden hat.
+
+
+
+_________________________________________________
+2
+    MünchKomm/GROTHE, BGB § 187, Rn. 7.
+8                                                      Die Berechnung von Fristen und Terminen
+
+
+
+       Beispiel: A setzt dem B am Donnerstag, dem 12. September, um 14.00 Uhr eine
+       Frist von 2 Wochen. Die Frist endet am zweiten Donnerstag nach dem Donnerstag,
+       an dem sie gesetzt wurde, also am 26. September um 24.00 Uhr.
+
+
+    Im Falle des § 187 Abs. 2 S. 1 endet die Frist hingegen einen Tag früher, da ja auch
+    ihr Lauf früher begonnen hat, nämlich bereits mit Beginn des Tages.
+       Beispiel: Wird eine Frist von 2 Wochen gesetzt und ist als Fristbeginn Donnerstag,
+       der 12. September bestimmt, endet die Frist bereits am Mittwoch, den 25. Sep-
+       tember um 24.00 Uhr.
+
+    Bei Fristen, die um 24.00 Uhr enden, ist jedoch stets zu beachten, dass diese Fristen
+    oftmals nicht bis zum letzten Augenblick ausgenutzt werden dürfen: In der Regel wird
+    derjenige, dem die Frist erklärt wurde, wohl nur innerhalb der üblichen Geschäftszei-
+    ten handeln können.
+       Beispiel: B sucht am 12. September das Geschäft der A in Köln auf. Diese bietet
+       dem B in diesem Zusammenhang den Abschluss eines Kaufvertrages an und er-
+       klärt zugleich, dass sie sich nur für fünf Tage an ihr Angebot gebunden fühle. B,
+       der in Hagen wohnt, entschließt sich am 14. September, der A die Annahme des
+       Angebots per Brief zukommen zu lassen.
+       A hat dem B im vorliegenden Fall eine Annahmefrist im Sinne des § 148 ge-
+       setzt. Die Annahmefrist beginnt nach § 187 Abs. 1 am nächsten Tag, also am
+       13. September um 0.00 Uhr. Die Frist endet nach § 188 Abs. 1 am 17. September
+       um 24.00 Uhr. Bis zu diesem Zeitpunkt muss der Brief des B allerdings so in den
+       Machtbereich der A gelangen, dass eine Kenntnisnahme unter normalen Umstän-
+       den möglich ist (vgl. § 147 Abs. 2). B muss daher den Brief an A so übermitteln,
+       dass dieser spätestens am 17. September innerhalb der üblichen Geschäftszeiten
+       in ihrem Geschäft eingeht. Beauftragt er beispielsweise einen Freund, der in Köln
+       wohnt und wirft dieser den Brief am 17. September um 22.45 Uhr in den Brief-
+       kasten der A, muss diese sich an ihr Angebot nicht mehr gebunden fühlen. Für
+       den Fall, dass der 17. September ein Samstag, Sonn- oder Feiertag ist, siehe unten
+       IV.
+
+
+     Merke: In Klausuren wird in Zweifelsfällen ein Kalender abgedruckt sein. Wenn
+     es sich um eine Ereignisfrist handelt, die nach einer gewissen Zeitspanne endet,
+     können Sie sich die teils schwer verständlichen §§ 187, 188 wie folgt merken:
+          •   Ereignis: z.B. 08.05.
+          •   Beginn der Frist = am nächsten Tag um 0 Uhr -> 09.05.
+          •   Frist: ein Monat
+          •   Ende: Ereignis + ein Monat -> 08.06. 24:00 Uhr.
+
+
+
+
+    Auch bei der Berechnung des Lebensalters liegt im Sinne von § 188 Abs. 2 2. Alt.
+    ein Fall des § 187 Abs. 2 (nämlich Satz 2!) vor. Das erste Lebensjahr wird daher mit
+    Ablauf des Tages vor dem eigentlichen Geburtstag im Jahr nach der Geburt vollendet.
+    Die Vollendung des achtzehnten Lebensjahres eines Menschen (und damit die Voll-
+    jährigkeit, vgl. § 2 BGB) tritt somit nach 18 Jahren ebenfalls mit Ablauf des Tages vor
+    dem eigentlichen Geburtstag um 24.00 Uhr ein.
+Die Berechnung von Fristen und Terminen                                                     9
+
+
+
+      Beispiele:
+       1. Ein am 12.08.2024 um 23.57 Uhr geborenes Kind wird bereits mit dem Ab-
+          lauf des 11.08.2025 sein erstes Lebensjahr beendet haben, folglich am
+          12.08.2025 seinen ersten Geburtstag feiern.
+       2. Feiert jemand seinen achtzehnten Geburtstag, so ist er oder sie bereits an die-
+          sem Tage volljährig.
+       3. Ist ein Kind am 01.03.2022 geboren worden, wird es nach der Vorschrift des
+          § 188 Abs. 2 2. Alt. am letzten Tag des Monats Februar sein jeweils nächstes
+          Lebensalter erreichen, unabhängig davon, wie viele Tage der Monat Februar
+          (Schaltjahr) hat.
+
+Bei einer Fristbestimmung nach Monaten trägt auch § 188 Abs. 3 der unterschiedli-
+chen Tagesanzahl der Monate Rechnung. Nach dieser Vorschrift endet eine nach Mo-
+naten bestimmte Frist, wenn der in dem letzten Monat für den Fristablauf maßge-
+bende Tag fehlt, schon mit Ablauf des letzten Tages dieses Monats.
+      Beispiel: Eine im Falle des § 187 Abs. 1 im Laufe des 31.08. beginnende 1-Mo-
+      natsfrist endet bereits am 30.09. und nicht erst am 01.10.
+
+IV. Fristende bei Sonn- und Feiertagen; Sonnabenden
+Ist an einem bestimmten Tag oder innerhalb einer Frist eine Willenserklärung abzuge-
+ben oder eine Leistung zu bewirken und fällt der bestimmte Tag oder der letzte Tag
+der Frist auf einen Sonntag, einen am Erklärungs- oder Leistungsort staatlich aner-
+kannten allgemeinen Feiertag oder einen Sonnabend (Samstag), so tritt an die Stelle
+eines solchen Tages der nächste Werktag (§ 193 sog. „Sa-So-Fei-Regelung“). Eine
+identische Reglung findet sich in § 222 Abs. 2 ZPO. Fällt also ein Termin oder der
+letzte Tag einer Frist auf einen der betreffenden Tage, dann hat der Erklärende bzw.
+Leistende für die Wahrung des Termins oder der Frist noch Zeit bis zum nächsten
+Werktag.
+      Beispiel: Eine eigentlich am Sonntag, dem 10. November, um 24.00 Uhr endende
+      Frist endet nach § 193 am darauf folgenden Werktag, also am Montag, den
+      11. November um 24.00 Uhr. Der Rosenmontag ist entgegen manchen lokalen
+      Gepflogenheiten in NRW kein staatlich anerkannter Feiertag! Dasselbe gilt für den
+      24.12. (Heiligabend) und für den 31.12. (Silvester).
+
+Durch die Regelung des § 193 will das Gesetz dem Umstand Rechnung tragen, dass
+die Abgabe einer Erklärung oder die Vornahme einer Leistungshandlung nach den
+geschäftlichen Gepflogenheiten an Sonn-, Feiertagen und Sonnabenden vielfach
+nicht möglich oder nicht zumutbar ist, weil an diesen Tagen grundsätzlich kein ge-
+schäftlicher Verkehr stattfindet. 3 Diese allgemeine Reglung gilt folglich auch dann,
+wenn beispielsweise eine der Vertragsparteien an diesen Tagen ihren Betrieb geöffnet
+hat.
+
+
+
+
+_________________________________________________
+3
+    WOLF/NEUNER, § 23, Rn. 14.
+10                                                             Die Berechnung von Fristen und Terminen
+
+
+
+     Nach dem Wortlaut des § 193 betrifft die Vorschrift nur die Fälle, in denen eine Wil-
+     lenserklärung abzugeben oder eine Leistung zu bewirken ist. Allerdings ist allgemein
+     anerkannt, dass der § 193 auch auf Ausschluss- und Verjährungsfristen analog an-
+     wendbar ist. 4
+     Bei der Berechnung des Lebensalters kommt es nicht auf das Vorliegen eines Sonn-
+     tags, Sonnabends oder eines staatlich anerkannten Feiertages an. Das Vorliegen eines
+     solchen Tages wirkt sich immer nur auf das Fristende und die Bestimmung eines Ter-
+     mins und auch nur im Anwendungsbereich des § 193 aus.
+     Beispiel: Ein am 26.12.2020 geborener Mensch wird am 25.12.2038 um 24.00 Uhr
+     sein achtzehntes Lebensjahr vollendet haben, unabhängig davon, dass sowohl der 25.
+     als auch der 26.12. in allen deutschen Bundesländern staatlich anerkannte Feiertage
+     sind.
+
+
+
+     V. Bestimmung von Terminen
+     Bei missverständlichen Bestimmungen von Terminen innerhalb eines Monats kann die
+     Auslegungsregel des § 192 weiterhelfen. Danach wird unter Anfang des Monats
+     der erste, unter Mitte des Monats des 15. und unter Ende des Monats der letzte Tag
+     des Monats verstanden. Für nicht eindeutige Bestimmungen von Terminen innerhalb
+     einer Woche fehlt eine entsprechende Vorschrift. Man wird wohl nach allgemeiner
+     Lebensauffassung und in Anlehnung an die ISO 8601 unter Anfang der Woche Mon-
+     tag, unter Mitte der Woche Mittwoch und unter Ende der Woche bei Arbeitstagen
+     den Freitag zu verstehen haben. 5
+     Wie bereits angesprochen, gilt die Vorschrift des § 193 auch für Termine. Diesbezüg-
+     lich gilt also das oben zu IV. Gesagte.
+
+
+
+
+     _________________________________________________
+     4
+         BGH NJW 2021, 153 Rn. 17; BeckOGK/FERVERS, BGB § 193 Rn. 49.
+     5
+     MünchKomm//GROTHE, BGB § 192 Rn. 1.
+Die Verjährung                                                                            11
+
+
+
+    § 21 Die Verjährung
+Schrifttum: VON ALTEN, Kündigung zum Jahresende und Verjährung, NJW 2021,
+3622; EFFER-UHE, Die Berechnung von Rückwärtsfristen – zugleich eine Stellungnahme
+zur Dogmatik des Zugangs von Willenserklärungen, JZ 2016, 770; LEENEN, Die Neuge-
+staltung des Verjährungsrechts durch das Schuldrechtsmodernisierungsgesetz, DStR
+2002, 34 ff.; LENKEIT, Das modernisierte Verjährungsrecht, BauR 2002, 196 ff.; MAN-
+SEL, Die Neuregelung des Verjährungsrechts, NJW 2002, 89 ff.; SCHROETER, Die Fris-
+tenberechnung im Bürgerlichen Recht, JuS 2007, 29; WAGNER, Die Verjährung ge-
+währleistungsrechtlicher Rechtsbehelfe nach neuem Schuldrecht, ZIP 2002, 789 ff.;
+WITT, Schuldrechtsmodernisierung 2001/2002 – das neue Verjährungsrecht, JuS
+2002, 105 ff.
+
+
+            I. Der Sinn der Verjährung
+Alle gesetzlichen und vertraglichen Ansprüche (Legaldefinition in § 194 Abs. 1) sind
+gemäß §§ 194 ff. der Verjährung unterworfen und damit im Hinblick auf ihre Durch-
+setzbarkeit zeitlich begrenzt. Beachte: das Rücktrittsrecht als Gestaltungsrecht ver-
+jährt nicht. Es kann aber durch Zeitablauf unwirksam werden, vgl. § 218.
+Verjährung bedeutet: Der Gläubiger kann den Anspruch nicht mehr durchsetzen,
+wenn der Schuldner die Einrede geltend macht, dass der Anspruch verjährt sei. Hat
+der Schuldner die Einrede der Verjährung erhoben, dann ist er berechtigt, die Leistung
+dauernd zu verweigern (§ 214 Abs. 1). Nur Ansprüche, nicht auch andere subjektive
+Rechte unterliegen der Verjährung (vgl. § 194 Abs. 1).
+Sinn und Zweck der Verjährung ist es, Rechtssicherheit und Rechtsfrieden zu bewah-
+ren. Kann sich ein Schuldner auf die Verjährung seiner Leistungsverpflichtung beru-
+fen, so macht er eine Einrede geltend. Eine Rechtsnorm gewährt eine Einrede, wenn
+sie einem Schuldner das Recht gibt, seine Leistung zu verweigern (Leistungsverweige-
+rungsrecht).
+Die Verjährung bedeutet nicht, dass der Anspruch nicht mehr besteht. Die Verjährung
+ist nur zu beachten, wenn der Schuldner sich darauf beruft, die Einrede der Verjäh-
+rung also geltend macht. Der Schuldner entscheidet also letztlich darüber, ob er
+sich auf die Verjährung beruft oder nicht. Ein Gericht darf demnach nicht von Amts
+wegen, d.h. ohne dass die Einrede der Verjährung erhoben worden ist, prüfen, ob
+eine Forderung verjährt ist.
+    Beispiel: K kauft bei V einen Fernseher, der zwei Jahre und 3 Monate nach der
+    Übergabe einen schweren Defekt aufweist. K verlangt eine kostenlose Reparatur
+    des Geräts. Gemäß § 438 Abs. 1 Nr. 3 verjähren Ansprüche wegen Mängeln der
+    gekauften Sache in zwei Jahren nach Ablieferung der Kaufsache. Hier kann sich V
+    also auf Verjährung berufen. Wenn K ein guter Kunde ist, wird V sich allerdings
+    überlegen, ob das klug wäre. Aus Kulanz wird er sich im Zweifel nicht auf die
+    Verjährung berufen, sondern dem K die Mängelbeseitigung gewähren.
+
+Vergisst der Schuldner, sich auf die Verjährung zu berufen, so muss er auch einen
+verjährten Anspruch erfüllen; er kann eine Leistung, die er bereits erbracht hat, nicht
+mehr zurückfordern (§ 214 Abs. 2).
+Merke: Prüfungsstandort der Verjährung ist der Prüfungspunkt „Anspruch durchsetz-
+bar“. Beruft sich der Schuldner im Sachverhalt nicht auf die Verjährung, so fehlt es an
+der Erhebung der erforderlichen Einrede als Gestaltungsrecht. Dann ist die Verjährung
+12                                                                                         Die Verjährung
+
+
+
+     von Ihnen nicht weiter zu prüfen. Probleme der Verjährung spielen in der Praxis eine
+     große Rolle.
+     Aus dem Standort im Allgemeinen Teil folgt, dass sich alle Fristen des Bürgerlichen
+     Rechts grundsätzlich nach den §§ 186 ff. berechnen. Zahlreiche andere Gesetze wie
+     z.B. die § 222 I ZPO, § 31 I VwVfG und § 57 II VwGO verweisen für die Berechnung
+     der dort geregelten prozessualen und verwaltungsrechtlichen Fristen unmittelbar oder
+     mittelbar auf die §§ 187ff. Die Fristberechnung ist daher auch für eine Fallbearbeitung
+     in anderen (Teil-) Rechtsgebieten von unerlässlicher Bedeutung.
+
+
+                     II. Die Verjährungsfristen
+     Gemäß § 195 beträgt die regelmäßige Verjährungsfrist 3 Jahre. Es verjähren etwa die
+     Ansprüche aus Verträgen, wie etwa Kaufpreisforderungen, Übergabe und Übereig-
+     nung und Forderungen auf Schadensersatz wegen Pflichtverletzungen, sowie Ansprü-
+     che aus ungerechtfertigter Bereicherung (§ 812) in drei Jahren.
+     Für zahlreiche Ansprüche sieht das Gesetz allerdings eine kürzere oder längere Ver-
+     jährungsfrist vor.
+
+
+
+         Kauf bewegli- Das für die Praxis wichtigste Beispiel für kürzere Verjährungsfristen
+         cher Sachen   sind die Mängelansprüche beim Kauf beweglicher Sachen
+                       (§§ 437 ff.). Sie verjähren gemäß § 438 Abs. 1 Nr. 3 in zwei Jah-
+                       ren von der Ablieferung an gerechnet, § 438 Abs. 2. Die Verjäh-
+                       rung tritt ohne Rücksicht darauf ein, ob der Käufer den Mangel
+                       kannte oder erkennen konnte. Das gilt auch für verborgene Män-
+                       gel. 6
+
+         Bauwerk                 Bei Mängeln an einem gekauften Bauwerk beträgt die Verjäh-
+                                 rungsfrist hingegen 5 Jahre (§ 438 Abs. 1 Nr. 2).
+
+         Werkvertrag             Bei einem anderen für die Praxis sehr wichtigen Vertrag, dem
+                                 Werkvertrag, verjähren die Mängelansprüche ebenfalls in zwei
+                                 Jahren ab der Abnahme (§ 634a Abs.2), es sei denn, es handelt
+                                 sich um ein Bauwerk; im letztgenannten Fall verjähren die Män-
+                                 gelansprüche erst nach fünf Jahren (§ 634 a Abs. 1 Nr. 2).
+
+         Rechte am               Einer zehnjährigen Verjährungsfrist unterliegen u.a. Ansprü-
+         Grundstück              che auf die Übertragung des Eigentums an Grundstücken und auf
+                                 die Begründung von Rechten an einem Grundstück, wie z.B.
+                                 Grundschulden (§ 196).
+
+                                      •     In dreißig Jahren verjähren nach § 197 u.a.:
+                                      •     Schadensersatzansprüche, die auf der vorsätzlichen Verlet-
+                                            zung des Lebens, des Körpers, der Gesundheit, der Freiheit
+                                            oder der sexuellen Selbstbestimmung beruhen,
+                                      •     Herausgabeansprüche aus Eigentum und anderen dingli-
+                                            chen Rechten,
+
+
+     _________________________________________________
+     6
+         STAUDINGER/LÖWISCH, § 438, Rn. 98 f.
+Die Verjährung                                                                             13
+
+
+
+                        •   einige familien- und erbrechtliche Ansprüche,
+                        •   rechtskräftig festgestellte Ansprüche, wie z.B. Zahlungsan-
+                            sprüche, die in einem rechtskräftigen Urteil festgestellt
+                            sind,
+                        •   Ansprüche, die durch die im Insolvenzverfahren erfolgte
+                            Feststellung vollstreckbar geworden sind.
+
+
+
+
+            III. Der Beginn und die Berechnung der Verjährungsfristen
+Wann die Verjährungsfrist beginnt, ist nicht einheitlich geregelt. Deshalb ist zu diffe-
+renzieren, ob es sich um die regelmäßige Verjährungsfrist von drei Jahren oder um
+davon abweichende kürzere oder längere Verjährungsfristen handelt.
+Die regelmäßige Verjährungsfrist von drei Jahren (§ 195) beginnt nach § 199 Abs. 1
+mit dem Schluss des Jahres, in dem der Anspruch entstanden ist (§ 199 Abs. 1 Nr. 1)
+und der Gläubiger von den den Anspruch begründenden Umständen und der Person
+des Schuldners Kenntnis erlangt hat oder ohne grobe Fahrlässigkeit hätte erlangen
+müssen (§ 199 Abs. 1 Nr. 2). § 199 Abs. 1 Nr. 2 knüpft also den Beginn der regelmä-
+ßigen Verjährungsfrist an die zusätzliche Voraussetzung der Kenntnis oder grob fahr-
+lässigen Unkenntnis des Gläubigers.
+
+
+                                                                    Beginn am Schluss
+                                    Kenntnis/Fahlässige
+                                                                       des Jahres des
+  Anspruch entstanden                Unkenntnis von
+                                                                    späteren Ereignisses
+                                       Umständen
+                                                                          (31.12.)
+
+
+
+
+    Beispiel: Am 12.08.2021 kauft K bei V einen Gebrauchtwagen zum Preis von
+    € 13.200,--. K zahlt nicht und V vergisst, dass K den Kaufpreis noch nicht entrich-
+    tet hat. Das fällt ihm erst Anfang September 2024 ein. Als V von K Zahlung ver-
+    langt, beruft sich K auf Verjährung. Die Kaufpreisforderung verjährt gemäß § 195
+    in drei Jahren.
+        •   Maßgebliches Ereignis für den Beginn ist der 31.12.2021, § 199 Abs. 1.
+        •   Dabei wird gem. § 187 Abs. 1 der Tag des Ereignisses für die Frist nicht
+            mitgerechnet. Die Frist beginnt deshalb am 01.01.2022 um 0:00 Uhr.
+        •   Die Frist beträgt drei Jahre, § 195.
+        •   Die Frist endet also mit Ablauf des 31.12.2024 (um 24:00 Uhr), § 188
+            Abs. 2.
+        •   Infolgedessen ist der Anspruch des V bei Erhebung der Einrede im Sep-
+            tember 2024 noch nicht verjährt.
+
+
+§ 199 Abs. 2 und 3 enthält Höchstfristen, nach deren Ablauf die Verjährung unab-
+hängig von der Kenntnis eintritt.
+14                                                                            Die Verjährung
+
+
+
+     Die Verjährungsfrist von Ansprüchen, die nicht der regelmäßigen Verjährungsfrist von
+     drei Jahren unterliegen, beginnt mit der Entstehung des Anspruchs, soweit gesetzli-
+     che Regelungen nichts Abweichendes vorsehen. So beginnt z.B. die zweijährige Ver-
+     jährungsfrist bei Mängelansprüchen
+        •   beim Kauf beweglicher Sachen mit der Ablieferung (Übergabe) der Sache
+            (§ 438 Abs. 2),
+        •   bei Verbraucherverträgen über digitale Produkte grds. die Bereitstellung
+            (§§ 327e I 2, 327b).
+        •   beim Werkvertrag im Regelfall mit der Abnahme (§ 634 a Abs. 2).
+
+
+               IV. Vereinbarungen über die Verlängerung und Verkürzung
+               von Verjährungsfristen
+     Grundsätzlich kann die Verjährungsfrist durch eine entsprechende Vereinbarung ver-
+     kürzt oder verlängert werden. § 202 schließt lediglich aus, dass die Haftung wegen
+     Vorsatzes erleichtert oder ausgeschlossen wird oder die Verjährungsfrist über 30 Jahre
+     hinaus verlängert wird.
+     In der Praxis spielt vor allem die Verlängerung oder Verkürzung von Verjährungsfristen
+     betreffend Mängelansprüche bei Kauf- und Werkverträgen eine Rolle.
+     Nicht selten werden dem Käufer von Markenartikeln längere als die gesetzlichen Ver-
+     jährungsfristen eingeräumt. Dafür wird häufig der Ausdruck "Garantiefrist" ver-
+     wandt.
+        Beispiel: Ein Autohersteller gibt den Käufern seiner Produkte eine Garantie da-
+        rauf, dass die Karosserie seiner Fahrzeuge acht Jahre lang nicht durchrostet.
+
+     Bei Werkverträgen über die Errichtung oder Einrichtung von Bauwerken hat der Bau-
+     herr häufig ein Interesse daran, dass die Verjährungsfrist über die gesetzliche Rege-
+     lung (5 Jahre nach § 634 a) hinaus verlängert wird.
+     In vielen Fällen hat der Verkäufer oder Werkunternehmer allerdings ein Interesse da-
+     ran, die Verjährungsfristen wegen Mängelansprüchen zu verkürzen.
+        Beispiel: Der Verkäufer von halbjährlich erscheinenden Zeitschriften möchte im
+        Regelfall nicht zwei Jahre lang nach Übergabe der Waren von Kunden wegen
+        Mängeln in Anspruch genommen werden können, wie § 438 das vorsieht.
+
+     Vereinbarungen über die Verkürzung von Verjährungsfristen sind zwar grundsätzlich
+     möglich, unterliegen aber erheblichen Einschränkungen.
+     Das gilt vor allem dann, wenn die Verkürzung der Verjährungsfrist über die Vereinba-
+     rung Allgemeiner Geschäftsbedingungen erreicht werden soll. § 309 Nr. 8 b) ff)
+     schreibt vor, dass bei Verträgen über Lieferungen neu hergestellter Sachen und über
+     Werkleistungen die verkürzte Verjährungsfrist 1 Jahr nicht unterschreiten darf. Eine
+     Klausel, die dagegen verstößt, ist unwirksam. Eine Verkürzung der Verjährungsfrist
+     unter 1 Jahr, die nicht durch Allgemeine Geschäftsbedingungen, sondern durch eine
+     Individualvereinbarung getroffen wird, ist hingegen wirksam.
+Die Verjährung                                                                             15
+
+
+
+Beim Verbrauchsgüterkauf sind der Verkürzung von Verjährungsfristen noch größere
+Grenzen gesetzt als sonst. Nach § 476 Abs. 2 kann die Verjährungsfrist von zwei
+Jahren für die Gewährleistungsansprüche und Rechte aus § 437 auch durch eine In-
+dividualvereinbarung nicht unterschritten werden, wenn es sich um den Kauf neuer
+Sachen handelt. Für gebrauchte Sachen darf die Verjährungsfrist nicht unter einem
+Jahr liegen. 7
+
+
+                V. Die Hemmung und der Neubeginn der Verjährung
+
+                   1. Überblick
+Es gibt eine Reihe von Ereignissen, die den Ablauf der Verjährungsfrist beeinflussen
+müssen. Dazu gehört z.B., dass der Schuldner durch sein Verhalten zu erkennen gibt,
+dass er den Anspruch als bestehend ansieht und ihn nicht bestreiten will. Darüber
+hinaus gibt es auch eine Reihe von anerkennenswerten Gründen, die den Gläubiger
+daran hindern, den Anspruch geltend zu machen. Auch dies muss Einfluss auf das
+Weiterlaufen der Verjährungsfrist haben. Schließlich muss sichergestellt werden, dass
+ein Anspruch nicht verjährt, wenn der Gläubiger bereits ernsthafte und angemessene
+Schritte zur Durchsetzung desselben unternommen hat. Das BGB wird dieser Interes-
+senlage gerecht durch
+      •    die Hemmung der Verjährung: bestimmte Zeiten werden in die Verjährungs-
+           frist nicht eingerechnet;
+      •    die Ablaufhemmung: bei diesem Unterfall der Hemmung läuft die Verjäh-
+           rungsfrist frühestens eine bestimmte Zeit nach Wegfall von bestimmten Grün-
+           den ab, die der Geltendmachung des Anspruchs entgegenstehen;
+      •    den Neubeginn der Verjährung: hier wird die bis zum Neubeginn verstri-
+           chene Zeit nicht mehr mitgezählt wird; der Lauf der Verjährungsfrist beginnt
+           also erneut.
+
+                   2. Die Hemmung
+Das Gesetz zählt eine Reihe von Gründen auf, die dazu führen, dass in dem Zeitraum,
+in dem diese Gründe vorhanden sind, die Verjährungsfrist nicht weiterläuft.
+
+Das Gesetz kennt u.a. folgende Gründe für den Eintritt der Hemmung der Verjährung:
+       • Klageerhebung (§ 204 Abs. 1 Nr. 1);
+       •   Zustellung eines gerichtlichen Mahnbescheides im Mahnverfahren (§ 204
+           Abs. 1 Nr.3);
+       •   Anmeldung des Anspruchs im Insolvenzverfahren (§ 204 Abs. 1 Nr.10);
+       •   Vereinbarung zwischen Gläubiger und Schuldner, aufgrund derer der Schuld-
+           ner berechtigt ist, vorübergehend die Leistung zu verweigern (§ 205); dazu
+           zählt z.B. die Stundung;
+       •    tatsächliche Hindernisse, die dazu führen, dass der Berechtigte einen beste-
+            henden Anspruch nicht geltend machen kann (§ 206). Dazu zählt vor allem
+            höhere Gewalt. Ein Fall der höheren Gewalt i.S. des § 206 liegt dann vor,
+
+
+_________________________________________________
+7
+    Näheres zum Verbrauchsgüterkauf im Modul 55106 Schuldrecht Besonderer Teil.
+16                                                                               Die Verjährung
+
+
+
+                wenn die Verhinderung auf Ereignissen beruht, die durch die vom Anspruchs-
+                berechtigten billigerweise zu erwartende Sorgfalt nicht verhütet werden
+                konnten; schon das geringste eigene Verschulden schließt höhere Gewalt
+                aus. 8Höhere Gewalt liegt z.B. vor, wenn der Anspruchsberechtigte überra-
+                schend und unvorbereitet schwer erkrankt.
+           •     Familiäre und ähnliche Gründe (§ 207). So sind in der Verjährung gehemmt
+                 z.B. die Ansprüche unter Eheleuten und Lebenspartnern, solange die Ehe bzw.
+                 die Lebenspartnerschaft besteht.
+           •     Eintritt der Parteien in Verhandlungen über einen streitigen oder zweifelhaf-
+                 ten Anspruch oder über Umstände, aus denen sich ein Anspruch ergeben
+                 kann (§ 203).
+     Dass im letztgenannten Fall (Verhandlungen) die Verjährung gehemmt ist, hat den
+     Sinn, die Verhandlungen, die dem rechtspolitisch erwünschten Zweck, Rechtsstreitig-
+     keiten zu vermeiden, dienen, nicht unter dem Druck einer ablaufenden Verjährungs-
+     frist stattfinden müssen. Die Hemmung dauert allerdings nur so lange, bis der eine
+     oder der andere Teil die Fortsetzung der Verhandlungen verweigert (§ 203 S. 1).
+     Wann das der Fall ist, dürfte nicht immer leicht zu entscheiden sein. Das gilt insbe-
+     sondere für den Fall, dass Verhandlungen durch Verschleppen oder Einschlafen lassen
+     beendet werden. Es ist davon auszugehen, dass die Verhandlungen dann als beendet
+     anzusehen sind, wenn von einem der Beteiligten nach Treu und Glauben Schritte zur
+     Fortsetzung zu erwarten gewesen wären.
+           Beispiel: V ist Inhaber eines Kaufpreisanspruchs gegen K. Dieser Anspruch ist am
+           01.07.2024 entstanden und verjährt gemäß § 195 in drei Jahren. Als K bis zum
+           01.10.2024 nicht gezahlt hat, beantragt V beim zuständigen Amtsgericht einen
+           Mahnbescheid. Mit der Zustellung des Mahnbescheids bei K ist der Ablauf der
+           Verjährung gemäß § 204 Abs. 1 Nr. 3 gehemmt.
+
+     Die Hemmung bedeutet stets ein Ruhen der Verjährung. Nach Beseitigung des Hem-
+     mungsgrundes läuft die Verjährungsfrist sofort weiter. Die bis zur Hemmung der
+     Verjährung bereits abgelaufene Frist wird mit eingerechnet (§ 209).
+     Mit der Einführung des Gesetzes zur Umsetzung der Richtlinie (EU) 2020/1828 über
+     Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher am 08.10.2023
+     wurde der § 204 a in das Bürgerliche Gesetzbuch eingefügt. Das Gesetz regelt die
+     Hemmung der Verjährung von Ansprüchen von Verbrauchern durch Klagen von qua-
+     lifizierten Verbraucherverbänden oder qualifizierten Einrichtungen. Besonders rele-
+     vant ist dabei die Erhebung von Musterfeststellungsklagen gem. § 204 a I Nr. 3, wie
+     beispielsweise beim „Abgas-Skandal“ oder gegen Stromanbieter „Stromio“.
+
+
+     VI. Der Neubeginn der Verjährung
+     Eine viel einschneidendere Wirkung als die Hemmung der Verjährung hat der Neube-
+     ginn der Verjährung. Gemäß § 212 hat der Neubeginn der Verjährung zur Folge, dass
+     die bis zum Neubeginn verstrichene Zeit nicht mehr mitgezählt wird. Der Ablauf der
+     vollständigen Verjährungsfrist beginnt erneut.
+
+
+
+
+     _________________________________________________
+     8
+         BAG NJW 2003, 2849, 2850; BeckOK BGB/HENRICH, BGB § 206 Rn. 3.
+Die Verjährung                                                                         17
+
+
+
+Die Gründe für den Neubeginn der Verjährung sind begrenzt. § 212 sieht vor, dass
+die Verjährung erneut beginnt, wenn
+    •   der Schuldner gegenüber dem Gläubiger den Anspruch anerkennt; das kann
+        durch Abschlag- oder Zinszahlung, durch Sicherheitsleistung oder auf andere
+        Weise geschehen;
+    •   eine gerichtliche oder behördliche Vollstreckungshandlung vorgenommen
+        oder beantragt wird.
+
+
+VII. Ausschlussfristen
+Von der Verjährung zu unterscheiden sind die so genannten Ausschlussfristen. Es han-
+delt sich dabei um Fristen, innerhalb derer bestimmte Gestaltungsrechte, zu denen
+u.a. die Anfechtung, die Kündigung und die Ausübung des Rücktrittsrechts zählen,
+geltend gemacht werden können. Ist die Frist, innerhalb derer das Gestaltungsrecht
+geltend gemacht werden kann, abgelaufen, so ist das Gestaltungsrecht erloschen.
+Beispiel: Die Ausschlussfrist für die Geltendmachung der Anfechtung ist in den
+§§ 121 und 124 geregelt.
+In einem Prozess hat das Gericht den Ablauf von Ausschlussfristen zu prüfen und von
+Amts wegen zu berücksichtigen. Das heißt, das Gericht hat die Ausschlussfrist auch
+dann zu beachten, wenn sich der Gegner im Prozess darauf nicht beruft. Ausschluss-
+fristen sind in einem gerichtlichen Verfahren "rechtsvernichtende" Einwendungen.
+Wichtige Entscheidungen:
+BGH NJW 2024, 1960 f.
+BGH NJW 2022, 3419 f.
+18                                                                              Die Personen
+
+
+
+            § 22 Die Personen
+     Schrifttum: BAUERMEISTER, Personen im Recht – über Rechtssubjekte und ihre Rechts-
+     fähigkeit, Zeitschrift für Unternehmens- und Gesellschaftsrecht, 2022, 733;.; CHELIDO-
+     NIS, Legalität und Legitimation – Gedanken zum Verhältnis von subjektivem Recht und
+     Rechtsmissbrauch, JURA 2010, 726; HÄHNCHEN, Der werdende Mensch – Die Stellung
+     des Nasciturus im Recht, JURA 2008, 161; S. LORENZ, Grundwissen – Zivilrecht: Rechts-
+     und Geschäftsfähigkeit, JuS 2010, 11;RIEHM, Nein zur ePerson!, RDi 2020, 42;WALD-
+     NER, der nicht eingetragene Rechtsverein vor und nach dem MoPeG, RNotz 2023,
+     450.
+
+
+
+            I.        Rechtssubjekte
+
+            1.           Der Personenbegriff des BGB
+     Als Träger von Rechten und Pflichten kennt das Privatrecht nur natürliche Personen
+     und juristische Personen. Beide sind als Trägerinnen subjektiver Rechte Rechtssub-
+     jekte.
+     Alle Menschen sind natürliche Personen. Als solche können sie Träger von Rechten
+     und Pflichten sein.
+     Gemäß § 1 ist jeder Mensch von der Geburt an rechtsfähig, d.h. eine "natürliche
+     Person".
+     Das BGB sieht also den Menschen als "geborene Person" an. Dem liegt das Verständ-
+     nis vom Menschen zugrunde, dass er seiner "eigentümlichen Natur und Bestimmung
+     nach darauf angelegt ist, sein Dasein und seine Umwelt im Rahmen der ihm jeweils
+     gegebenen Möglichkeiten frei und verantwortlich zu gestalten, sich Ziele zu setzen
+     und selbst Schranken des Handelns aufzuerlegen". 9 Dieses Verständnis wurzelt in der
+     christlichen Religion ebenso wie in der abendländischen Philosophie, insbesondere in
+     dem ethischen Personalismus Kants, der die Verfasser des BGB beeinflusst haben
+     dürfte. 10
+
+            2.           Die Rechtsfähigkeit
+     Die Rechtsfähigkeit als die Fähigkeit einer Person, Träger von Rechten und Pflichten
+     zu sein, macht die Person zum Rechtssubjekt, am Rechtsverkehr und damit am so-
+     zialen Leben teilnehmen kann. Nach § 1 beginnt die Rechtsfähigkeit des Menschen
+     im Zivilrecht mit der Vollendung der Geburt.
+     Schon aus dem Grundsatz der formalen Gleichbehandlung aller Staatsbürger ergibt
+     sich, dass die Rechtsfähigkeit allen Menschen in gleicher Weise zusteht. Das bedeutet
+     u.a., dass die Rechtsfähigkeit den Menschen unabhängig von Geschlecht, Abstam-
+     mung, Rasse, Alter, Beruf, Einkommensverhältnissen, Religion oder politischen Über-
+     zeugungen verliehen ist. Die Rechtsfähigkeit hängt auch nicht von den kognitiven
+     Fähigkeiten einer Person ab: Säuglinge sind ebenso rechtsfähig wie Personen, die an
+
+
+
+
+     _________________________________________________
+     9
+         NEUNER, § 10 Rn. 2.
+     10
+          Vgl. NEUNER, § 10 Rn. 3.
+Die Personen                                                                               19
+
+
+
+einer krankhaften Beeinträchtigung ihrer geistigen Leistungsfähigkeit, etwa einer De-
+menz, leiden.
+
+
+       Beispiel: Ein einjähriges Kind kann Eigentümer eines Grundstücks und Inhaber
+       einer Schadensersatzforderung sein.
+Die Rechtsprechung hat den Rechtsschutz einer Person insoweit auf die Zeit vor der
+Geburt ausgedehnt, als sie einem Kind, das als Embryo verletzt worden ist, Schadens-
+ersatzansprüche zuerkannt hat, wenn es mit Schäden auf die Welt gekommen ist. 11
+       Beispiel (in Anlehnung an BGHZ 58, 48): Der Kraftfahrer K verursacht schuldhaft
+       einen Verkehrsunfall, bei dem die im sechsten Monat schwangere F und der Emb-
+       ryo verletzt werden. Nach der Geburt des Kindes E stellt sich heraus, dass dieses
+       infolge der Verletzung durch den Verkehrsunfall an spastischen Lähmungen lei-
+       det, weil es mit einem Gehirnschaden geboren worden ist.
+Nach dem Wortlaut des § 1 ist der Embryo nicht rechtsfähig, weil die Rechtsfähigkeit
+erst mit der Vollendung der Geburt beginnt. Dem ungeborenen Kind einen Schadens-
+ersatzanspruch zuzugestehen, würde gegen den Wortlaut des § 1 verstoßen. Der
+BGH 12 vertritt allerdings die Auffassung, bei Fällen dieser Art gehe es nicht um den
+Ersatz des Schadens, den die Leibesfrucht erlitten habe, sondern um den Schaden an
+der Gesundheit des zur Welt gekommenen, aber kranken Kindes. Im Übrigen sei die
+Tatsache, dass die Verletzung schon der Leibesfrucht zugefügt worden ist und daher
+vor der Existenz des Menschen und vor Beginn seiner Rechtsfähigkeit geschehen
+sei, kein Hindernis für die Anwendung des § 823. Nach Ansicht des BGH ist die Lei-
+besfrucht dazu bestimmt, als Mensch ins Leben zu treten; sie und das später geborene
+Kind sind identische Wesen, eine naturgegebene Tatsache, der das Haftungsrecht
+Rechnung tragen muss. Verletzungen der Leibesfrucht werden daher jedenfalls mit
+Vollendung der Geburt zu einer Verletzung der Gesundheit des Menschen, für die der
+Schädiger gemäß § 823 Ersatz leisten muss.
+Damit wird der Schutz des Menschen wegen Körper- und Gesundheitsverletzungen
+in die Zeit vor Erlangung der Rechtsfähigkeit vorverlagert. Zugunsten des Schädigers
+ist allerdings zu beachten, dass ein Schadensersatzanspruch gegen ihn nur entstehen
+kann, wenn das Kind lebend zur Welt kommt.
+       Zu dem vorhergehenden Beispiel: Nach der Rechtsprechung des BGH hat das
+       Kind E also gegen K einen Schadensersatzanspruch gemäß § 823 Abs. 1.
+Die Rechtsfähigkeit endet mit dem Tod einer Person, weil Verstorbene nicht mehr
+Träger von Rechten und Pflichten sein können. Das Vermögen geht gemäß § 1922
+Abs. 1 mit dem Tod als Ganzes auf einen oder mehrere Erben über (sog. Univer-
+salsukzession).
+
+
+
+
+_________________________________________________
+11
+     BGHZ 8, 243 ff.; 58, 48.
+12
+     BGHZ 58, 48, 50 ff.
+20                                                                                 Die Personen
+
+
+
+            3.           Der Schutz der Persönlichkeit
+
+            a)             Überblick
+     Die natürlichen Personen werden durch das im BGB nicht ausdrücklich geregelte, aber
+     durch die Rechtsprechung und die rechtswissenschaftliche Literatur allgemein aner-
+     kannte allgemeine Persönlichkeitsrecht umfassend geschützt.
+     Das allgemeine Persönlichkeitsrecht ist ein umfassendes Recht auf Achtung und Nicht-
+     verletzung der Person, durch das die Privat- und Intimsphäre, die Ehre sowie Schrift
+     und Rede geschützt werden. 13 Das Grundgesetz garantiert das allgemeine Persönlich-
+     keitsrecht in Art. 1 Abs. 1 und Art. 2 Abs. 1 und 2. Das BGB schützt mit dem Namens-
+     recht nach § 12 ein "besonderes" Persönlichkeitsrecht. Vor allem aber wird das all-
+     gemeine Persönlichkeitsrecht als absolutes „sonstiges Recht“ durch § 823 Abs. 1
+     geschützt (zu Letzterem siehe sogleich unter e).
+
+            b)             Das Namensrecht
+     Der Name einer Person ist deren ständige Bezeichnung, die dem Zweck dient, sie von
+     anderen Personen zu unterscheiden. In der Bundesrepublik Deutschland besteht nach
+     dem Personenstandsgesetz die Pflicht, einen Namen zu führen (§§ 1 Abs. 1, 5 Abs. 2
+     Nr. 1, 2 PAuswG, §§ 1, 4 Abs. 1 Nr. 1 PassG, § 15 Abs. 1 PStG, § 21 Abs. 1 PStG. 14
+     Nach § 12 erfüllt der Name nicht nur den Zweck, die Person zu kennzeichnen. Der
+     Name ist auch ein absolutes Persönlichkeitsrecht, das die Person in zweierlei Hin-
+     sicht schützt:
+            •    § 12 bietet einen Schutz gegen den Gebrauch des Namens durch einen an-
+                 deren (Namensanmaßung); er gewährt damit ein Ausschlussrecht gegen die
+                 unbefugte Führung des Namens durch andere Personen.
+            •    § 12 gewährt außerdem einen Schutz für den Gebrauch des eigenen Namens
+                 durch eine Person (Namensbestreitung); wenn einer Person das Recht zum
+                 Gebrauch des eigenen Namens von einer anderen streitig gemacht wird, kann
+                 sie eine Beseitigung der Beeinträchtigung durch den Nichtberechtigten ver-
+                 langen.
+     Man kann deshalb auch sagen, dass das Namensrecht das Recht umfasst, den eigenen
+     Namen ungehindert zu führen und andere von dem unbefugten Gebrauch des Na-
+     mens auszuschließen.
+     Eine Verletzung des Namensrechts des Berechtigten durch den unbefugten Gebrauch
+     seines Namens i.S. des § 12 liegt in erster Linie dann vor, wenn der Name von einem
+     anderen, dem er nicht zukommt, als sein Kennzeichen oder Unterscheidungsmerkmal
+     benutzt wird. 15
+            Beispiel: Frau Karoline Grau erfährt von einer guten Bekannten, dass sich ihr Ehe-
+            mann mit seiner Geliebten Eva Grünvogel in Bad Ems in einem Hotel aufhält. Sie
+            fährt nach Bad Ems und stellt dort fest, dass sich Frau Grünvogel im Hotelbuch als
+            "Karoline Grau" eingetragen hat. In diesem hat Frau Grau aus § 12 einen An-
+            spruch auf Beseitigung der Namensbeeinträchtigung. Sie kann darüber hinaus von
+
+     _________________________________________________
+     13
+          Vgl. dazu BGHZ 13, 334; 24, 72; 35, 363; 39, 124; 66, 182.
+     14
+          BeckOK/Förster,, BGB § 12 Rn. 6.
+     15
+          RGZ 91, 350, 352; BGHZ 30, 7, 9.
+Die Personen                                                                                 21
+
+
+
+       Eva Grünvogel verlangen, dass diese zukünftig den Gebrauch des Namens "Karo-
+       line Grau" unterlässt, sofern die Besorgnis weiterer Beeinträchtigungen besteht.
+
+       c)             Das Recht am eigenen Bild
+Gemäß §§ 22 und 23 des Kunst– und Urhebergesetzes (Gesetz betreffend das Urhe-
+berrecht an Werken der bildenden Künste und der Fotografie) darf die Verbreitung
+oder die öffentliche Zurschaustellung des Bildes einer Person nur mit deren Zustim-
+mung erfolgen. Liegt die Einwilligung der Person nicht vor, ist diese befugt, die Ver-
+breitung oder die öffentliche Zurschaustellung des Bildes zu untersagen. 16
+       Beispiel: Anton Adler findet zu seiner Überraschung im Rahmen eines Artikels
+       über die Deutschen in einer Illustrierten sein Bild mit der Unterschrift "Kranken-
+       pfleger immer unzufriedener". Da eine Einwilligung des Adler nicht vorliegt, kann
+       er gemäß §§ 22, 23 Kunst– und Urhebergesetz die Verbreitung des Bildes unter-
+       sagen.
+Ausnahmen von der genannten Regel gelten gemäß § 23 Kunst– und Urhebergesetz
+nur
+       •    für Bilder von Personen der Zeitgeschichte;
+       •    für Bilder, auf denen die Personen nur als Beiwerk neben einer Landschaft
+            oder einer sonstigen Örtlichkeit erscheinen;
+       •    für Bilder, bei denen ein höheres Interesse der Kunst die Schaustellung recht-
+            fertigt;
+       •    für Bilder, auf denen die Personen lediglich als Teilnehmer von Massenveran-
+            staltungen zu sehen sind.
+Auch bei Bildnissen aus dem Bereich der Zeitgeschichte sind aber gewisse Einschrän-
+kungen zu beachten. Selbst Bilder von Personen der Zeitgeschichte dürfen nicht ver-
+breitet werden, wenn dadurch ein berechtigtes Interesse der Person verletzt wird. Das
+bedeutet u.a., dass Personen der Zeitgeschichte es in der Regel nicht hinnehmen müs-
+sen, dass Bilder aus ihrer Privat- und Intimsphäre ohne ihren Willen angefertigt und
+veröffentlicht werden.
+       Beispiel: Das Bild des Politikers A bei einer Wahlveranstaltung darf veröffentlicht
+       werden, nicht aber das Bild des Politikers A, welches ihn beim Austausch von In-
+       timitäten mit seinem Lebensgefährten B zeigt.
+
+       Beispiel: Das Bild des gesuchten Straftäters darf veröffentlicht werden, nicht aber
+       dasjenige seiner Eltern.
+
+       d)             Die Verletzung der in § 823 Abs. 1 genannten Lebensgüter
+In § 823 Abs. 1 sind vier Lebensgüter genannt, deren rechtswidrige und schuldhafte
+Verletzung unter den übrigen in dieser Vorschrift genannten Voraussetzungen einen
+Schadensersatzanspruch entstehen lässt. Diese Lebensgüter sind: das Leben, der Kör-
+per, die Gesundheit und die Freiheit.
+
+
+
+
+_________________________________________________
+16
+     Vgl. dazu BGH NJW 1996,
+22                                                                                     Die Personen
+
+
+
+     Die genannten Lebensgüter sind auch durch das Grundgesetz in Art. 2 Abs. 2 GG
+     ausdrücklich geschützt. Es ist dort von dem "Recht auf Leben und körperliche Unver-
+     sehrtheit" sowie der "Freiheit der Person" (Schutz der Freiheit) die Rede. Aus § 823
+     Abs. 1 i.V.m. Art. 2 Abs. 2 GG ist deshalb das Recht jeder Person auf Nichtverletzung
+     des Lebens, des Körpers, der Gesundheit und der Freiheit abzuleiten. 17
+
+            e)             Der Schutz des allgemeinen Persönlichkeitsrechts
+     Das allgemeine Persönlichkeitsrecht garantiert einen umfassenden Schutz der Persön-
+     lichkeitssphäre. Es wird aus dem Grundgesetz (Art. 1 Abs. 1 und Art. 2 Abs. 1 und 2)
+     abgeleitet und gemäß § 823 Abs. 1 als ein "sonstiges Recht" geschützt. 18
+     Die Grenzen des allgemeinen Persönlichkeitsrechts sind nur schwer zu ziehen. Sie
+     dürften sich aus der Gleichheit des Rechts für alle Personen, aus einem berechtigten
+     Interesse der Öffentlichkeit an Unterrichtung und Information i.V.m. dem Grundrecht
+     der freien Meinungsäußerung (Art. 5 GG), das allerdings ebenso wie die Freiheit der
+     Kunst nicht grenzenlos ist, und aus einem höher zu bewertenden Interesse der Rechts-
+     pflege ergeben. 19
+            Beispiel (in Anlehnung an BGH, Urt. v. 24.10.2023 – VI ZR 1074/20)
+            In der 50. Ausgabe der Zeitschrift X erscheint ein Artikel unter voller Namensnen-
+            nung des S. S sei wieder da, er sehe aus wie früher. Vor zwei Wochen habe das
+            Magazin F R über die enge Freundschaft zwischen der Familie S (…) und dem
+            Papst-Vertrauten G (…) berichtet. Bei einem Besuch der Familie S habe G mit dem
+            Daumen noch ein Kreuzzeichen auf S(…)s Stirn gezeichnet. Die Familie X klagt
+            auf Unterlassung von Teilen der Presseberichterstattung.
+
+            Hier geht es um die Frage, ob die Privatsphäre des S als Ausdruck des allgemeinen
+            Persönlichkeitsrechts verletzt ist. Der BGH ist der Ansicht, dass durch die Bericht-
+            erstattung des Ablaufs des Besuchs des Geistlichen im Wohnhaus des S und seiner
+            „religiösen Geste“ gegen Ende seines Besuchs bei S in seine Privatsphäre einge-
+            griffen wird. Allerdings wiege das Schutzinteresse des S nicht stärker als das durch
+            Art. 5 I GG, Art. 10 EMRK geschützte Recht der X auf freie Meinungsäußerung.
+            Das allgemeine Persönlichkeitsrecht als Rahmenrecht habe keine festgelegte
+            Reichweite, sondern müsse durch die Abwägung der widerstreitenden grund-
+            rechtlich relevanten Belange bestimmt werden. Rechtswidrig sei ein Eingriff in das
+            allgemeine Persönlichkeitsrecht also , wenn das schutzwürdige Interesse des Be-
+            troffenen die Belange der anderen Seite überwiege.
+
+            Mit diesem Urteil hat der BGH erneut klargestellt, dass eine Rechtswidrigkeit des
+            Eingriffs nur bei überwiegendem Interesse des Betroffenen gegeben ist. Im ge-
+            schilderten Streitfall entschied der BGH, dass das Informationsinteresse der Allge-
+            meinheit und damit die Meinungsfreiheit der X überwiege.
+
+            Beispiel (in Anlehnung an BGHZ 39, 124): Die Juli–Ausgabe der von X herausge-
+            gebenen Illustrierten Y enthält einen Bericht über die Fernsehansagerin K. In Ver-
+            bindung mit der Wiedergabe ungünstiger Lichtbilder wird ausgeführt, K sehe aus
+            "wie eine ausgemolkene Ziege" und passe "in ein zweitklassiges Tingeltangel auf
+
+     _________________________________________________
+     17
+          Vgl. u.a. BGHZ 24, 72, 76 ff.
+     18
+          BGH NJW 2005, 2844 ff; BeckOGK/SPECHT-RIEMENSCHNEIDER, BGB § 823 Rn. 1171.
+     19
+          BROX/WALKER, § 33 Rn. 21.
+Die Personen                                                                                  23
+
+
+
+       der Reeperbahn". K wurde wegen dieser Angriffe in der Presse von der Rund-
+       funkanstalt, bei der sie angestellt war, entlassen. Sie verlangt nun von X und dem
+       verantwortlichen Redakteur Schadensersatz und Schmerzensgeld.
+
+       Hier geht es u.a. um die Frage, ob das allgemeine Persönlichkeitsrecht der K ver-
+       letzt ist. Der BGH 20 ist der Ansicht, dass der geschilderte Bericht eine schwerwie-
+       gende rechtswidrige Verletzung des Persönlichkeitsrechts der K enthält. Zwar sei
+       es der Presse erlaubt, die Leistungen der K als Ansagerin einer Rundfunkanstalt zu
+       kritisieren und dabei auch auf das den Fernsehteilnehmern bekannte äußere Er-
+       scheinungsbild einzugehen und es negativ zu würdigen. Die Ausführungen in der
+       Illustrierten Y gingen aber über das Maß einer erlaubten Kritik weit hinaus. Das
+       gelte vor allem für die Beleidigungen, K passe in "ein zweitklassiges Tingeltangel
+       auf der Reeperbahn" und sehe aus wie eine "ausgemolkene Ziege". Diese Belei-
+       digungen seien auch nicht mit einer Berufung auf das Grundrecht der Pressefrei-
+       heit zu rechtfertigen. Dieses Grundrecht werde "in seinem Wesen verkannt, wenn
+       ihm die von einer Verantwortung entbundene Freiheit entnommen wird, Klatsch
+       zu verbreiten und die Berichterstattung auf Kosten der Ehre anderer zugkräftig zu
+       machen (vgl. Art. 5 Abs. 2 GG)". Eben dies sei aber in dem Bericht geschehen,
+       indem in verzerrter und beleidigender Art auf das Privatleben der K ohne sachli-
+       chen Grund eingegangen worden sei.
+
+       In dieser Entscheidung hat der BGH deutlich gemacht, dass mit ehrverletzenden
+       Äußerungen das allgemeine Persönlichkeitsrecht einer Person verletzt werden
+       kann. Er hat sich zugleich mit den Grenzen, die dem allgemeinen Persönlichkeits-
+       recht gezogen sein können, befasst, indem er geprüft hat, ob das Grundrecht der
+       Pressefreiheit in einem solchen Fall eine Berichterstattung dieser Art zulässt.
+
+Das BVerfG21 geht davon aus, dass das Persönlichkeitsrecht regelmäßig nicht über den
+Tod hinaus fortwirkt, weil Träger des Grundrechts aus Art. 2 GG nur die lebende
+Person ist und mit ihrem Tode auch der Schutz aus diesem Grundrecht erlischt. Aller-
+dings wäre es mit dem in der Verfassung verbürgten Gebot der Unverletzlichkeit der
+Menschenwürde unvereinbar, wenn der Mensch in diesem allgemeinen Achtungs-
+anspruch nach seinem Tode grob herabgewürdigt oder erniedrigt werden dürfte.
+Daher endet die in Art. 1 Abs. 1 GG aller staatlichen Gewalt auferlegte Verpflichtung,
+dem Einzelnen Schutz gegen Angriffe auf seine Menschenwürde zu gewähren, nicht
+mit seinem Tod (postmortaler Persönlichkeitsschutz). 22 Geschützt wird auch der
+sittliche, personale und soziale Geltungswert, den die Person durch ihre eigene Le-
+bensleistung erworben hat. Insbesondere besteht der Schutz des Persönlichkeitsbildes
+gegen grob ehrverletzende Entstellungen und der Schutz des Rechts am eigenen Bild
+gegen Herabwürdigung und Erniedrigung für angemessene Zeit fort. 23
+Ebenso wie das Schutzbedürfnis für die später geborene Person bereits vor der Geburt
+und damit vor der Rechtsfähigkeit beginnt, besteht auch ein Bedürfnis, den Schutz
+der menschlichen Persönlichkeit über den Tod hinaus auszudehnen (postmortaler
+Persönlichkeitsschutz). Der BGH 24 hat anerkannt, dass die schutzwürdigen Werte
+
+_________________________________________________
+20
+     BGHZ 39, 124 ff.
+21
+     BVerfGE 30, 173 ff.; BVerfG, NJW 2023, 755 Rn. 27.
+22
+     BVerfG 30, 173, 194 – Mephisto; BVerfG, NJW 2023, 755 Rn. 28.
+23
+     Vgl. PALANDT/SPRAU, § 823 Rn. 19.
+24
+     BGHZ 50, 133.
+24                                                                                Die Personen
+
+
+
+     der Persönlichkeit die Rechtsfähigkeit einer Person überdauern können, weil die Ach-
+     tung vor der Person des Verstorbenen es gebiete, auch nach dem Tode herabsetzende
+     und entstellende Äußerungen zu unterlassen. Der BGH vertritt die Auffassung, die
+     Rechtsordnung könne Gebote und Verbote zum Schutze verletzungsfähiger Rechts-
+     güter von Personen auch unabhängig vom Vorhandensein eines lebenden Rechtssub-
+     jektes vorsehen und namentlich Unterlassungsansprüche der in Rede stehenden Art
+     durch jemanden wahrnehmen lassen, der nicht selbst Subjekt eines entsprechenden
+     Rechtes ist, wenn der ursprüngliche Träger dieses Rechts durch den Tod die Rechtsfä-
+     higkeit verloren hat. 25
+     In einer späteren Entscheidung 26 hat der BGH noch einmal betont, dass der rechtliche
+     Schutz der Persönlichkeit gemäß Art. 1 Abs. 1 GG nicht mit dem Tod ende; vielmehr
+     bestehe der allgemeine Wert– und Anfechtungsanspruch fort, so dass das fortwir-
+     kende Lebensbild eines Verstorbenen weiterhin gegen schwerwiegende Entstellungen
+     geschützt werde.
+     Hinsichtlich einer Verunglimpfung des Andenkens Verstorbener haben die Wahrneh-
+     mungsberechtigten (meist die Erben) einen (quasinegatorischen) Beseitigungs- und
+     Unterlassungsanspruch aus § 1004 Abs. 1 S. 1, 2 analog iVm § 823 Abs. 1. Die Schutz-
+     dauer der materiellen Bestandteile des postmortalen Persönlichkeitsrechts endet nach
+     der Rechtsprechung ebenso wie das Recht am eigenen Bild (§ 22 S. 3 KunstUrhG)
+     zehn Jahre nach dem Tod der Person. 27 Geldersatzansprüche wegen Verletzung des
+     postmortalen Persönlichkeitsrechts stehen den Erben jedoch nicht zu. 28
+            Beispiel: Der Schriftsteller Klaus Mann hat einen Roman mit dem Titel "Me-
+            phisto" geschrieben. Darin schildert er Leben und Karriere eines Schauspielers,
+            sein damals z.T. als "pervers" gewertetes Liebesleben und sein Verhalten im Drit-
+            ten Reich. Für Kenner ist sofort erkenntlich, dass mit dem Schauspieler Gustaf
+            Gründgens gemeint ist. Das Werk erschien erst nach dem Tode von Gründgens in
+            der Bundesrepublik. Dessen Adoptivsohn wollte verhindern, dass das Andenken
+            seines Vaters entehrt wurde. Er verlangte deshalb u.a., dass der Vertrieb des Bu-
+            ches in der Bundesrepublik Deutschland unterbleiben sollte.
+
+            Der BGH 29 hat dazu ausgeführt: Die schutzwürdigen Werte der Persönlichkeit
+            überdauern die Rechtsfähigkeit ihres Subjektes, die mit dem Tode erlischt. Das
+            Persönlichkeitsrecht erfährt zwar mit dem Tode der Person eine einschneidende
+            Einschränkung, da alle diejenigen Ausstrahlungen enden, die die Existenz einer
+            aktiv handelnden Person bedingen. Andererseits sei aber allgemein anerkannt,
+            dass der Verstorbene nicht nur übertragbare materielle Werte hinterlasse; viel-
+            mehr überdauerten auch immaterielle Güter seinen Tod, die verletzbar und auch
+            nach dem Tod noch schutzwürdig seien. Auch wenn man davon ausgehe, dass
+            das Grundgesetz, indem es in Art. 1 die Würde des Menschen für unantastbar
+            erkläre und in Art. 2 das Recht auf freie Entfaltung der Persönlichkeit festlege,
+            vorwiegend den Schutz der Persönlichkeitsbelange des in der Rechtsgemeinschaft
+            noch tätigen Bürgers gewährleisten wolle, bestehe kein Anhalt dafür , dass ent-
+
+
+     _________________________________________________
+     25
+          BGHZ 50, 133, 137.
+     26
+          BGHZ 107, 384, 391.
+     27
+          BGH, NJW 2007 684; LUDYGA, ZEV 2022, 693, 697 f.
+     28
+          MünchKomm/WAGNER, BGB § 823 Rn. 471.
+     29
+          BGHZ 50, 133, 136 ff.
+Die Personen                                                                               25
+
+
+
+       gegen den Anschauungen unseres Kulturkreises die Schutzgarantie für die Men-
+       schenwürde, die auch nach dem Tode "antastbar" bleibe, für Verstorbene entfal-
+       len solle. Da das Grundgesetz zugunsten eines umfassenden Schutzes der Men-
+       schenwürde keine zeitliche Begrenzung auf das Leben des Menschen erkennen
+       lasse, sei nicht einzusehen, warum der Schutz des so genannten allgemeinen Per-
+       sönlichkeitsrechts, das die höchstrichterliche Rechtsprechung als sonstiges Recht
+       i.S. des § 823 Abs. 1 anerkannt hat, indem es diese Generalklausel des bürgerli-
+       chen Rechts gemäß der Wertentscheidung des Verfassungsgebers ausgefüllt hat,
+       zwangsläufig mit dem Tod enden solle.
+
+       Konsequent hat der BGH deshalb zugelassen, dass der Adoptivsohn von
+       Gründgens den postmortalen Persönlichkeitsrechtsschutz zugunsten seines ver-
+       storbenen Vaters wahrnehmen konnte, zumal Entstellungen schwerwiegender
+       Art auch nicht durch die ebenfalls verfassungsrechtlich verbürgte Freiheit der
+       Kunst (Art. 5 Abs. 3 GG) gedeckt werden. 30
+
+Eine Verletzung des allgemeinen Persönlichkeitsrechts kann auch in der Verletzung
+des Datenschutzes liegen 31 und – ein Verschulden vorausgesetzt – zur Entstehung ei-
+nes Schadensersatzanspruches aus § 823 Abs. 1 führen. Die Rechte der Betroffenen
+sind durch die Datenschutz-Grundverordnung auf europäischer und dem Bundesda-
+tenschutzgesetz auf nationaler Ebene ausführlich geregelt. Mit der Einführung des
+Art. 82 DSGVO wurde ein Schadensersatzanspruch wegen Verletzung des Daten-
+schutzes erschaffen. Der BGH hatte damals einen Anspruch aus § 823 I BGB für solche
+Verletzungen des Datenschutzes ausgeschlossen, die im Bundesdatenschutzgesetz
+abschließend geregelt waren. Begründet wurde dies damit, dass die Verletzung des
+allgemeinen Persönlichkeitsrechts nur ein so genannter "Auffangtatbestand" sei, der
+grundsätzlich gegenüber einer Spezialregelung des Persönlichkeitsrechts zurück-
+trete. 32 Dieser Ansicht des BGH Ist auch heute zu folgen. Der Art. 82 DSGVO ist nicht
+abschließend; ein deliktsrechtlicher Anspruch wird jedoch eine nur noch geringe Re-
+levanz haben. 33
+
+
+       II.        Die juristischen Personen
+
+       1.           Begriff, Bedeutung und Arten von juristischen Personen
+Wie bereits erwähnt, wird das soziale Leben nicht nur durch einzelne Menschen, son-
+dern auch durch Organisationen geprägt und beeinflusst, wie z.B. den Staat, die Kir-
+chen, Universitäten, Aktiengesellschaften und Sportvereine. Um diesen Organisatio-
+nen die selbständige Teilnahme am Rechtsverkehr zu ermöglichen, sieht die
+Rechtsordnung vor, Personenvereinigungen oder rechtlich verselbständigten Zusam-
+menfassungen von Vermögenswerten eine eigene Rechtsfähigkeit zu geben. Das BGB
+nennt sie juristische Personen.
+Juristische Personen sind soziale Organisationen, denen die Rechtsordnung eine ei-
+gene Rechtsfähigkeit zuerkennt, damit sie selbst Träger von Rechten und Pflichten
+sein können. Die juristischen Personen sind also selbst rechtsfähig. Ihre Rechte und
+
+_________________________________________________
+30
+     BGHZ 50, 133, 144 ff.
+31
+     BGHZ 91, 233 ff.
+32
+     BGHZ 91, 233, 237 f.
+33
+     MünchKomm/WAGNER, BGB § 823 Rn. 680.
+26                                                                                             Die Personen
+
+
+
+     Pflichten sind ihre eigenen und nicht diejenigen der ihr angehörenden natürlichen
+     Personen.
+            Beispiel: Eigentümer des Grundstücks, auf dem die "Europäische Erdöl-Aktien-
+            gesellschaft" eine Raffinerie betreibt, ist die Aktiengesellschaft als juristische Per-
+            son, wenn sie das Eigentum an dem Grundstück erworben hat, und nicht die
+            Aktionäre oder der Vorstand der Aktiengesellschaft.
+
+     Die Schaffung der Rechtsfigur "Juristische Person" war notwendig, um einen selb-
+     ständigen juristischen Zuordnungspunkt für Rechte und Pflichten zu schaffen, die
+     nicht einer natürlichen Person zugeordnet sind. Mit der juristischen Person werden
+     Organisationsformen ermöglicht, die für den Rechtsverkehr in einer modernen Indust-
+     riegesellschaft unerlässlich sind.
+     Zur Zeit der Entstehung des BGB wurde erbittert darüber gestritten, welcher Rechts-
+     natur die juristische Person sei. U.a. ging es darum, ob sie eine nur gedachte "fiktive"
+     Person (Fiktionstheorie) oder aufgrund der soziologischen Realität der Verbände und
+     Organisationen eine "wirkliche und volle Person gleich den Einzelpersonen" sei (The-
+     orie der realen Verbandspersönlichkeit). 34 Dieser Streit ist im Wesentlichen abgeklun-
+     gen. 35
+     Man unterscheidet zwischen den juristischen Personen des öffentlichen Rechts, z.B.
+     Bund, Ländern, Gemeinden, Kreisen, und den juristischen Personen des Privatrechts.
+     Zu den juristischen Personen des Privatrechts gehören u.a.: eingetragene Vereine, Stif-
+     tungen, Aktiengesellschaften, Gesellschaften mit beschränkter Haftung, eingetra-
+     gene Genossenschaften und Versicherungsvereine auf Gegenseitigkeit.
+     Die Rechtsfähigkeit erwerben juristische Personen in der Regel erst mit der Eintra-
+     gung in ein staatliches Register (Vereinsregister, Handelsregister, Genossenschaftsre-
+     gister) oder durch staatliche Verleihung, wie z.B. der Versicherungsverein auf Gegen-
+     seitigkeit. Allein der Erwerb der Rechtsfähigkeit setzt die juristische Person allerdings
+     noch nicht in den Stand, im Rechtsverkehr zu handeln, z.B. einen Kaufvertrag ab-
+     schließen zu können. Eine juristische Person kann im Rechtsverkehr nur mit Hilfe von
+     natürlichen Personen (Stellvertretung § 164 I BGB) handeln, die die Organe der
+     juristischen Person bilden. Organe, die diesen Zweck erfüllen, sind z.B. der Vorstand
+     eines eingetragenen Sportvereins und der Vorstand einer Aktiengesellschaft oder der
+     Geschäftsführer einer GmbH.
+     Die Organe können außerdem der Willensbildung innerhalb der juristischen Person
+     dienen. Einen solchen Zweck hat z.B. die Mitgliederversammlung eines Sportvereins
+     oder die Mitgliederversammlung (auch Hauptversammlung genannt) einer Aktienge-
+     sellschaft.
+            Beispiel: Organe der Aktiengesellschaft sind: der Vorstand, der Aufsichtsrat und
+            die Hauptversammlung (Mitgliederversammlung).
+
+     Es gibt auch Organe, die eine Kontrollfunktion wahrnehmen.
+
+
+            Beispiel: Der Aufsichtsrat einer Aktiengesellschaft kontrolliert den Vorstand.
+
+     _________________________________________________
+     34
+          Vgl. zum ehemaligen Streitstand ENNECCERUS–NIPPERDEY, § 103 und die Übersicht bei HÜBNER, Rn. 192.
+     35
+          Vgl. dazu NEUNER, § 16, Rn. 13 f.
+Die Personen                                                                                    27
+
+
+
+Das Verhalten der Organe einer juristischen Person wird nur der juristischen Person
+selbst zugerechnet. Die juristische Person handelt also selbst, wenn ihre Organe für
+sie handeln. Man kann sagen: Die juristische Person handelt durch ihre Organe.
+Die unmittelbaren privatrechtlichen Folgen des Handelns, im Wesentlichen der Erwerb
+von Rechten und Pflichten, treffen deshalb nur die juristische Person selbst. Den Gläu-
+bigern einer juristischen Person haftet nur deren Vermögen. Grundsätzlich haften die
+Mitglieder der juristischen Person nicht mit ihrem Privatvermögen. Man spricht des-
+halb auch von der juristischen Person "als Haftungsschirm". 36
+       Beispiel: Wenn der Vorstand für die Aktiengesellschaft einen Kaufvertrag mit ei-
+       ner anderen Person abschließt, wird das Verhalten der Aktiengesellschaft zuge-
+       rechnet (§§ 78 I 1, 82 I AktG, § 164 I 1 BGB). Die Aktiengesellschaft und nicht der
+       Vorstand oder einzelne Vorstandsmitglieder wird aus dem Kaufvertrag berechtigt
+       und verpflichtet. Ist die Aktiengesellschaft nicht in der Lage, ihre Pflichten aus dem
+       Kaufvertrag zu erfüllen, können sich die Gläubiger nicht an die Mitglieder des
+       Vorstandes der Aktiengesellschaft halten und von diesen die Leistung verlangen
+       (Ausnahme § 93 II AktG und die sog. „Business Judgement Rule“). Nicht der Vor-
+       stand oder dessen einzelne Mitglieder, sondern die Aktiengesellschaft als solche
+       ist "Trägerin" der Verbindlichkeit.
+
+
+       2.           Der Schutz des Persönlichkeitsrechts juristischer Personen
+Grundsätzlich können auch juristische Personen, wie z.B. eine Aktiengesellschaft, Trä-
+gerinnen des allgemeinen Persönlichkeitsrechts sein. Allerdings ist diese Rechtsträger-
+schaft inhaltlich begrenzt. Die Begründung dafür ergibt sich aus dem Entstehungs-
+grund, nämlich der Ableitung des Persönlichkeitsschutzes aus Art. 1 und 2 GG zur
+Ausfüllung einer Lücke. Nach Ansicht des BGH 37 ist eine Ausdehnung der Schutzwir-
+kung des Persönlichkeitsrechts über natürliche Personen hinaus auf juristische Perso-
+nen nur insoweit gerechtfertigt, als sie aus ihrem Wesen als Zweckschöpfung des
+Rechts und ihren Funktionen dieses Rechtsschutzes bedürfen. Dies ist der Fall, wenn
+juristische Personen in ihrem "sozialen Geltungsanspruch als Arbeitgeber oder
+als Wirtschaftsunternehmen betroffen werden". 38
+Der BGH hat die Verletzung des allgemeinen Persönlichkeitsrechts eines Unterneh-
+mens in einem Fall bejaht, in dem ein Wissenschaftler, der Fortbildungsseminare für
+Wirtschaftsprüfer und Steuerberater durchgeführt hatte, Ablichtungen eines im Bun-
+desanzeiger veröffentlichten Jahresabschlusses, der die finanzielle Situation dieses Un-
+ternehmens offenbarte, an Banken und Seminarteilnehmer weitergegeben hatte,
+ohne den Namen und die Adresse des Unternehmens unkenntlich zu machen. 39 Der
+BGH meint, wenn ein Seminar mit dem Titel "Jahresabschlussanalyse aus der Sicht
+der Banken" abgehalten und einem fachkundigen Empfängerkreis derartiges Material
+an die Hand gegeben werde, dann verbinde sich damit ein Hinweiseffekt, der die
+Aufmerksamkeit der Adressaten gerade auf solche Daten zur finanziellen Situation
+des betroffenen Unternehmens lenke, die zu kritischen Wertungen Anlass geben kön-
+
+
+
+
+_________________________________________________
+36
+     Vgl. HÜBNER, Rn. 191.
+37
+     BGHZ 98, 94, 97 f.
+38
+     So BGHZ 98, 94, 97; OLG Hamm, BeckRS 2013, 21587.
+39
+     BGH NJW 1994, 1281 f.
+28                                                                                                Die Personen
+
+
+
+     nen; im Übrigen stehe hier der Wissenschaftsfreiheit (Art. 5 Abs. 3 GG) das verfas-
+     sungsrechtlich gewährleistete allgemeine Persönlichkeitsrecht des Unternehmens ent-
+     gegen. 40
+     Das OLG Hamm 41 hatte über ein Wahlplakat zur Kommunalwahl 2014 zu entschei-
+     den, auf dem ein Politiker mit dem Slogan „Von der Südtribüne in den Stadtrat!“ auf
+     einem schwarzgelben Querbalken abgebildet war, um Assoziationen zum Fußball-
+     bundesligisten Borussia Dortmund herzustellen. Das OLG Hamm hat die Werbung
+     unter Hinweis auf das Unternehmenspersönlichkeitsrecht aus §§ 1004 I, 823 I BGB
+     iVm Art. 2 I GG verboten und führt aus, dass eindeutige Gestaltungsmerkmale, die
+     die Außendarstellung der Fußballmannschaft prägten und eindeutig mit ihr identifi-
+     ziert würden, von der Partei für eigene Zwecke verwendet und ausgebeutet werden.
+     Es bestehe sonst die Gefahr, dass es eine politische Vereinnahmung der Fußballmann-
+     schaft gebe und der Eindruck entstehe, diese unterstütze den Wahlkampf der Partei
+     oder distanziere sich zumindest nicht ausreichend von ihr. Dies könne gerade bei ext-
+     remen Parteien dem Ansehen der Klägerin bei Fans, Werbekunden und Sponsoren
+     schaden.
+     Das BVerfG vertritt die Auffassung, juristische Personen als Grundrechtsinhaber anzu-
+     sehen und sie in den Schutzbereich bestimmter materieller Grundrechte einzubezie-
+     hen, sei nur dann gerechtfertigt, wenn deren Bildung und Betätigung Ausdruck der
+     freien Entfaltung der privaten natürlichen Personen ist, insbesondere, wenn der
+     "Durchgriff" auf die hinter ihr stehenden Personen es als sinnvoll und erforderlich
+     erscheinen lasse 42, bzw. wenn sich die jur. Person in einer „grundrechtstypischen Ge-
+     fährdungslage“ befindet. 43
+
+            3.           Der Verein
+
+            a)             Überblick
+     Der eingetragene Verein ist die Grundfigur der juristischen Person des Privatrechts.
+     Alle Vereinigungsarten des Privatrechts lassen sich im Wesentlichen auf zwei Grund-
+     typen zurückführen, die beide im BGB geregelt sind:
+            •    die Gesellschaft bürgerlichen Rechts (§§ 705 ff. BGB)
+            •    und den eingetragenen Verein (§§ 21 ff. und 55 ff. BGB).
+     Die Personengesellschaften sind: die BGB-Gesellschaft, die offene Handelsgesell-
+     schaft, die Kommanditgesellschaft, die stille Gesellschaft und die Partnerschaftsgesell-
+     schaft.
+     Die gesetzlichen Regelungen über Personengesellschaften sind im BGB, im Partner-
+     schaftsG und im HGB enthalten. Die GbR ist in § 705 BGB geregelt. Eine Regelung
+     findet sich in § 105 II HGB für die OHG, in § 161 Abs. 2 BGB für die KG und § 1
+     PartGG für die Partnerschaftsgesellschaft.
+
+
+
+     _________________________________________________
+     40
+          BGH NJW 1994, 1281 f.
+     41
+          GRUR-RS 2013, 21587 – Südtribüne
+     42
+          BVerfG NJW 1990, 1783.
+     43
+          Ob ein „Durchgriff“ oder eine „grundrechtstypische Gefährdungslage“ erforderlich ist, ist umstritten.
+             Näheres hierzu im Modul 55104 „Staats-und Verfassungsrecht“.
+Die Personen                                                                                 29
+
+
+
+Der rechtsfähige Verein ist vom Wechsel der Mitglieder unabhängig, vgl. § 39 BGB.
+Sein Zweck soll die Einzelpersönlichkeit der Mitglieder überdauern. Der Verein besteht
+deshalb auch weiter, wenn ein oder mehrere Mitglieder ausscheiden. Auch ein voll-
+ständiger Mitgliederwechsel ist grundsätzlich zulässig.
+Zu den Vereinigungsarten, die auf den eingetragenen Verein (§§ 55 ff. BGB) zurück-
+zuführen sind, gehören u.a. die Aktiengesellschaft und die Gesellschaft mit be-
+schränkter Haftung, obwohl beide als Gesellschaften bezeichnet werden.
+
+       b)             Der eingetragene Verein
+Vereine spielen in der Gesellschaft der Bundesrepublik Deutschland eine wichtige
+Rolle. Auch wenn man die wirtschaftlichen Vereine, wie z.B. die Aktiengesellschaft
+und die GmbH, nicht hinzuzählt, prägen die Vereine in Gestalt von Sport–, Kunst–,
+Schützen– oder sonstigen Vereinen das gesellschaftliche und kulturelle Leben in der
+Bundesrepublik entscheidend mit.
+Der Verein ist eine auf Dauer begründete Personenvereinigung, die der Erreichung
+eines selbst in der Satzung festgelegten gemeinsamen Zweckes dient (§ 57 I); er tritt
+unter einem Namen auf, ist vom Wechsel der Mitglieder unabhängig und körper-
+schaftlich verfasst.
+Das Recht des Vereins ist in den §§ 21 ff. geregelt. Es ist in vielerlei Hinsicht auch die
+Grundlage für die durch besondere Gesetze geregelten wirtschaftlichen Vereine.
+Das BGB unterscheidet zwischen
+       •    dem in das Vereinsregister eingetragenen Verein einerseits (§§ 55 ff.)
+        und
+       •    dem nicht eingetragenen Verein gem. § 54 andererseits.
+Auch wenn sich der eingetragene Verein und der nicht eingetragene Verein im Hin-
+blick auf Zielsetzung, Funktion und Organisation nicht unterscheiden, ergibt sich ein
+wesentlicher Unterschied jedoch aus der rechtlichen Einordnung: Nur der eingetra-
+gene Verein ist eine juristische Person und damit rechtsfähig; nicht eingetragene Ver-
+eine haben keine eigene Rechtspersönlichkeit. Über § 54 I sind entweder die Vor-
+schriften des eingetragenen Vereins analog oder die der GbR anwendbar, je nachdem,
+ob der Zweck auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist. Damit erlan-
+gen auch nicht eingetragene Vereine Rechtsfähigkeit. Man kann insoweit von einer
+„Rechtsfähigkeit ohne Rechtspersönlichkeit“ sprechen. 44
+Ein eingetragener Verein, dessen Zweck nicht auf einen wirtschaftlichen Geschäfts-
+betrieb gerichtet ist, erwirbt die Rechtsfähigkeit erst mit der Eintragung in das Ver-
+einsregister, das bei dem zuständigen Amtsgericht geführt wird (§ 21).
+Art. 9 GG garantiert die Vereinigungsfreiheit. Sie erlaubt grundsätzlich Vereinsgrün-
+dungen nach den dafür geltenden gesetzlichen Bestimmungen, ohne Gründungen
+auf bestimmte Vereinszwecke zu beschränken.
+Außer zwischen eingetragenem Verein und nicht eingetragenem Verein unterscheidet
+das BGB auch noch zwischen Idealvereinen einerseits und wirtschaftlichen Vereinen
+andererseits. Gemäß § 21 sind Idealvereine solche Vereine, deren Zweck nicht auf
+
+_________________________________________________
+44
+     BeckOK/Schöpflin, BGB § 54 Rn. 20.
+30                                                                                            Die Personen
+
+
+
+     einen wirtschaftlichen Geschäftsbetrieb gerichtet ist. Hingegen sind Vereine, deren
+     Zweck auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist, wirtschaftliche Ver-
+     eine (§ 22).
+     Idealvereine sind in erster Linie solche Vereine, deren Hauptzwecke politischer, sport-
+     licher, religiöser, wissenschaftlicher und sonstiger kultureller oder geselliger Art sind.
+            Beispiel: Idealverein ist auch der Tennisverein, der in seinem Clubhaus Getränke
+            und Speisen gegen Entgelt anbietet, denn für die Einordnung als Idealverein oder
+            wirtschaftlichen Verein ist auf den Hauptzweck abzustellen.
+
+     Auf der Grenze zwischen Idealverein und wirtschaftlichem Verein dürften sich solche
+     Sportvereine bewegen, die eine aus Berufsspielern bestehende Fußballmannschaft
+     unterhalten. 45
+
+            c)             Der wirtschaftliche Verein
+     Im Gegensatz zum Idealverein erwirbt der wirtschaftliche Verein gemäß § 22 die
+     Rechtsfähigkeit durch staatliche Verleihung (Konzessionszwang). In der Praxis wer-
+     den Konzessionen dieser Art kaum erteilt, weil das Gesellschaftsrecht für wirtschaftli-
+     che Vereine eine Reihe spezieller Rechtsformen, wie z.B. die Aktiengesellschaft und
+     die GmbH, zur Verfügung stellt. Diese Rechtsformen tragen in besonderem Maße
+     dem Schutzbedürfnis der Gesellschafter und der Gläubiger Rechnung, indem sie un-
+     abdingbare Regelungen betreffend Gründung, Kapitalaufbringung, Entnahmever-
+     bote etc. enthalten. Wenn diejenigen Personen, die einen wirtschaftlichen Verein
+     gründen wollen, für ihre Ziele eine der vom Gesellschaftsrecht angebotenen Rechts-
+     formen, wie Aktiengesellschaft und GmbH, wählen können, sind sie gezwungen, sich
+     für eine solche Rechtsform zu entscheiden. Nach der Rechtsprechung des BGH ver-
+     bietet der in § 22 für wirtschaftliche Vereine verordnete Konzessionszwang, auf ei-
+     nem anderen Wege als in den Formen der Aktiengesellschaft, der GmbH und der
+     eingetragenen Genossenschaft die Rechtsfähigkeit und die Nichthaftung der Mitglie-
+     der für Verbindlichkeiten der Vereinigung zu erreichen. 46
+     Die Verleihungspraxis hat sich nach § 22 von den Grundsätzen der Alternativität und
+     Subsidiarität leiten lassen. Der Grundsatz der Alternativität bedeutet, dass nur solchen
+     wirtschaftlichen Vereinen die Rechtsfähigkeit verliehen werden darf, die nicht auch
+     nach § 21 eintragungsfähig wären. Nach dem Grundsatz der Subsidiarität kann einem
+     wirtschaftlichen Verein die Rechtsfähigkeit nur verliehen werden, wenn es ihm wegen
+     der besonderen Umstände des Einzelfalles nicht zumutbar ist, sich zur Erlangung der
+     Rechtsfähigkeit nach den "besonderen reichsgesetzlichen Vorschriften" (Aktienge-
+     setz, GmbH–Gesetz oder Genossenschaftsgesetz) zu konstituieren oder aber auf die
+     Rechtsfähigkeit zu verzichten. Der Subsidiaritätsgrundsatz verstößt nicht gegen Art. 9
+     GG. 47 Wegen der vorrangigen Sondergesetze sind rechtsfähige wirtschaftliche Vereine
+     im Sinne dieser Vorschrift selten (Bsp aber: GEMA, „Verwertungsgesellschaft Wort“).
+     Für politische Parteien im Sinne des Art. 21 GG gilt das Parteiengesetz.
+
+
+     _________________________________________________
+     45
+          BeckOGK/SEGNA, BGB § 21 Rn. 176; BRENNER, Abseitsfalle e.V. – wenn die wirtschaftliche Betätigung
+             von Vereinen zur Bedrohung wird, SpoPrax 2023, 262; GUBITZ/HILDEBRAND, Ist der Profifußball in
+             Deutschland illegal?, NZG 2017, 495.
+     46
+          BGHZ 22, 240, 244.
+     47
+          Vgl. zur Problematik K. SCHMIDT, AcP 182 [1982], 32 ff. m.w.N.n.
+Die Personen                                                                                           31
+
+
+
+       d)             Vereine ohne Rechtspersönlichkeit
+Wenn die Mitglieder einen Verein nicht in das Vereinsregister haben eintragen lassen,
+fehlte dem Verein nach früher geltendem Recht die Rechtsfähigkeit. Die fehlende
+Rechtsfähigkeit war das Hauptunterscheidungsmerkmal zwischen eingetragenem
+Verein mit Rechtsfähigkeit einerseits und dem „nichtrechtsfähigen“ Verein anderer-
+seits.
+Auch der nichtrechtsfähige Verein war eine auf Dauer angelegte Personenvereini-
+gung, die vom Mitgliederwechsel unabhängig ist und der Erreichung eines gemeinsa-
+men, selbst gesetzten Zweckes diente. Auch er ist körperschaftlich verfasst, hat einen
+Vorstand und tritt nach außen unter eigenem Namen als selbständige Einheit auf.
+Die Bedeutung des nichtrechtsfähigen Vereins in der Praxis war nicht unerheblich. So
+sind u.a. als nichtrechtsfähige Vereine angesehen worden: die Niederlassungen eines
+katholischen Ordens (RGZ 97, 122, 123), Studentenverbindungen, 48 Handelssyndi-
+kate, 49 die Heilsarmee. 50
+Mit der neuen Fassung des § 54 BGB, der seit dem 1.1.2024 für den nicht eingetra-
+genen Idealverein eine entsprechende Anwendung der §§ 24-53 BGB vorsieht, sind
+„nichtrechtsfähige“ Vereine nicht mehr „nichtrechtsfähig“ (§ 54 Abs. 1 S. 1). Die
+Rechtsfähigkeit des nicht eingetragenen Idealvereins ergibt sich nunmehr aus der ana-
+logen Anwendung ebenjener Normen. Zweifelhaft ist aber weiterhin, ob der nicht
+eingetragene Verein unter seinem Namen (oder nur unter Nennung seiner Mitglieder)
+als Grundstückseigentümer im Grundbuch eingetragen werden kann. 51
+Für Vereine, deren Zweck auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist
+und die nicht durch staatliche Verleihung Rechtspersönlichkeit erlangt haben, kann
+sich die Rechtsfähigkeit aus der entsprechenden Anwendung der Vorschriften über
+die Gesellschaft ergeben (§§ 54 Abs. 1 S. 2, 705 Abs. 2).
+
+
+
+       4.           Die rechtsfähige Stiftung des privaten Rechts
+Die rechtsfähige Stiftung ist eine als selbständiger Rechtsträger anerkannte, mit einem
+eigenen Vermögen ausgestattete Einrichtung, mit der ein dauernder Zweck (Ewig-
+keitsstiftung), der durch den Willen der Errichtenden festgelegt wird, erreicht werden
+soll. Sie ist kein Personenverband. Die Stiftung als eine besondere Organisationsform
+ermöglicht es, die Verfolgung konkreter Ziele langfristig, auch über den Tod des Stif-
+ters hinaus, zu institutionalisieren. 52
+Das Stiftungsrecht ist in den §§ 80 ff. nur unvollständig geregelt. Eine Reihe von Bun-
+desländern hat die vom BGB offen gelassenen Probleme durch Landesgesetze gere-
+gelt.
+
+
+
+_________________________________________________
+48
+     RGZ 78, 134, 135.
+49
+     RGZ 82, 294, 295.
+50
+     Reichsarbeitsgericht in: JW 1935, 2228; zum nichtrechtsfähigen Verein im einzelnen siehe EISEN-
+        HARDT/WACKERBARTH, Gesellschaftsrecht I, Rn. 250 ff.
+51
+ Vgl. (zum früheren Recht) BGH NJG 2016, 666; BeckOK BGB/SCHÖPFLIN, § 54 BGB Rn. 29b f.; Münch-
+     Komm/LEUSCHNER, BGB § 54 Rn. 22 ff.; GRÜNEBERG/ELLENBERGER, § 54 Rn. 8; OTT, NJW 2003, 1223 ff.
+52
+     Vgl. KÜBLER/ASSMANN, § 12 I 1 a.
+32                                                                                 Die Personen
+
+
+
+     Die rechtsfähige Stiftung entsteht als juristische Person durch das privatrechtliche Stif-
+     tungsgeschäft und die staatliche Genehmigung (§ 80).
+     Das Stiftungsgeschäft ist eine einseitige, nicht empfangsbedürftige Willenserklä-
+     rung des Stifters, die darauf abzielt, die Stiftung zur Verwirklichung eines bestimmten
+     Zweckes als selbständigen Rechtsträger entstehen zu lassen. Zu den wesentlichen In-
+     halten des Stiftungsgeschäftes gehört die Festsetzung eines bestimmten Zweckes.
+     Das Stiftungsgeschäft kann sein:
+            •    ein Rechtsgeschäft unter Lebenden; es bedarf dann der Schriftform und kann
+                 bis zur staatlichen Genehmigung vom Stifter widerrufen werden (§ 81),
+             oder
+            •   eine Verfügung von Todes wegen (Testament oder Erbvertrag) (§ 83). 53 Die
+                Stiftung wird dann als Erbe eingesetzt oder mit einem Vermächtnis bedacht.
+     Die staatliche Genehmigung wirkt rechtsbegründend, d.h. erst durch sie entsteht eine
+     rechtsfähige Stiftung unter der Voraussetzung, dass das Stiftungsgeschäft wirksam
+     ist.
+     Nach der Genehmigung entsteht ein Anspruch der rechtsfähig gewordenen Stiftung
+     gegen den Stifter auf die Übertragung des in einem Stiftungsgeschäft unter Lebenden
+     zugesicherten Vermögens (§ 82). Ist das Stiftungsgeschäft eine letztwillige Verfügung
+     und hat der Stifter die Stiftung zum Erben eingesetzt, so geht das zugesicherte Ver-
+     mögen durch Gesamtrechtsnachfolge auf die Stiftung über (§ 1922).
+
+
+
+
+     _________________________________________________
+     53
+          Siehe dazu BGHZ 70, 313 ff.
+Subjektive Rechte                                                                           33
+
+
+
+       § 23 Subjektive Rechte
+Schrifttum: TEICHMANN, Venire contra factum proprium – Ein Teilaspekt rechtsmiß-
+bräuchlichen Handelns, JA 1985, 497 ff.; WÜSTENBECKER, Die subjektiven Privatrechte,
+JA 1984, 227 ff.
+
+
+       I.         Subjektives Recht und objektives Recht
+Das objektive Privatrecht enthält die Teile der Rechtsordnung als Zusammenfassung
+von Rechtsregeln, denen das menschliche Zusammenleben unterworfen ist und die
+allgemein gültig und verbindlich sind. Das objektive Recht verleiht den einzelnen Per-
+sonen unter den in ihm genannten Voraussetzungen subjektive Rechte, die durch-
+setzbare Rechtspositionen darstellen. Sie sind vor Gericht einklagbar und vollstreck-
+bar.
+       Beispiel: § 823 Abs. 1 ist Bestandteil des objektiven Rechts. Verletzt der A den B
+       vorsätzlich mit einem Messer am rechten Oberarm, so erfüllt er damit den Tatbe-
+       stand des § 823 Abs. 1. Das objektive Recht – die Rechtsnorm des § 823 Abs. 1 –
+       verleiht unter den genannten Voraussetzungen dem B ein subjektives Recht gegen
+       A, nämlich das Recht, von ihm wegen des erlittenen Schadens Ersatz zu verlangen.
+
+
+       II.        Begriff und Arten der subjektiven Rechte
+
+       1.           Der Begriff des subjektiven Rechts
+Ein subjektives Recht ist die dem einzelnen von der Rechtsordnung verliehene, zur
+Befriedigung seiner Bedürfnisse und Interessen dienende Rechtsmacht. 54 Allerdings ist
+diese Definition umstritten. 55 Der in der Definition gebrauchte Ausdruck "Rechts-
+macht" soll keinen Zweifel daran lassen, dass nicht an wirtschaftliche Macht, sondern
+"an einen normativen Sachverhalt, nämlich an eine dem Berechtigten von der Rechts-
+ordnung erteilte Ermächtigung, ein "Handeln-Dürfen" oder ein "rechtliches Können"
+gedacht ist". 56
+Das subjektive Recht steht einer Person, also einem Menschen (= natürliche Person),
+oder einer juristischen Person zu.
+
+       2.           Arten der subjektiven Rechte
+Die subjektiven Rechte des Privatrechts lassen sich nach verschiedenen Gesichtspunk-
+ten einteilen.
+
+       a)             Die Einteilung der subjektiven Rechte nach Inhalten
+
+(a) Die Persönlichkeitsrechte
+Zu den wesentlichen subjektiven Rechten zählen die Persönlichkeitsrechte. Zu ihnen
+gehören die in § 823 Abs. 1 genannten Rechtsgüter, neben Gesundheit, Körper und
+
+
+_________________________________________________
+54
+     So in etwa ENNECCERUS–NIPPERDEY, 1, § 72 II und BROX/WALKER, § 28 Rn. 10.
+55
+     BROX/WALKER, § 28 Rn. 1,13 ff..
+56
+     So zutreffend NEUNER, § 20 Rn. 4 f.
+34                                                                          Subjektive Rechte
+
+
+
+     Freiheit das Namensrecht, das Recht am eigenen Bild und das allgemeine Persönlich-
+     keitsrecht. 57
+     Das allgemeine Persönlichkeitsrecht verleiht der einzelnen Person ein umfassendes
+     Recht auf Achtung und Nichtverletzung der Person; durch dasselbe werden die Privat–
+     und Intimsphäre geschützt. Das allgemeine Persönlichkeitsrecht ist also eine dem ein-
+     zelnen von der Rechtsordnung verliehene Rechtsmacht, seine persönlichen Interessen
+     – hier Achtung und Nichtverletzung der Person – zu befriedigen und durchzusetzen. 58
+
+
+     (b) Die persönlichen Familienrechte
+     Die persönlichen Familienrechte sind ein eigener Typus subjektiver Rechte, die den
+     oben bezeichneten Persönlichkeitsrechten verwandt sind. Mit den Persönlichkeits-
+     rechten haben sie gemein, dass sie streng an die Person gebunden sind, also weder
+     übertragbar noch vererblich sind. 59
+     Die persönlichen Familienrechte haben die Beziehungen einer natürlichen Person zu
+     anderen natürlichen Personen zum Gegenstand, die keinen vermögensrechtlichen
+     Charakter haben. Zu diesen zählen u.a. die elterliche Sorge und das Recht der Ehe-
+     gatten auf Achtung der ehelichen Lebensgemeinschaft.
+     Natürliche Personen, die nicht das 18. Lebensjahr vollendet haben, stehen grundsätz-
+     lich unter der elterlichen Sorge, kraft derer die Eltern das Recht und die Pflicht ha-
+     ben, für die Person und das Vermögen des Kindes zu sorgen (§ 1626). Die elterliche
+     Sorge beinhaltet für die Eltern im Verhältnis zu ihren minderjährigen Kindern Rechte
+     und Pflichten. Das von der elterlichen Sorge umfasste Recht der Personensorge ver-
+     leiht den Eltern z.B. das Recht, den Aufenthalt des Kindes zu bestimmen (§ 1631
+     Abs. 1).
+
+
+     (c) Die Herrschaftsrechte
+     Herrschaftsrechte, die man auch als Beherrschungsrechte bezeichnen kann, verleihen
+     die Rechtsmacht, auf ein bestimmtes Objekt (Sache, Geistesprodukt, Recht, Vermö-
+     gen) unmittelbar einzuwirken. Mit dieser Befugnis zur eigenen Einwirkung ist häufig
+     die Befugnis zum Ausschluss fremder Einwirkung verbunden. 60
+     Das stärkste Herrschaftsrecht in Bezug auf Sachen ist das Eigentum. Der Eigentümer
+     einer Sache kann – allerdings im Rahmen der in Art. 14 GG bestehenden Sozialbin-
+     dung – mit der ihm gehörenden Sache tun und lassen, was er will, soweit nicht ge-
+     setzliche Bestimmungen oder Rechte Dritter entgegenstehen. Wer das Eigentum eines
+     anderen schuldhaft verletzt, ist gemäß § 823 Abs. 1 zum Ersatz des daraus entste-
+     henden Schadens verpflichtet. Gemäß § 903 kann der Eigentümer andere Personen
+     von jeder Einwirkung auf das Eigentum ausschließen. Nach § 1004 kann der Eigentü-
+     mer verlangen, dass er in der Ausübung des Eigentumsrechts nicht gestört wird. Der
+     Eigentümer hat im Hinblick auf die ihm gehörende Sache also die Rechtsmacht, un-
+     mittelbar auf sie einzuwirken und, soweit nicht andere gesetzliche Bestimmungen
+
+
+
+
+     _________________________________________________
+     57
+          Vgl. dazu oben ff.
+     58
+          S. hierzu oben § 23 I Nr. 3.
+     59
+          Vgl. NEUNER, § 20 Rn. 16.
+     60
+          So ENNECCERUS–NIPPERDEY, 1, § 73 I 1.
+Subjektive Rechte                                                                       35
+
+
+
+entgegenstehen, andere Personen von der Einwirkung auf die Sache auszuschließen.
+Das Eigentum ist damit das typische Herrschaftsrecht an Sachen.
+    Beispiel: Der Eigentümer eines Kraftfahrzeuges kann gemäß § 903 entscheiden,
+    ob er überhaupt damit fährt und gegebenenfalls wohin er sich damit auf den
+    öffentlichen Verkehrswegen begibt. Er kann allerdings weder den Linksverkehr
+    einführen noch darf er bei der Ampelstellung rot über eine Kreuzung fahren. In-
+    soweit kann er mit der Sache nicht nach seinem Belieben verfahren, weil hier das
+    Gesetz, nämlich das Straßenverkehrsrecht (StVG, StVO), und die Rechte Dritter,
+    z.B. das Recht auf körperliche Unversehrtheit (§ 823 Abs. 1), entgegenstehen
+    (§ 903). Wenn ein anderer Teilnehmer am Straßenverkehr grob fahrlässig einen
+    Unfall verursacht, bei dem das Kraftfahrzeug des Eigentümers E beschädigt wird,
+    so kann E u.a. aus § 823 Abs. 1 wegen der Verletzung des Eigentums Schadens-
+    ersatz von dem Schädiger verlangen.
+
+Es existieren auch Herrschaftsrechte an unkörperlichen Gütern; diese Rechte werden
+auch Immaterialgüterrechte genannt. Das können u.a. Geisteswerke, Marken und
+Erfindungen sein. Geisteswerke sind Werke der bildenden Kunst, der Musik und der
+Literatur. An ihnen besteht ein Urheberrecht, das den Urheber in seinen geistigen und
+persönlichen Beziehungen zum Werk und in der Nutzung des Werkes schützt (§ 11
+S. 1 UrheberrechtsG). Erfindungen werden durch das Patentrecht (PatentG) ge-
+schützt.
+
+
+(d) Ansprüche
+Ein Anspruch gibt einer Person das Recht, von einer anderen oder mehreren anderen
+Personen ein bestimmtes Tun oder Unterlassen zu verlangen (§ 194 Abs. 1 Legaldefi-
+nition).
+    Beispiel: Schließen V und K einen Kaufvertrag über ein Buch ab, so hat V gegen
+    K einen Anspruch auf Zahlung des vereinbarten Kaufpreises (§ 433 Abs. 2). K hat
+    gegen V einen Anspruch auf Übergabe und Übereignung des gekauften Buches
+    (§ 433 Abs. 1).
+
+Ergibt sich ein Anspruch aus einem Schuldverhältnis, wie es z.B. der Kaufvertrag dar-
+stellt, so handelt es sich um eine Forderung.
+Der Inhaber einer Forderung (der Gläubiger) kann von demjenigen, gegen den sich
+die Forderung richtet (von dem Schuldner), die Leistung – ein Tun oder Unterlassen,
+das den Gegenstand der Forderung bildet – verlangen (vgl. § 241 Abs. 1). Kommt der
+Schuldner dem Leistungsbegehren des Gläubigers nicht nach, so kann der Gläubiger
+vor dem zuständigen Gericht seine Forderung einklagen und, wenn das Gericht ein
+Urteil zu seinen Gunsten fällt, mit Hilfe des Staates die Zwangsvollstreckung gegen
+den Schuldner betreiben. Der Gläubiger einer Forderung kann also die staatliche Ge-
+walt in Anspruch nehmen, um sein Recht gegen den Schuldner durchzusetzen.
+
+
+(e) Die Gestaltungsrechte
+Unter einem Gestaltungsrecht als einem subjektiven Recht soll hier lediglich die
+Rechtsmacht verstanden werden, die einer Person die Möglichkeit gibt, allein durch
+die Ausübung ihres Willens solche Rechtsfolgen herbeizuführen, die in der Aufhebung
+36                                                                            Subjektive Rechte
+
+
+
+     oder Veränderung eines bestehenden Rechtsverhältnisses bestehen. 61 Während es
+     zum Zustandekommen eines vertraglichen Schuldverhältnisses der Mitwirkung min-
+     destens zweier Personen bedarf, die den Vertrag entstehen lassen wollen, gibt das
+     Gesetz den Vertragspartnern unter gewissen Voraussetzungen das Recht, durch ein-
+     seitige Erklärung das vertragliche Schuldverhältnis aufzuheben oder zu verändern.
+     Ein fast jedermann bekanntes Gestaltungsrecht dieser Art ist die Kündigung, die
+     meist mit einem Mietverhältnis (Mietvertrag) oder einem Arbeitsverhältnis (Arbeitsver-
+     trag) in Verbindung gebracht wird. Das Gesetz räumt bei manchen Verträgen den
+     Vertragspartnern die Möglichkeit ein, einen wirksam geschlossenen Vertrag durch
+     eine Kündigung einseitig und unabhängig von der Zustimmung eines Partners aufzu-
+     lösen. Die Kündigung ist eine einseitige empfangsbedürftige Willenserklärung, die ein
+     auf Dauer angelegtes vertragliches Schuldverhältnis für die Zukunft auflöst. In der
+     Regel sehen entweder das Gesetz oder die einzelnen Verträge Kündigungsfristen vor.
+     Wenn eine wirksame Kündigungserklärung abgegeben worden ist, endet das Schuld-
+     verhältnis mit dem Ablauf der Frist.
+            Beispiel: Der Arbeitnehmerin A ist seit drei Monaten bei der Firma Interschrott
+            GmbH beschäftigt, als ihr am 1. März 2024 das Arbeitsverhältnis durch ordentli-
+            che Kündigung gekündigt wird. Nach § 622 Abs. 1 beträgt die Kündigungsfrist
+            vier Wochen zum Fünfzehnten oder zum Ende eines Kalendermonats. Das Ar-
+            beitsverhältnis endet damit am 31. März 2024.
+
+     Gesetzliche Regelungen für Kündigungsfristen sind außer in § 622 für den Arbeits-
+     vertrag z.B. in § 580 a für den Mietvertrag über Wohnraum, in § 621 für den Dienst-
+     vertrag und in § 488 Abs. 3 für das Darlehen enthalten.
+     Ein Vertrag kann auch dadurch beendet werden, dass eine der Vertragsparteien vom
+     Vertrag zurücktritt. Mit dem Wirksamwerden der einseitig empfangsbedürftigen
+     Rücktrittserklärung entfallen die auf den Austausch von Leistungen gerichteten Ver-
+     tragswirkungen. An die Stelle der bisherigen Verpflichtungen tritt die Pflicht der Ver-
+     tragspartner, das, was bisher an Leistungen ausgetauscht worden ist, zurück zu ge-
+     währen (§§ 346 ff). Die zuletzt genannten Verpflichtungen entstehen allerdings nur,
+     wenn bereits Leistungen ausgetauscht worden sind. Ein allgemeines, jederzeit ausüb-
+     bares Rücktrittsrecht gibt es nicht. Ein Rücktritt ist vielmehr in der Regel nur möglich,
+     wenn
+            •   ein Rücktrittsrecht im Vertrag vereinbart worden ist oder
+            •   das Gesetz bei Vorliegen bestimmter Voraussetzungen die Ausübung eines
+                Rücktrittsrechts gewährt.
+            Beispiel: D und M schließen einen Kaufvertrag mit Rücktrittsvorbehalt (§ 346), in
+            dem D dem M ein Fernsehgerät zum Preis von € 500,–– verkauft. D übergibt dem
+            M das Fernsehgerät; M zahlt € 250,–– mit dem Versprechen, den Rest (€ 250,––)
+            innerhalb von drei Monaten zu zahlen. Als M den Rest des Kaufpreises nach vier
+            Monaten noch nicht gezahlt hat, tritt D vom Vertrag zurück. Die Wirkungen der
+            Rücktrittserklärung des D ergeben sich aus §§ 346 ff. Mit dem Wirksamwerden
+            der Rücktrittserklärung entfallen die auf den Austausch der vereinbarten Leistun-
+            gen gerichteten Wirkungen des Kaufvertrages. Das bedeutet: Weder D noch M
+            haben einen Anspruch darauf, dass der Kaufvertrag erfüllt wird. An die Stelle des
+
+
+     _________________________________________________
+     61
+          BROX/WALKER, § 28 Rn. 22.
+Subjektive Rechte                                                                            37
+
+
+
+       bisherigen Schuldverhältnisses (hier: Kaufvertrages) tritt ein Rückgewährschuld-
+       verhältnis, aufgrund dessen D und M verpflichtet sind, das, was an Leistungen
+       bereits ausgetauscht worden ist, zurückzugewähren. Deshalb hat M den Fernseh-
+       apparat an D zurückzugeben; D muss an M die erhaltenen € 250,–– zurückzahlen.
+       (Welche Ansprüche wegen Verschlechterung oder Untergangs der Sache entste-
+       hen können, regeln §§ 346 Abs. 2 ff.).
+
+Eine weitere Möglichkeit, ein wirksam zustande gekommenes vertragliches Schuld-
+verhältnis nachträglich einseitig zu vernichten, gewährt die Anfechtung. Unter den
+im Gesetz genannten Voraussetzungen (§§ 119 ff.) kann derjenige, der eine Willens-
+erklärung abgegeben hat, diese Erklärung mit der Folge anfechten, dass das gesamte
+Rechtsgeschäft gem. § 142 Abs. 1 rückwirkend vernichtet wird. 62
+
+       b)             Absolute und relative Rechte
+Stellt man in erster Linie auf die Person des Verpflichteten ab, so ist zu unterscheiden
+zwischen absoluten Rechten einerseits und relativen Rechten andererseits.
+Absolute Rechte wirken gegenüber jedermann. Das bedeutet: Absolute Rechte ge-
+ben dem Inhaber einen absoluten Schutz. Zu den absoluten Rechten gehören die Per-
+sönlichkeitsrechte wie die in § 823 Abs. 1 genannten Rechtsgüter Leben, körperliche
+Unversehrtheit, Gesundheit und Freiheit, das Namensrecht und das allgemeine Per-
+sönlichkeitsrecht. Ein wichtiges absolutes Recht ist auch das Eigentum. Auch Immate-
+rialgüterrechte, wie z.B. Patente, Marken, Designs und Urheberrechte, zählen zu den
+absoluten Rechten.
+       Beispiel: Der Eigentümer einer Sache genießt einen absoluten Schutz. Verletzt
+       jemand das Eigentum an der Sache und fügt schuldhaft dem Eigentümer einen
+       Schaden zu, so kann der Eigentümer von dem Schädiger Ersatz des entstandenen
+       Schadens verlangen (§ 823 Abs. 1). Nimmt ein anderer dem Eigentümer die Sache
+       weg, ohne dazu berechtigt zu sein, so kann der Eigentümer von dem anderen die
+       Herausgabe der Sache verlangen (§ 985). Wird der Eigentümer auf sonstige Weise
+       im Gebrauch seines Eigentums gestört, so hat er gegen den Störer, gleich wer
+       derselbe ist, einen Anspruch auf Beseitigung und Unterlassung der Störung
+       (§ 1004).
+
+Im Gegensatz zu den absoluten Rechten, die gegenüber jedermann wirken, wirken
+die relativen Rechte nur zwischen bestimmten Personen innerhalb eines Rechtsver-
+hältnisses. Ein solches Rechtsverhältnis ist in der Regel ein vertragliches Schuldverhält-
+nis (es kommt durch den Abschluss eines Vertrages zustande) oder ein gesetzliches
+Schuldverhältnis (ein solches entsteht dadurch, dass eine oder mehrere Personen
+Handlungen vornehmen, durch die ein im Gesetz umschriebener Tatbestand erfüllt
+wird). Das typische relative Recht ist der Anspruch, den eine Person gegen eine andere
+hat, und kraft dessen sie von der anderen Person ein bestimmtes Tun oder Unterlassen
+verlangen und erzwingen kann (vgl. § 194 Abs. 1).
+       Beispiel: Aufgrund eines abgeschlossenen Kaufvertrages (vertragliches Schuld-
+       verhältnis) kann der Käufer vom Verkäufer gemäß § 433 Abs. 1 Übereignung und
+       Übergabe der gekauften Sache verlangen. Er hat darauf einen Anspruch, also ein
+       relatives Recht. Aus demselben Kaufvertrag kann der Verkäufer von dem Käufer
+
+
+_________________________________________________
+62
+     Vgl. dazu KE 6, § 14.
+38                                                                              Subjektive Rechte
+
+
+
+            Zahlung des Kaufpreises verlangen (§ 433 Abs. 2). Der Verkäufer erwirbt aus dem
+            Kaufvertrag also ebenfalls einen Anspruch, ein relatives Recht.
+
+            Beispiel: Verletzt A den B vorsätzlich mit einem Messer am rechten Oberarm, so
+            erfüllt sein Verhalten den Tatbestand des § 823 Abs. 1 (gesetzliches Schuldver-
+            hältnis). B kann von A materiellen Schadensersatz Arztkosten, (§ 823 I i.V.m.
+            § 249 II bzw. § 823 II BGB i.V. § 223 I, 224 I Nr. 2 StGB) und "Schmerzensgeld"
+            (§ 823 I i.V.m. § 253 Abs. 2 bzw. bzw. § 823 II BGB i.V. § 223 I, 224 I Nr. 2 StGB)
+            verlangen. Er hat einen Anspruch darauf, also ein relatives Recht.
+
+
+            III.       Der Erwerb und die Übertragung subjektiver Rechte
+     Es gibt subjektive Rechte, die so stark an die Person desjenigen gebunden sind, dem
+     sie zustehen, dass diese Rechte nur von dem Inhaber selbst ausgeübt werden können.
+     Solche Rechte sind in der Regel unübertragbar und erlöschen regelmäßig mit dem
+     Tode ihres Inhabers. Zu diesen höchstpersönlichen Rechten zählen u.a. die Persönlich-
+     keitsrechte, zu deren teilweise gleichwohl anerkannten postmortalen Schutz. 63
+     Andere subjektive Rechte, zu denen vor allem die Vermögensrechte gehören, sind
+     hingegen grundsätzlich von der Person des Berechtigten unabhängig. Sie können
+     deshalb auch über den Tod des Inhabers des subjektiven Rechts hinaus bestehen und
+     auf andere Personen übertragen werden. Zu den subjektiven Rechten dieser Art zäh-
+     len z.B. Forderungsrechte und das Eigentumsrecht.
+            Beispiel: Der Anspruch des Darlehensgebers gegen den Darlehensnehmer auf
+            Rückerstattung des empfangenen Darlehens aus § 488 Abs. 1 geht nicht mit dem
+            Tode des Darlehensgebers unter. Die Forderung aus § 488 Abs. 1 überdauert den
+            Tod des Darlehensgebers. Sie geht mit dem Erbfall (= dem Tod des Erblassers) auf
+            dessen Erben über (§ 1922 Abs. 1).
+
+            Beispiel: Das Eigentumsrecht an einem Kraftfahrzeug ist nicht an eine bestimmte
+            Person gebunden. Dieses Recht kann vielmehr auf eine andere Person übertragen
+            werden. Nach § 929 S. 1 geschieht dies, indem der "Eigentümer die Sache dem
+            Erwerber übergibt und [sich] beide darüber einig sind, dass das Eigentum überge-
+            hen soll". Nach dem Übertragungsakt ist die andere Person Eigentümerin des
+            Kraftfahrzeuges. Beim Tod des Eigentümers geht da Eigentum mit dem Erbfall auf
+            die Erben über, § 1922 Abs. 1.
+
+     Der Erwerb eines subjektiven Rechts kann auf verschiedene Art und Weise geschehen.
+     Erwirbt eine Person von einer anderen Person ein subjektives Recht, so erlangt sie ein
+     bereits bestehendes Recht.
+            Beispiel: A ist Eigentümerin eines Kraftfahrzeuges. Sie überträgt das Eigentum
+            durch Einigung und Übergabe (§ 929 S. 1) an dem Kraftfahrzeug auf B. B ist
+            nunmehr Eigentümer. B hat ein subjektives Recht, das Eigentum, von A erworben,
+            das A schon zuvor innehatte.
+
+
+
+
+     _________________________________________________
+     63
+          § 23 I Nr. 3 e).
+Subjektive Rechte                                                                         39
+
+
+
+Geht das subjektive Recht durch einen Übertragungsakt von einer Person auf die an-
+dere über, so spricht man von einem abgeleiteten Erwerb (derivativer Erwerb).
+Auch Forderungsrechte können übertragen werden. Die Übertragung kann sich kraft
+Rechtsgeschäftes oder kraft Gesetzes vollziehen. Zur rechtsgeschäftlichen Übertra-
+gung einer Forderung ist nach § 398 ein Abtretungsvertrag erforderlich, der in der
+Regel formlos abgeschlossen werden kann. In dem Abtretungsvertrag einigen sich der
+bisherige Gläubiger einer Forderung und der Erwerber der Forderung darüber, dass
+die Forderung auf den neuen Gläubiger übergehen soll. In dem Moment, in dem der
+Abtretungsvertrag wirksam wird, geht die Forderung von dem bisherigen Gläubiger
+auf den neuen Gläubiger über.
+       Beispiel: A gewährt dem B ein Darlehen in Höhe von € 5.000,--. Die Darlehens-
+       rückzahlungsforderung, die A aus dem Darlehensvertrag hat, tritt er mit einem
+       Abtretungsvertrag an D ab. Mit dem Wirksamwerden des Abtretungsvertrages ist
+       nicht mehr A, sondern D Gläubiger des B. Die Folge: B muss nun nicht mehr an
+       A, sondern an D zahlen. Es handelt sich hier um den abgeleiteten Erwerb eines
+       subjektiven Rechts durch D.
+
+Erwirbt eine Person ein subjektives Recht nicht von einer anderen Person, sondern
+entsteht dieses subjektive Recht erst in der Person des Erwerbers selbst, so handelt es
+sich um den originären Erwerb eines subjektiven Rechts. Ein originärer Rechtser-
+werb ist z.B. der Erwerb des Eigentums an Sachen durch Verarbeitung gemäß § 950.
+Im Ausnahmefall kann auch eine Gesamtheit von Rechten auf eine Person übergehen
+(= Universalsukzession). Eine solche Universalsukzession ist allerdings nur in den vom
+Gesetz zugelassenen Fällen möglich. Der für die Praxis wichtigste Fall einer auf ge-
+setzlicher Anordnung beruhenden Gesamtrechtsnachfolge ist in § 1922 enthalten:
+Mit dem Tode des Erblassers geht dessen Vermögen als die Summe aller geldwerten
+Rechte als Ganzes auf den oder die Erben über.
+
+       IV.       Die Grenzen der Durchsetzbarkeit subjektiver Rechte
+       1.           Das Schikaneverbot und andere Fälle unzulässiger Rechtsaus-
+                    übung
+Grundsätzlich kann jede Person frei darüber entscheiden, ob sie ein ihr zustehendes
+subjektives Recht durchsetzen will oder nicht. Allerdings garantiert die Rechtsordnung
+nicht die schrankenlose Ausübung und Durchsetzung subjektiver Rechte. Auch die
+subjektiven Rechte gewähren nur Rechtsstellungen, die begrenzt sind. Diese Grenzen
+entstehen dadurch, dass die Rechtsordnung auch andere Rechtsgüter schützt. Des-
+halb wird der Inhalt eines subjektiven Rechts nur innerhalb des Rahmens seiner rechts-
+ethischen und sozialen Funktion rechtlich geschützt. So lässt sich aus der durch die
+Gesamtrechtsordnung vorgegebenen Sozialbindung subjektiver Rechte auch der Be-
+griff des Rechtsmissbrauchs ableiten. 64 Rechtsmissbräuchlich und deshalb unzulässig
+ist die Ausübung eines subjektiven Rechtes dann, wenn der Inhaber des Rechtes damit
+       •     gegen das Schikaneverbot (§ 226),
+       •     gegen die guten Sitten (§§ 138, 817, 826) oder
+       •     gegen Treu und Glauben (§ 242) verstößt.
+
+
+_________________________________________________
+64
+     Vgl. RÜTHERS/STADLER, § 7 Rn. 2.
+40                                                                           Subjektive Rechte
+
+
+
+     In § 226 werden die Grenzen der zulässigen Rechtsausübung gezogen. Diese Bestim-
+     mung wird durch §§ 138, 242, 817 und 826 ergänzt. Insgesamt lässt sich aus diesen
+     gesetzlichen Bestimmungen folgender Grundsatz ableiten: Eine Rechtsausübung ist
+     unzulässig, wenn sie sich als grober Verstoß gegen den das gesamte bürgerliche Recht
+     beherrschenden Grundsatz von Treu und Glauben darstellt. 65 Der Schikanetatbestand
+     des § 226 ist sehr eng gefasst. Da zur Anwendung des § 226 erforderlich ist, dass die
+     Ausübung eines Rechtes ausschließlich den Zweck hat, einem anderen Schaden zu-
+     zufügen, dürfte dieser Tatbestand selten erfüllt werden. 66
+
+            2.           Rechtsmissbräuchliches Handeln
+     Obwohl sich der Text des § 242 in erster Linie auf das Bewirken der Leistung bezieht,
+     bildet der in § 242 niedergelegte Rechtsgrundsatz nach herrschender Meinung 67 die
+     wichtigste gesetzliche Schranke zulässiger Rechtsausübung, bei deren Durchbrechung
+     der Rechtsmissbrauch beginnt.
+     Bei dem Missbrauchsverbot handelt es sich um ein eigenständiges, systematisch
+     zum Allgemeinen Teil des BGB gehörendes Rechtsinstitut, "das über die Stellung in
+     einer Sonderbeziehung hinaus alle Rechte erfasst und von dem aus lediglich Wer-
+     tungsbrücken zu dem Grundsatz von Treu und Glauben bestehen". 68 Traditionell wird
+     dieses Rechtsinstitut bei § 242 abgehandelt. Hier soll deshalb nur von einem Rechts-
+     missbrauchstatbestand, d.h. einem Fall der unzulässigen Rechtsausübung die Rede
+     sein, und zwar von dem Widerspruch zwischen früherem und gegenwärtigem Ver-
+     halten (venire contra factum proprium). Der Grundsatz, dass derjenige rechtsmiss-
+     bräuchlich handelt, der sich zum Nachteil eines anderen mit seinem eigenen früheren
+     Verhalten in Widerspruch setzt, war bereits im römischen Recht bekannt. Seine dog-
+     matische Einordnung findet dieser Grundsatz in der allgemeinen Missbrauchsproble-
+     matik. 69 Die Rechtsfolge rechtsmissbräuchlichen Verhaltens besteht in erster Linie
+     darin, dass sich der Handelnde an dem von ihm geschaffenen Vertrauenstatbestand
+     festhalten lassen muss. 70
+     Das geradezu klassische Beispiel widersprüchlichen Verhaltens 71 ist die Verwirkung.
+     Sie betrifft Ansprüche, Einwendungen und Rechtsbehelfe. In Betracht kommt sie im
+     Wesentlichen wegen:
+            •    illoyaler Verspätung
+            •    und schwerer Treuwidrigkeit.
+     Bei der illoyalen Verspätung wir die mit § 242 garantierten Verlässlichkeit in der Gläu-
+     biger-Schuldner-Beziehung verletzt. Eine Seite durfte sich darauf einstellen, dass die
+     andere einen bestimmten Anspruch nicht geltend macht und gab für die Geltendma-
+     chung keine nachvollziehbaren Gründe.
+
+
+
+
+     _________________________________________________
+     65
+          Vgl. RGZ 146, 396; GRÜNEBERG/ELLENBERGER, § 226 Rn. 1.
+     66
+          Vgl. MünchKomm/GROTHE, BGB § 226 Rn. 1.
+     67
+          RÜTHERS/ STADLER, § 7 Rn. 3.
+     68
+          So SOERGEL/TEICHMANN, § 242 Rn. 274.
+     69
+          BeckOGK/KÄHLER, BGB § 242 Rn. 4 ff.
+     70
+          So zutreffend SOERGEL/TEICHMANN, § 242, Rn. 324.
+     71
+          BeckOGK/KÄHLER, BGB § 242 Rn. 1717 ff.
+Subjektive Rechte                                                                                       41
+
+
+
+
+        Der Inhaber eines Rechts verstößt mit der Geltendmachung des Rechts gegen Treu und
+                                      Glauben nach § 242, wenn
+
+
+
+
+      längere Zeit verstrichen ist, in der er das Recht nicht geltend gemacht hat, obwohl er es hätte
+                                  geltend machen können (= Zeitmoment)
+
+
+
+
+     derjenige, gegen den das Recht geltend gemacht wird (der Verpflichtete), nach dem vorher an
+      den Tag gelegten Verhalten des Berechtigten davon ausgehen durfte, dass dieser sein Recht
+     nicht mehr geltend machen würde, der Verpflichtete dies auch angenommen und sich darauf
+                                eingerichtet hat (= Umstandsmoment)
+
+
+Ein wichtiges Kriterium für die Verwirkung ist demnach das Untätigsein über einen
+längeren Zeitraum, das als zurechenbares vertrauensbildendes Vorverhalten zu quali-
+fizieren ist. 72 Darüber hinaus ist unter Beachtung der Gläubigerinteressen zu prüfen,
+ob dem Schuldner die Erfüllung trotz eines ihr entgegenstehenden schutzwürdigen
+Vertrauens noch zuzumuten ist. Insofern kommt es zu einer Wechselwirkung mit dem
+Zeitmoment: Je länger ein Recht nicht geltend gemacht wurde, desto geringer sind
+die Anforderungen an die eine Verwirkung begründenden Umstände. 73
+Der BGH 74 lässt die Verwirkung auch gegen den Willen des Berechtigten eintreten,
+da insoweit die an Treu und Glauben ausgerichtete objektive Bewertung, nicht aber
+der subjektive Willensentschluss des Berechtigten entscheidend ist.
+       Beispiel: M ist der Mieterin der V. Im Mietvertrag ist eine Miete in Höhe von
+       € 2000,–– monatlich vereinbart. Da M die Miete zu hoch erscheint, zahlt sie nur
+       mit dieser Begründung monatlich € 1750,–– an V. Sie sehen sich bei regelmäßigen
+       Handballspielen des Dorfvereins, wobei V die M nicht mehr auf die Mietminde-
+       rung anspricht und beide zusammen ausgelassen die Kreismeisterschaft feiern.
+       Fünf Jahre später, als M aus der Wohnung auszieht, verlangt V als Restmietschuld
+       für drei Jahre € 9000,–– von M. Diese weigert sich zu zahlen. Hier hat V längere
+       Zeit ihren Anspruch auf Restmietzahlung in Höhe von monatlich € 250,–– nicht
+       geltend gemacht. Nach dem Antwortschreiben der V sowie der jahrelangen Dul-
+       dung der Mietkürzung durfte M davon ausgehen, dass V den Anspruch nicht
+       mehr geltend machen werde.
+
+
+
+
+_________________________________________________
+72
+     So SOERGEL/TEICHMANN, § 242 Rn. 336, 337.
+73
+     BeckOGK/KÄHLER, BGB § 242 Rn. 1770; BGH NJW 2018, 1390 Rn. 9.
+74
+     BGHZ 25, 47, 52; NK-BGB/PETER KREBS, BGB § 242 Rn. 103.
+42                                                                                       Subjektive Rechte
+
+
+
+            V.        Die erlaubte Verteidigung subjektiver Rechte (Rechtferti-
+                      gungsgründe)
+            1.           Überblick
+     Die Durchsetzung subjektiver Rechte bereitet Schwierigkeiten, wenn der Anspruchs-
+     gegner, der Verpflichtete, sich weigert, das von ihm verlangte Tun oder Unterlassen
+     zu vollziehen. Es ist Aufgabe des Staates, dem Bürger bei der Durchsetzung des Rechts
+     zu helfen. Dieser Aufgabe wird er durch die Einrichtung von Gerichten und besonde-
+     rer Verfahren gerecht. Auch die Vollstreckung der von den Gerichten gefällten Ent-
+     scheidungen ist Aufgabe des Staates. Die Verwirklichung bzw. Durchsetzung subjek-
+     tiver Rechte geschieht also grundsätzlich mit Hilfe der dafür vorgesehenen staatlichen
+     Organe, der Gerichte und der Vollstreckungsorgane. 75
+     Das genannte staatliche Gewaltmonopol schließt private Eigenmacht und Selbst-
+     hilfe bei der Durchsetzung des Rechts in der Regel aus. Allerdings gewährt die Rechts-
+     ordnung dem Rechtsinhaber in Ausnahmefällen die Befugnis zur Verteidigung
+     und Selbsthilfe. Im BGB geregelt sind Notwehr, Notstand und Selbsthilfe (§§ 227 ff.,
+     859, 904).
+            2.           Notwehr § 227
+     Derjenige, der in Notwehr handelt, darf etwas tun, was in der Regel nicht erlaubt ist.
+     Die Notwehrhandlung ist gerechtfertigt. Sie ist auch gerechtfertigt, wenn damit in ein
+     fremdes subjektives Recht eingegriffen wird. Die Notwehr ist in § 227 definiert.
+     Danach ist Notwehr die Verteidigung, die erforderlich ist, um einen gegenwärtigen
+     rechtswidrigen Angriff von sich oder einer anderen Person abzuwenden.
+     Angriff ist jede menschliche Handlung, durch die eine Verletzung rechtlich geschütz-
+     ter Interessen droht. Ein solcher Angriff ist rechtswidrig, wenn derjenige, gegen den
+     sich der Angriff richtet, zur Duldung dieser Handlung nicht verpflichtet ist.
+     Allerdings darf der sich Verteidigende den Angriff nur mit den erforderlichen Mit-
+     teln abwehren. Es darf kein unerträgliches Missverhältnis zwischen dem angegriffe-
+     nen Rechtsgut und dem durch die Notwehr zu verletzenden Rechtsgut bestehen. Be-
+     achte: die Voraussetzungen der Notwehr nach § 227 BGB sind nicht vollständig
+     deckungsgleich mit der Rechtslage im Strafrecht (vgl. §§ 32 f. StGB)!
+            Beispiel: Um B zu ärgern, will D, der neben B an der Theke in einer Gastwirtschaft
+            steht, diesem ein volles Glas Bier über den Kopf schütten. Um dies zu verhindern,
+            stößt B den D zurück. D fällt auf den Boden und zieht sich eine Kopfverletzung
+            zu. B hat die Verletzung dabei fahrlässig verursacht.
+            Die Körperverletzung erfüllt den Tatbestand des § 823 I BGB, indem der stoß
+            äquivalent und adäquat kausal für die Kopfverletzung war. Allerdings ist sie nicht
+            rechtswidrig, sondern durch Notwehr gem. § 227 BGB gerechtfertigt. Die Ab-
+            wehrhandlung hält sich im Rahmen der erforderlichen Abwehr.
+            Gleiches gilt für den Anspruch aus § 823 II BGB i.V. § 227 StGB. Die Verletzung
+            mit einem Messer oder durch Schusswaffengebrauch wäre in diesem Falle unver-
+            hältnismäßig und nicht erforderlich gewesen. Beachten Sie, dass hier nur nach
+            zivilrechtlichen Ansprüchen gefragt war. Dahingehend ist der § 227 BGB lex spe-
+            cialis zu § 32 f. StGB. 76
+
+     _________________________________________________
+     75
+          Näheres zum Erkenntnisverfahren und dem Vollstreckungsrecht im Modul 55113 Zivilprozessrecht.
+     76
+          MüKoBGB/Grothe,, BGB § 227 Rn. 2.
+Subjektive Rechte                                                                          43
+
+
+
+       3.           Notstand
+Das BGB unterscheidet zwei Tatbestände des Notstands, den Verteidigungsnotstand
+(§ 228) und den Angriffsnotstand (§ 904).
+Der Notstand unterscheidet sich von der Notwehrsituation dadurch, dass die Gefahr,
+gegen die sich der Betroffene verteidigen darf, nicht zwingend von einem Menschen
+(vgl. Definitionen in § 227 BGB und § 32 StGB), sondern von einer Sache ausgeht.
+Bei dem Verteidigungsnotstand (§ 228) geht die Gefahr von einer Sache aus; bei
+der Abwehr der Gefahr wird diese Sache beschädigt oder gar zerstört. Der Verteidi-
+gungsnotstand ist damit bei Angriffen von Sachen sowohl im Zivilrecht, als auch im
+Strafrecht der vorrangige Rechtfertigungsgrund. Sowohl die zivilrechtliche Notwehr
+nach § 227 BGB, als auch die strafrechtliche Notwehr für eine Sachbeschädigung nach
+§ 303 I StGB nach § 32 StGB setzen einen menschlichen Angriff voraus.
+       Beispiel: Als S am Haus des R pfeifend vorbeigeht, springt dessen Hund Snoopy
+       aus dem Haus heraus und fällt S an. Diese verteidigt sich, indem sie mit ihrem
+       Regenschirm auf Bello einschlägt. Der Hund verendet. Der Hund Snoopy ist auf-
+       grund des § 90 a Satz 1 rechtlich keine Sache; allerdings finden die Vorschriften
+       für Sachen weitgehend entsprechend Anwendung. Von diesem Tier drohte ge-
+       rade die Gefahr. Die Abwehr mit dem Regenschirm war erforderlich. Der Schaden,
+       der durch die Tötung des Hundes entstanden ist, ist nicht unverhältnismäßig grö-
+       ßer als der Schaden, der durch die Verletzungen durch Hundebisse entstanden
+       wäre. Die Tötung des Hundes (Verletzung des Eigentums des R) war gemäß § 228
+       gerechtfertigt. S muss auch mangels Verschuldens keinen Schadensersatz leisten.
+
+§ 904 (Angriffsnotstand bzw. aggressiver Notstand) gestattet den Zugriff und
+die Einwirkung auf eine Sache, von der keine Gefahr ausgeht, um eine gegenwärtige
+Gefahr abzuwenden. Allerdings muss der drohende Schaden, der eintreten würde,
+unverhältnismäßig groß sein im Verhältnis zu dem Schaden, der dadurch entsteht,
+dass die fremde Sache benutzt wird, um den Angriff abzuwehren. Dies gilt es gegen-
+einander abzuwägen. Sofern die Gefahr durch eine Sache erfolgt, gilt im Verhältnis
+zum Notwehrrecht das zu § 228 Geschriebene. Geht die Gefahr von einem Menschen
+aus, so ist das Notwehrrecht daneben anwendbar. Nur hinsichtlich der Notstandsre-
+gelungen der §§ 34, 35 StGB ist der § 904 BGB spezieller. 77
+       Beispiel in Abwandlung des vorhergehenden Beispiels: S ergreift einen Besen
+       im Hauseingang des Nachbarhauses N und schlägt damit auf Hund Snoopy ein.
+       Dabei bricht der Besen entzwei. Die Beschädigung des Besens des N war gerecht-
+       fertigt gemäß § 904. Dem Körper der S drohte die Gefahr der Verletzung durch
+       Hundebisse. Zur Abwehr der Gefahr war die Beschädigung des Besens erforder-
+       lich. Der drohende Schaden war somit unverhältnismäßig größer als der Schaden,
+       der durch die Zerstörung des Besens entstanden ist. Allerdings muss S den am
+       Besen entstandenen Schaden ersetzen.
+
+
+
+
+_________________________________________________
+77
+     Näheres im Modul Strafrecht AT 55504.
+44                                                                                               Subjektive Rechte
+
+
+
+
+                 Verteidigungsnotstand § 228                                   Angriffsnotstand § 904
+
+          •Gefahr geht von einer Sache aus                            •irgendeine Gefahr von Sache oder
+          •diese wird beschädigt/zerstört                              Mensch
+                                                                      •Fremde Sache wird beschädigt/zerstört
+
+
+
+            4.           Selbsthilfe §§ 229 ff.
+     Selbsthilfe als die eigenmächtige, gewaltsame Durchsetzung eines subjektiven Rechts
+     ist nur unter den engen, in den §§ 229 ff. genannten Voraussetzungen zulässig.
+     Die wesentlichen Voraussetzungen für die Selbsthilfe sind, dass
+
+
+                                                         •a) Fälliger und einredefreier zivilrechtlicher
+                                                          Anspruch
+                  Selbsthilfelage
+                                                         •b) Keine rechtzeitige obrigkeitliche Hilfe
+                                                         •c) Gefährdung der Anspruchsverwirklichung
+
+
+
+                                                         •a) Insbesondere Wegnahme einer Sache oder
+                                                          Festnahme des fluchtverdächtigen
+             Selbsthilfehandlung                          Verpflichteten
+                                                         •b) Erforderlichkeit (sie muss also das relativ
+                                                          mildeste Mittel sein (§ 230 I))
+
+
+
+
+                 Subjektives                             •die Selbsthilfe von einem Selbsthilfewillen
+           Rechtfertigungselement                         getragen ist (str.).
+
+
+
+
+            5.           Selbsthilfe des Besitzers nach § 859
+     Das Recht zur Verteidigung bestehenden Besitzes nach § 859 ist weitergehend als das
+     Notwehrrecht nach § 227 und das Selbsthilferecht nach § 229, da es nicht voraus-
+     setzt, dass obrigkeitliche Hilfe nicht rechtzeitig zu erlangen ist. Der in seinem Besitz
+     Gestörte darf gemäß § 859 Abs. 1 mittels Gewalt die gegen seinen Besitz gerichtete
+     verbotene Eigenmacht (vgl. § 858) beenden und gemäß § 859 Abs. 2 bereits wegge-
+     nommene Sachen wieder mit Gewalt in seinen Besitz zurückführen (= sog. Besitz-
+     kehr). 78
+     Wichtige Entscheidungen:
+             BGHZ 25, 47, 51 ff.
+
+             BGHZ 97, 212, 220 f.
+             BGHZ 103, 62, 70 f.
+             BGHZ 105, 243, 256 f.
+
+
+     _________________________________________________
+     78
+          Näheres dazu im Modul 55108 Sachenrecht.
+Rechtsobjekte                                                                                   45
+
+
+
+       § 24 Rechtsobjekte
+Schrifttum: DEUTSCH, Das Transplantationsgesetz vom 5.11.1997, NJW 1998,
+777 ff.; EICHHOLZ, Die Transplantation von Leichenteilen aus zivilrechtlicher Sicht, NJW
+1968, 2272 ff.; FORKEL, Verfügungen über Teile des menschlichen Körpers, JZ 1974,
+593 ff.; GÖRGENS, Künstliche Teile im menschlichen Körper, JR 1980, 140 ff.; GROPP,
+Ersatz- und Zusatz-Implantat – Rechtspolitische Überlegungen zur Zuordnung künst-
+licher Körper–Implantate, JR 1985, 181 ff.; HENKE, Der Handel mit Crypto Art, JZ
+2022, 222; KRETSCHMER, Das Tatbestandsmerkmal „Sache“ im Strafrecht, JA 2015,
+105; Petersen, Personen und Sachen, JURA 2007, 763; REDEKER, Software –ein beson-
+deres Gut, NJW 2008, 2684; SCHMIEDER, Name–Firma–Titel–Marke: Grundzüge des
+Rechts an der Bezeichnung, JuS 1995, 119 ff.; WIETFELD, Der maßgebliche Zeitpunkt
+zur Bestimmung der Wesentlichkeit von Bestandteilen, NJW 2022, 1273
+
+
+       I.         Überblick
+Ein subjektives Recht als die dem einzelnen Menschen von der Rechtsordnung verlie-
+hene Rechtsmacht, die der Befriedigung seiner Bedürfnisse und Interessen dient, kann
+sich auf alle diejenigen Objekte beziehen, die von Menschen beherrschbar sind und
+ihm von der Rechtsordnung auch zugeordnet werden können. Die Rechtsordnung
+kennt keine Rechte an Menschen. Objekte eines Rechts (Rechtsobjekte) können des-
+halb in erster Linie Sachen und Rechte sein.
+Man kann sagen: Rechtsobjekt ist all das, was von Menschen beherrschbar ist und
+Menschen von der Rechtsordnung in der Art zugeordnet werden kann, dass der
+menschliche Wille für das zugeordnete Objekt rechtlich entscheidend sein soll. 79
+Die rechtliche Herrschaftsmacht kann sich erstrecken auf Sachen, Rechte und Imma-
+terialgüter.
+
+
+       II.        Sachen
+
+       1.           Begriff und Arten von Sachen
+Sachen im Sinne des BGB sind nur körperliche Gegenstände (§ 90). Sie sind von
+Menschen beherrschbar.
+Körperlich ist im Sinne von räumlicher Ausdehnung zu verstehen. Festigkeit ist nicht
+erforderlich. Deshalb gehören auch Gase und Flüssigkeiten zu den Sachen im Sinne
+des § 90, weil sie in Flaschen und anderen Behältern aufbewahrt, also Besitz begrün-
+det und damit beherrscht werden können.
+       •     Nach der herrschenden Meinung 80 gehören Elektrizität, Licht– und Schallwel-
+             len sowie Strahlen nicht zu den Sachen im Sinne des § 90. Von Menschen
+             beherrschte Energien sollen ebenfalls "unkörperliche Rechtsgegenstände"
+             sein. 81 Die h.M. wendet auf die elektrische Energie gleichwohl die Vorschriften
+             über die beweglichen Sachen an. 82
+
+
+_________________________________________________
+79
+     STADLER, BGB AT, Rn. 1.
+80
+     GRÜNEBERG/ELLENBERGER, § 90 Rn. 1; RÜTHERS/STADLER, § 11 Rn. 7.; NEUNER, § 25 Rn. 4
+81
+     Vgl. NEUNER, § 25 Rn. 4.
+82
+     MünchKomm/STRESEMANN, BGB § 90 Rn. 24.
+46                                                                                         Rechtsobjekte
+
+
+
+            •    Gleiches gilt für die Verkörperung eines Computerprogramms, die auf einem
+                 Datenträger festgelegt ist (zB PC, CD-ROM, USB Stick). 83 Das Computerpro-
+                 gramm selbst ist hingegen keine Sache.
+            •    Zu den Sachen gehören freilich auch Pflanzen.
+            •    Virtuelle Gegenstände (Virtuelle Güter) sind (nur) in einer Softwareumgebung
+                 – vor allem in Computerspielen, aber auch in E-Learning-Programmen oder
+                 Crypto Art 84 – existente Objekte 85. Damit haben Gegenstände in der virtual
+                 reality oder cyberspace in der realen Welt keine Sacheigenschaft i.S.d. § 90. 86
+     Die früher geltende formale Gleichstellung des Tieres mit einer Sache ist durch das
+     Gesetz zur Verbesserung der Rechtsstellung des Tieres im bürgerlichen Recht vom
+     20.8.1990 aufgehoben worden. Der Gesetzgeber hat damit der allgemeinen Entwick-
+     lung im Tierrecht, die durch den Grundgedanken bestimmt ist, dass der Mensch für
+     das Tier als Mitgeschöpf und Schmerz empfindendes Wesen verantwortlich sein soll,
+     Rechnung getragen und in § 90 a ausdrücklich klargestellt, dass Tiere keine Sachen
+     sind. Gleichwohl sind die für Sachen geltenden Vorschriften entsprechend anzuwen-
+     den, soweit nicht die dem Tierschutz dienenden gesetzlichen Vorschriften, insbeson-
+     dere das Tierschutzgesetz, entgegenstehen (vgl. § 90 a S. 3).
+     Das BGB unterscheidet zwischen beweglichen Sachen (u.a. in § 241a Ware, § 929,
+     auch Fahrnis) und unbeweglichen Sachen, d.h. Grundstücken (§ 925, auch Immo-
+     bilien). Die Unterscheidung ist wesentlich, weil bewegliche Sachen z.B. auf andere Art
+     und Weise übereignet werden als Grundstücke (unbewegliche Sachen).
+
+
+
+          Def.: Ein Grundstück ist ein Teil der Erdoberfläche, der im Grundbuch (einem
+          staatlichen Register) als Grundstück geführt wird.
+
+          Def.: Bewegliche Sachen sind körperliche Gegenstände, die nicht Grundstücke
+          sind.
+
+
+            Beispiele: Autos, Bücher, Lebensmittel und Kleidungsstücke sind bewegliche Sa-
+            chen.
+
+     § 91 unterscheidet zwischen vertretbaren Sachen und nicht vertretbaren (unvertret-
+     baren) Sachen.
+
+          Nach der Definition des § 91 sind vertretbare Sachen bewegliche Sachen, die im
+          Verkehr nach Zahl, Maß oder Gewicht bestimmt werden.
+
+     Dies trifft auf solche Sachen zu, die sich von anderen nicht durch ausgeprägte Indivi-
+     dualisierungsmerkmale abheben und daher ohne weiteres austauschbar sind, deren
+     Qualitätsmerkmale sich also gegenüber anderen Sache derselben Art nur aus Maß,
+
+
+     _________________________________________________
+     83
+          GRÜNEBERG/ELLENBERGER, § 90 Rn. 2; noch weiter differenzierend MünchKomm/STRESEMANN, BGB § 90
+            Rn. 25.
+     84
+          HENKE, JZ 2022, 222, 222 ff.
+     85
+          MEYER, NJW 2015, 3686; HABERSTUMPF NJOZ 2015, 793.
+     86
+          BeckOGK/MÖSSNER, BGB § 90 Rn. 97; BORKERT/BUNES, MMR 2023, 248, 249; HENKE, JZ 2022, 222, 224.
+Rechtsobjekte                                                                             47
+
+
+
+Zahl oder Gewicht ergeben. 87 Nach Auffassung des BGH 88 erfüllt Wein diese Begriffs-
+merkmale, ist also eine vertretbare Sache, weil Wein beim Abschluss von Schuldver-
+hältnissen im Rahmen der gewünschten Sorte üblicherweise nach Zahl und Maß (Fla-
+schen, Liter, Fässer, Fuder) bestimmt wird, ohne dass sich die jeweiligen Teilmengen,
+auf die sich das Geschäft bezieht, von anderen der gleichen Art durch individuelle
+Besonderheiten unterscheiden. Zu den vertretbaren Sachen gehören z.B. Geld, Wert-
+papiere und Obst.
+
+     Nicht vertretbare Sachen sind solche Sachen, die individuell charakterisiert sind,
+     sich von anderen Sachen also durch ausgeprägte Individualisierungsmerkmale ab-
+     heben.
+
+Unvertretbare Sachen sind z.B. Originalkunstwerke und nach Beschreibung angefer-
+tigte Möbel. 89
+Bei beweglichen Sachen wird außerdem zwischen verbrauchbaren und unver-
+brauchbaren Sachen unterschieden (§ 92). Lebensmittel oder Brennstoffe sind z.B.
+verbrauchbare bewegliche Sachen, weil "deren bestimmungsmäßiger Gebrauch in
+dem Verbrauch besteht". Verbrauchbar sind auch solche Sachen, "deren bestim-
+mungsmäßiger Gebrauch in der Veräußerung besteht". Dazu zählt in erster Linie
+Geld.
+Die Unterscheidung zwischen vertretbaren und nicht vertretbaren Sachen ist nicht
+identisch mit der im Schuldrecht getroffenen Unterscheidung zwischen Gattungs-
+und Stückschuld (vgl. § 243 I). Während sich die Vertretbarkeit nach der Verkehrs-
+üblichkeit richtet, hängt die Einordnung als Stück- oder Gattungsschuld vom wirk-
+lichen Parteiwillen ab. 90
+
+       2.           Verbindungen von Sachen
+
+       a)             Bestandteile
+Aus Gründen der Rechtsklarheit kennt das BGB dingliche Rechte, wie z.B. das Eigen-
+tum und das Pfandrecht, nur an bestimmten einzelnen Sachen, auf die sich die Rechte
+beziehen müssen. 91 Da es zweckmäßig ist, wirtschaftliche Einheiten, zu denen Sachen
+zusammengefasst sind, auch als rechtliche Einheiten – jedenfalls in Grenzen – anzu-
+erkennen, enthalten die §§ 93 ff. und §§ 946 ff. die Möglichkeit, mehrere Sachen zu
+einer engen oder auch losen Einheit miteinander zu verbinden.
+Das BGB unterscheidet u.a. zwischen wesentlichen Bestandteilen, unwesentlichen Be-
+standteilen und Scheinbestandteilen.
+
+
+
+
+_________________________________________________
+87
+     BGH NJW 1985, 2403 f.
+88
+     BGH NJW 1985, 2403 f.
+89
+     RGZ 107, 339, 340.
+90
+     BROX/WALKER, § 36 Rn. 9.
+48                                                                                       Rechtsobjekte
+
+
+
+
+                             Wesentlicher                                 Selbständige
+                             Bestandteil                                     Sachen
+
+           an beweglichen                 an unbeweglichen   Scheinbestandteil
+                                                                                  Zubehör §§ 97, 98
+            Sachen § 93                    Sachen §§ 94 ff         § 95
+
+
+     § 946 trifft eine Aussage darüber, wie die Rechtsverhältnisse an solchen Sachen ge-
+     staltet sind, die wesentliche Bestandteile eines Grundstücks geworden sind: Die we-
+     sentlichen Bestandteile stehen im Eigentum dessen, der auch Eigentümer des Grund-
+     stücks ist. § 93 enthält eine Definition der wesentlichen Bestandteile.
+
+          Das BGB geht davon aus, dass Sachen so eng miteinander verbunden werden,
+          dass eine neue körperliche Einheit entsteht. Ist dies der Fall, so spricht man von
+          wesentlichen Bestandteilen.
+
+            Beispiel: E ist Eigentümer eines Kraftfahrzeuges. In der Werkstatt des W wird in
+            das Kraftfahrzeug des E ein Austauschmotor eingebaut. An diesem Motor behält
+            sich W das Eigentum vor, bis E den Restkaufpreis vollständig bezahlt hat (Eigen-
+            tumsvorbehalt). E hat erst ein Drittel des Kaufpreises entrichtet, als die Frage wich-
+            tig wird, wer Eigentümer des Austauschmotors ist. Wenn der Motor wesentlicher
+            Bestandteil des Kraftfahrzeuges geworden ist, ist gemäß § 947 ein Alleineigentum
+            des W an diesem Austauschmotor nicht möglich, weil an wesentlichen Bestand-
+            teilen gemäß § 93 keine besonderen Rechte bestehen können. Nach BGHZ 18,
+            226, 229 ist der Motor durch den Einbau nur einfacher, aber nicht wesentlicher
+            Bestandteil des Kraftfahrzeuges geworden. Wesentliche Bestandteile einer be-
+            weglichen Sache sind nach § 93 nur diejenigen Bestandteile, die voneinander
+            nicht getrennt werden können, ohne dass der eine oder andere zerstört oder in
+            seinem Wesen verändert wird. Ein Motor kann aus einem Kraftfahrzeug wieder
+            ausgebaut werden, ohne dass die sonstigen Teile des Kraftfahrzeuges dadurch
+            beschädigt werden. Außerdem sind der Motor und das Kraftfahrzeug ohne Motor
+            nach der Trennung noch zu nutzen. Der Motor kann jederzeit wieder als Antriebs-
+            maschine für ein anderes Kraftfahrzeug verwandt werden. Ebenfalls können die
+            übrigen Bestandteile des Kraftfahrzeuges nach dem Ausbau des Motors weiter-
+            genutzt werden. 92 Da es sich bei dem Motor nicht um einen wesentlichen
+            Bestandteil des Kraftfahrzeuges handelt, konnte sich W das Eigentum daran vor-
+            behalten. Eigentümer des Motors ist also W und nicht E.
+
+     § 94 definiert für Grundstücke näher, was unter wesentlichen Bestandteilen zu ver-
+     stehen ist.
+
+          Wesentliche Bestandteile eines Grundstücks sind danach vor allem Gebäude.
+
+     Das bedeutet: Die auf einem Grundstück errichteten Gebäude sind Eigentum des
+     Grundstückseigentümers, auch dann, wenn eine andere Person als der Grundstücks-
+     eigentümer das Gebäude errichtet hat.
+            Beispiel (in Anlehnung an BGHZ 53, 324): A ist Eigentümer eines Grundstücks,
+            auf dem ein Wohnhaus steht, das im Jahre 1935 gebaut ist. Das Gebäude ist mit
+            einer Zentralheizung ausgestattet, die mit Koks befeuert wird. Im Jahre 1978 lässt
+
+     _________________________________________________
+     92
+          Vgl. auch BGHZ 61, 80 ff.
+Rechtsobjekte                                                                               49
+
+
+
+       A die Heizungsanlage auf Ölfeuerung umstellen. B liefert u.a. einen Ölbrenner
+       und zwei Batterietanks. Zwischen B und A wird vereinbart, dass der Ölbrenner
+       und die beiden Batterietanks solange im Eigentum des B bleiben sollen, bis A den
+       gesamten Kaufpreis bezahlt hat (Eigentumsvorbehalt). Bisher hat A nur die Hälfte
+       des Kaufpreises bezahlt. Als A das Grundstück mit dem Gebäude veräußern will,
+       taucht die Frage auf, wer Eigentümer des Ölbrenners und der Batterietanks ist.
+       Diese Frage ist nach den §§ 946 und 94 zu entscheiden. Sind Ölbrenner und Bat-
+       terietanks wesentliche Bestandteile des Grundstücks des A geworden, so ist A und
+       nicht B Eigentümer. Nach Auffassung des BGH 93 gehören zu den wesentlichen
+       Bestandteilen eines Gebäudes die Sachen, die zur Herstellung des Gebäudes ein-
+       gefügt sind. Die Frage, ob eine Sache zur Herstellung des Gebäudes eingefügt ist,
+       entscheidet sich danach, ob die Einfügung dieser Sache dem Gebäude ein be-
+       stimmtes Gepräge gegeben hat. Ob dies der Fall ist, ist nach der Verkehrsanschau-
+       ung bei natürlicher Auffassung über das Wesen, den Zweck und die Beschaffen-
+       heit des Gebäudes zu beurteilen. Der BGH 94 geht davon aus, dass
+       Zentralheizungsanlagen in ihrer Gesamtheit, also einschließlich aller nach techni-
+       schen und wirtschaftlichen Erfordernissen eingefügten Teile, wesentliche Be-
+       standteile neuzeitlich eingerichteter Wohnhäuser darstellen, und zwar auch dann,
+       wenn eine solche Anlage nachträglich in ein Altgebäude eingebaut worden ist.
+       Infolgedessen gelangt der BGH 95 zu dem Ergebnis, dass der Ölbrenner und die
+       Tankanlage wesentliche Bestandteile des Grundstücks im Sinne des § 94 sind. Ge-
+       mäß § 946 hat A als der Grundstückseigentümer also das Eigentum daran erwor-
+       ben.
+       Bei Einbauküchen soll für die Qualifizierung als „Zubehör“ oder verkehrswesent-
+       liche Eigenschaften“ entscheidend sein, ob erst mit dem Einsetzen der Einbaukü-
+       che das Haus als fertiggestellt gilt, was dann anzunehmen ist, wenn es sich um
+       eine spezielle Anfertigung o.Ä. handelt; dann sei die Einbauküche als wesentlicher
+       Bestandteil zu beurteilen. 96
+       Für Solaranlagen gilt: Werden sie auf Rahmen, die auf dem Dach dafür ange-
+       bracht sind, angefügt, so ist jedenfalls nicht von einem wesentlichen Bestandteil
+       auszugehen, da sowohl die Module als auch die dafür vorgesehenen Rahmen
+       ohne die Beschädigung der Sache entfernt werden können. 97 Inzwischen gibt es
+       allerdings moderne Solaranlagen, welche in die Dachhaut integriert werden. Sol-
+       che sollten unproblematisch als wesentliche Bestandteile zu qualifizieren sein. 98
+
+Es kommt auch vor, dass bewegliche Sachen nur vorübergehend mit einem Grund-
+stück verbunden werden. In solchen Fällen wäre es unzweckmäßig, diese Sachen in
+das Eigentum des Grundstückseigentümers übergehen zu lassen, wenn es sich um
+Sachen handelt, die vorher nicht im Eigentum des Grundstückseigentümers gestan-
+den haben. Das Gesetz sieht in § 95 für Fälle dieser Art eine Sonderregelung vor.
+Sachen, die nur zu einem vorübergehenden Zweck mit dem Grundstück verbunden
+werden, werden nicht Bestandteile des Grundstücks, sondern sind sog. Scheinbe-
+standteile.
+
+
+_________________________________________________
+93
+     MünchKomm/STRESEMANN, BGB § 94 Rn. 30 f.
+94
+     BGHZ 53, 324, 326.
+95
+     BGHZ 53, 324, 326.
+96
+     BGHZ 53, 324, 325 f.
+97
+     RING, in: HEIDEL/HÜßTEGE/MANSEL/NOACK, BGB Allgemeiner Teil / EGBGB, § 94 Rn. 40 ff.
+98
+     RING, in: HEIDEL/HÜßTEGE/MANSEL/NOACK, BGB Allgemeiner Teil / EGBGB, § 94 Rn.
+50                                                                                     Rechtsobjekte
+
+
+
+            Beispiel: A mietet von C ein Grundstück auf die Dauer von 10 Jahren. A errichtet
+            auf diesem Grundstück ein vorgefertigtes, im Wesentlichen aus Holz bestehendes
+            Wochenendhaus, das er erworben hat. Er hat vor, dieses Haus nach Ablauf der
+            Mietzeit wieder von dem Grundstück zu entfernen. Das Haus wird nur zu einem
+            vorübergehenden Zweck mit dem Grundstück verbunden. Es wird gemäß § 95
+            nicht Bestandteil desselben und geht deshalb auch nicht nach § 946 in das Eigen-
+            tum des C über. Eigentümer bleibt vielmehr A.
+
+            b)             Zubehör
+     Das BGB unterscheidet zwischen Bestandteilen und Zubehör.
+
+          Nach § 97 sind Zubehör solche beweglichen Sachen, die dem wirtschaftlichen
+          Zweck einer Hauptsache dienen, zu ihr in einem entsprechenden räumlichen Ver-
+          hältnis stehen und nach der Verkehrsanschauung als Zubehör angesehen werden.
+
+
+            Beispiel: Die Stühle und Tische eines auf einem Grundstück betriebenen Garten-
+            lokals sind Zubehör und nicht Bestandteile des Grundstücks.
+
+     Sachen, die Zubehör sind, sind rechtlich selbständig. Das bedeutet u.a., dass der
+     Eigentümer eines Grundstücks nicht auch der Eigentümer der Sachen sein muss, die
+     Zubehör des Grundstücks sind (vgl. § 98).
+
+            3.           Der Leichnam und die Entnahme von Körperteilen
+     Der Körper des lebenden Menschen ist keine Sache. Das gilt auch für künstliche Teile,
+     die dem Körper implantiert sind und dort Funktionen übernommen haben, die vorher
+     vom Körper selbst wahrgenommen worden sind, wie z.B. künstliche Arterien, Rippen
+     oder Schädeldecken. 99 Anders sind dagegen solche künstlichen Körperteile zu behan-
+     deln, die nicht dauernd in den Körper aufgenommen sind, wie z.B. Prothesen oder
+     Gebisse. Einen Grenzfall bildet z.B. ein Herzschrittmacher. Letztlich ist ein solcher aber
+     als Sache zu qualifizieren, weil er zwar operativ in den Brustkorb eingebracht wird,
+     jedoch ausgewechselt werden kann und lediglich eine unterstützende Funktion wahr-
+     nimmt. 100
+     Über die Sacheigenschaft des Leichnams wird in der Literatur gestritten. Die Sach-
+     eigenschaft wird z.T. mit der Begründung abgelehnt, dass dem besonderen Charakter
+     der Leiche als "Rückstand der Persönlichkeit" mit der Einordnung als Sache nicht hin-
+     reichend Rechnung getragen werde. 101 Demgegenüber wird mit dem Argument, der
+     Sachbegriff des § 90 müsse rein objektiv bestimmt werden, überwiegend die Mei-
+     nung vertreten, der menschliche Körper müsse, wenn er nicht mehr Rechtssubjekt
+     sein könne, wegen seiner Körperlichkeit als Gegenstand von Rechten, also als Sache
+     angesehen werden. 102 Letztlich geht es bei der rechtlichen Einordnung der Leiche
+     heutzutage vorwiegend um Probleme, die mit der Transplantation von Organen
+     zusammenhängen. Dabei lässt sich trennen zwischen der Sacheigenschaft der Leiche
+
+
+
+     _________________________________________________
+     99
+          Vgl. HÜBNER, AT, Rn. 287; GÖRGENS, JR 1980, 140, 141; GROPP, JR 1985, 181.
+     100
+           So GÖRGENS, JR 1980, 140, 141; MüncKomm/STRESEMANN, BGB § 90 Rn. 28.
+     101
+           BGH NJW 2015, 2901; AG Osnabrück BeckRS 2015, 8550; FORKEL, JZ 1974, 593.
+     102
+           So GÖRGENS, JR 1980, 140, 141; EICHHOLZ, NJW 1968, 2272, 2273; MünchKomm/STRESEMANN, BGB
+             § 90 Rn. 31.
+Rechtsobjekte                                                                              51
+
+
+
+einerseits und der Verfügungsmöglichkeit über die Leiche andererseits. 103 Zu letzterer
+ist anerkannt, dass über eine Leiche nicht wie über eine beliebige Sache verfügt wer-
+den darf, solange sie der Totenehrung dient. Soweit es das Bestimmungsrecht dar-
+über angeht, ob Organe aus einem Leichnam für eine Transplantation verwandt wer-
+den dürfen, ist in erster Linie auf den Willen des Verstorbenen abzustellen. Ist ein
+solcher nicht feststellbar, sollte die Entscheidungsbefugnis primär den Angehörigen
+zustehen, weil von diesen am ehesten zu erwarten ist, dass sie den Willen des Ver-
+storbenen erkennen und verwirklichen. Für den Fall, dass weder Willensbekundungen
+des Verstorbenen vorliegen und solche von Angehörigen nicht bekannt und auch
+nicht zu erhalten sind, sollte eine Organentnahme nur dann gestattet sein, wenn die
+Ärzte davon ausgehen dürfen, dass die Entnahme dem mutmaßlichen Willen des Ver-
+storbenen nicht widerspricht. 104 Die Organentnahme aus dem Körper des Toten zum
+Zweck ihrer Übertragung auf andere Menschen ist seit dem 1.12.1997 durch das
+Transplantationsgesetz (n.F. 2023) gesetzlich geregelt.
+
+
+       III.       Rechte
+Nicht nur Sachen sind Gegenstand subjektiver Rechte; subjektive Rechte können sich
+auch auf Rechte beziehen, soweit es sich um Vermögenswerte handelt. Dazu zählen
+die dinglichen Rechte, wie z.B. das Eigentum und die Pfandrechte, die Forderungen,
+die Mitgliedschaftsrechte an Personen– und Kapitalgesellschaften sowie Immaterial-
+güterrechte. Letztere können z.B. bestehen an Patenten, Markenrechten 105 und Wer-
+ken der Literatur und Kunst (Urheberrechte). Nicht dazu zählen wegen ihres höchst-
+persönlichen Charakters die Persönlichkeitsrechte und die Familienrechte. Auch die
+Gestaltungsrechte, wie z.B. Anfechtung und Rücktritt, gehören nicht zu den Rechts-
+objekten, weil nicht sie, sondern die Rechte, aus denen sie abgeleitet werden, Gegen-
+stand rechtlicher Herrschaft sind. 106
+       Beispiel: Der Gläubiger G hat gegen den Schuldner S einen Anspruch auf Zahlung
+       von € 200,––. Da S nicht zahlt, erwirkt G gegen ihn ein entsprechendes Urteil.
+       Aufgrund dieses Urteils lässt G dann bei dem Arbeitgeber des S dessen Arbeits-
+       einkommen ab der pfändbaren Höhe bis zur Höhe seines Anspruches pfänden.
+       Das Pfandrecht ist ein subjektives Recht, das sich auf ein Recht bezieht, nämlich
+       auf den Anspruch des S gegen seinen Arbeitgeber auf Zahlung des Lohnes.
+
+       IV.        Nutzungen (Früchte und Gebrauchsvorteile)
+Das BGB bezeichnet in § 100 die Erträge aus Rechtsobjekten, also Sachen und Rech-
+ten, als Nutzungen.
+Der Begriff der "Nutzungen" ist der Oberbegriff für die Gebrauchsvorteile und
+Früchte einer Sache oder eines Rechtes. Früchte im Rechtssinne sind nicht zu verwech-
+seln mit der Bedeutung, die diesem Ausdruck im täglichen Sprachgebrauch beige-
+messen wird (vgl. § 99).
+Einzelheiten sind in der nachfolgenden Graphik dargestellt:
+
+
+
+_________________________________________________
+103
+      Vgl. BECKOGK/MÖSSNER, BGB § 90 Rn. 23 ff.
+104
+      Zum Ergebnis vgl. auch FORKEL, JZ 1974, 593, 599.
+105
+      Vgl. dazu SCHMIEDER, JuS 1995, 119, 122.
+106
+      Vgl. BROX/WALKER, § 36 Rn. 4.
+52   Rechtsobjekte
+Rechtsobjekte                                                                              53
+
+
+
+       V.         Gesamtheiten von Sachen und Rechten
+
+       1.           Das Vermögen
+Der Begriff Vermögen wird im BGB oder auch im Strafrecht in etlichen Bestimmungen
+verwandt (vgl. u.a. §§ 311 b Abs. 2, Abs. 3, 419 und 1922). Es fehlt allerdings an
+einer gesetzlichen Definition. 107
+
+  Das Vermögen einer Person ist die Gesamtheit der ihr zustehenden geldwerten
+  Rechte.
+
+
+Geldwerte Rechte sind die Rechte, die unter normalen Verhältnissen gegen Geld ver-
+äußert oder nur gegen Geld erworben werden können oder sonst einen in Geldwert
+ausdrückbaren wirtschaftlichen Nutzen gewähren. Dazu zählen u.a.: Eigentums-
+rechte, Forderungen, soweit sie einen Geldwert haben, Anteilsrechte an Kapitalge-
+sellschaften (Aktiengesellschaft, Gesellschaft mit beschränkter Haftung), Patente.
+       Beispiel: Der Angestellte H macht zum Jahresende eine Vermögensaufstellung.
+       Sein Vermögen setzt sich zusammen aus: dem Eigentum an einem Hausgrund-
+       stück, dem Eigentum an einem PKW, einer Darlehensforderung in Höhe von
+       € 2.500,–– gegen seinen Onkel S, einem Vergütungsanspruch für den Monat De-
+       zember in Höhe von € 5.000,–– gegen den Arbeitgeber sowie dem Eigentum an
+       10 Aktien. Nicht zum Vermögen zählen z.B.: seine Mitgliedschaft in dem Spiel–
+       und Sportverein e.V. und das Recht der Personensorge für sein Kind C.
+
+
+       2.           Das Unternehmen
+Obwohl der Begriff Unternehmen vom Gesetzgeber verwendet wird, z.B. in § 15
+AktG und § 1 GWB, ist er gesetzlich nicht definiert, allein in § 14 BGB ist der Unter-
+nehmer erläutert.
+Das Unternehmen ist ein zusammengesetztes Gebilde. Es umfasst Sachen, Rechte
+und sonstige wirtschaftliche Werte. Nach überwiegender Auffassung stellt das Unter-
+nehmen eine auf einer Verbindung personeller und sachlicher Mittel beruhende wirt-
+schaftliche Einheit dar. 108 Eine beispielhafte Auflistung findet sich in § 266 HGB wie-
+der, der die Gliederung der (Handels-) Bilanz regelt.
+Zu den Sachen können zählen: Grundstücke samt Gebäude und Zubehör, Warenla-
+ger, Einrichtungsgegenstände, wie z.B. Büromöbel, Computer, Regale, Fahrzeuge,
+Maschinen etc.
+Zu den Rechten können gehören: Markenrechte, Patente und Urheberrechte sowie
+Forderungen aus Geschäftsverbindungen.
+Zu den sonstigen wirtschaftlichen Werten zählen: technisches und kaufmännisches
+Know How, der Ruf des Unternehmens, die Beziehungen zu den Kunden und Mitar-
+beitern und der sog. Firmenwert.
+
+
+
+
+_________________________________________________
+107
+      So RGZ 78, 239, 240.
+108
+      Vgl. BROX/WALKER, § 35 Rn. 17 ff.
+54                                                                                 Rechtsobjekte
+
+
+
+     Danach schälen sich im Wesentlichen zwei Gruppen von Werten heraus, die das Un-
+     ternehmen ausmachen:
+
+     a)      das Betriebsvermögen (Sachen und Rechte) und
+     b) die Chancen, u.a. die oben genannten Verhältnisse und Beziehungen, die Mittel
+        Ertrag bringender wirtschaftlicher Tätigkeit sein können.
+     Äußerlich sichtbare Merkmale der Verselbständigung des Unternehmens sind die Vor-
+     schriften über die Firma im HGB (§§ 17 ff. HGB). Die Firma ist der Name des Voll-
+     kaufmanns bzw. Unternehmens, unter dem die Geschäfte betrieben werden. Unter
+     diesem Namen kann das Unternehmen auch klagen und verklagt werden.
+     Ein umfassender Schutz des Unternehmens, der lückenlos alle Fälle der Beeinträchti-
+     gungen und Verletzungen von Unternehmen erfasst, fehlt. Die Rechtsprechung hat
+     versucht, diese Lücke zu schließen und einen umfassenden Unternehmensschutz, an-
+     knüpfend an § 823 Abs. 1, in Gestalt des "Rechts am eingerichteten und ausge-
+     übten Gewerbebetrieb" zu schaffen. Die Rechtsprechung zählt den eingerichteten
+     und ausgeübten Gewerbebetrieb zu den "sonstigen Rechten" i.S. des § 823 Abs. 1.
+     Damit soll der Bestand des Unternehmens gegen unmittelbare, d.h. betriebsbezogene
+     Eingriffe Dritter geschützt werden. 109 Eine Regelung für nur mittelbare Eingriffe fehlt
+     jedoch, sodass auf die allgemeinen Grundsätze zurückgegriffen werden muss.
+     Wird ein Unternehmen veräußert (asset deal110), so ist Gegenstand des Kaufvertrages
+     die wirtschaftliche Einheit, die das Unternehmen darstellt, nämlich
+            •    das Betriebsvermögen, zu dem Grundstücke und bewegliche Sachen (z.B. Wa-
+                 renlager und Werkzeuge) und Rechte (Forderungen aus Umsatzgeschäften,
+                 Patente etc.) gehören, und
+            •    die Chancen, wie Kundenkreis, Geschäftsbeziehungen, Know-how (z.B. Her-
+                 stellungsverfahren, Organisation).
+
+
+                 Wichtige Entscheidungen:
+
+                 BGHZ 53, 324 ff.
+                 BGHZ 18, 226, 228 ff.
+                 BGHZ 61, 80 ff.
+
+
+
+
+     _________________________________________________
+     109
+           Vgl. dazu BGHZ 3, 270, 279 f.; 38, 200 ff.
+     110
+           Möglich ist auch ein sog. Share deal. Auch genannt „Beteiligungskauf“
+Anhang: Wichtige Anspruchsgrundlagen, Einwendungen und Gestaltungsrechte                  55
+
+
+
+             Anhang: Wichtige Anspruchsgrundlagen, Einwen-
+             dungen und Gestaltungsrechte
+I. Anspruchsgrundlagen
+Anspruch: § 194 I 1. HS 111 enthält eine Legaldefinition des Anspruchs.
+
+  Def.: Ein Anspruch ist „das Recht, von einem anderen ein Tun oder Unterlassen
+  zu verlangen“.
+
+Gute Gründe sprechen dafür, bei Anspruchsketten sowie bei der Ausübung von Ge-
+staltungsrechten (Anfechtung, Rücktritt) mit der Norm zu beginnen, in der die Rechts-
+folge geregelt ist. So sollte bspw. der Schadensersatzanspruch statt der Leistung aus
+der kaufrechtlichen Mängelgewährleistung wie folgt zitiert werden: §§ 280 I, III, 281
+I, 437 Nr. 3, 434.
+Gut vertretbar ist es aber auch, wenn man die Norm mit der Rechtsfolge am Ende der
+Kette stellt und der Verweisung folgt: §§ 434, 437 Nr. 3, 280 I, III, 281 I. Für welche
+Variante auch immer man sich entscheidet, wichtig ist, dass diese einheitlich verwen-
+det wird.
+Die folgende Auflistung ist nicht abschließend.
+
+
+
+
+_________________________________________________
+111
+      Auch hier sind sämtliche Normen ohne Angaben solche des BGB.
+56                          Anhang: Wichtige Anspruchsgrundlagen, Einwendungen und Gestaltungsrechte
+
+
+
+     1. Vertrag
+
+
+                   I. Primäransprüche                                   II. Sekundäransprüche
+
+
+      •a) speziell                                            •a) speziell
+       •Kaufvertrag:                                           •Kaufrecht:
+        •§ 433 I 1                                              •§§ 439 I, 437 Nr. 1, 434 (bzw. 435)
+        •§ 433 II                                               •§§ 346 I (oder II), 437 Nr. 2, 323, 434
+                                                                 (bzw. 435)
+       •Gelddarlehen:                                           •§§ 441, 437 Nr. 2, 323, 434 (bzw. 435)
+        •§ 488 I 1                                              •§§ 280 I, 437 Nr. 3, 434 (bzw. 435)
+        •§ 488 I 2 1.Var.                                       •§§ 280 I, III, 281 I, 437 Nr. 3, 434 (bzw.
+        •§ 488 I 2 2.Var.                                        435)
+                                                                •§§ 280 I, III, 283, 437 Nr. 3, 434 (bzw.
+       •Schenkung:                                               435)
+        •§ 516 I                                                •§§ 311 a II 1, 437 Nr. 3, 434 (bzw. 435)
+
+       •Mietvertrag:                                           •Schenkung:
+        •§ 535 I 1                                              •§ 524 I
+        •§ 535 II
+                                                               •Mietvertrag:
+       •Leihe:                                                  •§ 536a I
+        •§ 598                                                  •§ 539 I
+        •§ 604 I
+                                                               •Werkvertragsrecht:
+       •Dienstvertrag:                                          •§§ 635 I, 634 Nr. 1, 633 I
+        •§ 611 I 1.Var.                                         •§§ 637 I, 634 Nr. 2, 633 I
+        •§ 611 I 2.Var.                                         •§§ 346 I, 634 Nr. 3, 323, (636), 633 I
+                                                                •§§ 280 I, 634 Nr. 4, 633 I
+       •Werkvertrag:                                            •§§ 280 I, III, 281 I, 634 Nr. 4, 633 I
+        •§ 631 I 1.Var.                                         •§§ 280 I, III, 283, 634 Nr. 4, (636), 633 I
+        •§ 631 I 2.Var.                                         •§§ 311 a II 1, 634 Nr. 4, 633 I
+       •Auftrag:
+                                                              •b) allgemein
+        •§ 662
+                                                               •Hauptpflichtverletzung:
+      •b) sui generis                                           •§ 280 I
+       •§§ 311 I, 241
+                                                               •Nebenpflichtverletzung:
+                                                                •§§ 280 I, 241 II
+
+                                                               •Statt der Leistung:
+                                                                •§§ 280 I, III, 281 I
+                                                                •§§ 280 I, III, 282
+                                                                •§§ 280 I, III, 283
+
+                                                               •Verzug
+                                                                •§§ 280 I, II, 286
+
+                                                               •anfängliche Unmöglichkeit:
+                                                                •§ 311a II 1
+Anhang: Wichtige Anspruchsgrundlagen, Einwendungen und Gestaltungsrechte                                       57
+
+
+
+2. Quasivertrag
+
+ a) SE wegen Verletzung                                       c) SE wegen nicht
+                                                                                        d) SE nach erklärter
+     vorvertraglicher               b) GoA                       vorhandener
+                                                                                            Anfechtung
+      Pflichten (c.i.c.)                                      Vertretungsmacht
+
+ •§§ 280 I, 311 II (Nr.      •aa) Anspruch des           •§ 179 I                     •§ 122 I
+  1-3), 241 II                Geschäftsherrn auf         •§ 179 analog                •§ 122 I analog
+                              Schadensersatz
+
+                              •§ 678
+
+                             •bb) Aufwendungs-
+                              ersatzanspruch des
+                              Geschäftsführers
+
+                              •§§ 677, 683 S. 1,
+                               670
+
+                             •cc) Anspruch auf
+                              Herausgabe des
+                              Erlangten
+
+                              •§§ 677, 681 S. 2,
+                               667
+
+                             •dd) Wertersatz bei
+                              unberechtigter GoA
+
+                              •§§ 677, 684 S. 1
+
+                             • Wertersatz bei
+                              angemaßter
+                              Eigengeschäftsfüh-
+                              rung
+
+                              •§§ 687 II 2, 684 1
+
+
+
+
+3. Sachenrecht
+
+                                          b) Unterlassungs- und
+   a) Herausgabeansprüche                                                              c) Sonstige
+                                          Beseitigungsansprüche
+
+ •aa) Eigentum, Pfandrecht             •aa) des Eigentümers                   •aa) EBV
+  • § 985                               • § 1004 I                            •(1) Nutzungsherausgabe:
+  • §§ 985, 1227                       •bb) des Besitzers                      • § 987 I
+                                        •§ 862 I                               • §§ 987 I, 990 I
+ •bb) Besitzrecht
+  • § 861 I                                                                   •(2) Schadensersatz
+  • § 1007 I                                                                   • § 989
+  • § 1007 II                                                                  • §§ 989, 990 I
+
+                                                                              •(3) Verwendungsersatz
+                                                                               • § 994 I
+                                                                               • § 996
+
+                                                                              •(4) Anspruch auf
+                                                                               Zwangsvollstreckung
+                                                                              •dd) Hypothek
+                                                                               • § 1147
+
+                                                                              •dd) Grundschuld
+                                                                               • §§ 1192 I, 1147
+58                     Anhang: Wichtige Anspruchsgrundlagen, Einwendungen und Gestaltungsrechte
+
+
+
+     4. Delikt
+     a) Gefährdungshaftung         b) Haftung für vermu-         c) Haftung für nach-ge-
+                                   tetes Verschulden             wiesenes Verschulden
+                                                                        •   § 823 I
+                                                                        •   § 823 II iVm.
+                                         •   § 831                          Schutzgesetz
+           •   § 833 I                   •   § 832
+           •   § 7 StVG                                                 •   § 824
+                                         •   § 833 S.1                  •   § 825
+           •   § 18 I StVG               •   § 834
+           •   § 1 I ProdHaftG                                          •   § 826
+                                         •   § 836                      •   § 839 I S.1 iVm.
+                                         •   § 18 StVG                      Art. 34 GG
+                                                                        •   § 839 a
+
+
+
+     5. Bereicherungsrecht
+     a) Leistungskondiktion                      b) Nichtleistungskondiktion
+
+
+     aa) condictio indebiti:                     aa) Verfügung eines Nichtberechtigten:
+           •   § 812 I 1 1.Var.                         •    § 816 I 1
+
+
+     bb) condictio ob causam finitam:            bb) Unentg. Verfügung eines
+           •   § 812 I 2 1. Var.                    Nichtberechtigten:
+                                                        •    § 816 I 2
+
+
+     cc) condictio ob rem:                       cc) Wirksame Verfügung an einen
+           •   § 812 I 2 2. Var.                    Nichtberechtigten:
+                                                        •    § 816 II
+
+
+     dd) condictio ob turpem vel iniustam dd) unentg. Verfügung eines Berechtig-
+     causam:                              ten
+           •   § 817 S. 1                               •    § 822
+
+
+                                                 ee) allgemeine Eingriffskondiktion
+                                                        •    § 812 I 1 2.Var.
+
+
+                                                 ff) Rückgriffskondiktion
+                                                        •    § 812 I 1 2.Var.
+
+
+                                                 gg) Verwendungskonditkion:
+                                                        •    § 812 I 1 2.Var.
+Anhang: Wichtige Anspruchsgrundlagen, Einwendungen und Gestaltungsrechte                         59
+
+
+
+
+    II.        Einwendungen
+Einwendungen sind die Gegenrechte, die der Anspruchsgegner gegen den vom An-
+spruchssteller erhobenen Anspruch gelten machen kann. Man unterscheidet zwi-
+schen:
+          •     Rechtshindernden Einwendungen (der Anspruch entsteht gar nicht erst;
+                erkennbar an der Formulierung „…ist nichtig…“ o.ä.; streitig bei der An-
+                fechtung)
+          •     Rechtsvernichtenden Einwendungen (der Anspruch entsteht, geht jedoch
+                unter; erkennbar an der Formulierung „…ist ausgeschlossen…“ oder ähn-
+                liche)
+          •     Rechtshemmende Einwendungen (der Anspruch entsteht, geht auch nicht
+                unter, wird jedoch geblockt bzw. ist nicht durchsetzbar; erkennbar an der
+                Formulierung „…kann verweigern…“)
+
+
+  Rechtshindernde und rechtsvernichtende Einwendungen werden von Gesetzeswe-
+  gen berücksichtigt. Rechtshemmende Einwendungen müssen geltend gemacht
+  werden. Man nennt sie deshalb auch Einreden.
+
+ 1. Rechtshindernde Ein-            2. Rechtsvernichtende          3. Rechtshemmende Ein-
+ wendungen (Anspruch                Einwendungen (An-              wendungen (Anspruch
+ entstanden)                        spruch untergegangen)          durchsetzbar)
+
+
+
+
+    •         Mangelnde Ge-            •   Anfechtung:                •    Verjährung: § 214 I
+              schäftsfähigkeit:            § 142 I (str.)             •    Zurückbehaltungs-
+              §§ 104 ff.               •   Unmöglichkeit:                  recht: § 273 I
+    •         Willensmängel:               § 275 I                    •    Unverhältnismäßig
+              §§ 116-118               •   Störung der Ge-                 großer Aufwand:
+    •         Formmangel: § 125            schäftsgrundlage:               § 275 II 1
+    •         Verstoß gegen Ver-           § 313 I                    •    Unzumutbarkeit:
+              botsgesetz: § 134        •   Rücktritt: 346 I                § 275 III
+    •         Sittenwidrigkeit:        •   Widerruf: § 355 I 1        •    Nichterfüllter Ver-
+              § 138 I                  •   Erfüllung: § 362I               trag: § 320 I 1
+    •         Wucher: § 138 II         •   Aufrechnung: § 389         •    Stundung
+    •         Anfechtung: § 142 I      •   Erlass: § 397 I
+              (str.)
+
+
+
+
+    III. Gestaltungsrechte
+Ein Gestaltungsrecht ist ein relatives subjektives Recht, durch das einseitig ein neues
+Recht begründet oder ein bestehendes Rechtsverhältnis geändert oder aufgehoben
+werden kann. Gestaltungsrechte werden allgemein wie folgt geprüft:
+          •     Gestaltungserklärung
+          •     Gestaltungsgrund
+          •     Gestaltungsfrist
+60                       Anhang: Wichtige Anspruchsgrundlagen, Einwendungen und Gestaltungsrechte
+
+
+
+
+     Auch hier wird die Rechtsfolge (in der Übersicht unter Rechtswirkung) an den Anfang
+     gesetzt. Beispiel: die Anfechtung wegen arglistiger Täuschung wird folgendermaßen
+     zitiert: §§ 142 I, 123 I 1. Var.
+     Zugunsten der Übersichtlichkeit wurde bei den Gestaltungsgründen und -fristen auf
+     eine ausführliche Darstellung verzichtet. Jedoch muss auch hier auf die verschiedenen
+     Varianten geachtet und genau zitiert werden.
+
+
+
+                  1. Anfech-         2. Aufrechnung     3. Kündigung       4. Rücktritt   5. Wider-
+                  tung                                                                    ruf
+
+
+
+      Erklä-      § 143 I            § 388 1            Im Gesetz ist § 349               § 355 I 2,
+      rung                                              nur ausdrück-                     3, 4
+                                                        lich die außer-
+                                                        ordentliche
+                                                        Kündigung
+                                                        geregelt:
+                                                        § 314.
+
+
+
+      Grund       §§ 119; 120;       § 387                                 vertraglich §§ 312g
+                  123                                                      vereinbart    Abs. 1; 495
+                                                                           oder ge- Abs. 1
+                                                                           setzlich be-
+                                                                           stimmt
+                                                                           (vgl. 346 I):
+                                                                           §§      323;
+                                                                           324; 326
+
+      Frist       § 121; § 124       § 121; § 124                          § 323          Frist: allge-
+                                                                                          mein gere-
+                                                                                          gelt in
+                                                                                          § 355 Abs.
+                                                                                          2-4
+
+
+
+      Rechts-     § 142 I            § 389                                 § 346 I        § 355 I 1
+      wirkung
+
+      Weitere     § 122 I                                                                 §§ 357 ff.
+      Rechts-
+      folgen
+2001628
+(04/25)
+                           Alle Rechte vorbehalten
+
+55101-08-S#1   *2001628*   © 2025 FernUniversität in Hagen
+                           Rechtswissenschaftliche Fakultät
+

@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Learning Content Integration</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #7c3aed;
+        }
+        h2 {
+            color: #5b21b6;
+            border-bottom: 2px solid #7c3aed;
+            padding-bottom: 10px;
+        }
+        button {
+            background: #7c3aed;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover {
+            background: #6d28d9;
+        }
+        .success {
+            color: green;
+            font-weight: bold;
+        }
+        .error {
+            color: red;
+            font-weight: bold;
+        }
+        .info {
+            background: #e0e7ff;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        pre {
+            background: #f0f0f0;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        .step {
+            margin: 10px 0;
+            padding: 10px;
+            background: #f9fafb;
+            border-left: 4px solid #7c3aed;
+        }
+    </style>
+</head>
+<body>
+    <h1>Test: Learning Content Integration</h1>
+    
+    <div class="container">
+        <h2>Schritt 1: Stores löschen</h2>
+        <p>Zuerst müssen wir die alten Daten löschen, damit die neuen Inhalte geladen werden können.</p>
+        <button onclick="clearAllStores()">Alle Learning Stores löschen</button>
+        <div id="clear-output"></div>
+    </div>
+
+    <div class="container">
+        <h2>Schritt 2: Test-Anleitung</h2>
+        <div class="info">
+            <h3>So testest du die Integration:</h3>
+            <ol class="steps">
+                <li class="step">
+                    <strong>Stores löschen:</strong> Klicke oben auf "Alle Learning Stores löschen"
+                </li>
+                <li class="step">
+                    <strong>JuraFit App öffnen:</strong> Gehe zu <a href="http://localhost:3000" target="_blank">http://localhost:3000</a>
+                </li>
+                <li class="step">
+                    <strong>Modul auswählen:</strong> Klicke auf "Propädeutikum - Einführung in die Rechtswissenschaft"
+                </li>
+                <li class="step">
+                    <strong>Lerneinheit starten:</strong> Klicke auf "Lerneinheit starten"
+                </li>
+                <li class="step">
+                    <strong>Thema wählen:</strong> Wähle ein Kapitel (A, B oder C) aus der Liste
+                </li>
+                <li class="step">
+                    <strong>Lernmethode testen:</strong> 
+                    <ul>
+                        <li><strong>Karteikarten:</strong> Sollte Karten aus dem gewählten Kapitel zeigen</li>
+                        <li><strong>Active Recall:</strong> Sollte Fragen aus dem gewählten Kapitel zeigen</li>
+                        <li><strong>Feynman-Technik:</strong> Sollte Konzepte aus dem gewählten Kapitel zeigen</li>
+                        <li><strong>Cornell Notes:</strong> Sollte Vorlagen aus dem gewählten Kapitel zeigen</li>
+                        <li><strong>Gutachten-Trainer:</strong> Sollte Übungen zeigen (hauptsächlich Kapitel C)</li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="container">
+        <h2>Schritt 3: Browser Console überprüfen</h2>
+        <p>Öffne die Browser-Entwicklertools (F12) und schaue in die Console. Du solltest folgende Meldungen sehen:</p>
+        <pre>
+FlashcardSystem useEffect triggered
+Loading Kapitel A flashcards: 10
+Adding card 1: Rechtsfall
+...
+
+ActiveRecall useEffect triggered
+Added 5 questions for topic ke1-kapitel-a
+...
+        </pre>
+    </div>
+
+    <div class="container">
+        <h2>Erwartete Inhalte pro Kapitel</h2>
+        <div id="content-overview"></div>
+    </div>
+
+    <script>
+        function clearAllStores() {
+            const stores = [
+                'srs-store',
+                'active-recall-store', 
+                'feynman-store',
+                'cornell-store',
+                'gutachten-store'
+            ];
+
+            let clearedCount = 0;
+            stores.forEach(store => {
+                if (localStorage.getItem(store)) {
+                    localStorage.removeItem(store);
+                    clearedCount++;
+                }
+            });
+
+            document.getElementById('clear-output').innerHTML = `
+                <div class="success">
+                    ✓ ${clearedCount} Stores wurden gelöscht!<br>
+                    Die Lernmethoden sind jetzt bereit, neue Inhalte zu laden.
+                </div>
+            `;
+
+            showContentOverview();
+        }
+
+        function showContentOverview() {
+            const overview = `
+                <h3>Kapitel A - Grundbegriffe der Rechtsanwendung:</h3>
+                <ul>
+                    <li>10 Karteikarten (Rechtsfall, Subsumtion, Syllogismus, etc.)</li>
+                    <li>5 Active Recall Fragen</li>
+                    <li>2 Feynman-Konzepte (Justizsyllogismus, Enthymem)</li>
+                    <li>1 Cornell Note Vorlage</li>
+                </ul>
+                
+                <h3>Kapitel B - Der Sachverhalt:</h3>
+                <ul>
+                    <li>4 Karteikarten</li>
+                    <li>3 Active Recall Fragen</li>
+                    <li>0 Feynman-Konzepte</li>
+                    <li>1 Cornell Note Vorlage</li>
+                </ul>
+                
+                <h3>Kapitel C - Gutachtenstil:</h3>
+                <ul>
+                    <li>5 Karteikarten</li>
+                    <li>3 Active Recall Fragen</li>
+                    <li>1 Feynman-Konzept (Gutachtenstil vs. Urteilsstil)</li>
+                    <li>1 Cornell Note Vorlage</li>
+                    <li>2 Gutachten-Übungen</li>
+                </ul>
+            `;
+            
+            document.getElementById('content-overview').innerHTML = overview;
+        }
+
+        // Zeige initial die Übersicht
+        showContentOverview();
+
+        // Prüfe aktuelle Stores
+        const stores = ['srs-store', 'active-recall-store', 'feynman-store', 'cornell-store', 'gutachten-store'];
+        let hasData = false;
+        
+        stores.forEach(store => {
+            if (localStorage.getItem(store)) {
+                hasData = true;
+            }
+        });
+
+        if (hasData) {
+            document.getElementById('clear-output').innerHTML = `
+                <div class="error">
+                    ⚠️ Es sind noch alte Daten vorhanden. Bitte klicke auf "Alle Learning Stores löschen"!
+                </div>
+            `;
+        }
+    </script>
+</body>
+</html>

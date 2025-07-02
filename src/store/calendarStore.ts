@@ -8,7 +8,7 @@ export interface CalendarEvent {
   date: string; // ISO date string
   startTime: string; // HH:mm format
   endTime: string; // HH:mm format
-  type: 'training' | 'study' | 'meal' | 'appointment' | 'other';
+  type: 'training' | 'meal' | 'appointment' | 'other';
   color?: string;
   recurring?: {
     frequency: 'daily' | 'weekly' | 'monthly';

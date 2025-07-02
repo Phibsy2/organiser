@@ -103,12 +103,12 @@ const InitializeRoutine: React.FC = () => {
     });
 
     addEvent({
-      title: '📚 STUDIUM - Intensive Lernphase',
-      type: 'study',
+      title: '🎯 FREIZEIT',
+      type: 'other',
       startTime: '19:30',
       endTime: '21:30',
       date: mondayDate,
-      description: 'Hauptlernzeit',
+      description: 'Persönliche Zeit',
       recurring: { frequency: 'weekly' }
     });
 
@@ -127,18 +127,18 @@ const InitializeRoutine: React.FC = () => {
     // Donnerstag spezifisch
     const thursdayDate = getNextWeekday(4);
     addEvent({
-      title: '📚 HAUPTLERNPHASE',
-      type: 'study',
+      title: '🏋️ KRAFTTRAINING Unterkörper',
+      type: 'training',
       startTime: '16:00',
-      endTime: '19:00',
+      endTime: '17:00',
       date: thursdayDate,
-      description: '3 Stunden intensives Lernen',
+      description: 'Fokus: Beine, Gesäß',
       recurring: { frequency: 'weekly' }
     });
 
     addEvent({
-      title: '📚 VERTIEFUNG',
-      type: 'study',
+      title: '🎯 ENTSPANNUNG',
+      type: 'other',
       startTime: '20:00',
       endTime: '21:00',
       date: thursdayDate,
@@ -176,36 +176,36 @@ const InitializeRoutine: React.FC = () => {
     });
 
     addEvent({
-      title: '📚 WOCHENABSCHLUSS-STUDIUM',
-      type: 'study',
+      title: '🍽️ MEAL PREP',
+      type: 'meal',
       startTime: '16:00',
       endTime: '18:30',
       date: fridayDate,
-      description: '2,5 Stunden - Zusammenfassung der Woche',
+      description: 'Vorbereitung für die Woche',
       recurring: { frequency: 'weekly' }
     });
 
     // Samstag
     const saturdayDate = getNextWeekday(6);
     addEvent({
-      title: '📚 STUDIUM - Vertiefung',
-      type: 'study',
+      title: '🏃 AKTIVE ERHOLUNG',
+      type: 'training',
       startTime: '09:00',
-      endTime: '12:00',
+      endTime: '10:30',
       date: saturdayDate,
-      description: '3 Stunden Vertiefung',
+      description: 'Leichtes Training oder Yoga',
       recurring: { frequency: 'weekly' }
     });
 
     // Sonntag
     const sundayDate = getNextWeekday(0);
     addEvent({
-      title: '📚 WOCHENVORBEREITUNG + STUDIUM',
-      type: 'study',
+      title: '📋 WOCHENPLANUNG',
+      type: 'other',
       startTime: '10:00',
-      endTime: '13:00',
+      endTime: '11:30',
       date: sundayDate,
-      description: '3 Stunden - Planung neue Woche',
+      description: 'Planung für die neue Woche',
       recurring: { frequency: 'weekly' }
     });
 

@@ -6,10 +6,8 @@ import {
   UserIcon,
   BellIcon,
   BriefcaseIcon,
-  AcademicCapIcon,
   HeartIcon,
   MoonIcon,
-  GlobeAltIcon,
   CheckIcon,
   ScaleIcon
 } from '@heroicons/react/24/outline';
@@ -19,14 +17,12 @@ const Settings: React.FC = () => {
     user, 
     notifications, 
     workSchedule,
-    studyPreferences,
     trainingPreferences,
     theme,
     language,
     updateUser,
     updateNotifications,
     updateWorkSchedule,
-    updateStudyPreferences,
     updateTrainingPreferences,
     setTheme,
     setLanguage
@@ -51,7 +47,6 @@ const Settings: React.FC = () => {
     { id: 'profile', label: 'Profil', icon: UserIcon },
     { id: 'notifications', label: 'Benachrichtigungen', icon: BellIcon },
     { id: 'work', label: 'Arbeitszeiten', icon: BriefcaseIcon },
-    { id: 'study', label: 'Studium', icon: AcademicCapIcon },
     { id: 'training', label: 'Training', icon: HeartIcon },
     { id: 'appearance', label: 'Darstellung', icon: MoonIcon },
   ];
@@ -232,46 +227,6 @@ const Settings: React.FC = () => {
                 </select>
               </div>
             ))}
-          </div>
-        );
-
-      case 'study':
-        return (
-          <div className="space-y-4">
-            <div>
-              <label className="block text-sm font-medium text-gray-700 mb-1">Bevorzugte Lernzeit</label>
-              <select
-                value={studyPreferences.preferredStudyTime}
-                onChange={(e) => updateStudyPreferences({ 
-                  preferredStudyTime: e.target.value as 'morning' | 'afternoon' | 'evening' 
-                })}
-                className="w-full px-3 py-2 border border-gray-300 rounded-lg"
-              >
-                <option value="morning">Morgens</option>
-                <option value="afternoon">Nachmittags</option>
-                <option value="evening">Abends</option>
-              </select>
-            </div>
-
-            <div>
-              <label className="block text-sm font-medium text-gray-700 mb-1">Tägliche Lern-Erinnerung</label>
-              <input
-                type="time"
-                value={studyPreferences.dailyStudyReminder || ''}
-                onChange={(e) => updateStudyPreferences({ dailyStudyReminder: e.target.value })}
-                className="w-full px-3 py-2 border border-gray-300 rounded-lg"
-              />
-            </div>
-
-            <label className="flex items-center">
-              <input
-                type="checkbox"
-                checked={studyPreferences.pomodoroNotifications}
-                onChange={(e) => updateStudyPreferences({ pomodoroNotifications: e.target.checked })}
-                className="h-4 w-4 text-blue-600 rounded mr-2"
-              />
-              <span className="text-gray-700">Pomodoro-Benachrichtigungen</span>
-            </label>
           </div>
         );
 

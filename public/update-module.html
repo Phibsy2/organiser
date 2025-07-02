@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JuraFit - Modul aktualisieren</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        button {
+            background-color: #7c3aed;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            margin: 10px 5px;
+        }
+        button:hover {
+            background-color: #6d28d9;
+        }
+        .success {
+            background-color: #d1fae5;
+            border: 1px solid #10b981;
+            padding: 15px;
+            border-radius: 6px;
+            margin-top: 20px;
+            display: none;
+        }
+        .info {
+            background-color: #dbeafe;
+            border: 1px solid #3b82f6;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+        }
+        .preview {
+            background-color: #f3f4f6;
+            padding: 15px;
+            border-radius: 6px;
+            margin-top: 20px;
+            font-family: monospace;
+            font-size: 14px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>JuraFit - Propädeutikum Modul aktualisieren</h1>
+        
+        <div class="info">
+            ℹ️ Diese Seite aktualisiert das Propädeutikum-Modul mit der neuen Kapitelstruktur, ohne deine Lernfortschritte zu verlieren.
+        </div>
+
+        <button onclick="updateModule()">
+            🔄 Modul mit Kapitelstruktur aktualisieren
+        </button>
+
+        <button onclick="showCurrentModule()">
+            👁️ Aktuelles Modul anzeigen
+        </button>
+
+        <div id="success" class="success">
+            ✅ Modul erfolgreich aktualisiert! Die App wird neu geladen...
+        </div>
+
+        <div id="preview" class="preview" style="display: none;">
+            <h3>Aktuelles Modul:</h3>
+            <pre id="moduleContent"></pre>
+        </div>
+
+        <p style="margin-top: 30px;">
+            <a href="/">← Zurück zur App</a>
+        </p>
+    </div>
+
+    <script>
+        // Die neuen Topics mit Kapitelstruktur
+        const ke1TopicsWithChapters = [
+            // KAPITEL A
+            {
+                id: 'ke1-kapitel-a',
+                name: '📚 KAPITEL A - Grundbegriffe der Rechtsanwendung',
+                description: 'Theoretische Grundlagen: Logik, Begriffe, Justizsyllogismus',
+                estimatedHours: 0.5,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 4-60 | Übersicht zu Kapitel A'
+            },
+            {
+                id: 'ke1-topic-1',
+                name: '  → A.I Der Fall - Was ist ein Rechtsfall?',
+                description: 'Grundverständnis des juristischen Falls und Abgrenzung zum allgemeinen Konflikt',
+                estimatedHours: 3,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 5-9: Konfliktlehre, Begriff des Rechtsfalls, praktische Bedeutung'
+            },
+            {
+                id: 'ke1-topic-2',
+                name: '  → A.II.1 Logische Grundlagen - Syllogismus & Begriffe',
+                description: 'Einführung in Syllogismus, Enthymeme und juristische Begriffe',
+                estimatedHours: 8,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 9-38: Logische Strukturen, Rechtsbegriffe, Definitionen'
+            },
+            {
+                id: 'ke1-topic-3',
+                name: '  → A.II.2-4 Der Justizsyllogismus',
+                description: 'Pragmatische Regelanwendung und vollständiger Justizsyllogismus',
+                estimatedHours: 6,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 38-54: Aufbau, Erweiterung, Tatbestandsmerkmale, Subsumtion'
+            },
+            {
+                id: 'ke1-topic-4',
+                name: '  → A.III Methodologie',
+                description: 'Grundlegende methodologische Überlegungen',
+                estimatedHours: 3,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 55-60: Methodenlehre im Überblick'
+            },
+            // KAPITEL B
+            {
+                id: 'ke1-kapitel-b',
+                name: '📋 KAPITEL B - Der Sachverhalt',
+                description: 'Praktische Arbeit mit Sachverhalten: Erfassen, Analysieren, Strukturieren',
+                estimatedHours: 0.5,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 61-84 | Übersicht zu Kapitel B'
+            },
+            {
+                id: 'ke1-topic-5',
+                name: '  → B.I Sachverhalt in Praxis und Studium',
+                description: 'Unterschiede zwischen Praxis und Studium im Umgang mit Sachverhalten',
+                estimatedHours: 3,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 61-64: Sachverhaltskonstruktion, Professionalität'
+            },
+            {
+                id: 'ke1-topic-6',
+                name: '  → B.II.1-2 Erfassen und Analysieren',
+                description: 'Sachverhalt studieren und nach Lösungshinweisen suchen',
+                estimatedHours: 5,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 65-75: Ideenzettel, Analyse, Verbindlichkeit der Fakten'
+            },
+            {
+                id: 'ke1-topic-7',
+                name: '  → B.II.3-4 Strukturieren und Verarbeiten',
+                description: 'Sachverhalt gliedern mit Skizzen und systematisch verarbeiten',
+                estimatedHours: 7,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 75-84: Zeit-/Personen-/Ortsskizzen, Sachverhaltskomplexe'
+            },
+            // KAPITEL C
+            {
+                id: 'ke1-kapitel-c',
+                name: '✏️ KAPITEL C - Einführung in den Gutachtenstil',
+                description: 'Die Methodik der juristischen Falllösung: Aufbau und Technik',
+                estimatedHours: 0.5,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 85-168 | Übersicht zu Kapitel C'
+            },
+            {
+                id: 'ke1-topic-8',
+                name: '  → C.I Stilmix - Such- und Prüfmodus',
+                description: 'Urteilsstil vs. Gutachtenstil, systematisches Suchen und Prüfen',
+                estimatedHours: 6,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 87-98: Verschiedene Stile, Denken unter Voraussetzungen'
+            },
+            {
+                id: 'ke1-topic-9',
+                name: '  → C.II.1-2 Obersatz und Voraussetzungen',
+                description: 'Aufbau des Gutachtens: Rechtsfrage formulieren und Voraussetzungen nennen',
+                estimatedHours: 7,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 101-128: Ergebnishypothese, Rechtsnorm, Tatbestandsmerkmale'
+            },
+            {
+                id: 'ke1-topic-10',
+                name: '  → C.II.3 Definition',
+                description: 'Die Kunst der juristischen Definition',
+                estimatedHours: 6,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 128-152: Definitionstechniken, Brückenfunktion'
+            },
+            {
+                id: 'ke1-topic-11',
+                name: '  → C.II.4-5 Subsumtion und Ergebnis',
+                description: 'Anwendung auf den Fall und Ergebnisformulierung',
+                estimatedHours: 4,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 152-163: Subsumtionstechnik, Ergebnissatz'
+            },
+            {
+                id: 'ke1-topic-12',
+                name: '  → C.II.6-7 Fortgeschrittene Techniken',
+                description: 'Weitere Obersätze und Schwerpunktsetzung',
+                estimatedHours: 2,
+                completedHours: 0,
+                status: 'pending',
+                notes: 'Seiten 163-168: Sinn fürs Wesentliche entwickeln'
+            }
+        ];
+
+        function updateModule() {
+            try {
+                // Hole den aktuellen Storage
+                const storageKey = 'study-storage';
+                const stored = localStorage.getItem(storageKey);
+                
+                if (!stored) {
+                    alert('Kein gespeichertes Modul gefunden. Bitte starte die App neu.');
+                    return;
+                }
+                
+                const data = JSON.parse(stored);
+                
+                // Finde das Propädeutikum-Modul
+                const moduleIndex = data.state.modules.findIndex(m => 
+                    m.id === 'propaedeutikum-complete' || m.name.includes('Propädeutikum')
+                );
+                
+                if (moduleIndex === -1) {
+                    alert('Propädeutikum-Modul nicht gefunden.');
+                    return;
+                }
+                
+                // Behalte die Fortschritte
+                const existingModule = data.state.modules[moduleIndex];
+                const existingProgress = {};
+                
+                // Speichere vorhandene Fortschritte
+                if (existingModule.topics) {
+                    existingModule.topics.forEach(topic => {
+                        existingProgress[topic.id] = {
+                            completedHours: topic.completedHours || 0,
+                            status: topic.status || 'pending'
+                        };
+                    });
+                }
+                
+                // Aktualisiere die Topics mit neuer Struktur aber alten Fortschritten
+                const updatedTopics = ke1TopicsWithChapters.map(topic => {
+                    const progress = existingProgress[topic.id] || {};
+                    return {
+                        ...topic,
+                        completedHours: progress.completedHours || topic.completedHours,
+                        status: progress.status || topic.status
+                    };
+                });
+                
+                // Aktualisiere das Modul
+                data.state.modules[moduleIndex] = {
+                    ...existingModule,
+                    topics: updatedTopics
+                };
+                
+                // Speichere zurück
+                localStorage.setItem(storageKey, JSON.stringify(data));
+                
+                document.getElementById('success').style.display = 'block';
+                
+                setTimeout(() => {
+                    window.location.href = '/';
+                }, 2000);
+                
+            } catch (error) {
+                alert('Fehler beim Aktualisieren: ' + error.message);
+            }
+        }
+
+        function showCurrentModule() {
+            try {
+                const stored = localStorage.getItem('study-storage');
+                if (!stored) {
+                    alert('Kein gespeichertes Modul gefunden.');
+                    return;
+                }
+                
+                const data = JSON.parse(stored);
+                const module = data.state.modules.find(m => 
+                    m.id === 'propaedeutikum-complete' || m.name.includes('Propädeutikum')
+                );
+                
+                if (!module) {
+                    alert('Propädeutikum-Modul nicht gefunden.');
+                    return;
+                }
+                
+                document.getElementById('moduleContent').textContent = JSON.stringify(module, null, 2);
+                document.getElementById('preview').style.display = 'block';
+                
+            } catch (error) {
+                alert('Fehler beim Anzeigen: ' + error.message);
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,16 +1,23 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Dashboard from './components/Dashboard';
-import ModuleTracker from './components/Study/ModuleTracker';
-import PomodoroTimer from './components/Study/PomodoroTimer';
-import SessionHistory from './components/Study/SessionHistory';
 import TrainingOverview from './components/Training/TrainingOverview';
 import NutritionDashboard from './components/Nutrition/NutritionDashboard';
+import Learning from './components/Learning/Learning';
 import Progress from './components/Progress/Progress';
 import Settings from './components/Settings/Settings';
 import Navigation, { NavigationTab } from './components/Shared/Navigation';
+import useGamificationStore from './store/gamificationStore';
 
 function App() {
   const [activeTab, setActiveTab] = useState<NavigationTab>('dashboard');
+  const { profile, initializeProfile } = useGamificationStore();
+
+  useEffect(() => {
+    // Initialize gamification profile if not exists
+    if (!profile) {
+      initializeProfile('user-1'); // In a real app, this would be the actual user ID
+    }
+  }, [profile, initializeProfile]);
 
   const handleNavigate = (tab: string) => {
     setActiveTab(tab as NavigationTab);
@@ -20,20 +27,12 @@ function App() {
     switch (activeTab) {
       case 'dashboard':
         return <Dashboard onNavigate={handleNavigate} />;
-      case 'study':
-        return (
-          <div className="min-h-screen bg-gradient-to-br from-purple-50 to-indigo-100 pb-20">
-            <ModuleTracker />
-            <div className="px-4 pb-6">
-              <PomodoroTimer />
-              <SessionHistory />
-            </div>
-          </div>
-        );
       case 'training':
         return <TrainingOverview />;
       case 'nutrition':
         return <NutritionDashboard />;
+      case 'learning':
+        return <Learning />;
       case 'progress':
         return <Progress />;
       case 'settings':

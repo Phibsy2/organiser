@@ -33,19 +33,12 @@ interface SettingsState {
     equipment: string[];
   };
   
-  // Study preferences
-  studyPreferences: {
-    preferredStudyTime: 'morning' | 'afternoon' | 'evening';
-    pomodoroNotifications: boolean;
-    dailyStudyReminder: string | null; // time like "19:00"
-  };
   
   // Actions
   updateUser: (updates: Partial<User>) => void;
   updateNotifications: (updates: Partial<NotificationSettings>) => void;
   updateWorkSchedule: (day: string, schedule: { start: string; end: string; type: 'office' | 'home' }) => void;
   updateTrainingPreferences: (updates: Partial<SettingsState['trainingPreferences']>) => void;
-  updateStudyPreferences: (updates: Partial<SettingsState['studyPreferences']>) => void;
   setTheme: (theme: 'light' | 'dark' | 'auto') => void;
   setLanguage: (language: 'de' | 'en') => void;
   requestNotificationPermission: () => Promise<boolean>;
@@ -68,8 +61,9 @@ const useSettingsStore = create<SettingsState>()(
           targetBodyFat: 20,
           targetMuscleMass: 47,
           primaryGoal: 'lose_weight',
-          weeklyStudyHours: 21,
-          weeklyTrainingSessions: 3
+          weeklyTrainingSessions: 3,
+          weeklyStudyHours: 10,
+          dailyCalories: 2500
         }
       },
       
@@ -100,11 +94,6 @@ const useSettingsStore = create<SettingsState>()(
         equipment: []
       },
       
-      studyPreferences: {
-        preferredStudyTime: 'evening',
-        pomodoroNotifications: true,
-        dailyStudyReminder: '19:30'
-      },
 
       // Actions
       updateUser: (updates) => set((state) => ({
@@ -126,9 +115,6 @@ const useSettingsStore = create<SettingsState>()(
         trainingPreferences: { ...state.trainingPreferences, ...updates }
       })),
       
-      updateStudyPreferences: (updates) => set((state) => ({
-        studyPreferences: { ...state.studyPreferences, ...updates }
-      })),
       
       setTheme: (theme) => {
         set({ theme });

@@ -1,0 +1,1690 @@
+
+--- Seite 1 ---
+Rechts­
+wissenschaftliche
+FakultätStudium Rechtswissenschaft
+Prof. Dr. Sebastian Kubis
+Prof. Dr. Ulrich Eisenhardt
+Unter Mitarbeit von Abdussamed Nazik
+und Pia Höhne
+Kurs 55101
+Allgemeiner Teil des BGB –
+Das Rechtsgeschäft und die Instrumente des Privatrechts
+Kurseinheit 4
+--- Seite 2 ---
+Das Werk ist urheberrechtlich geschützt. Die dadurch begründeten Rechte, insbesondere das Recht der Vervielfältigung und Verbrei -
+tung sowie der Übersetzung und des Nachdrucks, bleiben, auch bei nur auszugsweiser Verwertung, vorbehalten. Kein Teil des Werkes 
+darf in irgendeiner Form (Druck, Fotokopie, Mikrofilm oder ein anderes Verfahren) ohne schriftliche Genehmigung der FernUniversität 
+reproduziert oder unter Verwendung elektronischer Systeme verarbeitet, vervielfältigt oder verbreitet werden. Wir weisen darauf hin, 
+dass die vorgenannten Verwertungsalternativen je nach Ausgestaltung der Nutzungsbedingungen bereits durch Einstellen in Cloud-  
+Systeme verwirklicht sein können. Die FernUniversität bedient sich im Falle der Kenntnis von Urheberrechtsverletzungen sowohl zivil- 
+als auch strafrechtlicher Instrumente, um ihre Rechte geltend zu machen.
+ 
+ 
+Der Inhalt dieses Studienbriefs wird gedruckt auf Recyclingpapier (80 g/m2, weiß), hergestellt aus 100 % Altpapier.
+--- Seite 3 ---
+ 
+ 3 
+Inhaltsverzeichnis 
+Inhaltsverzeichnis  .................................................................................................. 3 
+§ 7 Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen  .... 5 
+I. Einleitung  ............................................................................................  5 
+II. Die Gegenstände Allgemeiner Geschäftsbedingungen .......................... 6 
+III. Missstände bei der Verwendung Allgemeiner Geschäftsbedingungen  .... 7 
+IV. Die Vorschriften des BGB zur Regelung des Rechts der Allgemeinen 
+Geschäftsbedingungen  ........................................................................ 8 
+1. Das rechtspolitische Ziel  .................................................................... 8 
+2. Die wichtigsten Regelungen des BGB über die Einbeziehung und Verwendung Allgemeiner Geschäftsbedingungen (§§ 305 ff.) ........... 8 
+a) Der Begriff der Allgemeinen Geschäftsbedingungen ...................... 8 
+b) Der Vorrang von Individualabreden  ............................................... 9 
+c) Schwerpunkte der gesetzlichen Regelung  .................................... 10 
+(a) Die Einbeziehung in den Vertrag  ......................................  10 
+(b) Die Inhaltskontrolle  .......................................................... 11 
+V. Sonderregelungen für dem Schutz von Verbrauchern gegen missbräuchl iche Klauseln in Verbraucherverträgen  .............................. 13 
+VI. Überraschende Klauseln  ..................................................................... 14 
+VII. Einschränkungen bei der Anwendung des AGB -Rechts  ....................... 15 
+VIII. Die Bezugnahme beider Vertragsparteien auf die eigenen Allgemeinen Geschäftsbedingungen im B2B -Bereich .............................................. 15 
+IX. Prüfungsschema für die gutachterliche AGB -Kontrolle  ........................ 19 
+§ 8 Grundzüge des Vertragsschlusses im Internet  .................................. 20 
+1. Überblick  ....................................................................................... 20 
+2. Der Vertragsschluss  ........................................................................ 21 
+3. Die Pflichten des Unternehmers im elektronischen Geschäftsverkehr (§§ 312i, 312j)  ............................................................................... 22 
+4. Der Fernabsatzvertrag  .................................................................... 23 
+5. Die Einbeziehung von Allgemeinen Geschäftsbedingungen im Internetgeschäft  ............................................................................. 24 
+6. Die Ersteigerung von Waren bei Internet -Auktionen ........................ 24
+ 
+--- Seite 4 ---
+ 
+ 4 
+§ 9 Die Auslegung ............................................................................... 27 
+I. Überblick  ..........................................................................................  27 
+II. Die Auslegung von Willenserklärungen  .............................................. 27 
+1. Die §§  133 und 157 und die Methoden der Auslegung ................... 27 
+2. Die Auslegung empfangsbedürftiger Willenserklärungen ................. 29 
+III. Die Auslegung von Verträgen ............................................................ 31 
+1. Überblick  ....................................................................................... 31 
+2. Die erläuternde Vertragsauslegung ................................................. 31 
+3. Die ergänzende Vertragsauslegung................................................. 34 
+a) Die Voraussetzungen  .................................................................. 34 
+b) Der Wille der Parteien und die Grenzen der Vertragsauslegung  .... 35 
+IV. Die Auslegung von Allgemeinen Geschäftsbedingungen ..................... 37 
+Lösungen zu den Selbsttestaufgaben  ............................................................... 41 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+--- Seite 5 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen 5 
+§ 7  Allgemeine Geschäftsbedingungen als Bestand-
+teile von Verträgen  
+Schrifttum:  BECKER , Die Reichweite der AGB -Inhaltskontrolle im unternehmerischen 
+Geschäftsverkehr aus teleologischer Sicht, JZ 2010, 1098; B ERGER /KLEINE, AGB -Gestal-
+tung und Transparenzgebot, NJW  2007, 3526 ; GRAF V . WESTFALEN , AGB -Recht im 
+zweiten Halbjahr NJ W 2022, 288.; H. HEINRICHS , Umsetzung der EG –Richtlinie über 
+missbräuchliche Klauseln in Verbraucherverträgen durch Auslegung, NJW 1995, 
+153 ff.; KÖSTER , Stillschweigende Vereinbarung eines verlängerten Eigentumsvorbe-
+halts - OLG Düsseldorf, NJW -RR 1997, 946ff. , JuS 2000, 22; KÖTZ, Der Schutzzweck 
+der AGB- Kontrolle – Eine rechtsökonomische Skizze, JuS 2003,  209; LÖHNIG /GIETL, 
+Grundfälle zum Recht der Allgemeinen Geschäftsbedingungen, JuS 2012, 494; LO-
+RENZ/GÄRTNER , Grundwissen – Zivilrecht: Allgemeine Geschäftsbedingungen, JuS 
+2013, 199; NEIDECK , Die Einbeziehung von AGB in der Fallbearbeitung, JA 2011, 492; 
+PFEIFFER , Entwicklungen und aktuelle Fragestellungen des AGB- Rechts, NJW 2017, 
+913; SCHÄFER , Vertragsschluss unter Einbeziehung von Allgemeinen  Geschäftsbedin-
+gungen gegenüber Fremdmuttersprachlern, JZ 2003, 879; S CHMIDT , Einbeziehung von 
+AGB im unternehmerischen Geschäftsverkehr, NJW 2011, 3329; TEMMING , Verstehen 
+Sie Deutsch? Sprachenunkenntni s beim Vertragsschluss und bei der AGB- Kontrolle, 
+GPR 2016, 38; WEISE, Aushandeln von Allgemeinen Geschäftsbedingungen, NJW -
+Spezial 2019, 684; WENDLAND , Das Recht der Allgemeinen Geschäftsbedingungen in 
+der Fallbearbeitung, Teil 2: Einbeziehungskontrolle und Auslegungsgrundsät ze, JURA 
+2019, 41; 
+ 
+I.  Einleitung  
+Häufig werden mit dem Vertragsschluss Allgemeine Geschäftsbedingungen auf 
+Wunsch einer oder beider Vertragsparteien Vertragsinhalt. Das bedeutet: Wenn die 
+Parteien z.B. einen Kauf -, Miet - oder Werkvertrag abschließen, werden nicht allein die 
+Rechte und Pflichten Gegenstand des Vertrages, die das Gesetz (hier das BGB) für 
+diesen Vertragstyp vorsieht; manche Regelungen des Gesetzes werden - sowei t recht-
+lich zulässig  - durch Allgemeine Geschäftsbedingungen abgeändert, ergänzt oder er-
+setzt.  
+Es wurde schon darauf hingewiesen,1 dass die Regelungen des BGB von den Vertrags-
+partnern im Wesentlichen  nur noch bei den sog. Massengeschäften des täglichen Le-
+bens, wie z.B. dem Kauf von Lebensmitteln und geringwertigen Gütern, als interes-
+sengerecht anerkannt und angewandt werden. Bei dem Erwerb wertvollerer Güter, wie z.B. Autos und Möbel, werden in der Regel Allgemeine Geschäftsbedingungen verwandt.  
+Der Grundsatz der Privatautonomie ermöglicht es  an vielen Stellen im BGB, das dis-
+positive (nachgiebige) Recht durch eigene Regelungen zu modifizieren oder verdrän-gen.  Dies betrifft häufig die im besonderen Tei l des Schuldrechts vorgesehenen Ver-
+tragstypen  (z.B. das Leasing), Regelungen des BGB AT (z.B. Formerfordernisse, 
+Verjährung)  und auch viele Regelungen des allgemeinen Teils des Schuldrechts  (z.B. 
+die Vorschriften über die Leistungsstörungen). Dabei erschei nt es unpraktisch, diesel-
+ben Regelungen mit jedem Vertragspartner individuell auszuhandeln. Aufgrund einer 
+Vielzahl von Anwendungsfällen werden hierfür  Allgemeine Geschäftsbedingungen 
+_________________________________________________ 
+1 Siehe dazu KE 1, § 1 V, 3. b) (3). 
+--- Seite 6 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen 6 
+verwendet . Besteht zwischen den Vertragspartnern ein unterschiedliches M achtver-
+hältnis (zum Anwendungsbereich § 310 BGB), besteht die Gefahr, dass die einseitig 
+vorgegebenen Bedingungen der anderen Vertragspartei nicht zumutbar sind. Das 
+AGB-Recht hat mit der großen Schuldrechtsreform  zum 1.1.2002 auf diese Miss-
+stände reagiert . 
+II. Die Gegenstände Allgemeiner Geschäftsbedingungen 
+In der Vergangenheit sind insbesondere folgende Gegenstände häufig in Allgemeine 
+Geschäftsbedingungen aufgenommen worden:  
+– Schönheitsr eparaturen  durch den Mieter  
+– bewegliche Liefer - und Zahlungsfristen zugunsten des Verwenders;  
+– Einschränkungen der Gewährleistungsansprüche zuungunsten des Ge-
+schäftspartners;  
+– eine Verkürzung der Gewährleistungsfristen des Verwenders;  
+– der Ausschluss der Abtretung von Forderungen, die gegen den Verwender 
+bestehen oder entstehen;  
+– der Ausschluss der Aufrechnung gegen Forderungen des Verwenders;  
+– Beweislastregelungen, die es dem Kunden des Verwenders häufig erschwer-
+ten oder gar unmöglich machten, seine Rechte vor Gericht durchsetzen zu 
+können.  
+– erschwerte Schriftformerfordernisse für de n Geschäftspartner  
+– der Ausschluss von Schadensersatzansprüchen  
+– Preisänderungsklauseln bei erhöhten Produktionskosten  
+Manche Allgemeine Geschäftsbedingungen sind umfangreiche Klauselwerk e, de ren 
+Tragweite auch für geschäftlich erfahrene Kunden nur schwer zu  erfassen ist. Zu den-
+ken ist hier z.B. an die Allgemeinen Geschäftsbedingungen der Banken, Versicherun-
+gen, Spediteure und Beförderungsunternehmen.  
+Andere Allgemeine Geschäftsbedingungen regeln nur einzelne Punkte und ergänzen 
+oder verändern die gesetzliche Regelung nur (mehr oder weniger ) geringfügig. Zu 
+solchen einzelnen Punkten gehören häufig: die Vereinbarung eines Eigentumsvorbe-
+haltes, Zahlungsfri sten, der Ausschluss oder erhebliche Modifizierungen von Gewähr-
+leistungsansprüchen. Das bedeutet: Die Rechtsnormen, die das BGB für einen be-stimmten Vertragstyp aufstellt, werden nur teilweise, allerdings zum Nachteil de s 
+Vertragspartners  abgeändert, ausgeschlossen oder ergänzt. Der vom Gesetzgeber 
+umrissene Vertragstyp bleibt in diesen Fällen noch erkennbar.  
+Allgemeine Geschäftsbedingungen und die damit zusammenhängenden Probleme 
+spielen nicht nur im Einzelhandel eine Rolle. Auch im Geschäftsverkehr der Unterneh-
+men untereinander werden bei Vertragsschlüssen in der Regel Allgemeine Geschäfts-bedingungen zugrunde gelegt.  
+--- Seite 7 ---
+ 
+Allgemeine  Geschäftsbedingungen als Bestandteile von Verträgen 7 
+III. Missstände bei der Verwendung Allgemeiner Geschäftsbe-
+dingungen 
+Häufig hat der Verwender auch die Macht, die Zustimmung zu seinen Allgemeinen 
+Geschäftsbedingungen zu erzwingen. Seit Inkrafttreten des BGB hat sich gezeigt, dass die Vorstellung unrichtig ist, dass jede Person frei wählen könne , mit wem sie sich 
+vertraglich binden will. Vielfach sind gerade Verbraucherinnen und Verbraucher da-
+rauf a ngewiesen, eine bestimmte Leistung zu erwerben oder etwa eine Wohnung zu 
+mieten. Eine Illusion ist vielfach auch die Vorstellung, dass beide  Vertragspartner 
+gleichermaßen frei sei en, den Vertrag inhaltlich zu gestalten. Vielmehr besteht häufig 
+ein "Ungleichgewicht " zwischen den Verhandlungspartnern. Vertragsinhalt werden 
+oft Allgemeine Geschäftsbedingungen, die die Händler und Produzenten zur Grund-
+lage des Geschäfts machen wollen. Da diese in der Regel nur bereit sind , Verträge auf 
+der Grundlage ihrer eigenen AGB zu schließen, haben die Kunden im Regelfall keine 
+andere Wahl, als die Allgemeinen Geschäftsbedingungen zu akzeptieren, wenn sie bestimmte Sachen kaufen oder andere Leistungen in Anspruch nehmen wollen.  
+Die vom BGB zugrunde gelegte Ausgangslage, Verträge würden unter gleich Mäch-
+tigen ausgehandelt, so dass jede Partei auf ihren Vorteil selbst achten und dass des-
+halb im Vertrage ein Interessenausgleich ausgehandelt werden könne, wurde also schon bei der Schaffung des BGB falsch eingeschätzt .
+2 Die Vertragsfreiheit ist nur so 
+lange ein Mittel zur selbstverantwortlichen Gestaltung der Rechtsbeziehungen, wie zwischen den Vertragsparteien annähernd tatsächliche Gleichheit besteht und damit die einzelnen Vertragsbedingungen wirklich ausgehandelt werden können. In der Pra-
+xis wird d ie Privatautonomie allzu häufig zum Nachteil der Kunden ausgenutzt. Pro-
+duzenten und Händler setzen Allgemeine Geschäftsbedingungen durch , die nur zu 
+oft einseitig den Interessen der Verkäufer dienen.  
+Bis zu einer ausdrücklichen Regelung des Rechts der allgemeinen Geschäftsbedingun-
+gen drohte also, dass die gesetzlichen Regelungen des BGB, die einen ausgewogenen 
+Interessenausgleich der Vertragspartner vorsehen, durch die breite Verwendung von "Kleingedrucktem " für viele wichtige Bereiche des Wirtschaftslebens zur Bedeutungs-
+losigkeit herab sinken. 
+Die häufig äußerst gefährliche Änderung seiner Rechtsstellung gegenüber der Rege-lung des BGB bleibt dem Kunden des AGB- Verwenders beim Abschluss des Vertrages 
+oft verborgen, weil dieser di e Tragweite der sorgfältig zusammengestellten Klausel-
+werke erst nach gründlicher juristischer und wirtschaftlicher Analyse erkennen könnt e. Hierzu sind freilich insbesondere die Verbraucher kaum imstande und auch 
+wegen der damit verbundenen Mühe und (Berat ungs-) Kosten auch nicht willens. Die 
+Aufwendungen für eine Analyse der Allgemeinen Geschäftsbedingungen sind für 
+kaum sinnvoll, weil sie in keinem Verhältnis zum Wert des Vertragsgegenstands ste-
+hen und die Verbraucher wegen der weiten Verbreitung der Allgemeinen Geschäfts-
+bedingungen deren Annahme ohnehin nicht entgehen können. Praktisch ist es bis 
+heute so, dass die – –selten bewusst zur Kenntnis genommenen und noch seltener 
+wirklich verstandenen – Allgemeinen Geschäftsbedingungen akzeptiert werden, weil 
+man darauf vertraut , dass sie einen halbwegs gerechten Interessenausgleich enthalten 
+werden . Die wahre Bedeutung der unterzeichneten Allgemeinen Geschäftsbedingun-
+gen wird oft erst im Streitfall erkannt. Vor Gericht musste sich der Unterzeichner aber 
+lange Zeit an den Allgemeinen Geschäftsbedingungen festhalten lassen, weil seine 
+_________________________________________________ 
+2 BVerfGE 89, 214 , 236; MünchKom m/SCHUBERT , BGB  § 242 Rn . 635. 
+--- Seite 8 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen 8 
+Einverständniserklärung als wirksame, auf dem freien Willen beruhende Willenserklä-
+rung angesehen wurde.  
+IV. Die Vorschriften des BGB zur Regelung des Rechts der Allge-
+meinen Geschä ftsbedingungen 
+1. Das rechtspolitische Ziel  
+Hauptziel der gesetzlichen Regelung ist es, die oben skizzierte, unbefriedigende Situ-
+ation zu verbessern: Personen ohne wirklichen Überblick über die vereinbarten Rege-
+lungen des Leistungsaustausches sollen keine Ver träge abschließen, denen Vertrags-
+bedingungen zugrunde liegen, die vom Vertragspartner „diktiert“ werden und die 
+die andere Seite unangemessen benachteiligen . 
+Mit den Regelungen über die Allgemeinen Geschäftsbedingungen soll keineswegs 
+das Prinzip der Priva tautonomie beseitigt werden. Man kann sie vielmehr als einen 
+Versuch werten, dem Prinzip der Privatautonomie eine neue Chance zu geben.  An-
+ders gesagt: durch die zwingenden Regeln zur „Regulierung“ von AGB soll die gleiche „Augenhöhe“ zwischen den Vertragspartnern hergestellt  werden , die eine Ausübung 
+der Privatautonomie erst möglich macht. Nicht bestreiten lässt sich aber, dass das Ergebnis der gesetzgeberischen Bemühungen, insbesondere die sehr umfangreichen "Katalognormen" der §§ 308, 309 recht detaillier t geraten ist.  
+ 
+2. Die wichtigsten Regelungen des BGB über die Einbeziehung und Verwendung Allgemeiner Geschäftsbedingungen (§§  305 ff.) 
+a) Der Begriff der Allgemeinen Geschäftsbedingungen 
+Das BGB enthält in §  305 Abs. 1 zunächst einmal eine Begriffsbestimmung.  Nach die-
+ser Definition liegen Allgemeine Geschäftsbedingungen vor, wenn  
+ 
+ der Verwender für den potentiellen Vertragspartner einen fertigen 
+Vertragsentwurf bereithält,
+der für eine "Vielzahl von Verträgen" bestimmt ist.
+und der Verwender diese vorformulierten Vertragsbedingungen dem 
+Vertragspartner einseitig auferlegt.
+--- Seite 9 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen 9 
+„Vielzahl“  setzt die Absicht einer mindestens dreimaligen Verwendung voraus .3 Aus-
+reichend ist deshalb bereits die erstmalige Verwendung, sofern weitere Verwendun-
+gen bei Vertragssch luss hinreichend geplant sind. Eine Bedingung ist auch dann „vor-
+formuliert“, wenn nicht der Verwender selbst, sondern sein Interessenverband oder ein Dritter sie aufgesetzt hat.
+4 Das Vielzahlkriterium ist bei Verbraucherverträgen nach 
+§ 310 Abs. 3 Nr. 2 unbeachtlich.  
+Die Vertragsbedingungen  müssen „vom Verwender gestellt“, also einseitig auferlegt 
+werden . Daran fehlt es, wenn die Vertragsbedingungen im Einzelnen ausgehandelt 
+werden (§ 305 I 3). Bei Verbraucherverträgen gelten die Allgemeinen Geschäftsbe-dingungen als vom Unternehmer gestellt, § 310 Abs. 3 Nr. 1.  
+ 
+So fallen unter die Definition des § 305 Abs.  1 z.B.:  
+– gedruckte Einheitsmietverträge (aus dem Internet) , aufgrund derer die Ver-
+mieter mit den Mietern Mietverträge abschließen;  
+– Grundschuldbestellungsurkunden, die eine Bank als Formular verwendet;  
+– vorgedruckte Formularverträge, die beim Autokauf verwandt werden;  
+– vorformulierte Bürgschaftsverträge, wie sie die Banken verwenden.  
+Auch im PC gespeicherte Verträge, die für eine Vielzahl von Fällen vorgesehen sind, 
+fallen unter diese Definition.  
+Unter die Definition des §  305 Abs. 1 können auch notarielle Verträge  fallen, wenn 
+diese Verträge vom Notar nicht lediglich für einen Einzelfall konzipiert wurden , son-
+dern inhaltlich das wiedergeben, w as eine Partei für eine Reihe gleichwertiger Ver-
+träge einseitig festgelegt hat.
+5 Dies ist häufig bei „standartmäßigen“  Grundstücks-
+kaufverträgen oder GmbH -Gesellschaftsverträgen zu bemerken.  
+b) Der Vorrang von Individualabreden  
+Gemäß §  305 Abs. 1 S. 3 liegen Allgemeine Geschäftsbedingungen nicht vor, wenn 
+Vertragsbedingungen im Einzelnen ausgehandelt  worden sind (sog. Individualabre-
+den). Auf Individualabreden finden deshalb die Vorschriften der §§  305 ff. grundsätz-
+lich keine Anwendung.  
+Individualabreden genießen gemäß § 305 b Vorrang vor Allgemeinen Geschäftsbe-
+dingungen. Soweit ein inhaltlicher Widerspruch zwischen Individualabreden und All-gemeinen Geschäftsbedingungen besteht, bleiben letztere ohne Geltung. Demnach 
+bleiben Klauseln in Allgemeinen Geschäftsbedingungen, die im Widerspruch zu Indi-
+vidualabreden stehen, ohne Wirkung.  
+Beispiel:  Kauffrau K kauft bei V einen LKW für ihr  Unternehmen. In den Allgemeinen 
+Geschäftsbedingungen des V, die wirksam in den Vertrag einbezogen worden sind , 
+wird die gesetzliche Verjährungsfrist für die Mängelhaftung von zwei Jahren auf ein 
+_________________________________________________ 
+3 BGH NJW 2019, 2997 Rn. 31; 2004, 1454; 2002, 138. 
+4 BROX/WALKER  § 10 Rn. 5 . 
+5 So BGHZ 83, 56, 58 . 
+--- Seite 10 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen 10 
+Jahr verkürzt. Unter Zeugen erklärt V der  K jedoch, er gebe ihr , sogar eine "Garantie-
+frist" von drei Jahren. Als K 18 Monate nach Übergabe des LKW wegen eines Mangels 
+kaufrechtliche Gewährleistungsrechte §§ 434 ff. geltend macht, beruft sich V auf 
+seine Allgemeinen Geschäftsbedingungen.  
+ 
+Es handelt sich nicht um einen Verbrauchsgüterkauf , K ist als Kauffrau keine Verbrau-
+cherin i.S.d § 13.  Deshalb kann die Verjährungsfrist durch Individualvereinbarung im 
+Rahmen des § 202 verkürzt werden.6 Eine Verkürzung durch die Vereinbarung Allge-
+meiner Geschäftsbedingungen ist bei neu hergestellten Sachen wegen § 309 Nr. 8  b) 
+ff) grundsätzlich möglich; allerdings darf  die Frist 1 Jahr nicht unterschreiten. Die 
+mündliche Zusicherung des V, er räume der K sogar eine "Garantiefrist"- womit hier 
+die Verjährungsfrist für Mängelansprüche gemeint sein dürfte – von drei Jahren ein, 
+ist eine Individualabrede im Sinne des §  305 b. Sie geht der entsprechenden Klausel 
+in den Allgemeinen Geschäftsbedingungen vor, die demnach ohne Wirkung bleibt. 
+Der Mängelanspruch der K ist somit noch nicht verjährt.  
+Individualvereinbarungen können sein:  
+– Einzelfallvereinbarungen und 
+– Aushandlungsvereinbarungen. 
+Einzelfallvereinbarungen  liegen vor, wenn Vertragsbedingungen nicht für eine Viel-
+zahl von Fällen, sondern nur für einen Einzelfall formuliert sind. Auf das Aushandeln ist dabei nicht abzustellen. Entscheidend ist vielmehr, ob die Vereinbarung zum Zweck der einmaligen Verwendung formuliert ist .
+7  
+Aushandlungsvereinbarungen setzen ein Aushandeln i.S. des §  305 Abs. 1 S. 3 vo-
+raus. Hiervon kann nach Auffassung des BGH8 nur gesprochen  werden, wenn der 
+Vertragsinhalt das Ergebnis einer selbstverantwortlichen Prüfung, Abwägung und möglichen Einflussnahme beider Vertragsseiten ist.  
+Zu beachten ist stets, dass in der Praxis häufig Verträge abgeschlossen werden, die aus Allgemeinen Geschäft sbedingungen und Individualvereinbarungen bestehen. Es 
+handelt sich dabei um einen einheitlichen Vertrag.  
+c) Schwerpunkte der gesetzlichen Regelung  
+Die Vorschriften des BGB über die Allgemeinen Geschäftsbedingungen bilden im We-
+sentlichen zwei Schwerpunkte: Si e betreffen die Einbeziehung von Allgemeinen Ge-
+schäftsbedingungen in den Vertrag und die Inhaltskontrolle Allgemeiner Geschäfts-bedingungen.  
+(a) Die Einbeziehung in den Vertrag  
+§ 305 Abs. 1 und 2 sollen sicherstellen, dass für die Einbeziehung von Allgemeinen 
+Geschäftsbedingungen in den Einzelvertrag der rechtsgeschäftliche Vertragswillen der 
+_________________________________________________ 
+6 Bei einem Verbrauchsgüterkauf ist dies nur unter den Voraussetzungen des § 476 II möglich.  
+7 So WOLF/HORN/LINDACHER , AGB -Gesetz, §  1 Rn.  32 Für die alte Rechtslage; zur aktuellen Rechtslage vgl. 
+MünchKomm /BASEDOW , BGB § 305b, Rn.  1 f., 5 . 
+8 BGH NJW 2019, 2080 . 
+--- Seite 11 ---
+ 
+Allgemeine Geschäf tsbedingungen als Bestandteile von Verträgen 11 
+Parteien maßgeblich ist. Ein Vertrag kommt zustande, wenn die Partei, die den Ver-
+tragsabschluss anbietet, ihre gesamten zukünftigen Vertragsbedingungen so vollstän-dig zusam menfasst, dass die andere Partei durch ein bloßes "Ja" den Vertrag entste-
+hen lassen kann (= Angebot), und  dieses Angebot ohne inhaltliche Änderung vom 
+Vertragspartner angenommen wird (= Annahme). Dieser Grundsatz wird in § 305 
+Abs. 2 noch einmal unterstrichen. Eine solche Klarstellung von Seiten des Gesetzge-
+bers war erforderlich geworden; denn die Rechtsprechung hatte – entgegen den 
+Grundsätzen des allgemeinen Vertragsrechts (§§ 145 ff.) – Allgemeine Geschäftsbe-
+dingungen schon dann zum Vertragsinhalt werden lassen, wenn der Kunde Kenntnis 
+vom Vorhandensein Allgemeiner Geschäftsbedingungen hätte haben können . 
+Um sicherzustellen, dass die häufig für den Vertragspartner des Verwenders nachtei-
+ligen Allgemeinen Geschäftsbedingungen wirklich vom Willen der Vertragschließen-
+den getragen werden, macht § 305 Abs. 2 das Zustandekommen eines Vertrages mit 
+dem Inhalt der Allgemeinen Geschäftsbedingungen von einem ausdrücklichen Hin-
+weis auf die Allgemeinen  Geschäftsbedingungen abhängig oder ausnahmsweise von 
+einem deutlich sichtbaren Aushang am Ort des Vertragsschlusses (wenn ein ausdrück-
+licher Hinweis wegen der Art des Vertragsabschlusses nur unter unverhältnismäßigen 
+Schwierigkeiten möglich ist ) und der M öglichkeit, in zumutbarer Weise vom Inhalt der 
+Allgemeinen Geschäftsbedingungen Kenntnis zu nehmen.  
+Außerdem muss die andere Vertragspartei eine Einverständniserklärung abgeben 
+("...und wenn die andere Vertragspartei mit ihrer Geltung einverstanden ist"). Damit wird klargestellt, dass die Einbeziehung der Allgemeinen Geschäftsbedingungen auf 
+vertraglicher Grundlage und nicht durch einseitige Maßnahmen des Verwenders er-
+folgt. Diese Einverständniserklärung ist eine Willenserklärung, die freilich auch durch schlüssiges Verhalten geäußert werden kann .
+9 Die Voraussetzungen der §§ 305 Abs. 
+1 und 2 sind insbesondere bei Arbeitsverträgen nicht erforderlich ( § 310 IV 2). Aller-
+dings muss der Arbeitgeber dem Arbeitnehmer spätestens einen Monat nach Ver-tragsschluss eine  Urkunde mit den wesentlichen Arbeitsbedingungen aushändigen 
+(vgl. § 2 NachwG).  
+ 
+(b) Die Inhaltskontrolle  
+Den §§ 307 ff. lassen sich die Maßstabsnormen für den rechtlich zulässigen Inhalt von 
+Klauseln in Allgemeinen Geschäftsbedingungen entnehmen, die in einer Generalklau-sel (§  307) und einem großen Katalog einzeln aufgeführter unzulässiger Klauseln 
+(§§ 308 und 309) enthalten sind.  
+Beispiel:  Bei Abschluss eines Kaufvertrages, der nicht ein Verbrauchsgüterkauf im 
+Sinne des §  474 ist, werden Allgemeine Geschäftsbedingungen ver wendet , in denen 
+die Verjährungsfrist betreffend Mängelansprüche auf 6 Monate verkürzt werden. Dies 
+stellt einen Verstoß gegen das Klauselverbot des § 309 Nr. 8 b) ff) dar. Die Klausel ist 
+unwirksam.  
+Zu beachten ist, dass gemäß §  307 Abs. 3 eine Inhaltskontrolle nur statt findet, wenn 
+Allgemeine Geschäftsbedingungen von Rechtsvorschriften abw eichen oder diese 
+ergänzen. Deshalb unterliegen z.B. in der Regel Leistungsbestimmungs - und Entgel-
+tregelungen der Inhaltskontrolle nach den §§  307 ff. nicht. Anders gesagt: der Inhalt 
+_________________________________________________ 
+9 BeckOGK/ LEHMANN -RICHTER , BGB § 305 Rn. 244 . 
+--- Seite 12 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen 12 
+der versprochene n Leistung (etwa im Rahmen eines Werkvertrags) , z.B. ein e Baube-
+schreibung oder eine Katalogangabe,  ist nicht Gegenstand der AGB -Kontrolle . Das-
+selbe gilt für die Höhe des zu zahlenden Preises; hier kann ggf. § 138, insbesondere 
+der „Wuchertatbestand“ des § 138 Abs. 2, helfen.10 Eine Ausnahme von diesem 
+Grundsatz kommt nur in Betracht , wenn die  entsprechenden Klauseln "i ntranspa-
+rent", d.h. nicht klar und verständlich im Sinne des § 307 Abs. 1 S. 2 sind (" Trans-
+parenzgebot "). 
+Handelt es sich um einen Vertrag, der sich einerseits aus Individualvereinbarungen 
+und andererseits aus Allgemeinen Geschäftsbedingungen zusammensetzt, so unter-
+liegen nur diejenigen Passagen des Vertrages, die Allgemeine Geschäftsbedingungen sind, der Inhaltskontrolle nach den §§ 307 ff. Der andere Teil des Vertrages, die Indi-
+vidualvereinbarungen, kann nur anhand der §§  134, 138 und 242 sowie den Schutz-
+vorschriften des Verbrauchsgüterkaufs (insbesondere § 476) und des Verbraucherdar-lehensvertrages (z.B. §§ 492a, 500 Abs. 1 S.2) einer Inhaltskontrolle unterzogen werden.  
+Führt die Inhaltskontrolle nach den §§  307 ff. zu dem Ergebnis, dass eine oder meh-
+rere Klauseln in den Allgemeinen Geschäftsbedingungen unwirksam sind, so bleibt 
+der Vertrag im Ü brigen wirksam (§  306 Abs. 1). An die Stelle der unwirksamen Ver-
+tragsbestandteile treten die gesetzlichen Vorschriften (§  306 Abs. 2) . Beachte: 
+diese Regelung ist eine wichtige Ausnahme von dem allgemeinen Grundsatz, dass die teilweise Nichtigkeit eines Vertrags die gesamte Vereinbarung "infiziert" und unwirk-sam macht (§ 139
+11). Letzteres wäre in der Regel nicht im Sinne des Verbrauchers, 
+dem durch die AGB -Kontrolle nicht der Vertrag insgesamt "weggenommen" werden 
+soll. Der Verbraucher soll nicht um den von ihm geschlossenen Vertrag gebracht wer-den; der Vertrag soll nur einen angemessenen, fairen Inhalt haben.  
+Bei einer einzelnen AGB Klausel, die einer Inhaltskontrolle nicht standhält, stellt sich die Frage, ob eine geltungserhaltende Reduktion möglich ist. Hiernach wäre die 
+Klausel daraufhin zu untersuchen, ob sie – reduziert auf den nach dem Gesetzeswor-
+tlaut gerade noch zulässigen Inhalt – wirksam wäre. Diese Frage könnte sich gerade 
+bei unzulässige zu kurzen Fristen stellen . Eine solche Form der Auslegung verbietet 
+sich bei AGB -Klauseln. Falls man eine solche Auslegung erlaubte, würde der Verwen-
+der einer solc hen Klausel überhaupt kein Risiko eingehen.  Denn am Ende bliebe im-
+mer ein "gerade noch zulässiger" Inhalt übrig, der für den Verwender so günstig ausfiele wie rechtlich möglich.  
+Beispiel:  Privatfrau K kauft bei Unternehmer V einen neuen Drucker für ihr häu sliches 
+Büro. In den „Allgemeinen Geschäftsbedingungen“ des V findet sich eine Klausel, nach der die Gewährleistungsfrist 6 Monate  betragen soll. Diese Klausel hält einer 
+Inhaltskontrolle wegen § 309 Nr. 8 b) ff) nicht stand (minde -stens 12 Monate ) und ist  
+folglich unwirksam. Die Klausel kann auch nicht im Wege der geltungserhaltenden Reduktion dahingehend ausgelegt werden, dass sie eine gerade noch zulässige Ver-jährungsfrist von 12 Monaten (vgl. § 309 Nr. 8 b) ff) letzter HS. bestimmen soll. An 
+die Stelle der unwirksamen Klausel tritt vielmehr die gesetzliche Regelung des § 438 
+Abs. 1 Nr. 3, wonach die Verjährungsfrist für Gewährleistungsansprüche zwei Jahre  
+beträgt.  Insofern wird die dispositive Regelung - die gesetzlich vorgesehene Frist von 
+zwei Jahren zu  verkürzen- rückgängig gemacht.  
+_________________________________________________ 
+10 Skript 5, § 13 III.  
+11 Skript 6, § 15.  
+--- Seite 13 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen 13 
+In dem oben genannten Beispiel ist also nur die entsprechende Klausel unwirksam. 
+Der Vertrag bleibt im Übrigen  bestehen (§  306 Abs. 1). An die Stelle der unwirksamen 
+Klausel tritt die gesetzliche Regelung (§ 306 Abs. 2), hier also §  438 mit der zweijäh-
+rigen Verjährungsfrist.  
+ 
+Fall (nach OLG Frankfurt  WM 1981, 598  ff.): Die Firma V stellt Zäune her und ver-
+treibt diese. Sie verwendet Allgemeine Geschäftsbedingungen, in denen es u.a.  
+heißt:  
+"Von unseren Bedingungen abweichende  mündliche Vereinbarungen sind nur gül-
+tig, wenn sie von uns schriftlich bestätigt werden."  
+K kauft bei V 100 m Drahtzaun und vereinbart mit einem Angestellten A der V 
+mündlich Lieferungs - und Zahlungsbedingungen, die von den Allgemeinen Ge-
+schäftsbedingunge n abweichen. Als K die Lieferung zu den mündlich vereinbarten 
+Bedingungen verlangt, verweist V auf die Allgemeinen Geschäftsbedingungen. Zu 
+Recht?  
+Lösung:  
+K hat gegen V gemäß §  433 Abs.  1 S. 1 einen Anspruch auf Lieferung und Eigen-
+tumsverschaffung des Zaunes zu den mündlich vereinbarten Bedingungen, wenn die 
+Schriftformklausel unwirksam ist.  
+Der BGH vertritt die Ansicht, dass die Schriftformklausel anhand der Generalklausel des § 307 auf ihre Wirksamkeit hin überprüft werden müsse.
+12 Danach ist die Schrift-
+formklausel unwirksam, wenn sie den Vertragspartner des Verwenders entgegen den 
+Geboten von Treu und Glauben unangemessen benachteiligt. Eine unangemessene Benachteiligung ist hier darin zu sehen, dass die Schriftformklausel Geltung bean-
+sprucht, ohne auf die  von der Rechtsprechung anerkannten Ausnahmefälle einzuge-
+hen. Dem Vertragspartner des Verwenders wird verschleiert, dass mündliche Zusagen, 
+die unter Abweichung von den Allgemeinen Geschäftsbedingungen getroffen wor-
+den sind, gleichwohl wirksam sein können.  Stattdessen wird dem häufig rechtsun-
+kundigen Vertragspartner – der Wahrheit zuwider  – ein geschlossenes System darge-
+stellt, wonach es ihm verwehrt sein soll, sich auf die mündliche Nebenabrede zu berufen. Hierin liegt eine den Geboten von Treu und Glauben  entgegenstehende un-
+angemessene Benachteiligung. Die vorliegende Schriftformklausel ist daher nach 
+§ 307 unwirksam, so dass K gegen V gemäß § 433 Abs.  1 einen Anspruch auf Liefe-
+rung zu den mündlich vereinbarten Bedingungen hat.  
+V. Sonderregelungen für dem Sch utz von Verbrauchern gegen 
+missbräuchliche Klauseln in Verbraucherverträgen  
+Nach § 310 Abs. 3 genießen Verbraucher (§  13) auch innerhalb des Rechts der Allge-
+meinen Geschäftsbedingungen (§§ 305 ff.) noch einen besonderen Schutz. Die Vor-
+schrift dient der Ums etzung der EU -Richtlinie 93/13/EWG des Rates vom 5. April 1993 
+über mi ssbräuchliche Klauseln in Verbraucherverträgen. Auf Verbraucherverträge , 
+d.h. auf Verträge zwischen Verbrauchern (§ 13) und Unternehmern (§ 14), findet  also 
+§ 310 Abs. 3 Anwendung  (mit L egaldefinition des Begriffs "Verbrauchervertrag"). 
+_________________________________________________ 
+12 BGH NZM 2018, 279 . 
+--- Seite 14 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen 14 
+Danach sind u.a. etliche Vorschriften über die Allgemeinen Geschäftsbedingungen, 
+wie z.B. diejenigen über die Inhaltskontrolle (§§ 307 ff.) auch dann anzuwenden, 
+wenn die Voraussetzungen von § 305 Abs. "ei gentlich"  nicht erfüllt sind. Die AGB -
+Kontrolle greift daher auch, wenn vorformulierte Vertragsbedingungen nur zur ein-
+maligen  Verwendung bestimmt sind und der Verbraucher aufgrund der Vorformulie-
+rung auf der en Inhalt keinen Einfluss nehmen konnte.  
+VI. Überrasc hende Klauseln 
+Durch die §§ 305 ff. sollen die Vertragspartner der Verwender in ihrem Vertrauen 
+darauf geschützt werden, dass die vereinbarten Allgemeinen Geschäftsbedingungen 
+sich im Rahmen dessen halten, was nach den Umständen beim Abschluss des Vertra-
+ges erwartet werden kann. Grundlage der Erwartungen sind das Angebot und die 
+Werbung des Verwenders sowie Aufmachung, Anordnungen und Schriftbild der Ver-tragsurkunde.  
+Durch § 305 c Abs. 1 sollen in Allgemeinen Geschäftsbedingungen zusätzliche Ein-
+zelpflichten  für unwirksam erklärt und damit nicht in den Vertrag einbezogen werden, 
+mit denen angesichts des gesamten Erscheinungsbildes des Vertrages nicht gerechnet werden muss.  Mit § 305 c Abs. 2 gehen Zweifel bei der Auslegung Allgemeiner Ge-
+schäftsbedingungen gehen zu Lasten des Verwenders .
+13 
+Bestimmungen in Allgemeinen Geschäftsbedingungen, die nach den Umständen, ins-
+besondere nach dem äußeren Erscheinungsbild des Vertrages, so ungewöhnlich sind, 
+dass der Vertragspartner mit ihnen nicht zu rechnen braucht, liegen dann vor, "wenn ihnen ein Überrumpelungs - oder Übertölpelungseffekt  innewohnt und zwischen 
+ihrem Inhalt und den Erwartungen des Kunden eine deutliche Diskrepanz besteht".
+14 
+Die Klausel muss, um  als überraschend i.S. des §  305 c angesehen zu werden, eine 
+Regelung enthalten, mit der der Vertragspartner den Umständen nach vernünftiger-
+weise nicht zu rechnen braucht. Auch der ungewöhnliche äußere Zuschnitt der Klau-
+sel, ihre Unterbringung an unerwarteter Stelle, kann die Klausel zu einer ungewöhn-lichen und damit überraschenden machen .
+15 Beispiele finden sich vielfach im 
+Arbeitsrecht16, bei Sicherungsgeschäften17 und weiteren Vertragskons tellationen .18 
+_________________________________________________ 
+13 Für Näheres, siehe § 9, IV.  
+14 OLG Düsseldorf, NJOZ 2016, 975, 978 ; MünchKomm /BASEDOW , BGB § 305c Rn. 10.; LÖHNIG /GIETL, 
+Grundfälle zum Recht der Allgemeinen Geschäftsbedingungen, JuS 2012, 494, 499 
+15 OLG Düsseldorf, NJOZ 2016, 975, 978 ; so BGH  NJW 2010, 3152 . 
+16 BeckOK /H. SCHMIDT , BGB § 305c Rn. 22 . 
+17 Ebd. Rn. 27-34 . 
+18 Ebd. Rn. 40-41b . 
+--- Seite 15 ---
+ 
+Allgemeine Geschäftsbeding ungen als Bestandteile von Verträgen 15 
+Beispiel:  B kauft bei P zu einem günstigen Preis unter wirksamer Einbeziehung der 
+Allgemeinen Geschäftsbedingungen des P eine Kaffeemaschine. Als B von P plötzlich 
+eine Lieferung Kaffee erhält, stellt er fest, dass in § 22 der Allgemeinen Geschäftsbe-
+dingungen des P , die er zuvor nicht gelesen hatte, eine monatliche Kaffeeabnahme-
+pflicht des B enthalten ist. B ist zur Abnahme des Kaffees nicht verpflichtet, da es sich bei der die Kaffeeabnahmepflicht betreffenden Klausel um eine nach dem Erschei-
+nungsbild des Vertrages  so ungewöhnliche Bedingung handelt, dass er damit nicht 
+zu rechnen brauchte. Dieser Klausel wohnt ein Überrumpelungs - und Übertölpelungs-
+effekt inne. Zwischen ihrem Inhalt und den Erwartungen des Kunden besteht eine deutliche Diskrepanz. Die Klausel enthält eine Regelung, mit der B vernünftigerweise 
+nicht zu rechnen brauchte .
+19 § 22 der Allgemeinen Geschäftsbedingungen ist deshalb 
+gemäß §  305 c Abs. 1 nicht Vertragsbestandteil geworden.  
+ 
+VII. Einschränkungen bei der Anwendung des AGB- Rechts  
+§ 310 Abs. 4 nimmt ganze Rechtsgebiete von den Vorschriften des AGB -Gesetzes 
+aus. Zu diesen Rechtsgebieten gehören: das Erbrecht, das Familienrecht und das Ge-
+sellschaftsrecht. Die Bereichsausnahme, die §  23 AGB-Gesetz früher für das gesamte 
+Arbeitsrecht kannte, ist nach §  310 A bs. 4 S. 1 auf Tarifverträge, Betriebs - und 
+Dienstvereinbarungen beschränkt.20 
+Beispiel:  Da die Vorschriften der §§  305 ff. über die Allgemeinen Geschäftsbedin-
+gungen keine Anwendung auf Gesellschaftsverträge finden, unterliegt ein Gesell-
+schaftsvertrag einer  Gesellschaft bürgerlichen Rechts , einer offenen Hande lsgesell-
+schaft  oder einer Kommanditgesellschaft keiner Inhaltskontrolle nach §§ 307 ff.. Das 
+bedeutet allerdings nicht, dass eine Inhaltskontrolle von Gesellschaftsverträgen aus-geschlossen ist. Sie find et anhand der Maßstäbe der §§  134,138, 242 statt. Daran 
+werden z.B. die sog. Abfindungsklauseln und Wettbewerbsverbote  gemessen , denen 
+die Gesellschafter für den Fall ihres Ausscheidens unterworfen werden sollen.  
+Außerdem sind gemäß §  310 Abs. 1 einige Vorschriften, die verstärkt dem Schutz des 
+Verbrauchers zu dienen bestimmt sind, unter den folgenden Voraussetzungen nicht 
+anwendbar: Wenn Allgemeine Geschäftsbedingungen unter Unternehmen oder ge-
+genüber einer juristischen Person des öffentlichen Rechts verwandt werden, finden 
+die Vorschriften der §§ 305 Abs. 2 und 3 (Einbeziehung), 308 und 309 (Klauselver-
+bote) keine Anwendung. Wohl aber kann § 307 Abs. 1 und 2 (Generalklausel für die 
+Inhaltskontrolle) angewandt werden; dabei können die in §§  308 und 309 enthalte-
+nen Wertungen durchaus einfließen. Allerdings ist auf die Gewohnheiten und Ge-bräuche des Handelsverkehrs Rücksicht zu nehmen (§ 310 Abs. 1 S. 2).  
+VIII. Die Bezugnahme beider Vertragsparteien auf die eigenen 
+Allgemeinen Geschäftsbedingungen im B2B -Bereich  
+In der Praxis können Schwierigkeiten entstehen , wenn beide Vertragschließenden Un-
+ternehmer (B2B) sind und wechselseitig jeweils auf ihre Allgemeinen Geschäftsbedin-
+gungen Bezug nehmen.  
+_________________________________________________ 
+19 OLG Düsseldorf, NJOZ 2016, 975, 978 ; vgl. BGH NJW 2010, 3152 . 
+20 Siehe dazu auch Modul 55105 Arbeitsvertragsrecht. 
+--- Seite 16 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen 16 
+Zunächst ist festzuhalten, dass für Unternehmer die § 305 Abs. 2 und 3 keine An-
+wendung finden, vgl. § 310 Abs. 1 S. 1. Die AGB beider Vertragsparteien werden damit nur nach den allgemeinen Regelungen (§§ 145 ff.) Vertragsbestandteil. AGB 
+eines Unternehmers können auch dann Vertragsbestandteil werden, wenn dieser 
+nicht ausdrücklich oder erst nach Vertragsschluss hierauf hinweist. Sollte der Hinweis unterbleiben, genügt es, sofern der Kunde wusste oder wissen musste, dass der Ver-
+wender seinen Geschäften AGB zugrunde zu legen pflegt, und er gleichwohl ihre 
+Anwendung nicht ausgeschlossen hat .
+21 
+Bei gegenseitigen AGB bestehen keine Zweifel an der Einbeziehung, sofern beide Ver-tragsparteien den jeweils anderen AGB zustimmen. Problematisch ist die Einbezie-hung mitunter, wenn beide Vertragsparteien auf ihre eigenen AGB verweisen, beide Bedingungen sich aber insgesamt oder in einzelnen Punkten widersprechen. 
+Unterschieden wird dabei zwischen weichen und harten Kollisionen. Bei weichen Kol-
+lisionen handelt es sich um eine teilweise Unvereinbarkeit von AGB, die verbleibenden 
+Regelungen finden jedoch weiterhin problemlos Anwendung. Dies können z.B. Rege-
+lungen zu Zahlungsbedingungen, Lieferfristen, Haftung oder Gerichtsstand sein. Bei 
+harten Kollisionen sind die AGB so gegensätzlich, dass sie sich vollständig oder in 
+mehreren Punkten ausschließe n. Dies kann im Einzelfall zur Unwirksamkeit des ge-
+samten Vertrags führen.  
+Häufig werden im Geschäftsverkehr deshalb sog. Geltungs - und Ausschließlich-
+keitsklauseln verwendet, z.B.: „ Unsere Leistungen und Lieferungen erfolgen aus-
+schließlich auf der Grundlage der nachfolgenden Geschäftsbedingungen. “
+22  
+Zudem wird weiterhin eine sog. Abwehrklausel  verwendet, z.B: „ Geschäftsbedin-
+gungen des Kunden finden keine Anwendung, auch wenn wir ihrer Geltung nicht gesondert widersprechen. Abweichende oder widersprechende Bedingungen gelten also nur, wenn sie von uns schriftlich anerkannt worden sind. “
+23 Oder z.B.: "Die Ein-
+kaufsbedingungen des Käufers (= des anderen Vertragschließenden) haben keine Gültigkeit. Durch die Bestellung von Ware wird ausdrücklich anerkannt, dass die Lie-ferungs - und Zahlungsbedingungen des Verkäufers (= Verwenders) Geltung haben 
+und die Einkaufsbedingungen des Käufers gegenstandslos geworden sind".
+24 
+ 
+_________________________________________________ 
+21 BGH NJW 1995, 2224 ; BGH NJW -RR 1996, 1313; MünchKomm /FORNASIER , BGB § 305 Rn. 105 . 
+22 SCHULZE /GRZIWOTZ /LAUDA, BGB: Kommentiertes Vertrags - und Prozessformularbuch, BGB § 305 Rn. 14 . 
+23 ebenda.  
+24 Nach OLG Köln BB 1980, 1 237 ff . 
+--- Seite 17 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen 17 
+Beispiel:  Fabrikant in F bestellt unter Hinweis auf ihre  Allgemeinen Geschäftsbedin-
+gungen, die auf der Rückseite des Bestellschreibens deutlich abgedruckt sind, bei der 
+W-AG Feinbleche. Diese erklärt sich schriftlich bereit, die bestellten Feinbleche zu lie-
+fern, verweist aber in ihrem Antwortschreiben  auf ihre als Anlage enthaltenen eige-
+nen Allgemeinen Geschäftsbedingungen , die eine Geltungs -. Ausschließlichkeits - und 
+Abwehrklausel enthalten . 
+ 
+In früheren Rechtsprechungen vertrat der BGH die sog. „Theorie des letzten Wor-
+tes“.25 Danach hätte die W -AG gem. § 150 Abs. 2 das Angebot inkl. AGB der F ab-
+gelehnt und ein neues Angebot mit den eigenen AGB unterbreitet. Der Vertrag wäre 
+dann mit den zuletzt genannten Vertragsbedingungen zustande gekommen, sofern 
+entweder die W -AG diesen zugestimmt hätte, oder aber die vertraglich geschuldete 
+Leistung widerspruchslos - und vorbehaltslos entgegengenommen bzw. erbracht 
+hätte (konkludentes Verhalten). Hätte die F ebenfalls eine Abwehrklausel bei ihrem Angebot verwendet, könnte sogar die Annahme durch konkludentes Verhalten aus-
+geschlossen werden Die Folge ist ein unliebsames Ping- Pong- Spiel um die Geltung der 
+jeweiligen eigenen AGB. 
+Seit den 1970er Jahren sieht der BGH nunmehr bei kollidierenden AGB eine Teildis-
+sens. In diesem Fall scheitert aber nur die Einbeziehung der kollidierenden Klauseln 
+der AGB, während der Vertrag im Übrigen, also auch mit den übereinstimmenden  
+Klauseln , Bestand hat (§ 306 Abs. 1 ). Die kollidieren den Bedingungen, die „wegfal-
+len“, werden sodann durch das Gesetzesrecht ersetzt (§  306 Abs. 2).
+26 Die Anwen-
+dung des § 150 Abs.  2 bei kollidierenden Klauseln wird auf diejenigen Fäl le be-
+schränkt, in denen es entweder an einer Abwehrklausel auf Seiten des Bestellers fehlt oder der Lieferant in der Auftragsbestätigung eindeutig zum Ausdruck gebracht hat, dass er nur zu seinen Bedingungen zum Vertragsschluss bereit ist .
+27   
+Die Literatur28 hat für diese Problematik das sogenannte Kongruenzmodell entwickelt: 
+Hiernach wird die Auslegungsregel des § 154 I umgekehrt. N ach d iesem M odell sollen 
+die beiderseitigen AGB -Vertragsbestandteil werden, soweit sie nicht einander inhalt-
+lich widersprechen.  Teilweise wird dabei noch zwischen der Auftragsbestätigung und 
+dem kaufmännischen Bestätigungsschreiben unterschieden.29 Dieser Lösungsweg 
+führt zum selben Ergebnis wie der des BGH.  
+ 
+_________________________________________________ 
+25 BGH NJW 1973, 2106 ; 1963, 1248 , SCHMIDT , NJW 2011, 3329. 
+26 BGH, NJW 1982, 1749; OLG Düsseldorf, NJW -RR 1997, 946  (dazu KÖSTER , JuS 2000, 22 ). 
+27 HABERSACK  in: Ulmer/Brandner/Hensen AGB-Recht, § 305 Einbeziehung Allgemeiner Geschäftsbedin-
+gungen in den Vertrag, Rn. 186  
+28 BeckOK/ BECKER , BGB § 305 Rn. 83 ; GRÜNEBERG /ELLENBERGER  § 305 Rn. 55; MünchKomm /FORNASIER , BGB 
+§ 305 Rn. 117. 
+29 SCHMIDT , NJW 2011, 3329 ; BeckOK/ BECKER , BGB § 305 Rn. 82; MünchKomm /FORNASIER , BGB § 305 Rn. 
+113 ff . 
+--- Seite 18 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen 18 
+Beispiel:  Die V -AG mit Sitz in Hagen verkauft an die K -GmbH in Münster m ehrere 
+Hochleistungsrechner zum Gesamtp reis von €  435.000, --. Nach den einander wider-
+sprechenden Allgemeinen Geschäftsbedingungen beider Vertragspartner soll als Ge-
+richtsstand für die V- AG Hagen und für die K- GmbH Münster als vereinbart gelten. 
+Die V -AG klagt den Kaufpreis beim LG Hagen ein. Die K -GmbH vertritt die Ansicht, 
+dass das LG Münster zuständig sei. Wie ist zu entscheiden, wenn es in beiden Allge-meinen Geschäftsbedingungen heißt: "Widersprechen sich die Lieferungs - und Zah-
+lungsbedingungen der Vertragspartner, so gelten nur die vorliegenden Bedingun-
+gen."  
+Da sich die Allgemeinen Geschäftsbedingungen hinsichtlich der zulässigen Gerichts-standsvereinbarungen widersprechen, sind die kollidierenden Teile der Allgemeinen Geschäftsbedingungen durch die dispositiven gesetzlichen Bestimmungen zu erset-
+zen. An die Stelle der einander widersprechenden Gerichtsstandsvereinbarungen tritt 
+die in der ZPO getroffene Zuständigkeitsregelung. Der Kaufpreis ist daher entweder 
+vor dem Gericht einzuklagen, in dessen Zuständigkeitsbereich der Sitz der K -GmbH 
+liegt, §  17 ZPO, oder am Gericht des Ortes, an dem die streitige Kaufpreisschuld zu 
+erfüllen ist, §  29 ZPO i.V.m. §§  269, 270  BGB. Dies ist in beiden Fällen Münster, so 
+dass die Klage auf Zahlung des Kaufpreises vor dem LG  Münster erhoben werden 
+muss.  
+  
+Wichtige Entscheidungen:  
+BGH VII ZR 388/00 - NJW 2002, 138
+ 
+BGH VII ZR 58/14 - NZBau 2016, 213   
+BGH VIII ZR 84/87- NJW 1988, 2465  
+BGH X ZR 42/99 – NJW-RR 2001, 484  
+--- Seite 19 ---
+ 
+Allgemeine Geschäftsbedingungen als Bestandteile von Verträgen  19 
+IX. Prüfungsschema für die gutachterliche AGB- Kontrolle  
+ •§310 IV 1 Nicht bei: Verträgen des Erb-, Familien -und 
+Gesellschaftsrechts, Tarifverträgen, Betriebs -und Dienstvereinbarungen.
+•§310 I: Keine Anwendung der §§ 305 Abs. 2 und 3, 308, 309 bei 
+Verträgen die ggü . einem Unternehmer ( §14), einer juristischen Person 
+des öffentlichen Rechts […]Anwendbarkeit der 
+§§305 ff. 
+•Definition des §305 Abs. 1: AGB sind alle für eine Vielzahl von Verträgen 
+vorformulierten Vertragsbedingungen, die der Verwender der anderen 
+Vertragspartei bei Abschluss eines Vertrages stellt.
+•Vorformuliert sind Vertragsbedingungen, wenn sie schon vor 
+Vertragsschluss vorgelegen haben.
+•Vielzahl von Verträgen: Verwendungsabsicht mindestens 3x
+•Vom Verwender gestellt : Einseitiges Einbringen in den Vertrag durch 
+den Verwender. Vertragspartner hat keine Einfluss -Möglichkeit. 
+Besonderheit bei Verbraucherverträgen: §310 III Nr. 1 -> AGB gelten als 
+vom Unternehmer gestellt.
+•Nichtvorliegen einer Individualvereinbarung (§305 I 3): Einzeln 
+ausgehandelte Klauseln stellen keine AGB dar.Vorliegen von AGB 
+§305 I 
+•Einbeziehung (nicht zu prüfen in Fällen des § 310 I, IV 2)
+•§305 II Nr. 1: Ausdrücklicher Hinweis bei Vertragsschluss erforderlich.
+•§305 II Nr. 2: Zumutbare Möglichkeit der Kenntnisnahme (z.B. 
+Auslage, Aushändigung, Speicherbarkeit etc.)
+•§305 II: Einverständnis des Vertragspartners
+•Keine überraschende Klausel §305c I
+•Bei Geschäften zw. Unternehmern beachte §310 I: Die Einbeziehung 
+findet hier nach §§145 ff. durch Angebot und Annahme statt.Ordnungsgemäße 
+Einbeziehung
+•zunächst: Ermittlung des Inhalts der Klausel im Wege der Auslegung
+•Vorprüfung:
+•§307 III Abweichung von Rechtsvorschriften
+•bei Arbeitsverträgen gem. § 310 IV 2 nur eingeschränkt
+•§310 I, II Einschränkung des Prüfungsprogramms
+•danach „von hinten nach vorne“
+•§309 Klauselverbote ohne Wertungsmöglichkeit
+•§308 K lauselverbote mitWertungsmöglichkeit
+•§307 I i.V. II Generalklausel
+•Verstoß gegen das Transparenzgebot ( §307 I 2)
+•Unvereinbarkeit mit dem Grundgedanken des Gesetzes ( §307 II Nr. 1)
+•Gefährdung des Vertragszwecks ( §307 II Nr. 2)Inhaltskontrolle
+•Grundsatz:
+•§306 I: Grundsatz -Der übrige Vertrag bleibt wirksam!
+•§306 II: ggf. Lückenausfüllung durch dispositives Recht . 
+•Sofern eine Klausel teilbar ist, bleibt der abtrennbare Teil wirksam, sofern 
+er nicht selbst gegen die §§ 305 ff. verstößt. 
+•Ausnahme §306 III : ausnahmsweise Gesamtnichtigkeit, wenn das 
+Festhalten am Vertrag für eine Partei eine unzumutbare Härte darstellen 
+würde.
+•Beachte: Keine geltungserhaltende ReduktionRechtsfolgen
+--- Seite 20 ---
+ 
+Grundzüge des Vertragsschlusses im Internet  20 
+§ 8  Grundzüge des Vertragsschlusses im Internet  
+Schrifttum:  
+DUDEN, Verbraucherschutz und Vertragsschluss im Internet der Dinge, ZRP 2020, 102 
+ff.; FÖHLISCH /STARIRADEFF , Zahlungsmittel und Vertragsschluss im Internet, NJW 2016, 
+353 ff .; ; Mantz, Die Entwicklung des Internetrechts, NJW 2022, 2449 ff .; OECHSLER , 
+Der vorzeitige Abbruch einer Internetauktion und die Ersteigerung unterhalb des 
+Marktwerts der Sache, NJW 2015, 665 ff .; RÜFNER , Verbindlicher Vertragsschluss bei 
+Versteigerungen im Internet, JZ 2000, 715 ff.; TAUPITZ/KRITTER , Electronic Commerce 
+– Probleme bei Rechtsgeschäften im Internet, JuS 1999, 839 ff.; ULRICI, Die enttäu-
+schende Internetauktion – LG Münster, MMR 2000, 280, JuS 2000, 947 ff. 
+1. Überblick  
+Die allgemeinen Grundregeln für den wirksamen Abschluss eines zivilrechtlichen Ver-
+trages gelten für alle zivilrechtlichen Verträge, also auch für solche Verträge, die unter Nutzung des technischen Mediums Internet abgeschlossen wer den.
+30 Das bedeutet, 
+Verträge kommen auch dann, wenn sie unter Nutzung des Internets abgeschlossen werden, durch die Abgabe zweier übereinstimmender Willenserklärungen zustande. Die den Vertrag schließenden Parteien geben ihre Willenserklärungen dadurch ab,  
+dass sie diese in der dafür vorgesehenen Art und Weise eingeben und an den jeweils anderen absenden. Der von manchen verwandte Ausdruck "elektronische Willenser-klärung" ist überflüssig.  
+Für die Abgabe von Willenserklärungen im Internet ergeben sich gegenüber den per E-Mail übertragenen Erklärungen keine Besonderheiten. Die Kommunikation findet 
+nicht unmittelbar zwischen den Vertragsparteien statt, so dass die Willenserklärungen  
+in Online -Shops in der Regel als solche  unter Abwesenden anzusehen sind. Das ha t 
+zur Folge, dass §  130 Anwendung findet. Die Erklärungen werden also erst dann 
+wirksam, wenn sie zugegangen sind, der Empfänger also die Möglichkeit der Kennt-nisnahme hat. Ob man bei einem auf diese Art und Weise zustande gekommenen Vertrag von einem elektronischen Vertrag sprechen sollte, wie das in der Literatur 
+häufig geschieht, ist Geschmackssache. Jedenfalls stellen elektronisch geschlossene 
+Verträge keinen eigenständigen Typ dar, der einer Sonderregelung unterliegt .
+31  
+Das BGB kennt allerdings nun den Begriff des Vertrages im elektronischen Ge-
+schäftsverkehr . Das sind nach §  312i Abs. 1 S. 1  solche Verträge, die ein Unterneh-
+mer mit Kunden über die Lieferung von Waren oder die Erbringung von Dienstleis-
+tungen abschließt und sich dabei der „Telemedien " (in  der Regel des Internets ) 
+bedient.  Die Vorschriften der §§ 312 ff. wurden im Zuge der Umsetzung der EU -Ver-
+braucherrechterichtlinie RL 2011/83/EU (durch das Gesetz zur Umsetzung der Ver-braucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Woh-
+nungsvermittlung v. 20.09.2013, BGBl.  I, 3642) mit Wirkung zum 13.06.2014 
+umfassend novelliert, um ein einheitliches hohes Verbraucherschutzniveau auf dem europäischen Binnenmarkt zu schaffen.  
+Aus der Besonderheit dieses Mediums ergeben sich beim Vertr agsschluss einige Prob-
+leme. So ist z.B. die Frage zu stellen, ob die Vertragspartner den notwendigen Schutz 
+_________________________________________________ 
+30 OLG Hamm, ZIP 2001, 291 ; LG Münster, JZ 2000, 730. 
+31 Vgl. NOWAK , MDR 2001, 841, 843.  
+--- Seite 21 ---
+ 
+Grundzüge des Vertragsschlusses im Internet  21 
+genießen, wenn sie im Internet einen Vertrag schließen, den sie sonst nur persönlich 
+abgeschlossen hätten. Einig ist man sich darüber, dass insbesondere Verbraucher (§ 13) einen Schutz vor allzu aggressiven Verkaufsmethoden und vor skrupellosen An-
+bietern, die die Anonymität des Internets für unlautere Praktiken nutzen, benötigen.
+32  
+Schutz vor unlauteren Praktiken gewährt der Gesetzgeber nicht nur den Verbrau-
+chern, sondern allen Nutzern des Internets, also auch Unternehmern (§  14). Allerdings 
+ist der Schutz unterschiedlich ausgeprägt:  
+• Die Vorschriften über den Vertrag im elektronischen Geschäftsverkehr  
+(§§ 312i) finden auf alle Verträge Anwendung, die zwischen einem Unterneh-
+mer und Kunden, also auch mit anderen Unternehmern, abgeschlossen wer-
+den. Dabei geht es vor allem um Pflichten (vorwiegend Informationspflichten), 
+die dem so agierenden Unternehmer auferlegt werden.  § 312j BGB regelt den 
+Vertrag im elektronischen Geschäftsverkehr zwischen einem Unternehmer und Verbraucher.  
+• Die Vorschriften über den Fernabsatzvertrag  (§§ 312c ff.) sind allerdings 
+Verbraucherschutzregeln, die nur Anwendung finden auf Verträge zwischen Unternehmern und Verbrauchern (Verbraucherverträge), die ausschließlich unter Verwendung von Fernkommunikationsmitteln abgeschlossen werden. 
+Hier stehen Informationspflichten des Unternehmers und das dem Verbrau-
+cher gewährte Widerrufsrecht (§§  312d ff., 312g , 355) im Vordergrund.  
+2. Der Vertragsschluss 
+Bei der Präsentation von Warenkatalogen o.ä. im Internet ist festzustellen, ob ein bin-dendes Angebot des Verkäufers oder eine invitatio ad offerendum vorliegt. Die Ab-
+grenzung ist hier nach den allgemeinen Grundsätzen vorzunehmen, d.h. es ist zu fra-
+gen, ob der Verkäufer sich mit seiner Online -Warenpräsentation bereits erkennbar 
+rechtlich binden will.
+33 In der Regel ist von einer invitatio ad offerendum auszugehen, 
+da der Verkäufer sonst - wie beim Versand von Prospekten oder Katalogen - möglich-
+erweise mehr Verträge schließen würde als er tatsächlich erfüllen könnte.  
+Somit kommt der Vertrag durch die Bestellung des Kunden (Angebot) und der Auf-tragsbestätigung, - die jedoch einen Annahmewillen des Anbieters zu erkennen ge-
+ben muss -, spätestens aber mi t der Lieferung der richtigen Ware  (Annahme) zustande. 
+Die Bestellung erfolgt in der Regel online oder durch Absenden einer E -Mail auf einem 
+vorbereiteten Bestellformular . Die Bestellbestätigung stellt eine Annahme dar, wenn 
+durch Formulierungen wie „Viele n Dank für Ihren Auftrag. Wir werden Ihre Bestellung 
+umgehend bearbeiten“ auf einen Annahmewillen schließen lässt
+34, während eine An-
+kündigung, den Auftrag bald auszuführen noch keine Vertragsannahme darstelle.35 
+Beispiel: Der Bücherversand A verwendet für die Bestellung von Waren über das In-
+ternet ein Online -Formular. Der Kunde B möchte bei A drei Bücher erwerben. Er gibt 
+bei seiner Bestellung im Online -Formular die Lieferungsadresse und seine E -Mail-Ad-
+resse an. Nachdem B das Online -Formular an A abgesendet hat, schickt A umgehend 
+per E -Mail eine Bestätigung der Bestellung.  
+_________________________________________________ 
+32 Vgl. NOWAK , MDR 2001, 841, 843.  
+33 vgl. oben § 2 II. 5  und TAUPITZ /KRITTER , JuS 1999, 839, 844. 
+34 BGH NJW 2005, 976; OLG Düsseldorf MMR 2016, 593  
+35 KÖHLER , NJW 1998, 185, 187 . 
+--- Seite 22 ---
+ 
+Grundzüge des Vertragsschlusses im Internet  22 
+3. Die Pflichten des Unternehmers im elektronischen Geschäftsver-
+kehr (§§  312i, 312j ) 
+Für den Abschluss eines Vertrages im elektronischen Geschäftsverkehr im Sinne des 
+§§ 312i Abs. 1 S. 1  erlegt das BGB dem Unternehmer eine Reihe von Pflichten auf. 
+Dazu gehören vor allem vorvertragliche und nachvertragliche Informationspflichten.  
+Pflichten des Unternehmers sind u.a.:  
+• Er muss angemessene, wirksame und zugängliche technische Mittel zur Ver-fügung stellen, mit deren Hilfe der Kunde Eingabefehler vor Abgabe seiner 
+Bestellung erkennen und berichtigen kann.  (§ 312i Abs.  1 S. 1 Nr.  1) 
+• Er muss den Zugang der Bestellung des Kunden unverzüglich, d.h. ohne 
+schuldhaftes Zögern, auf elektronischem Wege bestät igen.  (§ 312i Abs.  1 S. 1 
+Nr. 3) Diese bloße Zugangsbestätigung, welche den Inhalt der Bestellung klar-
+stellt, stellt - sofern darin kein Annahmewille erkennbar ist -, noch keine An-
+nahme dar ! 
+• Außerdem muss der Unternehmer dem Kunden die Möglichkeit verschaffen, 
+die Vertragsbestimmungen einschließlich der Allgemeinen Geschäftsbedin-gungen bei Vertragsschluss abzurufen und in wiedergabefähiger Form zu speichern.  (§ 312i Abs.  1 S. 1 Nr.  4) 
+• Der Unternehmer hat  dem Verbraucher bei einem entgeltlichen Verbr aucher-
+vertrag im elektronischen Geschäftsverkehr zudem die Bestellsituation so zu gestalten, dass der Verbraucher mit seiner Bestellung ausdrücklich bestätigt, dass er sich zu einer Zahlung verpflichtet. Erfolgt diese Bestätigung über eine 
+Schaltfläche, so  muss diese gut lesbar und mit nichts anderem als den Wörtern 
+„zahlungspflichtig bestellen“ oder mit einer entsprechend eindeutigen For-
+mulierung beschriftet sein, sog. Button- Lösung. § 312j Abs.  3.  
+Diese Pflichten können nicht zu Lasten des Verbrauchers oder des Kunden verkürzt 
+werden. Allerdings können Vertragsparteien, die nicht Verbraucher sind, also z.B. Un-ternehmer untereinander davon abweichende Vereinbarungen treffen.  
+Pflichten,  die dem Unternehmer aus § 312i und § 312j erwachsen, sind solche, die 
+der Unternehmer im vorvertraglichen Bereich, d.h. vor Abschluss des Vertrages wahr-
+zunehmen hat (§  311 Abs. 2 i.V.m. § 241 Abs. 2). Wie §  311 Abs. 2 klarstellt, beginnt 
+ein Schuldverhältnis mit daraus erwachsenden Schutz -, Fürsorge - und anderen Pflich-
+ten (§ 241 Abs. 2) nicht erst mit dem Vertragsschluss, sondern schon vorher, nämlich 
+mit der Aufnahme von Vertragsverhandlungen oder mit einer sonstigen Anbahnung eines Vertrages.  
+Verletzt ein Unt ernehmer seine ihm durch § 312i – 312 l auferlegten Pflichten, kan n 
+darin eine Pflichtverletzung im Sinne des § 280 liegen, die, wenn der Unternehmer 
+die Pflichtverletzung zu vertreten hat und dem Kunden ein Schaden entstanden ist, eine Schadensersatzpflicht entstehen lässt.  Grundsätzlich kommt der Vertrag aber 
+trotz der  Pflichtverletzung zustande. Eine wichtige Ausnahme macht §  312j Abs. 4 
+für die Gestaltung der "Bestellsituation" des § 312j Abs. 3.  
+Beispiel:  K ist Computerhändler. Er bestellt beim Computerfachhandel V online 100 
+Computerspiele Marke WWW zum Preis von € 35,--/Stück, welche derzeit von seinen 
+Kunden stark nachgefragt werden. Das elektronische Bestellsystem des V gibt aber 
+dem Kunden nicht die Möglichkeit, Eingabefehler zu erkennen. Daher erkennt K 
+nicht, dass er versehentlich eine Bestellung für 100 ander e, weit weniger beliebte 
+--- Seite 23 ---
+ 
+Grundzüge des Vertragsschlusses im Internet  23 
+Computerspiele Marke XYZ abgegeben hat. Wenige Tage später erfolgt die Lieferung 
+der Computerspiele XYZ, welche K sofort zurückschickt und seine Bestellung wieder-
+holt. In der Zwischenzeit waren nachweislich 20 Kunden bei K gewesen,  welche das 
+Computerspiel Marke WWW zum üblichen Preis von € 70, -- kaufen wollten.  
+K verlangt nun von V Schadensersatz in Höhe von € 700,--.  
+Hier hat V seine Pflicht aus §  312 i Abs. 1 S. 1 Nr. 1 verletzt, dem Kunden angemes-
+sene, wirksame und zugängliche  technische Mittel zur Verfügung zu stellen, mit de-
+ren Hilfe der Kunde Eingabefehler erkennen und berichtigen kann. Somit hat K einen 
+Anspruch gegen V auf Schadensersatz in Höhe von € 700,-- aus §§  312 i Abs. 1 S. 1 
+Nr. 1, 280 Abs. 1, 311 Abs. 2, 241 Abs. 2.  
+ 
+Das pflichtwidrige Verhalten des Unternehmers kann auch dazu führen, dass der 
+Kunde seine Willenserklärung, die zum Vertragsschluss geführt hat, gemäß §§  119 ff. 
+anfechten kann.  
+4. Der Fernabsatzvertrag  
+Schließen ein Unternehmer (§  14) oder in seinem Nam en oder Auftrag handelnde 
+Person und ein Verbraucher (§  13) einen Vertrag über die Lieferung von Waren oder 
+über die Erbringung von Dienstleistungen unter ausschließlicher Verwendung von Fernkommunikationsmitteln  ab, so handelt es sich um einen Fernabsatzvertrag  
+(§ 312 c Abs. 1). Für diesen stellen die §§ 312 c ff. einige besondere Regeln auf.  
+Fernkommunikationsmittel sind nach der Definition des § 312c  Abs. 2 nicht nur das 
+Internet, sondern alle Kommunikationsmittel, die "zur Anbahnung oder zum Ab-schluss e ines Vertrages eingesetzt werden können, ohne dass die Vertragsparteien 
+gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge, Telefonanrufe, Teleko-
+pien, E -Mails, über den Mobilfunkdienst versende Nachrichten (SMS) sowie Rundfunk 
+und Telemedien ". 
+Darunter fällt also der gesamte Versandhandel.  
+Beispiel:  Rentner R bestellt auf eine Anzeige in einer Tageszeitung mit einem Brief 
+bei U einige Münzen für seine Sammlung. Da R in seinem Schreiben seine E -Mail-
+Adresse angegeben hatte, bestätigt U dem R mit einer E -Mail dessen Bestellung. Der 
+Kaufpreis beträgt € 1.200. Es handelt sich also um einen Fernabsatzvertrag im Sinne des §  312c . 
+Das BGB lässt dem Verbraucher bei Fernabsatzverträgen einen besonderen Schutz 
+angedeihen. Das geschieht zum einen durch verschärfte Informationspflichten  
+des Unternehmers dem Verbraucher gegenüber (§ 312d ). Die Verletzung solcher 
+Pflichten kann eine Pflichtverletzung im Sinne des §  280 Abs. 1  darstellen, die bei 
+Vorliegen entsprechender Voraussetzungen Schadensersatzpflichten auslösen kann. Zudem wird dem Verbraucher ein Widerrufs-  und Rückgaberecht , das in den 
+§§ 312g, 355 ff. näher ausgestaltet ist , eingeräumt . Dieses Widerrufsrecht darf fre i-
+lich nicht mit dem Widerruf gemäß § 130 Abs. 1 S. 2 verwechselt werden (vgl. oben 
+KE 2, §  3 V.). Einschränkungen des Widerrufsrechts ergeben sich insbesondere aus 
+§ 312g  Abs. 2. 
+--- Seite 24 ---
+ 
+Grundzüge des Vertragsschlusses im Internet  24 
+Beispiel: Angenommen, in dem oben dargestellten Beispiel hätte U dem R die be-
+stellten Münzen zugesandt. Nach 14 Tagen entschließt sich R zu einer Italienreise, die 
+er allerdings nur für finanzierbar hält, wenn er die Münzen nicht erwirbt und die 
+dadurch ersparten € 1.200, -- als Reisekosten einsetzt. R hat den Kaufpreis noch nicht 
+gezahlt. Es handelt sich um einen Fernabsatzvertrag. Nach § 312g hat R ein Wider-
+rufs- und Rückgaberecht. Widerruft R nun seine Willenserklärung, so hat das zur 
+Folge, dass er an diese Erklärung nicht mehr gebunden ist (§  355 Abs. 1). Der Vertrag 
+ist damit beendet. R muss den Kaufpreis nicht zahlen. Allerdings hat R dem Z die 
+Münzen gemäß §  357 Abs. 1 innerhalb von 14 Tagen ab der Widerrufserklärung zu-
+rück zu gewähren.  
+ 
+5. Die Einbeziehung von Allgemeinen Geschäftsbedingungen im 
+Internetgeschäft  
+Bei der Verwendung von Allgemeinen Geschäftsbedingungen beim Internetgeschäft stellt sich die Frage, unter welchen Voraussetzungen diese gemäß §  305 Abs. 2 wirk-
+samer Vertragsbestandteil werden .
+36 
+Das setzt zunächst gemäß §  305 Abs. 2 voraus, dass ausdrücklich auf die Allgemeinen 
+Geschäftsbedingungen hingewiesen wird. Dafür reicht ein deutlicher Hinweis auf ei-nen Link zu den Allgemeinen Geschäftsbedingungen auf der Bestellseite aus. Für die 
+Möglichkeit der Kenntnisnahme gemäß § 305 Abs. 2 genügt es, dass dem Kunden 
+durch einen Link der direkte Zugriff auf die Allgemeinen Geschäftsbedingungen er-
+möglicht wird und er diese abspeichern und ausdrucken kann .
+37 Für den Vertrag im 
+elektronischen Geschäftsverkehr gemäß §  312i bestimmt dessen Abs. 1 S. 1 Nr. 4, 
+dass der Kunde die Möglichkeit haben muss, die Allgemeinen Geschäftsbedingungen bei Vertragsschluss abzurufen und in wiedergabefähiger Form zu speichern.  
+Das gemäß §  305 Abs. 2 erforderliche Einverständnis  gibt der Kunde per Mausklick 
+ab. Entweder klickt er gesondert ein e “Checkbox “ zur Einbeziehung der Allgemeinen 
+Geschäftsbedingungen an oder er gibt direkt ein Vertragsangebot ab, das eine Ein-
+beziehung der Allgemeinen Geschäftsbedingungen beinhaltet. Die Web -Seiten eini-
+ger Anbieter sind technisch so eingerichtet, dass der Kunde erst den Allgemeinen 
+Geschäftsbedingungen zustimmen muss, bevor der Kunde die Bestellung abschicken 
+kann . Damit stellt der Verkäufer sicher, dass der Kunde sein ausdrückliches Einver-
+ständnis erklärt und es nicht im Nachhinein zu Beweisschwierigkeit en kommt.   
+6. Die Ersteigerung von Waren bei Internet -Auktionen  
+Einige Auktionshäuser im Internet bieten Privatpersonen und Gewerbetreibenden ei-
+nen Marktplatz  zur Versteigerung von Waren aller Art.  
+Fraglich ist , auf welche Art und Weise ein Kaufvertrag über die zu ersteigernde Ware 
+zwischen Versteigerer und Höchstbieter zustande kommt. Einigkeit besteht darüber, 
+dass Versteigerungen im Internet nicht nach § 156 zu beurteilen sind. Dies würde 
+nämlich bedeuten, dass typischerweise der "Ersteigerer" (also der Käufer) ein Ange-bot macht, das vom "Auktionator" (der Verkaufsplattform) angenommen wird. Dies entspricht nicht der Interessenlage bei Online -Auktionen.  
+_________________________________________________ 
+36 Vgl. TAUPITZ / KRITTER , JuS 1999, 839, 844. 
+37 BGH NJW 2006, 2976, 2977 ff .; TAUPITZ /KRITTER , JuS 1999, 839, 844. 
+--- Seite 25 ---
+ 
+Grundzüge des  Vertragsschlusses im Internet  25 
+Letztlich kommt es darauf an, wie die Freischaltung der Auktionsseite durch den Ver-
+äußerer rechtlich zu beurteilen ist. Dies ist in einem Rechtsstreit vom Bundesgerichts-
+hof entschieden worden .38 
+Für die Annahme einer bloßen invitatio ad offerendum hatte sich das Gericht der 1. Instanz mit der Begründung entschieden, dass der Versteigerer seine Ware zu-
+nächst nur einem breiten Interessentenkreis präsentieren will und dementsprechend noch keinen Rechtsbindungswillen besitzt .
+39  
+Dagegen ist der Bundesgerichtshof der Auffassung, dass die Freischaltung der Ange-botsseite alle Voraussetzungen eines bindenden Angebots e rfüllt.
+40 Neben der be-
+stimmten Angabe des Kaufgegenstandes sind sowohl der Vertragspartner, nämlich 
+der Höchstbietende, und der Kaufpreis, nämlich das Höchstgebot, hinreichend be-
+stimmbar .41 Was den Rechtsbindungswillen angeht, so sprechen die von den Aukti-
+onshäusern generell verwendeten Allgemeinen Geschäftsbedingungen für einen ent-
+sprechenden Rechtsbindungswillen (Rechtsfolgewillen), so dass ein wirksames 
+Angebot des Versteigerers bei entsprechender Formulierung der Allgemeinen Ge-schäftsbedingungen  des Markt platzbetrei bers bejaht werden kann.  
+Beispiel  (§ 7 Nr. 2 der deutschen ebay AGB) : “Stellt ein Verkäufer mittels der eBay -
+Dienste einen Artikel im Auktions - oder Festpreisformat ein, so gibt er ein verbindli-
+ches Angebot zum Abschluss eines Vertrags über diesen Artikel ab.“  
+ 
+Diese Allgemeinen Geschäftsbedingungen werden jedoch bei Erstellung eines Nut-
+zerkontos nur zwischen dem Marktplatzbetreiber und dem jeweiligen Mitglied ver-einbar t. Die Klauseln können also auf einen etwaigen Vertragsschluss unter zwei Mit-
+gliedern wegen des Grundsatzes der Relativität der Schuldverhältnisse keine direkte Anwendung finden.  
+Zu der Frage, ob und wie die AGB Wirkung für den Vertragsschluss entfalten, beste-hen heute im Wesentlichen zwei Ansichten, da die Auffassung, der Vertr ag des Mit-
+glieds mit dem Marktplatzbetreiber stelle einen Vertrag zugunsten Dritter (§ 328) dar, 
+so gut wie nicht mehr vertreten wird. Dies liegt daran, dass die AGB in der Regel auch 
+für das einzelne Mitglied nachteilige Klauseln beinhalten. Ein Vertrag z u Lasten D ritter 
+ist jedoc h mit der Privatautonomie unvereinbar und stets unzulässig. Dieses Problem 
+stellt sich bei der sogenannten „Rahmenvertragslösung“ nicht. Hiernach schließen alle Mitglieder bei der Anmeldung zum Marktplatz einen Rahmenvertrag über die Modalitäten, nach denen sich künftige Vertragsschlüsse mit den anderen Mitgliedern 
+richten sollen.  Der Marktplatzbetreiber wird als Empfangsvertreter für beide Seiten 
+tätig. Auch diese Lösung führt allerdings zu konstruktiven Schwierigkeiten. Soweit 
+sich die Verpflichtung zum Abschluss des Rahmenvertrages aus den AGB selbst ergibt, 
+könnte es sich um eine überraschende Klausel nach § 305c handeln. Für einen kon-
+kludenten Vertragsschluss des Rahmenvertrages müsste der Erklärende das Bewusst-sein haben, dass  eine solche Erklärung möglicherweise erforderlich ist .
+42 Das dürfte 
+regelmäßig nicht der Fall sein.  
+_________________________________________________ 
+38 BGH NJW 2002, 363. 
+39 Vgl. LG Münster, JZ 2000, 730, 731. 
+40 BGH NJW 2002, 363, 364; in der Vorinstanz OLG Hamm, ZIP 2001, 291, 293. 
+41 BGH NJW 2002, 363,  364; OLG H amm, ZIP 2001, 291, 293. 
+42 GRÜNEBERG /ELLENBERGER , § 133, Rn. 11.  
+--- Seite 26 ---
+ 
+Grundzüge des Vertragsschlusses im Internet  26 
+Durchgesetzt hat sich daher die sogenannte Auslegungslösung. Die Willenserklärun-
+gen der Mi tglieder untereinander sind gemäß  §§ 133, 157 nach dem objektiven Emp-
+fängerhorizont dahingehend auszulegen, dass ein Vertragsschluss nach den Regeln, 
+wie sie in den Betreiber -AGB niedergelegt sind , gewollt ist. Da die Allgemeinen Ge-
+schäftsbedingungen (auch "Nutzungsbedingungen" genannt) des Marktplatzbetrei-
+bers zwingend von Versteigerer und Bieter anerkannt werden müssen, muss und darf 
+jeder Teilnehmer dieser Online -Auktionen aus der maßgeblichen Sicht des objektiven 
+Empfängerhorizonts davon ausgehen, dass den abgegebenen Erklärungen der in den Allgemeinen Geschäftsbedingungen beigemessene Erklärungswert zukommt .
+43 
+Das Einstellen eines Artikels in einer Online -Auktion ist somit regelmäßig ein Angebot 
+i.S. des §  145 BGB. Ein Gebot ist eine Annahme unter der aufschiebenden Bedingung 
+(§ 158 Abs. 1), bei Zeitablauf Höchstbietender  zu sein. Somit kann das Höchstgebot 
+rechtlich als Annahme des Angebots beurteilt werden, so dass zwischen den Parteien ein wirksamer Kaufvertrag über den versteigerten Gegenstand zum Höchstgebot zu-stande kommt .
+44 
+Beurteilte man abweichend davon die Frei schaltung der Auktionsseite als invitatio ad 
+offerendum beurteilen, so würde sich die Frage stellen , ob der Veräußerer die An-
+nahme bereits antizipiert, also vor Abgabe der Gebote, erklärt hat. Dies ist dann zu bejahen, wenn die Allgemeinen Geschäftsbedingungen des Online -Auktionshauses 
+den Anbieter unwiderruflich verpflichten, an den Meistbietenden zu leisten .
+45   
+ 
+ 
+ 
+  
+ 
+ 
+_________________________________________________ 
+43 BGH NJW 2002, 363, 364 ; OLG Hamm, ZIP 2001, 291, 293.  
+44 OLG Hamm, ZIP 2001, 291, 293; BGH NJW 2002, 363, 364  lässt diese Frage ausdrücklich offen.  
+45 so ULRICI, JuS 2000, 947, 949 ; RÜFNER, JZ 2000, 715, 717; a.A. LG Münster, JZ 200, 730, 731.  
+ 
+--- Seite 27 ---
+ 
+Die Auslegung  27 
+§ 9  Die Auslegung 
+Schrifttum:  BIEHL, Grundsätze der Vertragsauslegung, JuS 2010, 195; B UNTE, Ergän-
+zende Vertragsauslegung bei Unwirksamkeit von AGB–Klauseln, NJW 1984, 1145 ff.; 
+Greiner, Die Auslegung empfangsbedürftiger Willenserklärungen zwischen » Norma-
+tivität  « und subjektivem Empfängerhorizont, AcP 2017, 492 ; GROBE/SCHELLENBERG , 
+Auslegung, Umdeutung und Anfechtung von Willenserklärungen, JURA 2020, 799; 
+HONSELL , Sachmängelprobleme beim Neuwagenkauf mit Inzahlungnahme eines Ge-
+brauchtwagens, Jura 1983, 523 ff.; KÖTZ, Dispositives Recht und ergänzende Ver-
+tragsauslegung, Jus 2013, 289.; MASSARI , „Falsa demonstratio“ bei formbedürftigen 
+Verträgen , NJW 2023, 2916; MUTHORST , Auslegung – eine Einführung, JA 2013,  721.; 
+STÖHR, Der objektive Empfängerhorizont . JuS 2010, 292;  SONNENBERGER , Verkehrssit-
+ten im Schuldvertrag, 1970;  THOMA , Recht verstehen – Eine Gebrauchs anleitung (Teil 
+2), JURA 2022, 431; UFFMANN , Richtungswechsel des BGH bei der ergänzenden Ver-
+tragsauslegung, NJW 2011, 1313 ; WIELING , Die Bedeutung der Regel "falsa demonst-
+ratio non nocet" im Vertragsrecht, AcP 172 [1972], 297 ff., Jura 1979, 524 ff. 
+ 
+I. Überblick  
+Auslegung bedeutet, den Sinn zu ermitteln, der einer Erklärung zukommt. Nicht nur 
+Willenserklärungen und Verträge bedürfen der Auslegung, wenn ihr Verständnis nicht 
+eindeutig ist. Auch gesetzliche Vorschriften müssen häufig ausgelegt werden, wenn 
+ihr Sinn für die Rechtsanwendung ermittelt werden muss.  
+Für die Auslegung von Gesetzen haben Rechtswissenschaft und Rechtsprechung (ins-besondere BVerfG  und BGH) Methoden entwickelt, die sie anwenden. Dabei geht es 
+in erster Linie um Fragen der juristischen Methodenlehre.
+46 Hier geht es im Folgenden 
+ausschließlich um die Auslegung von Willenserklärungen und Verträgen.  
+Nicht ohne Grund wird in der Praxis über die Auslegung von Erklärungen und Verträ-
+gen häufig gestritten.  Das BGB enthält in den §§  133 und 157 nur zwei Vorschriften 
+über die Auslegung. Auslegungsregeln, die man als "subsidiäre" bezeichnen kann,47 
+finden sich allerdings auch an anderen Stellen des BGB, wie z.B. in § 154 Abs. 1, 
+§ 328 Abs.  2, § 364 Abs.  2 und in §§ 2066  ff. für die Auslegung von Testamenten.  
+Diese greifen „im Zweifel“, damit immer nur dann, wenn die Erklärung der Beteiligten 
+der Auslegung nicht entgegensteht bzw. keine Erklärung abgegeben wurde.  
+II. Die Auslegung von Willenserklärungen  
+1. Die §§ 133 und 157 und die Methoden der Auslegung 
+Während §  133 in erster Linie auf den "empirischen" (wirklichen) Parteiwillen abstellt, 
+verweist § 157 auf ein vernünftiges und sachgerechtes Ziel.48 meint, §  133 lege einen 
+subjektiven Maßstab zugrunde, §  157 hingegen einen objektiven.  
+_________________________________________________ 
+46 Details hierzu im Kurs 55100 Propädeutikum.  
+47 So STADLER , § 18 Rn.  5. 
+48 STAUDINGE R/SINGER § 133, Rn. 3 ff. 
+--- Seite 28 ---
+ 
+Die Auslegung  28 
+§ 133  Bei der Auslegung einer Willenserklärung  ist der wirkliche Wille zu erforschen und 
+nicht an dem buchstäblichen Sinne des Ausdrucks zu haften.  
+§ 157  Verträge  sind so auszulegen , wie Treu und Glauben mit Rücksicht auf die Verkehrs-
+sitte es erfordern.  
+ 
+Nach heute herrschender Meinung unterscheiden sich § 133 und § 157 ni cht 
+dadurch, dass  § 133 nur auf einseitige Rechtsgeschäfte und §  157 nur auf Verträge 
+anzuwenden sei.49 Wenn auch der Inhalt einer Willenserklärung in erster Linie nach 
+§ 133 zu ermitteln ist, so gilt der Grundsatz von Treu und Glauben (§ 157) für das 
+gesam te Privatrecht, ist also auch bei der Auslegung von Willenserklärungen zu be-
+rücksichtigen. Daher wendet der BGH bei der Auslegung von Willenserklärungen 
+beide Vorschriften an.50 
+Das BGB hat in den §§  133, 157  keine klare Entscheidung über Auslegungsmethoden 
+getroffen, die in der Rechtswissenschaft schon vor Inkrafttreten des BGB entwickelt 
+und diskutiert worden sind.51 FLUME52 schätzt die Bedeutung der §§  133, 157 als 
+Rechtssätze deshalb als gering ein und meint, dass, wären diese Vorschriften nicht im 
+BGB enthalten, die Auslegung in gleicher Weise vorzunehmen wäre, wie dies nun-
+mehr unter Berufung auf §§ 133, 157 geschehe.  
+Das methodische Grundproblem der rechtsgeschäftlichen Auslegung besteht darin, dass im Streitfall die Interessen des Erklärenden den Interes sen desjenigen widerspre-
+chen, an den sich die Erklärung richtet. Während der Erklärende sich in erster Linie an 
+seinen Rechtsfolgewillen gebunden fühlt, den er gebildet hatte – und der unter Um-
+ständen im Erklärungstatbestand nicht oder nicht hinreichend seinen Niederschlag 
+gefunden hat  –, hat der Erklärungsempfänger im Zweifel ein Interesse daran, sich nur 
+nach Maßgabe dessen rechtsgeschäftlich binden zu lassen, was er im Vertrauen auf den ihm zugänglichen Erklärungstatbestand als Erklärungsinhalt zur Kenntnis genom-men hat.  
+Stellte man den Schutz des Erklärenden in den Vordergrund, so würde als verbindli-cher Inhalt der Erklärung allein das angesehen, was derjenige, der eine Erklärung ab-
+gegeben hat, damit bezwecken wollte (sog. reine
+ Willenstheorie ). Möchte m an hin-
+gegen vorrangig den Erklärungsempfänger schützen, so würde die abgegebene 
+Erklärung so, wie der Empfänger sie verstanden hat, rechtsverbindlich (sog. reine  
+Empfängertheorie ). Bei der Anwendung jeder dieser beiden Theorien hätte jeweils 
+eine Seite – entweder der Erklärende oder der Empfänger  – das Risiko von Irrtümern, 
+Miss– und Unverständnissen allein zu tragen ; das wäre unbillig . Schon deswegen ist 
+keine dieser Theorien geeignet, akzeptable Lösungen zu finden.  
+Einen eher vermittelnden Weg, der die  Interessen des Erklärenden und die des Erklä-
+rungsempfängers zu berücksichtigen sucht, mag die  Erklärungstheorie beschreiten. 
+Danach soll verbindlicher Inhalt der Erklärung das sein, was ein unbefangener Dritter 
+_________________________________________________ 
+49 Vgl. STAUDINGER /ROTH, § 157 Rn.  1. mit Nachweisen ; STADLER , § 18 Rn.  5. 
+50 So BGHZ 47, 75, 78 und BGH NJ W 1984, 721 . 
+51 Vgl. für die Zeit vor Inkrafttreten des BGB W INDSCHEID  Bd. 1, §§ 20 ff. mit Nachweisen, und für die 
+neuere Zeit Flume, §  16 mit Nachweisen . 
+52 Flume, § 16, 3 a . 
+--- Seite 29 ---
+ 
+Die Auslegung  29 
+bei objektiver Betrachtungsweise unter Berücksichtigung der Umstände des Einzelfal-
+les dem Erklärungstatbestand entnehmen darf. Diese sog. Erklärungstheorie betont zu stark die objektive Wertung und stellt zu wenig auf den Willen des Erklärenden ab.  
+Wie schon erwähnt, findet keine dieser Methoden (Theorien) im BGB eine Stütze. Den §§ 133, 157 ist lediglich zu entnehmen,  
+– dass der wirkliche Wille  des Erklärenden zu erforschen ist,  
+– dass der Grundsatz von Treu und Glauben und 
+– die Verkehrssitte
+53  zu berücksichtigen sind.  
+Darüber hinaus lässt sich den §§ 116 und 119 entnehmen, dass derjenige, der eine 
+Willenserklärung abgibt, eine Art "Erklärungsrisiko" zu tragen hat. Wer gemäß § 116 
+eine Willenserklärung ohne Rechtsfolgewillen abgibt, ist an das Erklärte gebunden, weil das Vertrauen, das der Empfänger  in die Wirksamkeit einer bewusst abgegebe-
+nen Erklärung setzt, Schutz verdient.
+54 Nach §  119 ist derjenige, der irrtümlich eine 
+Erklärung abgibt, die für den Empfänger eindeutig ist, an diese Erklärung gebunden; er kann die Willenserklärung allerdings unter  den in §  119 genannten Voraussetzun-
+gen anfechten, muss dann jedoch gemäß §  122 den
+ Vertrauensschaden  ersetzen, der 
+dem Empfänger entstanden ist.  
+Unter Beachtung alles dessen ist bei einer Abwägung der Interessen des Erklärenden 
+einerseits und des Empfänge rs andererseits zu berücksichtigen, dass das Abweichen 
+von Wille und Erklärung durch den Erklärenden, also in seiner Sphäre, verursacht wor-
+den ist .55 Daraus folgt für die Auslegung: wenn der Empfänger nach den Umständen 
+bei Beachtung der gebotenen Sorgfalt auf den Erklärungstatbestand vertrauen darf , 
+ist es gerechtfertigt ist, dem Schutz des Empfängers den Vorrang vor dem " Erfolgsin-
+teresse " des Erklärenden einzuräumen.  
+2. Die Auslegung empfangsbedürftiger Willenserklärungen  
+Die herrschende Meinung geht bei der Auslegung empfangsbedürftiger Willenserklä-
+rungen davon aus, dass es bei der Auslegung  nicht  auf den inneren, unerklärt geblie-
+benen Willen des Erklärenden ankommt.56 Maßgeblich ist vielmehr nur der erklärte 
+Wille , also nur das, was als Wille für denjenigen e rkennbar geworden ist, für den die 
+Erklärung bestimmt war. Diese Erklärung gilt so, wie sie der Erklärungsempfänger 
+nach Treu und Glauben und nach der Verkehrsanschauung – der natürlichen Betrach-
+tungsweise eines verständigen, unvoreingenommenen Beurteilers  – gemäß §§ 133, 
+157 verstehen musste. Der BGH 57 hat die Formulierung gebraucht, im Auslegungs-
+vorgang gemäß §§ 133, 157 komme es darauf an, "wie der Empfänger der emp-
+fangsbedürftigen Willenserklärung dies bei objektiver Würdigung aller Umstände und 
+mit Rücksicht auf Treu und Glauben zu verstehen hatte". Damit wird nach herrschen-
+der Meinung auf die  Maßgeblichkeit des  Empfängerhorizontes  abgestellt.58 
+_________________________________________________ 
+53 Vgl. oben § 4 III. 4. d.  
+54 Vgl. oben § 2 II. 4 e.  
+55 BROX/WALKER , § 6 Rn.  14 ff.   
+56 BGHZ 36, 30, 33; 47, 75, 78. 
+57 So BGHZ 47, 75, 78; BGH NJW 1984, 721 . 
+58 Vgl. STAUDINGER /SINGER, § 133,  Rn. 18, §; BROX/WALKER , § 6 Rn.  14 ff.  
+--- Seite 30 ---
+ 
+Die Auslegung  30 
+Diese Auslegu ng, die auch als normative bezeichnet wird59, stellt vor allem auf die 
+Umstände der  Erklärung ab.  FLUME60 fordert darüber hinaus noch, der Sinn der Erklä-
+rung müsse so, wie er sich aus dem Text der Erklärung unter Berücksichtigung der 
+Umstände ergebe,  "dem Erklärenden als Sinn seiner Erklärung auch zurechenbar 
+sein" .61 Die Zurechenbarkeit  spielt zumindest  dann eine Rolle, wenn darüber zu be-
+finden ist, ob eine Erklärung, die der Erklärende ohne Erklärungsbewusstsein und ohne Rechtsfolgewillen abgegeben hat, mit Rücksicht auf den Empfänger
+ wie eine 
+Willenserklärung zu behandeln ist .62  
+Für eine Auslegung dieser Art ist allerdings nur Raum, wenn der Wille des Erklärenden 
+und das Verständnis des Erklärungsempfängers auseinanderklaffen. Stimmt der Wille des Erklärenden bei der Abgabe einer empfangsbedürftigen Willenserklärung mit 
+dem Verständnis desjenigen überei n, an den diese Erklärung gerichtet ist, so bestimmt 
+allein der Wille des Erklärenden den Inhalt des Rechtsgeschäfts, auch wenn der Erklä-
+rung bei objektiver Betrachtungsweise unter Berücksichtigung der Umstände noch 
+eine andere Bedeutung beigemessen werden  könnte – die Willenserklärung also 
+mehrdeutig ist  –, weil die Erklärung den Willen des Erklärenden nicht oder nicht ge-
+nau wiedergibt. Anders ausgedrückt: Der wirkliche Wille des Erklärenden geht, wenn alle Beteiligten die Erklärung übereinstimmend in demselben Sinne verstanden haben, 
+nicht nur dem Wortlaut, sondern jeder anderweitigen Interpretation vor .
+63 Das ergibt 
+sich schon daraus, dass "eine Willenserklärung, also das Mittel privater Setzung einer 
+rechtlichen Regelung kraft Parteiwillens, ihre Geltung von eben diesem Parteiwillen 
+ableitet".64  
+ Die Auslegung von Erklärungen darf also erst beginnen, wenn feststeht, dass der Wille des Erklärenden und das Verständnis des Empfängers  nicht übereinstim-
+men. 
+ 
+ 
+ Da es gemäß §  133 auf den "wirklichen Willen" ankommt, ist es gleichgültig, ob der 
+objektive Erklärungsinhalt mit dem – beim Vertrag sschluss von beiden Beteiligten – 
+subjektiv Gewollten übereinstimmt oder nicht. Man kann auch sagen: Die Rechtsord-
+nung schreibt den einzelnen Personen nicht vor, welcher Ausdrucksweise sie sich zu bedienen haben. Stimmt das tatsächliche Verständnis der Vertragsparteien überein, 
+so ist dieses, auch wenn es falsch ausgedrückt ist, für den Vertragsinhalt ausschl ag-
+gebend ( falsa demonstratio non nocet ). 
+_________________________________________________ 
+59 FLUME, § 16, 3c.  
+60 FLUME, § 16, 3c.  
+61 FLUME, § 16, 3c.  
+62 Vgl. zu dieser Problematik B ROX/WALKER , § 6 Rn.  16. 
+63 BGHZ 71, 75, 77 f .; 86, 41, 46; BGH NJW 1984, 721. 
+64 So BGH NJW 1984, 721 . Wille des Erklärenden  Verständnis des 
+Empfängers Auslegung  
+--- Seite 31 ---
+ 
+Die Auslegung  31 
+Beispiel65: F verkauft an B Walfischfleisch, das beide Vertragsparteien in dem schrift-
+lich fixierten Kaufvertrag mit dem norwegischen Wort "Haakjöringsköd" bezeichnen. 
+Haakjöringsköd heißt aber nicht, wie beide Parteien annehmen, Walfischfleisch, son-
+dern Haifischfleisch. Da F und B Walfischfleisch gemeint und dafür lediglich eine fal-
+sche Vokabel benutzt haben, ist Walfischfleisch Gegenstand des Vertrages. Der Kauf-vertrag ist trotz der falschen Bezeichnung über Walfischfleisch geschlossen (falsa 
+demonstratio non nocet). Würde F dem B statt Walfischfleisch Haifischfleisch liefern, 
+wäre der Vertrag nicht erfüllt   
+ 
+Fall: Tankstellenbesitzer T bestellt bei dem Reifengroßhändler R schriftlich 100 R ei-
+fen der Marke X zum Stück preis von € 8 7,50, ––. R beantwortet den Brief zwei Tage 
+nach Kenntnisnahme. Er meint, T habe Reifen der Marke Y bestellt, die er liefern 
+kann; Reifen der Marke X hat er nicht zur Verfügung. Er schreibt an T: "Ich bestä-
+tige den Eingang Ihres Schreibens vom... und werde die von Ihnen bestellten Reifen 
+umgehend an Sie absenden." Ist ein Vertrag zustande gekommen?  
+ 
+Aufgabe 1:  
+Beantworten Sie diese Frage bitte schriftlich und vergleichen Sie Ihre Ausführungen 
+anschließend mit der Lösung am Ende dieser Kurseinhei t! 
+III. Die Auslegung von Verträgen  
+1. Überblick  
+Haben die Parteien einen Vertrag abgeschlossen, können über dessen Inhalt Zweifel und Meinungsunterschiede entstehen. Solche können darin begründet sein, dass ein Begriff oder eine Formulierung im Vertrag unklar ist und deshalb über deren Bedeu-
+tung gestritten wird. In einem solchen Fall muss der Vertrag
+ erläuternd ausgelegt 
+werden. 
+Häufig kommt es auch vor, dass die Parteien bei Vertragsschluss  ein Vertragsverhältnis 
+abschließend regeln wollen, dennoch aber  aus Versehen  eine oder mehrere rege-
+lungsbedürftige Fragen offenlassen. So entstehen  Lücken , die im Wege der  ergän-
+zenden Vertragsauslegung geschlossen werden können, wenn der Wortlaut der 
+abgegebenen Erklärungen dafür Anhaltspunkte gibt. 
+2. Die erläuternde Vertragsausl egung  
+Bei einer bestehenden Divergenz über Bedeutung und Umfang des vertraglich Ver-
+einbarten ist das  Ziel der Auslegung stets die Ermittlung des Vertragsinhalts .66 Diese 
+Auslegung darf dem übereinstimmend zum Ausdruck gebrachten Erklärungswillen der Vertragsparteien nicht widersprechen .
+67 Bei der Auslegung von Verträgen sind 
+insbesondere der mit der Absprache verfolgte Zweck und die Interessenlage der Be-teiligten zu berücksichtigen.
+68  
+_________________________________________________ 
+65 nach RGZ 99, 147  ff. 
+66 Münchkomm/Busche, BGB § 157 Rn. 3 ; BROX/WALKER  § 6 Rn. 2. 
+67 so BGHZ 71, 75, 77  f.; BGB –RGRK/PIPER, § 157 Rn.  7 mit Nachw.  
+68 vgl. u.a. BGHZ 109, 19, 22 . 
+--- Seite 32 ---
+ 
+Die Auslegung  32 
+Ein wichtiger Auslegungsmaßstab ist die  Verkehrssitte  i.S. des §  157. Darunter ist 
+das zu verstehen, was sich im Handelsverkehr oder im bürgerlichen Rechtsleben als 
+eine allgemeine oder in bestimmten Kreisen bestehende tatsächliche Gepfl ogenheit 
+herausgebildet hat. Die Verkehrssitte ist eine Verhaltensregel, die aus tatsächlicher Übung bei ähnlichen Geschäften abgeleitet werden kann.
+69 
+Beispiel:  Die Brandenburgerin A besucht an Karneval den Düsseldorfer Rosenmon-
+tagumzug. In einer Bäckerei bestellt sie: „Einen Pfannkuchen bitte“. Problematisch ist, dass das runde Süßgebäck  (meist in Öl oder Fett frittiert ) in Deutschland je nach 
+Standort mal Krapfen, Berliner, Pfannkuchen oder anders  bezeichnet wird. Wollt e A 
+einen Eierpfannkuchen kaufen, oder einen „Berliner“?   
+ 
+Verkehrssitte unter Kaufleuten ist der Handelsbrauch i.S. des § 346 HGB (=  kaufmän-
+nische Verkehrssitte).  
+Die Verkehrssitte hat bei der Auslegung nur Bedeutung, wenn sie für beide Vertrags-
+teile gilt. Denn im Zweifel wird man davon aus gehen können, dass Erklärender und 
+Erklärungsempfänger, wenn sie demselben Verkehrskreis angehören, ihre Erklärun-
+gen so verstehen, wie es der dortigen Verkehrssitte entspricht .
+70 Gehören die Ver-
+tragspartner nicht demselben Verkehrskreis an, so ist auf die V erkehrssitte am Ort des 
+Erklärenden abzustellen .71 Dies muss jedenfalls dann gelten, wenn der Erklärungsemp-
+fänger vernünftigerweise mit der Ver kehrssitte rechnen konnte .72 Für die Geltung der 
+Verkehrssitte ist allerdings nicht erforderlich, dass sich ihr die  Vertragschließenden 
+unterwerfen. Denn im geschäftlichen Verkehr ist nicht der innere, unerklärt geblie-bene Wille maßgebend, sondern die Bedeutung, die einem bestimmten Verhalten 
+nach übereinstimmender Auffassung der beteiligten Kreise zukommt .
+73 Im Beispie l 
+müsste die Erklärung der A dahingehend ausgelegt haben, dass sie das runde Süßge-
+bäck „Berliner“ bestellt hat, wie es in Düsseldorf genannt wird  und gerade zu Karne-
+val in großen Mengen verkauft wird.   
+Fall nach RGZ 95, 242  ff.: Die amerikanische Holzhändlerfirma V steht in Vertrags-
+verhandlungen mit dem Kaufmann K, der an der Lieferung einer Waggonladung 
+Zedernholz interessiert ist. Nachdem sich die Parteien über alle wesentlichen Ver-
+tragspunkte geeinigt haben, bittet K um Übersendung der Vertragsurkunde. Als V 
+den Vertragstext zur Unterschriftsleistung an K schickt, beanstandet dieser verschie-
+dene darin enthaltene Bestimmungen. In der Folgezeit streiten die Vertragspartner 
+darüber, ob bereits mit der mündlichen Einigung ein wirksamer Kaufvertrag zu-
+stande gekommen ist. Wie ist der Streit zu entscheiden, wenn es im Handel mit 
+amerikanischen Hölzern der Verkehrssitte entspricht, dass Kaufverträge schriftlich 
+abgeschlossen werden?  
+_________________________________________________ 
+69 vgl. SONNENBERGER , S. 107. 
+70 Vgl. MünchKomm /BUSCHE ,  § 157 BGB Rn. 26 ff. 
+71 Str. vgl. BGHZ 6, 127, 134 ; MünchKomm /BUSCHE , § 157 BGB Rn. 26 ff . 
+72 So WOLF/NEUNER , § 35, Rn. 15.  
+73 So BGB– RGRK/ PIPER, § 157 Rn.  9; vgl. auch BGHZ 47, 75, 78 . 
+--- Seite 33 ---
+ 
+Die Auslegung  33 
+Lösung:  
+Grundsätzlich kommt bereits dann ein Vertrag zustande, wenn sich die Parteien 
+mündlich über alle wesentlichen Vertragspunkte geeinigt haben. Eine Ausnahme 
+muss aber im Falle einer hiervon abweichenden Verkehrssitte  gelten. Im vorliegenden 
+Fall besteht eine  dahingehende Verkehrssitte, dass mündlich getroffene Vereinbarun-
+gen zu ihrer Wirksamkeit noch der Schriftform bedürfen. Diese Verkehrssitte gilt ge-nerell für den Handel mit amerikanischen Hölzern und ist daher auch für K maßgeb-lich, selbst wenn sie ihm – was nicht der Fall ist  – unbekannt gewesen wäre .
+74 Nach 
+Ansicht der hier maßgeblichen Kreise gilt also der Vertrag erst mit der schriftlichen Abfassung und Unterzeichnung als geschlossen. Da bisher lediglich eine mündliche Vereinbarung getroffen worden ist,  die nach der Verkehrssitte im Handel mit ameri-
+kanischen Hölzern zu ihrer Wirksamkeit noch der Schriftform bedarf, liegt noch kein wirksamer Vertragsabschluss vor.  
+Die erläuternde Vertragsauslegung hat in der Praxis große Bedeutung für die Ausle-gung typischer und in Verträgen häufig wiederkehrender Klauseln . 
+Beispiel:  In einem Kaufvertrag, den Verkäufer und Käufer über einen gebrauchten 
+LKW abgeschlossen haben, ist folgende Klausel enthalten: "Der Käufer erwirbt vom Verkäufer den gebrauchten LKW nach einer Probefahrt in dem vom Käufer besichtig-
+ten Zustand." In der Klausel "wie besichtigt" ist die Vereinbarung darüber zu sehen, 
+dass der Verkäufer nicht für solche Mängel Gewähr leistet, die bei der Besichtigung wahrnehmbar sind.
+75  
+ Zu beachten ist aber, dass außerhalb des Kaufs (auch gebrauchter Sachen) unter Pri-vaten oder Unternehmern durch die Einführung des Verbrauchsgüterkaufs gem. 
+§§ 474 ff. entsprechende Klauseln nunmehr deutlichen Einschränkungen unterlie-
+gen. Bei Kaufverträgen, die zwischen einem Unternehmer (§  14) und einem Verbrau-
+cher (§  13) als Käufer über eine bewegliche Sache geschlossen werden, können bspw. 
+die in den §§ 433ff.aufgestellten Regeln mit Ausnahme der Bestimmungen über 
+Schadensersatzansprüche nicht wirksam zum Nachteil des Verbrauchers abbedungen 
+werden (vgl. §  476 Abs. 1). Zudem findet auf Verbraucherverträge § 310 Abs. 3  An-
+wendung.  
+Fall: Die Firma V betreibt den Handel mit Kraftfahrzeugen. D ie Kundin  K bestellt 
+mit schriftlichem "Kaufantrag" einen PKW des Fabrikats P zum Preis von 
+€ 39.000, ––. In den Zahlungsbedingungen heißt es: 
+"Der gebrauchte PKW der  K, Marke M, Bj. 2019 , km 56.000, unfallfrei, wird mit 
+€ 9.000, –– in Zahlung genommen."  
+Nach Abschluss dieser Vereinbarung bietet ein Freund F der  K für den gebrauchten 
+PKW €  10.500, ––. Daraufhin verkauft K das Fahrzeug an F.  
+Nachdem V den neuen PKW an K geliefert hat, verlangt er Zahlung von € 3 0.000, –
+– sowie Herausgabe des gebrauchten PKW. Zu Recht?  
+_________________________________________________ 
+74 vgl. RGZ 95, 243. 
+75 Vgl. auch BGH NJW 1978 , 261. 
+ 
+--- Seite 34 ---
+ 
+Die Auslegung  34 
+Lösung:  
+Ein solcher Anspruch könnte sich aus § 433 Abs.  2 ergeben. Dann müsste zwischen 
+den Parteien ein Kaufvertrag zustande gekommen sein.  
+Bedenken ergeben sich insofern, als die vertragliche Vereinbarung auch als Tausch-
+vertrag (§  480) angesehen werden könnte, der auf den Austausch zweier Kraftfahr-
+zeuge unter Hinzuzahlung des Wertunterschie des (€  30.000, ––) gerichtet ist.  
+Ob zwischen den Parteien ein Kaufvertrag oder ein Tauschvertrag geschlossen wor-
+den ist, ist durch Auslegung zu ermitteln. Der Wortlaut  der Vereinbarung, in der von 
+"Kaufantrag" und "Zahlungsbedingungen" die Rede ist, spricht dagegen, den Ver-
+trag als Tauschvertrag zu qualifizieren. Insbesondere aus der Formulierung " Kaufan-
+trag" ergibt sich, dass der Gegenstand des Vertrages ein Kauf und kein Tausch sein 
+soll. Der Wortlaut spricht daher für einen einheitlichen Kaufvertrag über  einen neuen 
+PKW zum Preis von € 3 9.000, ––, wobei K berechtigt sein soll, € 3 0.000, –– in bar zu 
+entrichten, den Rest durch die Hingabe ihres  gebrauchten Wagens an Erfüllungs Statt, 
+§§ 433, 364.  
+Für einen Kaufvertrag spricht weiterhin das Interesse des Kraftfahrzeughändlers, das 
+in erster Linie auf Veräußerung gegen Geld gerichtet ist und nicht auf den Erwerb 
+eines gebrauchten Wagens. Der Händler lässt sich auf die Hereinnahme des Altwa-
+gens in aller Regel nur deswegen ein, um das von ihm erstrebte Neuwagenge schäft 
+abschließen zu können. Dieses Entgegenkommen des Veräußerers, das seinem Part-
+ner den Erwerb des Neuwagens erleichtert, unter Umständen sogar erst möglich 
+macht, hat aber nicht zur Folge, dass die Beteiligten sich auf eine Gegenleistung des Erwerbers  einigen, die zum Teil in Geld, zum Teil in der Hingabe eines gebrauchten 
+Fahrzeugs bestehen soll. Vielmehr bleibt die von der Erwerber in (K) des Neuwagens 
+geschuldete Gegenleistung in voller Höhe eine Geldschuld . Es liegt daher ein einheit-
+licher Kaufvertrag vor, wobei K kraft der getroffenen Vereinbarung die Möglichkeit 
+hat, an Stelle der ausbedungenen Geldschuld zum Zwecke der Erfüllung ihren  ge-
+brauchten Wagen in Zahlung zu geben. K ist aber lediglich berechtigt  (und nicht 
+verpflichtet), die Kaufpreisschuld teilweise durch Hingabe des gebrauchten Wagens zu tilgen. Diese Berechtigung wird als sog. Ersetzungsbefugnis  (facultas alternativa) 
+des Schuldners bezeichnet .
+76 Die Ersetzungsbefugnis  der Käuferin lässt den Bestand 
+der Hauptschuld (Kaufpreis in Höhe von  € 39.000, ––) als Geldschuld unberührt. Der 
+Verkäufer V kann also das Begehren der  K, den Kaufpreis in Geld tilgen zu wollen, 
+nicht zurückweisen und stattdessen die Hingabe des gebrauchten Wagens verlangen.  
+Im Ergebnis bleibt festzuhalten, dass V nach § 433 Abs.  2 einen Anspruch auf Zahlung 
+des Kaufpreises in Höhe von € 3 9.000, –– gegen K hat. V hat aber keinen Anspruch 
+auf Herausgabe und Übereignung des gebrauchten PKW der Marke M .77  
+3. Die ergänzende Vertragsauslegung  
+a) Die Voraussetzungen  
+Haben die Parteien bei Abschluss des Vertrages ein Vertragsverhältnis abschließend regeln wollen, aber dennoch unbewusst eine oder gar mehrere regelungsbedürftige 
+Fragen offen gelassen, so entstehen Lücken , die durch
+ ergänzende Vertragsausle-
+gung geschlossen werden können, wenn der Wortlaut der abgegebenen Erklärungen 
+_________________________________________________ 
+76 Vgl. BGHZ 46, 338, 340 ; MünchKomm /KRÜGER , BGB § 262 Rn.  9. 
+77 Vgl. zur Vertiefung: H ONSELL, Jura 1983, 523 ff.  
+--- Seite 35 ---
+ 
+Die Auslegung  35 
+dafür Anhaltspunkte bietet. Die ergänzende Vertragsauslegung muss an den Wortlaut 
+der Erklärungen anknüpfen, weil die Vertragsauslegung den Parteiwillen klarstellen soll, um damit gegebenenfalls eine
+ Ergänzung des Vertragsinhalts , nicht aber eine 
+Abänderung, Einschränkung oder Ergänzung des erklärten Parteiwillens herbeizufüh-ren.
+78  
+Für eine ergänzende Vertragsauslegung ist demnach nur Raum, wenn  
+ 
+Zur ergänzenden Vertragsauslegung, die in der Praxis eine nicht zu unterschätzende Rolle spielt, existiert eine umfangreiche Rechtsprechung.  
+Der BGH hat stets daran festgehalten, dass eine ergänzende Vertragsauslegung nur vorgenommen werden darf, wenn der Vertrag eine Lücke aufweist. Wenn in einem Vertrag eine Regelung fe hlt, liegt nicht immer eine Lücke vor, die durch eine ergän-
+zende Vertragsauslegung geschlossen werden kann.
+79 Von einer Vertragslücke kann 
+nur dann gesprochen werden, "wenn ein Vertrag innerhalb des tatsächlich gegebe-nen Rahmens oder innerhalb der wirklich gewollten Vereinbarungen der Parteien eine ersichtliche Lücke aufweist" .
+80  
+Eine Lücke liegt nur vor, wenn die Unvollständigkeit einer vertraglichen Regelung auf 
+einer Planwidrigkeit beruht. Haben die Parteien die Unvollständigkeit planmäßig her-
+beigeführt, so ist diese gewollte Lücke nicht auslegungsfähig. Das ist z.B. dann der 
+Fall, wenn die Vertragschließenden die Regelungsbedürftigkeit einer Frage erkannt, 
+von ihrer Beantwortung aber bewusst Abstand genommen haben. In einem solchen 
+Fall liegt eine nach de m Prinzip der Privatautonomie zu respektierende Entscheidung 
+der Parteien vor, nicht aber eine für die Vertragsergänzung zugängliche Lücke .81 Im 
+Übrigen ist zu berücksichtigen, dass die Parteien im Zweifel dann, wenn sie bei Ver-
+tragsschluss keine vom Gesetz  abweichende Regelung treffen, die Ausgestaltung des 
+Vertrages durch die gesetzlichen Vorschriften wollen.82 
+In Einzelfällen kann sich auch eine Anspruchsgrundlage im Wege der ergänzenden Vertragsauslegung ergeben. Voraussetzung hierfür ist, dass der Vertrag diesbezüglich 
+eine Lücke aufweist und auch keine gesetzliche Anspruchsgrundlage existiert, aber 
+ein hypoth etischer Parteiwille erkennbar ist. Hätten die Parteien also die Lücke ge-
+kannt, hätten sie sie mit einer entsprechenden vertraglichen Anspruchsgrundlage ge-schlossen.  
+b) Der Wille der Parteien und die Grenzen der Vertragsauslegung  
+Die ergänzende Vertragsausleg ung darf nur an den im Vertrag erkennbar zum Aus-
+druck gekommenen Willen der Vertragschließenden anknüpfen. Denn die Vertrags-auslegung hat nur den Vertragsinhalt, nicht aber den Vertragswillen zu ergänzen.
+83 
+_________________________________________________ 
+78 Vgl. BGHZ 23, 282, 285 . 
+79 Vgl. BGHZ 40, 91, 103 . 
+80 BGHZ 40, 91, 103 ; 16, 71, 76 . 
+81 So BGB– RGRK /PIPER, § 157 Rn.  100; vgl. auch BGHZ 23, 282, 285 . 
+82 So BGHZ 40, 91, 103 . 
+83 BGHZ 9, 273, 278 . ausfüllungsbedürftige LückeLückenausfüllung nach 
+hypothetischem Parteiwillen
+--- Seite 36 ---
+ 
+Die Auslegung  36 
+Deshalb ist im Wege der ergänzenden Vertragsauslegung gegebenenfalls auch dasje-
+nige zu ermitteln und zu berücksichtigen, "was die Parteien zwar nicht erklärt haben, was sie aber in Anbetracht des gesamten Vertragszwecks erklärt haben würden, wenn 
+sie den offengebliebenen Punkt in ihren Vereinbarungen eben falls geregelt hätten 
+und hierbei zugleich die Gebote von Treu und Glauben und der Verkehrssitte beachtet 
+hätten" .
+84  Der Inhalt des Vertrages darf  nicht  im Widerspruch zu dem im Vertrag 
+zum Ausdruck gekommenen Parteiwillen  erweitert oder eingeschränkt werd en.85 
+Nach Ansicht des BGH scheidet eine ergänzende Vertragsauslegung jedenfalls dann aus, wenn verschiedene Gestaltungsmöglichkeiten zur Ausfüllung einer vertraglichen 
+Regelungslücke in Betracht kommen, aber kein Anhaltspunkt dafür besteht, welche 
+Regelung die Parteien getroffen hätten.
+86 
+Fall (in Anlehnung an RGZ 119, 353 ff.): V vermietet dem M in einem in seinem 
+Eigentum stehenden Haus ein Ladenlokal, in dem M einen Buch– und Zeitungsla-
+den einrichten will. Da sich in dem Haus noch andere Ladenlokale befinden, wird 
+in den schriftlichen Vertrag eine Bestimmung aufgenommen, die die Überschrift 
+"Wettbewerb" trägt. Darin verpflichtet sich V, kein weiteres Ladenlokal in dem 
+Haus an jemanden zu vermieten, der einen Buch – und Zeitungshandel betreibt, und 
+auch selbst dort nicht mit Büchern und Zeitungen zu handeln. Nach einiger Zeit 
+errichtet V auf dem zu seinem Grundstück gehörenden Platz vor dem Haus einen 
+Kiosk und vermietet diesen an den D, der darin Zeitungen, Zeitschriften und Ta-
+schenbücher veräußert. Hat V damit gegen den Vertrag verstoßen?  
+ 
+Lösung:  
+V hat gegen den Vertrag verstoßen, wenn es ihm aufgrund des im Vertrag mit M 
+enthaltenen Wettbewerbsverbots untersagt war, den Kiosk an D zu vermieten. Der 
+Vertrag enthält unter der Überschrift "Wettbewerb" eine Vereinbarung, in der sich V verpflichtet, kein weiteres Ladenlokal "in" dem Haus an jemanden zu vermieten, der 
+einen Buch– und Zeitungshandel betreibt, und auch selbst dort nicht mit Büchern und 
+Zeitungen zu handeln. Eine Wettbewerbsregelung, die sich ausdrücklich auf den Vor-
+platz des Hauses bezieht, fehlt. Eine Lösung muss im Wege der ergänzenden Ver-tragsauslegung gefunden werden. Dies kann nur geschehen, wenn  
+a) der Vertrag eine Lücke  enthält, die durch ergänzende Vertragsauslegung ausge-
+füllt werden kann und  
+b) für die Vertragsauslegung ein Anhaltspunkt im Wortlaut der Erklärung zu finden 
+ist. 
+Es ist davon auszugehen, dass V und M das Problem des Wettbewerbsverbots unter-
+einander abschließend regeln wollten. Aus Versehen haben sie den Vorplatz des Ge-
+bäudes nicht a usdrücklich in die Vereinbarungen mit aufgenommen. Es liegt also eine 
+Lücke im Vertrag vor, die einer ergänzenden Auslegung Raum gibt. Da die Frage des 
+Wettbewerbs im Vertrage ausführlich geregelt ist, kann die Auslegung an den Wort-
+laut des Vertrages anknü pfen. Eine Auslegung der Wettbewerbsklausel ergibt, dass V 
+dem M in räumlicher Nähe, also auf dem Grundstück, keine Konkurrenz machen darf. 
+_________________________________________________ 
+84 BGHZ 16, 71, 76 . 
+85 So BGHZ 23, 282, 285 ; vgl. auch BGB– RGRK /PIPER, § 157 Rn.  103. 
+86 BGHZ 93, 358, 370  f. 
+--- Seite 37 ---
+ 
+Die Auslegung  37 
+Da er dies dennoch getan hat, hat er gegen die im Vertrage enthaltene Wettbewerbs-
+klausel verstoßen.  
+(Die Konsequenzen daraus können sein – dies sei nur der Vollständigkeit halber an-
+gemerkt –: 
+a) M kann von V Unterlassung verlangen.  
+b) M kann u.U.  von V Schadensersatz fordern.)  
+ 
+IV. Die Auslegung von Allgemeinen Geschäftsbedingungen 
+Ebenso wie Individualvereinbarungen sind a uch Allgemeine Geschäftsbedingungen 
+gemäß §§ 133, 157 auszulegen. Es kommt deshalb sowohl die einfache Auslegung, 
+als auch die ergänzende Auslegung in Betracht. Allerdings ist bei der Auslegung von 
+Allgemeinen Geschäftsbedingungen zu berücksichtigen, dass sie nicht für einen be-
+stimmten Einzelfall aufgestellt werden, sondern für eine unbestimmte Vielzahl von Einzelfällen in Vergangenheit, Gegenwart und Zukunft die Vertragsgrundlage bil-
+den. Für ihre Auslegung sind deshalb nicht der Wille und die Absicht der P arteien des 
+Einzelgeschäfts zu erforschen .
+87 Nach ständiger Rechtsprechung sind Allgemeine Ge-
+schäftsbedingungen vielmehr unabhängig von der Gestaltung des Einzelfalles sowie 
+den Belangen der jeweiligen konkreten Vertragspartner nach  objektiven Gesichts-
+punkten auszulegen. Es ist darauf abzustellen, wie die Allgemeinen Geschäftsbedin-
+gungen von verständigen und redlichen Vertragspartnern unter Abwägung der Inte-ressen der normalerweise an solchen Geschäften beteiligten Kreise verstanden 
+werden („Durchschnittskunden“) .
+88  
+Dabei ist stets zu beachten, dass gemäß § 305 c Abs. 2  Zweifel bei der Auslegung zu 
+Lasten des Verwenders gehen  (Unklarheitenregel). Dies ist damit zu begründen, dass 
+der Kunde - anders als beim Individualvertrag - keinen Einfluss auf die Ausgestalt ung 
+der AGB hat. Es gilt deshalb das für ihn günstigste Auslegungsergebnis. 
+Wenn Allgemeine Geschäftsbedingungen eine Lücke  aufweisen , ist Raum für eine 
+ergänzende Vertragsauslegung. Die ergänzende Vertragsauslegung geht der An-
+wendung der Grundsätze über d ie "Störung der Geschäftsgrundlage "89 vor, weil die 
+mit Hilfe der ergänzenden Vertragsauslegung ermöglichte Durchführung dessen, was 
+die Vertragspartner gewollt haben, Vorrang haben muss vor einer bei Wegfall der 
+Geschäftsgrun dlage unter Umständen notwendigen Korrektur der vertraglichen Ab-
+reden , die unter anderem anhand einer Interessensabwägung vorgenommen wird.90   
+Da nach § 306 Abs.  1 die Unwirksamkeit einzelner Klauseln grundsätzlich nicht zur 
+Unwirksamkeit des gesamten Vertrages führt, sondern dieser bes tehen bleibt, entste-
+hen Lücken, die gemäß §  306 Abs.  2 BGB mit Hilfe der „gesetzlichen Vorschriften“  
+zu schließen sind.91  
+_________________________________________________ 
+87 BGHZ 17, 1, 3. 
+88 BGHZ 77, 116, 118  f.; 62, 251, 254. 
+89 § 313; vgl. hierzu das Modul 55103.  
+90 So mit Recht BGHZ 90, 69, 74; vgl. auch BGHZ 81, 135, 143 ; GRÜNEBERG /ELLENBERGER , § 313 Rn. 10.  
+91 GRÜNEBERG /ELLENBERGER , § 306 Rn. 12.  
+--- Seite 38 ---
+ 
+Die Auslegung  38 
+ 
+Der BGH hat die Bestimmungen der §§ 157, 133, in denen die ergänzende Vertrags-
+auslegung ihre Grundlage hat, als "gesetzliche Vorschriften" i.S. des §  6 Abs.  2 AGBG 
+a.F. (§ 306 Abs.  2 BGB n.F. ) angesehen und es deswegen zugelassen, dass eine Lücke 
+in einem Vertrag, der durch die Unwirksamkeit einer Klausel in Allgemeinen Ge-
+schäftsbedingungen entsteht, im Wege der ergänzenden Vertragsauslegung ge-
+schlossen werden kann; Voraussetzung dafür soll allerdings sein, dass konkrete ge-setzliche Regelungen zur Ausfüllung der Lücke nicht  zur Verfügung stehen und 
+die ersatzlose Streichung der unwirksamen Klausel nicht zu einer angemessenen, den  
+typischen Interessen des Klausel –Verwenders und des Kunden Rechnung tragenden 
+Lösung führt .
+92 
+Im Gegensatz zu in Teilen der Literatur93 vertretenen Auffassungen hat der BGH zu 
+§ 6 Abs.  2 AGBG die Meinung vertreten, der Wortlaut der Vorschrift biete keinen 
+Anhaltspunkt dafür, den Begriff der "gesetzlichen Vorschrift" auf Normen mit sachli-
+chem Regelungsgehalt  zu beschränken und "methodische Vorschriften" auszugren-
+zen. Für die ergänzende Vertragsauslegung treffe es nicht zu, dass die Vorschriften 
+der §§  157, 133 nur ein "Hilfsinstrument" zur Ermittlung des Parteiwillens seien, der 
+im Rahmen des § 6 Abs.  2 AGBG nicht zu ermitteln sei; denn die ergänzende Ver-
+tragsauslegung helfe nicht, den wirklichen Willen der Vertragsparteien zu erforschen, sie diene vielmehr dazu, "eine lückenhafte vertragliche Regelung am Maßstab des 
+– objektiv zu ermittelnden  – hypothetischen Parteiwillens zu schließen". Um eben 
+diese Schließung einer durch Wegfall einer unwirksamen Vertragsklausel entstande-
+nen Lücke gehe es nach Ansicht des BGH auch in § 6 Abs.  2 AGBG. Für die Einbezie-
+hung der §§  157, 133 in den Bereich der "gesetzlichen Vorschriften" i.S. des § 6 
+Abs. 2 AGBG a.F. beruft der BGH sich auch auf die Entstehungsgeschichte dieser Vor-
+schrift .
+94  
+Dieser Streit hat sich mit der Entscheidung des Bundesverfassungsgerichts, in der das Gericht die vom BGH entwickelten Grundsätze der ergänzenden Vertragsauslegung 
+zur Schließung von Lücken in Verträgen nicht beanstandet, nunmehr erübrigt.
+95 
+Auf der Grundlage dieser Rechtsprechung ist bei der e rgänzenden Auslegung von 
+lückenhaften Allgemeinen Geschäftsbedingungen unter Anwendung des in § 157 
+vorgegebenen Auslegungsmaßstabes – Treu und Glauben mit Rücksicht auf die Ver-
+kehrssitte  – danach zu fragen, wie die Parteien den Vertrag gestaltet hätten, w enn 
+ihnen die nicht bedachte Unwirksamkeit der entsprechenden Klausel bewusst gewe-sen wäre. Der tatsächliche Wille der Parteien kann dabei, soweit er feststellbar ist, 
+nicht außer Betracht bleiben. Denn das, was dem tatsächlichen Willen der Vertrags-
+_________________________________________________ 
+92 BGHZ 90, 69, 75  f.; zu dieser Entscheidung siehe B UNTE, NJW 1984, 1145, 1145 ff . 
+93 Vgl. LÖWE, 2. Anm. zu OLG Düsseldorf, BB 1983, 2012, 2014 f .; TRINKNER , Anm. zu BAG, BB 1983, 
+1873, 1875 f . 
+94 BGH NJW 1984, 1177, 1178  mit Nachw.  
+95 BVerfG NJW 2011, 1339 . 
+--- Seite 39 ---
+ 
+Die Auslegung  39 
+parteien widerspricht, kann und darf nicht als Inhalt ihres hypothetischen Willens gel-
+ten96. Allerdings kann die Vertragsergänzung auf diesem Wege nicht zu einer unan-
+gemessenen Benachteiligung einer Partei und damit zu einem Verstoß gegen § 307 
+BGB (§ 9 AGBG a.F.)  führen .97 
+Führt die Auslegung der AGB zum Ergebnis, dass sie  einer daneben wirksam getroffe-
+nen Individualvereinbarung § 305b widersprechen, dann gilt die Letztere.  Dieser Vor-
+rang kann auch nicht dadurch verhindert werden, dass (wie üblich) sog. Schriftform-klausel eingebaut werden, wonach „Änderungen“ bzw. „Ergänzungen“ zwingend schriftlich festgehalten werden müssen.  
+• „Jegliche Änderungen oder Ergänzungen dieses Vertrags sind nur wirksam, 
+wenn sie schriftlich vereinbart werden.“  (Einfache Schriftformklausel ) 
+• "Jegliche Änderungen oder Ergänzungen dieses Vertrages sind nur wirksam, 
+wenn sie schriftlich vereinbart werden. Dies gilt auch für eine Änderung dieser Schriftfo rmklausel.“  (Doppelte/ qualifizierte Schriftformklausel ) 
+Daher kann selbst eine doppelte Schriftformklausel durch eine mündliche Individual-vereinbarung abbedungen werden.
+98 
+ 
+Fall: K bestellt im November 2022 bei der Automobilherstellerin V einen PKW. Als 
+Preis für die Grundausstattung ist in dem Bestellformular "Listenpreis... zur Zeit 
+€ 32.650, ––" angegeben. Die Auslieferung des PKW ist für November 2023  vorge-
+sehen. In den Allgemeinen Geschäftsbedingungen der V, die auf der Rückseite des 
+Bestellformulars ab gedruckt sind, heißt es unter Nr.  2: 
+"Preisänderungen sind nur zulässig, wenn zwischen Vertragsabschluss und verein-
+bartem Liefertermin mehr als 4 Monate liegen. Dann gilt der am Tag der Lieferung 
+gültige Listenpreis der Verkäuferin."  
+Nach der Bestätigung der Bestellung noch im November 2022 liefert V den PKW 
+– wie vorgesehen  – im November 2023 aus und stellt den gültigen Listenpreis von 
+€ 34.150, –– in Rechnung. Ist K verpflichtet, den höheren Listenpreis zu zahlen?  
+ 
+Aufgabe 2:  
+Beantworten Sie diese Frage bitte schriftlich und vergleichen Sie Ihre Ausführungen 
+anschließend mit der Lösung am Ende dieser Kurseinheit!  
+ 
+ 
+_________________________________________________ 
+96 So BGHZ 90, 69, 77 . 
+97 BGH NJW 1985, 621, 622 f . 
+98 BGHZ 164, 133, 136 f ; MünchKomm /FORNASIER , § 305b BGB Rn. 13. 
+--- Seite 40 ---
+ 
+Die Auslegung  40 
+--- Seite 41 ---
+ 
+Lösungen zu den Selbsttestaufgaben 41 
+Lösungen zu den Selbsttestaufgaben  
+ 
+Lösung zu Aufgabe 1: 
+Ein Kaufvertrag gem.  § 433 BGB über 100 Stahlgürtelreifen ist zustande gekommen, 
+wenn T ein Kaufvertragsangebot unterbreitet hat, das von R angenommen worden 
+ist. 
+Die schriftliche Bestellung der T enthält die regelungsbedürftigen Punkte (Kaufgegen-
+stand, Kaufpreis) des abzuschließenden Kaufvertrages. Sie ist inhaltlich so bestimmt 
+gefasst, dass R den Kaufvertrag durch ein einfaches "Ja" zustande kommen lassen könnte . Durch die konkrete Bestellung bei Reifenhändler R äußert T zudem einen auf 
+Vertragsschluss gerichteten Rechtsbindungswillen. Die Bestellung der T bei R ist daher 
+als wirksames Angebot zu qualifizieren.  
+Fraglich ist, ob R dieses Angebot angenommen hat.  Eine Annahme  ist eine einseitige 
+Willenserklärung, durch die der Antragsempfänger dem Antragenden sein vorbehalt-
+loses Einverständnis mit dem angebotenen Vertragsschluss zu verstehen gibt. Das vor-
+liegende Schreiben des R an T bestätigt einerseits den Zugang des Angebots des T 
+und lässt andererseits das sofortige Versenden der von T bestellten Reifen verlauten. 
+Fraglich ist nun, ob dieses Schreiben tatsächlich das Erfordernis der inhaltlichen Über-einstimmung mit dem Angebot erfüllt.  
+Nach der reinen Willenstheorie (vgl. oben S. 26 f.) wird allein das zum verbindlichen 
+Inhalt der Erklärung, was der Erklärende damit bezwecken wollte. Hier wollte der R ein Kaufvertragsangebot über 100 Stahlgürtelreifen der
+ Marke Y  annehmen , obwohl 
+das Angebot der T auf Reifen der Marke X Bezug nahm . Angebot und Annahme fallen 
+inhaltlich auseinander, so dass die Vertreter der reinen Willenstheorie zu dem Ergebnis gelangen, dass ein Kaufvertrag über Reifen der Marke X nicht zustande gekommen ist. 
+Stellt man jedoch mit der reinen Empfängertheorie  (vgl. oben S.  26 f.) darauf ab, 
+wie T die Erklärung des R verstanden hat, ist zu berücksichtigen, dass T den Irrtum 
+(Autoreifen der Marke X oder Y) des Reifengroßhändlers nicht erkannt hat. Aus seiner 
+Sicht nehmen Angebot und Annahme Bezug aufeinander und stimmen inhaltlich überein. Hiernach wäre ein Kaufvertrag über Stahlgürtelreifen der Marke X zustande 
+gekommen.  
+Bei der Auslegung der Erklärung des R ist aber weder ausschließlich der Schutz des 
+Erklärenden noch der des Erklärungsempfängers in den Vordergrund zu stellen. Maß-
+geblich ist vielmehr, "wie der Empfänger der empfangsbedürftigen Willenserklärung 
+diese bei objektiver Würdigung aller Umstände und mit Rücksicht auf Treu und Glau-
+ben zu verstehen hatte" .
+99 Im vorliegenden Fall hatte T Reifen der Marke X bestellt. Er 
+durfte deswegen davon ausgehen, dass sich die Erklärung des R "...und werde die 
+von Ihnen bestellten Reifen umgehend an Sie absenden" auf Reifen der Marke X be-
+zog. Gegenteiliges hätte R zum Ausdruck bringen müssen. Hinweise dafür sind jedoch 
+bei objektiver Würdigu ng aller Umstände und mit Rücksicht auf Treu und Glauben 
+nicht ersichtlich. 
+_________________________________________________ 
+99 Vgl. BGH NJW 1984, 721. 
+--- Seite 42 ---
+ 
+Lösungen zu den Selbsttestaufgaben 42 
+Die Erklärung des R ist daher bei objektiver Würdigung aller Umstände und mit Rück-
+sicht auf Treu und Glauben aus der Sicht de r T als Annahmeerklärung zu verstehen. 
+Es ist somit ein  wirksamer Kaufvertrag über 100 Stahlgürtelreifen der Marke X zu-
+stande gekommen.  
+Lösung zu Aufgabe 2:  
+Ein Anspruch der V gegen K auf Zahlung des derzeit gültigen Kaufpreises in Höhe von € 34.150, –– könnte sich aus § 433 Abs.  2 BGB ergeben. Dann müsste zwischen den 
+Parteien ein wirksamer Kaufvertrag zustande gekommen sein. Durch die Bestätigung 
+des Auftrages hat V die Bestellung (Angebot) des K angenommen. Fraglich ist aber, ob eine wirksame Kaufpreisabrede getroffen worden ist.  
+Die vereinbarte Kaufpreisabrede, eine sog. Tagespreisklausel , könnte gegen § 307 
+BGB verstoßen. Formularmäßige Preisänderungsvorbehalte als Allgemeine Geschäfts-
+bedingungen gem. §§ 305 ff. BGB sind dann nicht mehr angemessen und mit § 307 
+BGB unvereinbar, wenn sie es dem Verwender ermöglichen, über die Abwälzung der 
+Kostensteigerungen hinaus den vereinbarten Kaufpreis ohne jede Begrenzung einsei-
+tig anzuheben. Zwar hat der Kraftfahrzeughandel angesichts der langen Lieferfristen 
+ein berechtigtes Interesse daran, zwischenzeitliche Kostensteigerungen auf den Käu-fer abzuwälzen. Andererseits ermöglicht der allgemein gehaltene Wortlaut der Klau-
+sel jede beliebige Preiserhöhung, auch soweit sie durch einen zwischenzeitlichen Kos-
+tenanstieg nicht gedeckt ist. So wäre es der  Verkäuferin unbenommen, neben der 
+Kostensteigerung einen höheren Gewinn in den Preis einzubeziehen. Die Berechti-
+gung der Verkäuferin, aufgrund der uneingeschränkten Fassung der Tagespreisklau-
+sel den vereinbarten Kaufpreis ohne jede Begrenzung und Nachvoll ziehbarkeit für den 
+Käufer einseitig anheben zu können, ist mit dem Äquivalenzprinzip – als der Vor-
+stellung beider Parteien von der Gleichwertigkeit der von ihnen zu erbringenden Leis-tungen – nicht vereinbar. Die Klausel stellt somit eine den Geboten von Treu und 
+Glauben widersprechende unangemessene Benachteiligung des Vertragspartners 
+des Verwenders dar und ist deswegen nach § 307 Abs. 1 S. 1 BGB unwirksam .
+100 
+Gemäß §  306 Abs.  1 BGB führt die Unwirksamkeit dieser Klausel aber nicht zur Un-
+wirksamkeit des ges amten Kaufvertrages. Vielmehr richtet sich der Inhalt der Preisver-
+einbarung gemäß § 306 Abs.  2 BGB nach den gesetzlichen Vorschriften. Dispo-
+sitive gesetzliche Bestimmungen, die die Tagespreisklausel ersetzen könnten, 
+kommen nicht in Betracht. Die entstandene Regelungslücke könnte jedoch im Wege 
+ergänzender Vertragsauslegung gemäß §§ 133, 157  geschlossen werden , sofern 
+die §§ 133, 157 BGB als "gesetzliche Vorschriften" gem. § 306 Abs.  2 BGB eingestuft 
+werden können . Als Grundlage ergänzender Vertragsauslegung sind die Bestimmun-
+gen der §§ 133, 157 "gesetzliche Vorschriften" im Sinne des §  306 Abs. 2 (str., 
+vgl.§ 9 IV), so dass eine Regelung der Preisgestaltung im Wege ergänzender Vertrags-
+auslegung erfolgen kann. Es fragt sich daher, welche Preisabrede die Parteien bei sachgerechter Abwägung ihrer beiderseitigen Interessen nach Treu und Glauben red-licherweise vereinbar t hätten, wenn ihnen die Unwirksamkeit der Tagespreisklausel 
+bewusst gewesen wäre. Dass als Preisvereinbarung nicht der Listenpreis im Zeitpunkt des Vertragsabschlusses angesehen werden kann, ergibt sich bereits aus dem über-einstimmenden Parteiwillen: Beide Parteien waren sich bewusst, dass der Preis bei 
+_________________________________________________ 
+100 Vgl. BGHZ 82, 21, 24  ff. zu §  9 AGBG a.F.  
+ 
+--- Seite 43 ---
+ 
+Lösungen zu den Selbsttestaufgaben 43 
+Auslieferung des Fahrzeugs von demjenigen  bei der Bestellung wahrscheinlich abwei-
+chen würde , und hatten in ihren Willen aufgenommen, dass der Käufer und nicht die 
+Verkäuferin Preissteigerungen zu tragen hab en werde, die etwa auf Erhöhungen der 
+Lohn– und Materialkosten oder auf technische Verbesserungen des ausgelieferten 
+Modells zurückgehen. Deswegen erscheint es angemessen, wenn der Käufer grund-
+sätzlich den bei Auslieferung des Fahrzeugs gültigen Listenpreis zu zahlen hat. Ande-
+rerseits muss  dem Käufer ein Recht zum Rücktritt eingeräumt werden, wenn die Preis-
+erhöhung für das Fahrzeug den Anstieg der allgemeinen Lebenshaltungskosten in der 
+Zeit zwischen Bestellung und Auslieferung nicht unerheblich übersteigt .101 Eine solche 
+Regelung berücksichtigt gleichermaßen die Interessen beider Vertragspartner. Sie stellt in Ausrichtung auf den hypothetischen Parteiwillen und den Maßstab von Treu und Glauben eine lückenausfüllende angemessene Ersatzregelung dar. Da diese – im 
+Wege der ergänzenden Vertragsauslegung nach §§  133, 157 BGB gewonnene  – Re-
+gelung gemäß § 306 Abs.  2 BGB an die Stelle der unwirksamen Tagespreis-
+klausel  tritt, hat V nach §  433 Abs.  2 BGB gegen K einen Anspruch auf Zahlung des 
+gültigen Listenpreises von € 34.150, ––. Die Voraussetzungen der Ausübung des Rück-
+trittsrechts sind vorliegend nicht erfüllt.  
+ 
+ 
+Wichtige Entscheidungen:  
+ BGH VI ZR 114/65
+ 
+ BGHZ 93, 358, 370 f. 
+       BGH VIII ZR 289/19  
+ 
+  
+_________________________________________________ 
+101 Vgl. BGH NJW 1984, 1177, 1179 . 
+--- Seite 44 ---
+Diese Seite bleibt aus technischen Gründen frei!  
+--- Seite 45 ---
+
+--- Seite 46 ---
+Alle Rechte vorbehalten
+© 2025 FernUniversität in Hagen
+Rechtswissenschaftliche Fakultät *2001624*2001624
+(04/25)
+55101­04­S#1
